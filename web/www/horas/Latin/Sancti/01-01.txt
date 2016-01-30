@@ -27,8 +27,7 @@ v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut abn
 $Deo gratias
 
 [Versum 1]
-V. Verbum caro factum est, alleluia.
-R. Et habitavit in nobis, alleluia.
+@Tempora/Nat1-0:Versum 1
 
 [Ant 1]
 Propter nimiam * caritatem suam, qua dilexit nos Deus, Filium suum misit in similitudinem carnis peccati, alleluia.
@@ -142,10 +141,7 @@ Homilia sancti Ambrosii Episcopi.
 Circumciditur itaque puer. Quis est iste puer, nisi ille, de quo dictum est: Puer natus est nobis, filius datus est nobis? Factus est enim sub lege, ut eos, qui sub lege essent, lucrifaceret. Ut sisterent eum Domino. Quid sit autem in Jerusalem sisti Domino, dicerem, nisi in Isaiae commentis ante dixissem. Circumcisus enim vitiis, Dominico dignus judicatur obtutu: quia oculi Domini super justos. Vides omnem legis veteris seriem fuisse typum futuri: nam et circumcisio purgationem significat delictorum.
 
 [Responsory7]
-R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem caeli capere non poterant, tuo gremio contulisti.
-V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem caeli capere non poterant, tuo gremio contulisti.
+@Tempora/Nat1-0:Responsory5
 
 [Lectio8]
 Sed quoniam prona quadam cupiditate peccandi, humanae carnis et mentis fragilitas inextricabilibus vitiis implicatur, eo per octavum circumcisionis diem culpae totius futura purgatio, resurrectionis praefigurabatur aetate. Hoc est enim illud: Quia omne masculinum adaperiens vulvam, sanctum Domino vocabitur. Verbis enim legis promittebatur Virginis partus. Et vere sanctus, quia immaculatus. Denique ipsum esse, qui lege signetur, in eumdem modum ab Angelo repetita verba declarant: Quod nascetur, inquit, Sanctum, vocabitur Filius Dei.
@@ -170,40 +166,19 @@ Germinavit radix Jesse, * orta est stella ex Jacob: Virgo peperit Salvatorem: te
 Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.
 
 [Capitulum Laudes]
-!Titus 2:11-12
-v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus in hoc saeculo.
-$Deo gratias
+@:Capitulum Vespera
 
 [Versum 2]
-V. Verbum caro factum est, alleluia.
-R. Et habitavit in nobis, alleluia.
+@:Versum 1
 
 [Ant 2]
 Mirabile mysterium * declaratur hodie: innovantur naturae, Deus homo factus est: id quod fuit permansit, et quod non erat assumpsit; non commixtionem passus, neque divisionem.
 
-[Lectio Prima]
-!Heb 1:11-12
-v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent: et velut amictum mutabis eos, et mutabuntur; tu autem idem ipse es, et anni tui non deficient.
-
 [Capitulum Tertia]
-!Titus 2:11-12
-v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus in hoc saeculo.
-$Deo gratias
-
-[Capitulum Sexta]
-!Heb 1:10
-v. Et: Tu in principio, Domine, terram fundasti: et opera manuum tuarum sunt caeli.
-$Deo gratias
-
-[Capitulum Nona]
-!Heb 1:11-12
-v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent: et velut amictum mutabis eos, et mutabuntur; tu autem idem ipse es, et anni tui non deficient.
-$Deo gratias
+@:Capitulum Vespera
 
 [Ant 3]
 Magnum hereditatis * mysterium: templum Dei factus est uterus nescientis virum: non est pollutus ex ea carnem assumens: omnes gentes venient, dicentes: Gloria tibi, Domine.
 
 [Capitulum Vespera 3]
-!Titus 2:11-12
-v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus in hoc saeculo.
-$Deo gratias
+@:Capitulum Vespera

@@ -1,0 +1,349 @@
+[Rank]
+Epiphanie des Herrn;;Duplex I classis;;7
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Special Matutinum Incipit
+Doxology=Epi
+9 lectiones
+Psalm5 Vespera=116
+Psalm5 Vespera3=113
+Festum Domini
+
+[Ant Vespera]
+Vor dem Morgenleuchten aus dem Schoß der Gottheit stammend * und vor allen Zeiträumen, ist der Herr, unser Heiland, heute der Welt geoffenbart worden.
+Es kommt dein Licht, * o Jerusalem, und die Herrlichkeit des Herrn geht über dir auf, und es werden die Völker einhergehen in dem dir gewährten Licht, alleluja.
+Nach Öffnung ihrer Behälter * überreichten die Weisen dem Herrn Gold, Weihrauch und Myrrhe, alleluja.
+Ihr Meere und ihr Flüsse, * lobt den Herrn: singt ein Loblied, ihr Wasserquellen, dem Herrn, alleluja.
+Dieser Stern * funkelt wie ein Feuer und zeigt uns Gott, den König der Könige; die Weisen haben ihn (den Stern) gesehen und haben dem erhabenen König Geschenke überreicht.
+
+[Capitulum Vespera]
+!Jes 60,1
+v. Auf, erstrahle in Freude, o Jerusalem. Denn es kommt dein Licht, und die Herrlichkeit des Herrn geht auf über dir.
+$Deo gratias
+
+[Hymnus Vespera]
+{:H-CrudelisHerodes:}v. Was macht, Herodes, dich so bleich?
+Was schreckt dich, Wütrich, Gottes Nah'n?
+Der raubt kein ird'sches Königreich,
+Der Himmelreiche geben kann.
+_
+Es kommen Weise, scheuen nicht,
+Zu folgen einem Wunderstern;
+Geführt vom Licht geh'n sie zum Licht;
+Mit Gaben ehren sie den Herrn.
+_
+Ins klare Wasser steigt das Lamm,
+Das kam zu sühnen unsre Schuld,
+Nicht seine Sünd'; was unser Stamm
+Gefehlt, das wäscht es ab in Huld.
+_
+Neuartig zeigt sich seine Macht;
+Das Wasser rötet sich zu Wein,
+Und was als Wasser ward gebracht,
+Erscheint in einem neuen Sein.
+_
+Mach', Jesus, dass das All dich preist,
+Der du der Welt zeigst, wer du bist,
+Den Vater und den Heil'gen Geist,
+Der gleich euch beiden ewig ist.
+Amen.
+
+[Versum 1]
+V. Die Könige bis von Tharsis und den fernsten Ländern sollen Gaben bringen.
+R. Die Könige bis von Arabien und Saba ihm Geschenke weihen.
+
+[Ant 1]
+Als die Weisen gesehen hatten * den Stern, sagten sie zueinander: Das ist das Zeichen eines großen Königs: wir wollen gehen und nach ihm forschen und wir wollen ihm Geschenke überreichen, Gold, Weihrauch und Myrrhen, alleluja.
+
+[Oratio]
+O Gott, der du am heutigen Tage deinen eingeborenen Sohn den Heidenvölkern unter Führung eines Sternes kundgetan hast, verleihe uns gütigst die Gnade, dass wir, die wir dich schon auf Grund unseres Glaubens kennen, zur Anschauung deiner alles überragenden Majestät gelangen.
+$Per eumdem
+
+[Hymnus Matutinum]
+@Sancti/01-06:Hymnus Vespera
+
+[Invit]
+Christus ist uns erschienen, * Kommt, wir wollen ihn anbeten.
+
+[Ant Matutinum]
+Bringt herbei für den Herrn * nun Ehre, ihr Edlen des Volkes, betet den Herrn an in seiner heiligen Halle.;;28
+Des Wassers Andrang * erfüllt mit Freude, alleluja, die Gottesstadt, alleluja.;;45
+Lasst Lieder erschallen für unseren Gott, * o lasst sie erschallen, lasst Lieder erschallen für unseren König, lasst sie erschallen recht kunstvoll.;;46
+V. Die ganze Welt mag dich anbeten und dir Lieder singen.
+R. Sie mag deiner Majestät, o Herr, Lieder singen.
+Die ganze Welt mag dich anbeten * und dir Lieder singen: Sie mag deinem Namen, o Herr, Lieder singen.;;65
+Die Könige bis von Tharsis * und die fernsten Länder mögen Weihegeschenke überreichen dem Herrn und König.;;71
+Alle Völker, * die du geschaffen hast, kommen und wollen vor dir, o Herr, Anbetung halten.;;85
+V. Die Könige bis von Tharsis und den fernsten Ländern sollen Gaben bringen.
+R. Die Könige bis von Arabien und Saba ihm Geschenke weihen.
+Viele Menschen sind Kinder geworden * in ihr, und der Allerhöchste selbst hat sie begründet.;;86
+(Sed die Epiphaniæ dicitur)
+Kommt, wir wollen ihn anbeten, denn er ist der Herr, unser Gott.;;94
+Betet an den Herrn, * alleluja: in seiner heil'gen Halle, alleluja.;;95
+Betet Gott an, * alleluja: ihr alle seine Engel, alleluja.;;96
+V. Betet an den Herrn, alleluja.
+R. In seiner heiligen Halle, alleluja.
+
+[Lectio1]
+De Isaia Prophéta.
+!Isa 55:1-4
+1 Omnes sitiéntes, veníte ad aquas, et qui non habétis argéntum, properáte, émite, et comédite: veníte, émite absque argénto et absque ulla commutatióne vinum et lac.
+2 Quare appénditis argéntum non in pánibus, et labórem vestrum non in saturitáte? Audíte, audiéntes me, et comédite bonum, et delectábitur in crassitúdine ánima vestra.
+3 Inclináte aurem vestram, et veníte ad me; audíte, et vivet ánima vestra, et fériam vobíscum pactum sempitérnum, misericórdias David fidéles.
+4 Ecce testem pópulis dedi eum, ducem ac præceptórem géntibus.
+
+[Responsory1] 
+R. Heute hat sich, als der Herr im Jordan getauft war, der Himmel geöffnet, und wie eine Taube ließ sich auf ihn etwas Wunderbares nieder, und es ertönte die Stimme des Vaters:
+* Dies ist mein Sohn, mein Liebling, an dem ich mein ganzes Gefallen finde.
+V. Es kam der Heilige Geist in sichtbarer Gestalt wie eine Taube auf ihn hernieder, und eine Stimme wurde hörbar vom Himmel:
+R. Dies ist mein Sohn, mein Liebling, an dem ich mein ganzes Gefallen finde.
+
+[Responsory1InfraOctavam]
+R. Drei wertvolle Geschenke sind es, die die Weisen dem Herrn am heutigen Tage überreicht haben, und sie enthalten in sich eine dreifache tiefe Bedeutung:
+* Im Gold soll die Königsmacht gezeigt werden, im Weihrauch sollen wir den Hohenpriester anerkennen, und in der Myrrhe das Begräbnis des Herrn.
+V. Dem Urheber unseres Heiles haben die Weisen in der Wiege Ehrfurcht bezeugt und ihm aus ihren Behältern geheimnisvolle Arten von Gaben überreicht.
+R. Im Gold soll die Königsmacht gezeigt werden, im Weihrauch sollen wir den Hohenpriester anerkennen, und in der Myrrhe das Begräbnis des Herrn.
+
+[Lectio2]
+!Isa 60:1-6
+1 Surge, illumináre, Jerúsalem, quia venit lumen tuum, et glória Dómini super te orta est.
+2 Quia ecce ténebræ opérient terram, et calígo pópulos; super te autem oriétur Dóminus, et glória ejus in te vidébitur.
+3 Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui.
+4 Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi; fílii tui de longe vénient et fíliæ tuæ de látere surgent.
+5 Tunc vidébis, et áfflues; mirábitur et dilatábitur cor tuum: quando convérsa fúerit ad te multitúdo maris; fortitúdo géntium vénerit tibi.
+6 Inundátio camelórum opériet te, dromedárii Mádian et Epha; omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
+
+[Responsory2]
+R. Unter der Gestalt einer Taube ist der Heilige Geist sichtbar geworden, und es ist die Stimme des Vaters gehört worden:
+* Dies ist mein Sohn, mein Liebling, an dem ich mein ganzes Gefallen finde.
+V. Die Himmel haben sich geöffnet über ihm, und es ertönte die Stimme des Vaters:
+R. Dies ist mein Sohn, mein Liebling, an dem ich mein ganzes Gefallen finde.
+
+[Lectio3]
+!Isa 61:10-11; 62:1
+10 Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo, quia índuit me vestiméntis salútis, et induménto justítiæ circúmdedit me, quasi sponsum decorátum coróna, et quasi sponsam ornátam monílibus suis.
+11 Sicut enim terra profert germen suum, et sicut hortus semen suum gérminat, sic Dóminus Deus germinábit justítiam et laudem coram univérsis géntibus.
+1 Propter Sion non tacébo, et propter Jerúsalem non quiéscam, donec egrediátur ut splendor justus ejus, et salvátor ejus ut lampas accendátur.
+
+[Responsory3]
+R. Die Könige bis von Tharsis und den fernsten Ländern sollen Gaben bringen:
+* Die Könige bis von Arabien und Saba ihm Geschenke weihen.
+V. Alle bis von Saba sollen sie kommen und Weihrauch und Gold überbringen.
+R. Die Könige bis von Arabien und Saba ihm Geschenke weihen.
+&Gloria
+R. Die Könige bis von Arabien und Saba ihm Geschenke weihen.
+
+[Lectio4]
+Sermo sancti Leónis Papæ.
+!Sermo 2. de Epiphania.
+Gaudéte in Dómino, dilectíssimi, íterum dico, gaudéte: quóniam brevi~
+intervállo témporis, post solemnitátem Nativitátis Christi, festívitas~
+declaratiónis ejus illúxit: et quem in illo die Virgo péperit, in hoc~
+mundus agnóvit. Verbum enim caro factum, sic susceptiónis nostræ~
+temperávit exórdia, ut natus Jesus et credéntibus maniféstus, et~
+persequéntibus esset occúltus. Jam tunc ergo cæli enarravérunt glóriam~
+Dei, et in omnem terram sonus veritátis exívit, quando et pastóribus~
+exércitus Angelórum Salvatóris éditi annuntiátor appáruit, et Magos ad~
+eum adorándum prǽvia stella perdúxit: ut a solis ortu usque ad occásum~
+veri Regis generátio coruscáret, cum rerum fidem et regna Oriéntis per~
+Magos díscerent, et Románum impérium non láteret.
+
+[Responsory4]
+R. Illumináre, illumináre Jerúsalem, quia venit lux tua:
+* Et glória Dómini super te orta est.
+V. Et ambulábunt Gentes in lúmine tuo, et reges in splendóre ortus tui.
+R. Et glória Dómini super te orta est.
+
+[Lectio5]
+Nam et sævítia Heródis volens primórdia suspécti sibi Regis~
+exstínguere, huic dispensatíoni nésciens serviébat: ut dum atróci~
+inténtus facínori, ignótum sibi púerum indiscréta infántium cæde~
+perséquitur, annuntiátum cǽlitus dominatóris ortum insígnior ubíque~
+fama loquerétur: quam promptiórem ad narrándum, diligentiorémque~
+faciébat et supérnæ significatiónis nóvitas, et cruentíssimi~
+persecutóris impíetas. Tunc autem étiam Ægýpto Salvátor illátus est,~
+ut gens antíquis erróribus dédita, jam ad vicínam salútem per occúltam~
+grátiam signarétur: et quæ nondum ejécerat ab ánimo superstitiónem,~
+jam hospítio recíperet veritátem.
+
+[Responsory5]
+R. Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes,
+* Allelúja, allelúja, allelúja.
+V. Reges Tharsis et ínsulæ múnera ófferent, reges Arabum et Saba dona addúcent.
+R. Allelúja, allelúja, allelúja.
+
+[Lectio6]
+Agnoscámus ergo, dilectíssimi, in Magis adoratóribus Christi,~
+vocatiónis nostræ fideíque primítias: et exsultántibus ánimis beátæ~
+spei inítia celebrémus. Exínde enim in ætérnam hereditátem cœpimus~
+introíre: exínde nobis Christum loquéntia Scripturárum arcána~
+patuérunt, et véritas, quam Judæórum obcæcátio non récipit, ómnibus~
+natiónibus lumen suum invéxit. Honorétur ítaque a nobis sacratíssimus~
+dies, in quo salútis nostræ Auctor appáruit: et quem Magi infántem~
+veneráti sunt in cunábulis, nos omnipoténtem adorémus in cælis. Ac~
+sicut illi de thesáuris suis mýsticas Dómino múnerum spécies~
+obtulérunt, ita et nos de córdibus nostris, quæ Deo sunt digna,~
+promámus.
+
+[Responsory6]
+R. Magi véniunt ab Oriénte Jerosólymam, quæréntes, et dicéntes: Ubi est qui natus est, cujus stellam vídimus?
+* Et vénimus adoráre Dóminum.
+V. Vídimus stellam ejus in Oriénte.
+R. Et vénimus adoráre Dóminum.
+&Gloria
+R. Et vénimus adoráre Dóminum.
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Matthǽum.
+!Matt 2:1-12
+Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce~
+Magi ab Oriénte venérunt Jerosólymam, dicéntes: Ubi est qui natus est~
+Rex Judæórum? Et réliqua.
+_
+Homilía sancti Gregórii Papæ.
+!Homilia 10. in Evang.
+Sicut in lectióne evangélica, fratres caríssimi, audístis, cæli Rege~
+nato, rex terræ turbátus est: quia nimírum terréna altitúdo~
+confúnditur, cum celsitúdo cæléstis aperítur. Sed quæréndum nobis~
+est, quidnam sit, quod, Redemptóre nato, pastóribus in Judǽa Angelus~
+appáruit, atque ad adorándum hunc ab Oriénte Magos non Angelus, sed~
+stella perdúxit? Quia vidélicet Judǽis, tamquam ratióne uténtibus,~
+rationále ánimal, id est, Angelus prædicáre débuit: Gentíles vero,~
+quia uti ratióne nesciébant, ad cognoscéndum Dóminum non per vocem,~
+sed per signa perducúntur. Unde étiam per Paulum dícitur: Prophetíæ~
+fidélibus datæ sunt, non infidélibus: signa autem infidélibus, non~
+fidélibus. Quia et illis prophetíæ tamquam fidélibus, non~
+infidélibus: et istis signa tamquam infidélibus, non fidélibus data~
+sunt.
+
+[Responsory7]
+R. Stella, quam víderant Magi in Oriénte, antecedébat eos, donec venírent ad locum, ubi puer erat.
+* Vidéntes autem eam, gavísi sunt gáudio magno.
+V. Et intrántes domum, invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum.
+R. Vidéntes autem eam, gavísi sunt gáudio magno.
+
+[Lectio8]
+Et notándum, quod Redemptórem nostrum, cum jam perféctæ esset ætátis,~
+eísdem Gentílibus Apóstoli prǽdicant, eúmque párvulum, et necdum per~
+humáni córporis offícium loquéntem, stella Géntibus denúntiat: quia~
+nimírum ratiónis ordo poscébat, ut et loquéntem jam Dóminum loquéntes~
+nobis prædicatóres innotéscerent, et necdum loquéntem eleménta muta~
+prædicárent. Sed in ómnibus signis, quæ vel nascénte Dómino, vel~
+moriénte eo monstráta sunt, considerándum nobis est, quanta fúerit in~
+quorúmdam Judæórum corde durítia, qui hunc nec per prophetíæ donum,~
+nec per mirácula agnovérunt.
+
+[Responsory8]
+R. Vidéntes stellam Magi, gavísi sunt gáudio magno:
+* Et intrántes domum invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum: * Et apértis thesáuris suis obtulérunt ei múnera, aurum, thus, et mýrrham.
+V. Stella, quam víderant Magi in Oriénte, antecedébat eos, usque dum véniens staret supra ubi erat puer.
+R. Et intrántes domum invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum:
+&Gloria
+R. Et apértis thesáuris suis obtulérunt ei múnera, aurum, thus, et mýrrham.
+
+[Lectio9]
+Omnia quippe eleménta auctórem suum venísse testáta sunt. Ut enim de~
+eis quiddam usu humáno loquar: Deum hunc cæli esse cognovérunt, quia~
+prótinus stellam misérunt. Mare cognóvit, quia sub plantis ejus se~
+calcábile prǽbuit. Terra cognóvit, quia eo moriénte contrémuit. Sol~
+cognóvit, quia lucis suæ rádios abscóndit. Saxa et paríetes~
+cognovérunt, quia témpore mortis ejus scissa sunt. Inférnus agnóvit,~
+quia hos, quos tenébat mórtuos, réddidit. Et tamen hunc, quem Dóminum~
+ómnia insensibília eleménta sensérunt, adhuc infidélium Judæórum~
+corda Deum esse mínime cognóscunt, et durióra saxis, scindi ad~
+pœniténdum nolunt.
+&teDeum
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Hymnus Laudes]
+{:H-Osolamagnarum:}v. O Bethlehem, du überaus
+Vor allen hochberühmte Stadt,
+Die uns den Heiland aus der Höh'
+Im ird'schen Leib beschieden hat,
+_
+Den ein mit hell'rem Glanz als selbst
+Der Sonnenball begabter Stern
+Den Erdenbürgern angezeigt
+Als den im Leib gekomm'nen Herrn.
+_
+Es bringen, als sie ihn geseh'n,
+Die Weisen ihm des Ostens Gold
+Und reichen auf den Knien ihm
+Als Gaben Weihrauch, Myrrhen, Gold.
+_
+Das Gold stellt ihn als König vor,
+Als Gott der edle Weihrauchduft;
+Und gleicher Weise deutet an
+Die Myrrhe seine Totengruft.
+_
+Mach', Jesus, dass das All dich preist,
+Der du der Welt zeigst, wer du bist,
+Den Vater und den Heil'gen Geist,
+Der gleich euch beiden ewig ist.
+Amen.
+
+[Versum 2]
+V. Betet Gott an, alleluja.
+R. Ihr alle seine Engel, alleluja.
+
+[Ant 2]
+Heute * ist dem himmlischen Bräutigam die Kirche angetraut worden, weil im Jordan Christus ihr die Sünden abgewaschen hat; es eilen die Weisen zu der Königshochzeit; und an dem aus Wasser entstandenen Wein freuen sich die Hochzeitsgäste, alleluja.
+
+[Lectio Prima]
+!Jes 60,6
+v. Alle bis von Saba sollen sie kommen, Gold und Weihrauch bringen, und die Ruhmeswerke des Herrn verkünden.
+
+[Capitulum Tertia]
+@:Capitulum Vespera
+
+[Responsory Tertia]
+R.br. Die Könige bis von Tharsis und den fernsten Ländern sollen Gaben bringen, * Alleluja, alleluja.
+R. Die Könige bis von Tharsis und den fernsten Ländern sollen Gaben bringen, * Alleluja, alleluja.
+V. Die Könige bis von Arabien und Saba ihm Geschenke weihen.
+R. Alleluja, alleluja.
+&Gloria
+R. Die Könige bis von Tharsis und den fernsten Ländern sollen Gaben bringen, * Alleluja, alleluja.
+_
+V. Alle bis von Saba sollen sie kommen, alleluja.
+R. Gold und Weihrauch bringen, alleluja.
+
+[Capitulum Sexta]
+!Jes 60,4
+v. Erhebe deine Augen, schau dich um und sieh: alle diese, die zusammenstehen, sind zu dir gekommen, als deine Söhne kommen sie von ferne und als deine Töchter treten sie auf zu allen Seiten.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Alle bis von Saba sollen sie kommen, * Alleluja, alleluja.
+R. Alle bis von Saba sollen sie kommen, * Alleluja, alleluja.
+V. Gold und Weihrauch bringen.
+R. Alleluja, alleluja.
+&Gloria
+R. Alle bis von Saba sollen sie kommen, * Alleluja, alleluja.
+_
+V. Betet den Herrn an, alleluja.
+R. In seiner heiligen Halle, alleluja.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Responsory Nona]
+R.br. Betet den Herrn an, * Alleluja, alleluja.
+R. Betet den Herrn an, * Alleluja, alleluja.
+V. In seiner heiligen Halle.
+R. Alleluja, alleluja.
+&Gloria
+R. Betet den Herrn an, * Alleluja, alleluja.
+_
+V. Betet Gott an, alleluja.
+R. Ihr alle seine Engel, alleluja.
+
+[Ant 3]
+Einen durch drei staunenswerte Tatsachen * ausgestatteten heiligen Tag begehen wir: heute hat der Stern die Weisen zur Krippe geführt; heute ist Wein aus Wasser entstanden bei einer Hochzeit; heute wollte Christus im Jordan von Johannes getauft werden, um uns zu heilen, alleluja.
