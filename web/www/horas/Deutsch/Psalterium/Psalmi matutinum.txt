@@ -28,7 +28,7 @@ V. Ich will dich preisen, Herr, dass es die Völker hören.
 R. Und deiner Majestät ein Danklied singen.
 Mag erhören dich * der Herr, wenn die Gefahren kommen.;;19
 O Herr, * wie jubelt ob deiner so mächtigen Hilfe der König.;;20
-Ich muss dich preisen, * Herr, der du dich meiner angenommen.;;29
+Ich muss dich preisen, * Herr, da du dich meiner angenommen.;;29
 V. O singt dem Herrn, ihr seine Schutzbefohlenen.
 R. Preist ihn, behaltet seine heil'ge Majestät euch im Gedächtnis.
 
@@ -85,7 +85,7 @@ R. Wer so es macht, den lass ich sehen, wie gut ich bin.
 
 [Day4]
 In Gott ist meine Siegeskraft * und meine Größe, und in Gott ist meine Hoffnung.;;61
-O schauet die Taten des Herrn, * laut lasset ertöten sein Loblied.;;65(1-12)
+O schauet die Taten des Herrn, * laut lasset ertönen sein Loblied.;;65(1-12)
 Höret, ihr sämtlichen Gottesverehrer, * was Gott mir getan hat.;;65(13-20)
 V. Gott hat nicht von sich gewiesen mein Bitten.
 R. Und hat mir nicht versagt sein Erbarmen.
@@ -232,8 +232,8 @@ V. Laß nicht bei Frevlern mich, o Gott, zugrunde gehen.
 R. Und nicht durch Blutvergießen endigen mein Leben.
 
 [Pasc 0 Versum]
-V. Surrexit Dóminus de sepúlcro. Allelúia.
-R. Qui pro nobis pependit in ligno. Allelúia.
+V. Der Herr ist auferstanden aus dem Grabe, alleluja.
+R. Der für uns am Holzpfahl gehangen, alleluja.
 
 [Quad 1 Versum]
 V. O rett' mich aus den Schlingen derer, die mich fangen wollen.
@@ -244,8 +244,7 @@ V. Errette vor dem Speere mir, o Gott, mein Leben.
 R. Aus der Gewalt des einem Hunde gleichen Feindes mein so teures Leben.
 
 [Pasc 1 Versum]
-V. Surrexit Dóminus de sepúlcro. Allelúia.
-R. Qui pro nobis pependit in ligno. Allelúia.
+@:Pasc 0 Versum
 
 [Quad 2 Versum]
 V. O mache über mir ein Dach mit deinen Schwingen.
@@ -256,8 +255,8 @@ V. Vor des Löwen Rachen sei mir, Herr, Befreier.
 R. Vor den Feinden, die den Einhornbüffeln gleichen, Retter mir in meinem Elend.
 
 [Pasc 2 Versum]
-V. Surrexit Dóminus vere. Allelúia.
-R. Et appáruit Simóni. Allelúia.
+V. Der Herr ist wahrhaftig auferstanden, alleluja.
+R. Und hat sich dem Simon gezeigt, alleluja.
 
 [Quad 3 Versum]
 V. Wie mit einem Schild mag seine Güte dich umgeben.
@@ -268,8 +267,8 @@ V. Lass nicht bei Frevlern mich, o Gott, zugrunde gehen.
 R. Und nicht durch Blutvergießen endigen mein Leben.
 
 [Pasc 3 Versum]
-V. Gavisi sunt discipuli. Allelúia.
-R. Viso Dómino. Allelúia.
+V. Die Jünger waren voll Freude, alleluja.
+R. Als sie den Herrn sahen, alleluja.
 
 [Quad 4 Versum]
 V. O rett' mich aus den Schlingen derer, die mich fangen wollen.
@@ -280,8 +279,7 @@ V. Errette vor dem Speere mir, o Gott, mein Leben.
 R. Aus der Gewalt des einem Hunde gleichen Feindes mein so teures Leben.
 
 [Pasc 4 Versum]
-V. Surrexit Dóminus de sepúlcro. Allelúia.
-R. Qui pro nobis pependit in ligno. Allelúia.
+@:Pasc 0 Versum
 
 [Quad 5 Versum]
 V. O mache über mir ein Dach mit deinen Schwingen.
@@ -292,8 +290,7 @@ V. Vor des Löwen Rachen sei mir, Herr, Befreier.
 R. Vor den Feinden, die den Einhornbüffeln gleichen, Retter mir in meinem Elend.
 
 [Pasc 5 Versum]
-V. Surrexit Dóminus vere. Allelúia.
-R. Et appáruit Simóni. Allelúia.
+@:Pasc 2 Versum
 
 [Quad 6 Versum]
 V. Wie mit einem Schild mag seine Güte dich umgeben.
@@ -304,25 +301,24 @@ V. Laß nicht bei Frevlern mich, o Gott, zugrunde gehen.
 R. Und nicht durch Blutvergießen endigen mein Leben.
 
 [Pasc 6 Versum]
-V. Gavisi sunt discipuli. Allelúia.
-R. Viso Dómino. Allelúia.
+@:Pasc 3 Versum
 
 [Pasc Ant Dominica]
-Allelúia, * lapis revolutus est, allelúia: ab ostio monumenti, allelúia, allelúia.
+Alleluja, * der Stein ist weggewälzt, alleluja, von dem Eingang zum Grabe, alleluja, alleluja.
 ;;
 ;;
-V. Surrexit Dóminus de sepúlcro, allelúia.
-R. Qui pro nobis pependit in ligno, allelúia.
-Allelúia, * quem quæris múlier? allelúia: viventem cum mórtuis? allelúia, allelúia.
+V. Der Herr ist auferstanden aus dem Grabe, alleluja.
+R. Der für uns am Holzpfahl gehangen, alleluja.
+Alleluja, * wen suchst du, Frau? Einen Lebenden bei den Toten? Alleluja, alleluja.
 ;;
 ;;
-V. Surrexit Dóminus vere, allelúia.
-R. Et appáruit Simóni, allelúia.
-Allelúia, * noli flere, María, allelúia: resurréxit Dóminus, allelúia, allelúia.
+V. Der Herr ist wahrhaftig auferstanden, alleluja.
+R. Und hat sich dem Simon gezeigt, alleluja.
+Alleluja, * weine nicht, Maria, alleluja: auferstanden ist der Herr, alleluja, alleluja.
 ;;
 ;;
-V. Gavisi sunt discipuli, allelúia.
-R. Viso Dómino, allelúia.
+V. Die Jünger waren voll Freude, alleluja.
+R. Als sie den Herrn sahen, alleluja.
 
 [Pasc Ant Feria]
 Alleluja, * Alleluja, Alleluja.
@@ -410,14 +406,13 @@ R. Inclína aurem tuam ad precem meam.
 
 [Daya6]
 Quia mirabília * fecit Dóminus;;97;98
-Bonum est * confitéri Dómino;;91;100
+Jubilate * Deo omnis terra.;;99;100
 Clamor meus * ad te véniat Deus;;101;102
 Bénedic * ánima mea Dómino;;103;104
 Vísita nos * Dómine in salutári tuo;;105;106
 Confitébor Dómino * nimis in ore meo;;107;108
 V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
-Jubilate * Deo omnis terra.;;99;100
 
 [Adv0]
 Véniet ecce Rex, * excélsus cum potestáte magna, ad salvandas gentes. Allelúia.;;

@@ -1,0 +1,59 @@
+[Rank]
+In Dedicatione Basilicae Ss. Salvatoris;;Duplex 2nd class;;5.5;;ex C8
+
+[RankTrident]
+In Dedicatione Basilicae Ss. Salvatoris;;Duplex majus;;4;;ex C8
+
+[Rule]
+ex C8;
+Gloria
+Credo
+
+[Comment]
+# 09 XI – Rocznica Konsekracji Bazyliki Najświętszego Zbawiciela na Lateranie
+! 2 klasy
+! Szaty białe
+Gdy po trzech wiekach prześladowania Kościół odzyskał wolność, cesarz Konstantyn Wielki ofiarował Kościołowi starożytny pałac Lateranów i wzniósł przy nim bazylikę ku czci Zbawiciela, którą papież, św. Sylwester, uroczyście konsekrował 9 listopada 324 roku. Ponieważ przy Bazylice tej wzniesiono baptysterium poświęcone św. Janowi Chrzcicielowi, stał się on drugim patronem bazyliki. Przy bazylice lateraneńskiej koncentrowało się życie Kościoła przez tysiąc lat. Odbyło się tam wiele synodów rzymskich i pięć soborów powszechnych. Chociaż papieże przenieśli się do Watykanu, bazylika na Lateranie pozostaje katedrą Rzymu, matką i głową wszystkich kościołów świata.
+
+[Introitus]
+@Commune/C8:Introitus
+
+[Oratio]
+Boże, który co roku pozwalasz nam obchodzić dzień konsekracji Twojej świątyni i uczestniczyć w świętych obrzędach, wysłuchaj próśb swojego ludu i daj wszystkim modlącym się w tym kościele radość z otrzymania Twoich darów. 
+$Per Dominum
+
+[Commemoratio Oratio]
+!Wspomnienie św. Teodora Męczennika
+Boże, który przez wzgląd na chwalebną śmierć świętego Twego Męczennika Teodora otaczasz nas Swoją opieką, spraw, abyśmy czynili postępy naśladując go i doznawali wsparcia przez jego modlitwę.
+$Per Dominum
+
+[Lectio]
+@Commune/C8:Lectio
+
+[Graduale]
+@Commune/C8:Graduale
+
+[Evangelium]
+@Commune/C8:Evangelium
+
+[Offertorium]
+@Commune/C8:Offertorium
+
+[Secreta]
+@Commune/C8:Secreta
+
+[Commemoratio Secreta]
+!Wspomnienie św. Teodora Męczennika
+Prosimy Cię, Panie, przyjmij modlitwy wiernych i ofiary przez nich złożone, a nabożne sprawowanie służby Twojej niech za wstawiennictwem Twego Męczennika, świętego Teodora, doprowadzi nas do chwały wiecznej.
+$Per Dominum
+
+[Communio]
+@Commune/C8:Communio
+
+[Postcommunio]
+@Commune/C8:Postcommunio
+
+[Commemoratio Postcommunio]
+!Wspomnienie św. Teodora Męczennika
+Prosimy Cię, Panie, za wstawiennictwem świętego Teodora, Twego Męczennika, daj nam przyjąć czystą duszą to, co spożyliśmy ustami.
+$Per Dominum

@@ -1,0 +1,100 @@
+[Name]
+Officium parvum Beatae Mariae Virginis
+
+[Rank]
+Officium parvum Beatae Mariae Virginis tempore Adventi;;Simplex;;1
+
+[Rule]
+Ave only
+Doxology=Nat
+Omit Suffragium Conclusion
+Special Benedictio
+Votive nocturn
+
+[Ant Vespera]
+Posłan jest * Anioł Gabrjel do Marji Panny, poślubionej Józefowi.;;109
+Zdrowaś Mario, * łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami.;;112
+Nie bój się, Marjo: * znalazłaś łaskę u Pana, oto poczniesz i porodzisz syna.;;121
+Da Mu Pan * stolicę Dawida, Ojca Jego, i będzie królował na wieki.;;126
+Oto ja służebnica Pańska, * niechaj mi się stanie według słowa Twego.;;147
+
+[Ant 1]
+Duch Święty * zstąpi na Cię, Marjo, a moc Najwyższego zaćmi Tobie.
+
+[Oratio]
+@Commune/C12:Oratio 2
+
+[Special Completorium]
+@Commune/C12::s/^!.*/!Iz 7:14-15/m s/^v. .*/v. Oto, panna pocznie i porodzi syna, i nazowią imię jego Emanuel. Masło i miód jeść będzie, aby umiał odrzucać złe i obierać dobre./m s/^V. Módl.*/V. Anioł Pański zwiastował Pannie Maryji./m s/^R. Aby.*/R. I poczęła z Ducha Świętego./m s/^Ant. .*/Ant. Duch Święty * zstąpi na Cię, Marjo: nie bój się, będziesz nosić w swem łonie syna Bożego, alleluja./mg
+
+[Invit]
+Zdrowaś Maryjo, łaskiś pełna * Pan z Tobą.
+
+[Ant Matutinum]
+@Commune/C11::s/V\. .*/V. Rozlała się wdzięczność po wargach twoich./g s/R\. .*/R. Dlatego cię błogosławił Bóg na wieki./g s/Porodziwszy .*/Anioł Pański * zwiastował Pannie Maryji, i poczęła z Ducha Świętego.;;97/m
+
+[Lectio1]
+!Łk 1:26-28
+26 Posłan jest Aniół Gabryel od Boga do miasta Galilejskiego, któremu imię Nazareth,
+27 Do panny poślubionéj mężowi, któremu było Józeph, z domu Dawidowego: a imię panny Marya.
+28 I wszedłszy Aniół do niéj, rzekł: Bądź pozdrowiona łaski pełna, Pan z tobą, błogosławionaś ty między niewiastami.
+
+[Responsory1]
+R. Posłan jest * Aniół Gabrjel do Marji Panny, poślubionej Józefowi, głosząc jej słowo: a zlękła się Panna światła. Nie bój się, Maryo: albowiem nalazłaś łaskę u Pana:
+* Oto poczniesz i porodzisz syna, a nazwan będzie Synem Najwyższego.
+V. Da mu Pan Bóg stolicę Dawida, ojca jego, i będzie królował w domu Jakóbowym na wieki.
+R. Oto poczniesz i porodzisz syna, a nazwan będzie Synem Najwyższego.
+
+[Lectio2]
+!Łk 1:29-33
+29 Która gdy usłyszała, zatrwożyła się na mowę jego, i myśliła, jakieby to było pozdrowienie.
+30 I rzekł jéj Aniół: Nie bój się, Maryo! albowiem nalazłaś łaskę u Boga.
+31 Oto poczniesz w żywocie i porodzisz syna, a nazowiesz imię jego Jezus.
+32 Ten będzie wielki, a będzie zwan Synem Najwyższego: i da mu Pan Bóg stolicę Dawida, ojca jego,
+33 I będzie królował w domu Jakóbowym na wieki, a królestwa jego nie będzie końca.
+
+[Responsory2]
+R. Zdrowaś Maryjo: łaskiś pełna * Pan z Tobą:
+* Duch Święty zstąpi na cię, a moc Najwyższego zaćmi tobie: Przetóż i co się z ciebie narodzi święte, będzie nazwano Synem Bożym.
+V. Jakóż się to stanie, gdyż męża nie znam? A Aniół odpowiedziawszy, rzekł jéj:
+R. Duch Święty zstąpi na cię, a moc Najwyższego zaćmi tobie: Przetóż i co się z ciebie narodzi święte, będzie nazwano Synem Bożym.
+
+[Lectio3]
+!Łk 1:34-38
+34 A Marya rzekła do Anioła: Jakóż się to stanie, gdyż męża nie znam?
+35 A Aniół odpowiedziawszy, rzekł jéj: Duch Święty zstąpi na cię, a moc Najwyższego zaćmi tobie. Przetóż i co się z ciebie narodzi święte, będzie nazwano Synem Bożym.
+36 A oto Elżbieta, krewna twoja, i ona poczęła syna w starości swéj, a ten miesiąc szósty jest onéj, którą zowią niepłodną.
+37 Bo u Boga nie będzie żadne słowo niepodobne.
+38 I rzekła Marya: Oto służebnica Pańska, niechaj mi się stanie według słowa twego.
+
+[Responsory3]
+R. Przyjmij słowo, Panno Maryo, które ci od Pana przez Aniołą przekazane jest: poczniesz i porodzisz Boga i zarazem człowieka:
+* Abyś zwana była błogosławioną między niewiastami.
+V. Porodzisz bowiem syna, a straty panieństwa nie ucierpisz: staniesz się brzemienną, a będziesz matką zawsze nietkniętą.
+R. Abyś zwana była błogosławioną między niewiastami.
+&Gloria
+R. Abyś zwana była błogosławioną między niewiastami.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Capitulum Laudes]
+!Iz 11:1-2
+v. I wynidzie rószczka z korzenia Jessego, a kwiat z korzenia jego wyrośnie. I odpocznie na nim Duch Pański.
+$Deo gratias.
+
+[Versum 2]
+V. Błogosławionaś ty między niewiastami.
+R. I błogosławiony owoc żywota twojego
+
+[Special Prima]
+@Commune/C12::s/^!.*/!Iz 7:14-15/m s/^v. .*/v. Oto, panna pocznie i porodzi syna, i nazowią imię jego Emanuel. Masło i miód jeść będzie, aby umiał odrzucać złe i obierać dobre./m s/Ant. .*/Ant. Posłan jest * Anioł Gabrjel do Marji Panny, poślubionej Józefowi./mg
+
+[Special Tertia]
+@Commune/C12::s/^!.*/!Iz 11:1-2/m s/^v. .*/v. I wynidzie rószczka z korzenia Jessego, a kwiat z korzenia jego wyrośnie. I odpocznie na nim Duch Pański./m s/Ant. .*/Ant. Zdrowaś Mario, * łaski pełna, Pan z Tobą: błogosławionaś Ty między niewiastami, alleluja./mg
+
+[Special Sexta]
+@Commune/C12::s/^!.*/!Łk 1:32-33/m s/^v. .*/v. Da mu Pan Bóg stolicę Dawida, ojca jego, i będzie królował w domu Jakóbowym na wieki, a królestwa jego nie będzie końca./m s/Ant. .*/Ant. Nie bój się, Marjo: * znalazłaś łaskę u Pana, oto poczniesz i porodzisz syna, alleluja./mg
+
+[Special Nona]
+@Commune/C12::s/^!.*/!Iz 7:14-15/m s/^v. .*/v. Oto, panna pocznie i porodzi syna, i nazowią imię jego Emanuel. Masło i miód jeść będzie, aby umiał odrzucać złe i obierać dobre./m s/Ant. .*/Ant. Oto służebnica Pańska, * niechaj mi się stanie według słowa twego./mg s/V. Po .*/V. Anioł Pański zwiastował Pannie Maryi./m s/R. Boża .*/R. I poczęła z Ducha Świętego./m

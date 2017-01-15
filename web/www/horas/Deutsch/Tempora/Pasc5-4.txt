@@ -1,0 +1,344 @@
+[Rank]
+Fest der Himmelfahrt des Herrn;;Duplex I classis cum Octava Privilegiata III;;7
+
+[Rank1960]
+Fest der Himmelfahrt des Herrn;;Duplex I classis;;7
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Duplex
+9 Lectiones
+Doxology=Asc
+Psalm5 vespera=116
+No Commemoratio
+			
+[Ant Vespera]
+Ihr Männer von Galiläa, * was schaut ihr hinauf in den Himmel? Dieser Jesus, der von euch weg- und in den Himmel aufgenommen ist, wird ebenso sicher wieder kommen, alleluja.
+Als sie so hinaufschauten * auf ihn, wie er in den Himmel stieg, sagten sie (d.h. die Engel) ihnen etwas, alleluja.
+Mit erhobenen Händen * gab er ihnen den Segen und fuhr hinauf zum Himmel, alleluja.
+O preist den König der Könige, * und singt Gott ein Loblieb, alleluja.
+Vor ihren Blicken * erhob er sich und eine Wolke nahm ihn auf im Himmel, alleluja.
+
+[Capitulum Vespera]
+!Apg 1,1-2
+v. Im ersten Bericht habe ich von dem allen erzählt, o Theophilus, was Jesus zuerst getan und gelehrt hat, bis zu dem Tage, da er, nachdem er den von ihm erwählten Aposteln seinen Auftrag kraft des Heiligen Geistes mitgeteilt, von der Erde schied.
+$Deo gratias
+
+[Hymnus Vespera]
+{:H-Salutishumanaesator:}v. Des Menschenheils Begründer du,
+O Jesus, Wonne jeder Brust,
+O Welterlöser, süße Ruh
+Dem, der dich liebt, und keusche Lust.
+_
+Dich hat bezwungen welche Huld,
+Dass du trugst unsre Sündennot?
+Dass du den Tod litt'st ohne Schuld,
+Um uns zu retten vor dem Tod?
+_
+Du steigst zur Totenwelt hinab,
+Machst die Gefang'nen kettenfrei,
+Steigst heut als Sieger übers Grab
+Auf, dass dein Platz beim Vater sei.
+_
+Lass zwingen dich durch deine Huld,
+Dass du all unsre Schäden heilst,
+Und, wenn wir bleiben ohne Schuld,
+Dass du mit uns die Wonne teilst.
+_
+O Führer uns und Pfad zur Höh',
+Sei unser Ziel hienieden schon,
+Sei unsre Freude nach dem Weh,
+Sei uns des Lebens süßer Lohn.
+Amen.
+
+[Versum 1]
+V. Gott steigt empor im Jubel, alleluja.
+R. Der Herr beim feierlichen Schalle der Trompeten, alleluja.
+
+[Ant 1]
+Vater, * ich habe deinen Namen kundgetan den Menschen, die du mir gegeben: nun aber bitten ich für sie, nicht für die Welt, denn ich komme zu dir, alleluja.
+
+[Oratio]
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wir an die heute erfolgte Himmelfahrt deines Eingeborenen, unseres Erlösers glauben, auch selbst mit unseren Herzen in Himmelshöhen weilen.
+$Per eumdem
+
+[Invit]
+Alleluja, den in den Himmel aufsteigenden Christus, den Herrn, * Kommt, wir wollen ihn anbeten, alleluja.
+
+[Hymnus Matutinum]
+{:H-Aeternarex:}v. Erhab'ner, ew'ger König du,
+Heil aller, die sich dir geweiht,
+Dem der erlitt'ne Tod gebracht
+Nun den Triumph voll Herrlichkeit,
+_
+Du übersteigst den Sternenkreis,
+Weil dorthin dich schon längst geführt
+Die Macht, die nicht ein Mensch dir gab,
+Die ewig dir als Gott gebührt.
+_
+Dass das dreiteilige, durch dich
+Aus Himmel, Erde, Totenreich
+Erbaute Weltgestell vor dir
+Die Knie beug mit uns zugleich.
+_
+Die Engel schauen's bebend an,
+Wie Sterbliches verkehrt erscheint,
+Fleisch sündigt und Fleisch sühnt, als Gott
+Herrscht nun das Fleisch mit Gott vereint.
+_
+O sei doch, Jesus, unsre Freud',
+Bleib unser Lohn im Himmelszelt,
+Der du das Weltall mächtig lenkst,
+Besieg in uns den Sinn der Welt.
+_
+Nun flehen wir dich innigst an,
+Verzeih uns unsre ganze Schuld,
+Heb unser Herz zur Höh mit der
+Von oben uns gewährten Huld.
+_
+O schenk, wenn in den Wolken du
+Als Richter kommst im höchsten Glanz,
+Was wir verdient an Straf' und gib
+Zurück uns den verlor'nen Kranz.
+_
+* Mach, Jesus, dass das All dich preist,
+Der siegreich heut zum Himmel kehrt;
+Der Vater und der Heil'ge Geist
+Sei'n ewig gleich mit dir geehrt.
+Amen.
+
+[Ant Matutinum]
+Hoch ragt empor * deine Herrlichkeit und übersteigt den Himmel, o Gott, alleluja.;;8
+Der Herr ist in dem Tempel * in seinem Heiligtum, der Herr ist im Himmel, alleluja.;;10
+Von einem Himmelsende * nimmt er Anlauf, und seine Rennbahn reicht bis zu dem anderen Ende, alleluja.;;18
+V. Gott steigt empor im Jubel, alleluja.
+R. Der Herr beim feierlichen Schalle der Trompeten, alleluja.
+Steig' zur Höh', o Herr, * in deiner großen Macht: wir wollen singen und auf der Harfe spielen, alleluja.;;20
+Ich muss dich preisen, * o Herr, da du dich meiner angenommen, alleluja.;;29
+Gott steigt empor * im Jubel, der Herr beim feierlichen Schalle der Trompeten, alleluja.;;46
+V. Als Christus aufstieg zur Höhe, alleluja.
+R. Führt er mit sich gefangen die Gefangenschaft, alleluja.
+Gar sehr erhaben ist er, * alleluja: über alle Götter, alleluja.;;96
+Der Herr ist in Sion, * alleluja: groß und erhaben, alleluja.;;98
+Der Herr im Himmel, * alleluja: hat seinen Sitz bereitet, alleluja.;;102
+V. Ich steige auf zu meinem Vater und zu eurem Vater, alleluja.
+R. Zu meinem Gott und zu eurem Gott, alleluja.
+
+[Lectio1]
+Beginn des Buches der Apostelgeschichte.
+!Apg 1,1-5
+1 Im ersten Bericht habe ich von dem allen erzählt, o Theophilus, was Jesus zuerst getan und gelehrt hat, 
+2 bis zu dem Tage, da er, nachdem er den von ihm erwählten Aposteln seinen Auftrag kraft des Heiligen Geistes mitgeteilt, von der Erde schied.
+3 Ihnen gab er sich auch nach seinem Tode als lebendig kund auf Grund vieler Beweise, erschien ihnen durch vierzig Tage und redete zu ihnen vom Reiche Gottes.
+4 Und bei einem Mahle gab er ihnen den Auftrag: Geht von Jerusalem nicht weg, sondern wartet auf das, was ihr vom Vater auf Grund der Verheißung bekommen sollt, die ihr - so sagte er - durch mich erfahren habt.
+5 Denn Johannes hat die Taufe mit Wasser vorgenommen, ihr aber sollt getauft werden mit dem Heiligen Geiste, und bis dahin sind nur noch wenige Tage.
+
+[Responsory1]
+R. Nach seinem leidensvollen Tode erschien er durch vierzig Tage bei ihnen und sprach vom Reiche Gottes, alleluja:
+* Und unter ihnen Augen wurde er erhoben, alleluja, und eine Wolke nahm ihn auf, dass er ihren Augen entschwand, alleluja.
+V. Und bei einem Mahle gab er ihnen den Auftrag, sie sollten von Jerusalem nicht weggehen, sondern warten auf das vom Vater Versprochene.
+R. Und unter ihnen Augen wurde er erhoben, alleluja, und eine Wolke nahm ihn auf, dass er ihren Augen entschwand, alleluja.
+
+[Lectio2]
+!Apg 1,6-9
+6 Die Anwesenden fragten ihn nun: Herr, wirst du in dieser Zeit für das Volk Israel das Königreich wieder aufrichten?
+7 Er sagte ihnen jedoch: Es kommt euch nicht zu, die Zeiten zu kennen, die der Vater seinem eigenen Machtbereich vorbehalten hat:
+8 Aber ihr werdet die Kraft des auf euch herabkommenden Heiligen Geistes empfangen und ihr werdet meine Zeugen sein in Jerusalem und in ganz Judäa und Samaria und bis an das Ende der Erde.
+9 Und als er das gesagt hatte, wurde er vor ihren Augen emporgehoben und eine Wolke erschien unter ihm und entzog ihn ihren Blicken.
+
+[Responsory2]
+R. Die ganze Schönheit des Herrn ist erhoben über die Sterne:
+* Sein Schönheitsbild strahlt in den Wolken des Himmels, und sein Name bleibt auf ewig, alleluja.
+V. Von einem Himmelsende nimmt er Anlauf, und seine Rennbahn reicht bis zu dem andern Ende.
+R. Sein Schönheitsbild strahlt in den Wolken des Himmels, und sein Name bleibt auf ewig, alleluja.
+
+[Lectio3]
+!Apg 1,10-14
+10 Und wie sie so zum Himmel hinauf ihm auf seinem Aufstieg nachschauend dastanden, siehe, da traten zwei Männer an sie heran in weißen Kleidern, 
+11 und die sprachen: Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel hinauf? Dieser Jesus, der von euch weggegangen und in den Himmel aufgenommen ist, wird in derselben Weise wiederkommen, wie ihr ihn in den Himmel hinaufsteigen sahet.
+12 Hierauf kehrten sie zurück nach Jerusalem von einem Berge, der den Namen Ölberg hat, der nahe bei Jerusalem ist, einen Sabbatweg entfernt.
+13 Und als sie hingekommen waren, stiegen sie in den Obersaal hinauf, wo Petrus und Johannes, Jakobus und Andreas, Philippus und Thomas, Bartholomäus und Matthäus, Jakobus, der Sohn des Alphäus und Simon der Eiferer, und Judas, der Bruder des Jakobus beisammen blieben.
+14 Diese alle verharrten einmütig im Gebete samt den Frauen und Maria, der Mutter Jesu, und samt seinen Brüdern.
+
+[Responsory3]
+R. Steig' zur Höh', o Herr, alleluja,
+* In deiner großen Macht, alleluja.
+V. Hoch ragt empor * deine Herrlichkeit und übersteigt den Himmel, o Gott.
+R. In deiner großen Macht, alleluja.
+&Gloria
+R. In deiner großen Macht, alleluja.
+
+[Lectio4]
+Predigt vom heiligen Papste Leo.
+!Predigt 1 über die Himmelfahrt
+Nach der so seligen und herrlichkeitsvollen Auferstehung unseres Herrn Jesus Christus, in der den wahren, von jüdischer Gottlosigkeit abgebrochenen Gottestempel innerhalb der Dreitagesfrist die göttliche Macht wiederherstellte, ist heute, Geliebteste, der heiligen Tage Vierzigzahl vollendet, die auf Grund hochhehrer Bestimmung festgesetzt und zur Förderung unserer Belehrung verwendet worden ist, damit, während in diesem Zeitraum vom Herrn die Dauer der leiblichen Gegenwart ausgedehnt wird, der Glaube an die Auferstehung durch die nötigen Beweismittel befestigt würde. Der Tod Christi hatte nämlich gar sehr die Herzen der Jünger in Verwirrung gebracht; und da infolge der Hinrichtung am Kreuz, infolge des Aushauchens der Seele, infolge der Bestattung des leblosen Körpers die Gemüter von Traurigkeit bedrückt waren, hatte sich eine gewisse Stumpfheit des Misstrauens hineingeschlichen.
+
+[Responsory4]
+R. Es ist Zeit, dass ich zu dem zurückkehre, der mich gesandt hat, sagt der Herr; trauert nicht und lasst euer Herz nicht mutlos werden:
+* Ich bitte den Vater für euch, auf dass er euch in Schutz behalte, alleluja, alleluja.
+V. Wenn ich nicht weggehe, kommt der Beistand nicht; wenn ich aber aufgestiegen bin, will ich ihn euch senden.
+R. Ich bitte den Vater für euch, auf dass er euch in Schutz behalte, alleluja, alleluja.
+
+[Lectio5]
+Dadurch wurden die hochheiligen Apostel und alle Jünger, die einerseits wegen des Ausgangs des am Kreuz Geschehenen ängstlich, anderseits bezüglich des Glaubens an die Auferstehung unschlüssig waren, auf Grund der deutlichen Wirklichkeit derartig gefestigt, dass sie, als der Herr in Himmelshöhen aufstieg, nicht bloß von jeder Traurigkeit frei, sondern sogar mit größter Freude erfüllt waren. Und wahrhaftig gab es einen wichtigen und über alle Worte erhabenen Grund zur Freude, als unter den Blicken der geheiligten Menge über alles, was die Himmelsschöpfung Erhabenes hat, die menschliche Natur emporstieg, über die Reihen der Engel hinausschritt und über die Höhen der Erzengel hinaus erhoben wurde und durch keine Erhabenheit eine Beschränkung ihrer Erhöhung haben sollte, bevor sie zur Throngemeinschaft mit dem ewigen Vater aufgenommen, auf dem Thron an der Herrlichkeit desjenigen teilnahm, mit dessen Wesenheit sie im Sohn vereinigt war.
+
+[Responsory5]
+R. Lasst euer Herz nicht mutlos werden: ich gehe zum Vater, und wenn ich aufgestiegen und von euch weg bin, will ich euch senden, alleluja,
+* Den Geist der Wahrheit, und dann wird voll Freude sein euer Herz, alleluja.
+V. Ich will den Vater bitten, und er wird euch einen anderen Beistand geben.
+R. Den Geist der Wahrheit, und dann wird voll Freude sein euer Herz, alleluja.
+
+[Lectio6]
+Weil also der Aufstieg Christi unsere Erhebung ist und weil dorthin, wo das Herrlichkeitshaupt vorangegangen ist, auch die Hoffnung des übrigen Leibes hingelenkt wird, wollen wir, Geliebteste, in rechter Wonne aufjubeln und in kindlicher Dankbarkeit uns freuen. Heute nämlich sind wir nicht nur als Besitzer des Paradieses bestätigt worden, sondern wir sind durch Christus in die himmlischen Höhen eingedrungen; und wir haben Reicheres auf Grund der unaussprechlichen Huld Christi erlangt, als wir durch die Missgunst des Teufels verloren haben. Denn die, die der giftvolle Feind aus der Seligkeit des ersten Aufenthaltes hinausgeworfen, die hat der Gottessohn mit sich zu einem Ganzen zusammengefügt und zur Rechten des Vaters hingestellt, mit dem er lebt und regiert in Gemeinschaft mit dem Heiligen Geiste als Gott durch alle Ewigkeit. Amen.
+
+[Responsory6]
+R. Als Christus aufstieg zu der Höhe, führt' er mit sich gefangen die Gefangenschaft,
+* Gewährt' den Menschen Segen, alleluja, alleluja, alleluja.
+V. Gott steigt hinauf im Jubel, der Herr im feierlichen Schalle der Trompeten.
+R. Gewährt' den Menschen Segen, alleluja, alleluja, alleluja.
+&Gloria
+R. Gewährt' den Menschen Segen, alleluja, alleluja, alleluja.
+
+[Lectio7]
+Lesung aus dem heiligen Evangelium nach Markus
+!Mk 16,14-20
+In jener Zeit, als die elf Jünger zu Tische saßen, erschien ihnen Jesus, tadelte ihren Mangel an Glauben und ihres Herzens Schwerfälligkeit, dass sie denen nicht geglaubt, die ihn als Auferstandenen gesehen hatten. Und so weiter.
+_
+Auslegung vom heiligen Papste Gregor.
+!Hom. 29 zu den Evangelien
+Der Grund, weshalb die Jünger bezüglich der Auferstehung des Herrn so langsam zum Glauben kamen, war nicht so sehr ihre Schwäche, als, wenn ich so sagen soll, unsere künftige Stärkung. Denn die Auferstehung selbst wurde ihnen wegen ihres Zweifels durch viele Beweise handgreiflich gemacht; und wenn wir diese beim Lesen anerkennen, was ist das anders, als dass wir durch ihren Zweifel fester werden? Weniger hat mir nämlich Maria Magdalena geboten, die schneller geglaubt hat, als Thomas, der lange zweifelte. Er nämlich kam durch den Zweifel zum Berühren der Wundennarben und hat aus unserem Herzen die Wunde des Zweifels entfernt.~
+(rubrica 1570)
+@:AdInsinuandum
+
+[Responsory7]
+R. Ich werde den Vater bitten, und er wird euch einen anderen Beistand geben,
+* Auf dass dieser in Ewigkeit bei euch bleibe, den Geist der Wahrheit, alleluja.
+V. Wenn ich nicht weggehe, kommt der Beistand nicht zu euch: wenn ich aber weggehe, will ich ihn zu euch senden.
+R. Auf dass dieser in Ewigkeit bei euch bleibe, den Geist der Wahrheit, alleluja.
+
+[AdInsinuandum]
+Um euch die Wirklichkeit der Auferstehung des Herrn glaubhaft zu machen, müssen wir auf das achten, was Lukas berichtet mit den Worten: „Beim Mahle gab er ihnen den Auftrag, sie sollten von Jerusalem nicht weggehen“. Und nach wenigen Worten: „Unter ihren Augen erhob er sich und eine Wolke nahm ihn auf, so dass er ihren Blicken entschwand.“~
+
+[Lectio8]
+@:AdInsinuandum
+(rubrica 1570 omittitur)
+Achtet auf die Worte, merkt euch deren tiefen Sinn. Beim Mahle erhob er sich. Er aß, und dann stieg er auf; auf dass augenscheinlich durch den Akt des Essens die Wirklichkeit des Leibes deutlich gezeigt würde. Markus aber erwähnt, dass der Herr, bevor er in den Himmel stieg, die Jünger wegen der Unzulänglichkeit der Herzen und ihres ungläubigen Sinnes getadelt habe. Und was haben wir anders darin zu beachten, als dass der Herr zu dem Zweck damals die Jünger tadelte, als er sie leiblich verließ, damit die Worte, die er beim Scheiden sagte, im Herzen der Hörer fester eingeprägt blieben?~
+(rubrica 1570)
+@:Increpata
+
+[Increpata]
+Wir wollen nun hören, was er, nachdem er ihre Unzulänglichkeit getadelt hatte, als Mahnung sagte: „Geht in die ganze Welt und verkündet das Evangelium allen Geschöpfen.“ Sollte denn, meine Brüder, das heilige Evangelium etwa den sinnenlosen Dingen oder vernunftlosen Tieren gepredigt werden, so dass davon den Jüngern gesagt werden kann: „Predigt allen Geschöpfen“? Doch wird mit dem Ausdruck „alle Geschöpfe“ der Mensch bezeichnet.
+
+[Responsory8]
+R. Du nimmst die Wolke, Herr, zu deinem Aufstieg,
+* Der du dahinfährst auf den Fittichen der Winde, alleluja.
+V. Mit Majestät und Schönheit hast du dich umkleidet, dir angelegt das Licht wie einen Mantel.
+R. Der du dahinfährst auf den Fittichen der Winde, alleluja.
+&Gloria
+R. Der du dahinfährst auf den Fittichen der Winde, alleluja.
+
+[Lectio9]
+@:Increpata
+(rubrica 1570 omittitur)
+Von jedem Geschöpf hat doch der Mensch etwas. Er hat nämlich mit den Steinen gemeinsam das Sein, mit den Bäumen das Leben, mit den Tieren das Fühlen, mit den Engeln das Denken. Wenn also der Mensch etwas gemeinsam hat mit allen Geschöpfen, ist im gewissen Sinn alles Geschöpf der Mensch. Allen Geschöpfen wird also das Evangelium verkündet, wenn es dem Menschen allein verkündet~
+wird.
+(sed rubrica 1570 dicitur)
+wird: quia ille uidelicet docetur propter quem in terra cuncta creata sunt, et a quo omnia per quandam similitudinem aliena non sunt. Potest etiam omnis creaturæ nomine omnis natio Gentium designari. Ante etenim dictum fuerat: In viam Gentium ne abieritis: nunc autem dicitur, Prædicate omni creaturæ. Ut scilicet prius a Iudæa apostolorum repulsa prædicatio, tunc nobis in adiutorium fieret, cum hanc illa ad damnationis suæ testimonium superba repulisset. Sed cum discipulos ad prædicandum ueritas mittit, quid aliud in mundo facit, nisi granum seminis spargit? et pauca grana mittit in semine, ut multarum messium fruges recipiat ex nostra fide? neque etenim in universo mundo tanta fidelium messis exurgeret, si de manu domini superationalem terram illa electa grana prædicantium non uenissent.
+&teDeum
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Hymnus Laudes]
+@:Hymnus Vespera
+
+[Versum 2]
+V. Der Herr im Himmel, alleluja.
+R. Hat seinen Sitz bereitet, alleluja.
+
+[Ant 2]
+Ich steige auf zu meinen Vater * und zu eurem Vater, zu meinem Gott und zu eurem Gott, alleluja.
+
+[Octava 2]
+Ant. Ich steige auf zu meinen Vater * und zu eurem Vater, zu meinem Gott und zu eurem Gott, alleluja.
+_
+V. Der Herr im Himmel, alleluja.
+R. Hat seinen Sitz bereitet, alleluja.
+_
+v. Lasset uns beten. 
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wir an die heute erfolgte Himmelfahrt deines Eingeborenen, unseres Erlösers glauben, auch selbst mit unseren Herzen in Himmelshöhen weilen.
+$Per eumdem
+
+[Lectio Prima]
+!Apg 1,11
+v. Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel hinauf? Dieser Jesus, der von euch weggegangen und in den Himmel aufgenommen ist, wird in derselben Weise wiederkommen, wie ihr ihn in den Himmel hinaufsteigen sahet.
+
+[Capitulum Tertia]
+@:Capitulum Vespera
+
+[Responsory Tertia]
+R.br. Ascendit Deus in jubilatione, * Alleluia, alleluia.
+R. Ascendit Deus in jubilatione, * Alleluia, alleluia.
+V. Et Dominus in voce tubae.
+R. Alleluia, alleluia.
+&Gloria
+R. Ascendit Deus in jubilatione, * Alleluia, alleluia.
+_
+V. Ascendens Christus in altum, alleluia.
+R. Captivam duxit captivitatem, alleluia.
+
+[Capitulum Sexta]
+!Apg 1,4-5
+v. Und bei einem Mahle gab er ihnen den Auftrag: Geht von Jerusalem nicht weg, sondern wartet auf das, was ihr vom Vater auf Grund der Verheißung bekommen sollt, die ihr - so sagte er - durch mich erfahren habt. Denn Johannes hat die Taufe mit Wasser vorgenommen, ihr aber sollt getauft werden mit dem Heiligen Geiste, und bis dahin sind nur noch wenige Tage.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Ascendens Christus in altum, * Alleluia, alleluia.
+R. Ascendens Christus in altum, * Alleluia, alleluia.
+V. Captivam duxit captivitatem.
+R. Alleluia, alleluia.
+&Gloria
+R. Ascendens Christus in altum, * Alleluia, alleluia.
+_
+V. Ascendo ad Patrem meum, et Patrem vestrum, alleluia.
+R. Deum meum, et Deum vestrum, alleluia.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Responsory Nona]
+R.br. Ascendo ad Patrem meum, et Patrem vestrum, * Alleluia, alleluia.
+R. Ascendo ad Patrem meum, et Patrem vestrum, * Alleluia, alleluia.
+V. Deum meum, et Deum vestrum.
+R. Alleluia, alleluia.
+&Gloria
+R. Ascendo ad Patrem meum, et Patrem vestrum, * Alleluia, alleluia.
+_
+V. Der Herr im Himmel, alleluja.
+R. Hat seinen Sitz bereitet, alleluja.
+
+[Versum 3]
+@:Versum 1
+(sed rubrica Tridentina)
+@:Versum 2
+
+[Ant 3]
+O du König voll Herrlichkeit, * o Herr aller Mächte, der du als Triumphator heute über alle Himmelsräume aufgestiegen bist, lass uns nicht als Waisen zurück, sondern sende uns den vom Vater Versprochenen, den Geist der Wahrheit, alleluja.
+
+[Octava 3]
+Ant. O du König voll Herrlichkeit, * o Herr aller Mächte, der du als Triumphator heute über alle Himmelsräume aufgestiegen bist, lass uns nicht als Waisen zurück, sondern sende uns den vom Vater Versprochenen, den Geist der Wahrheit, alleluja.
+_
+V. Gott steigt empor im Jubel, alleluja.
+R. Der Herr beim feierlichen Schalle der Trompeten, alleluja.
+(sed rubrica Tridentina loco haec versus dicitur)
+V. Der Herr im Himmel, alleluja.
+R. Hat seinen Sitz bereitet, alleluja.
+_
+v. Oremus.
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wir an die heute erfolgte Himmelfahrt deines Eingeborenen, unseres Erlösers glauben, auch selbst mit unseren Herzen in Himmelshöhen weilen.
+$Per eumdem

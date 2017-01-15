@@ -1,0 +1,158 @@
+[Rank]
+Vierter Sonntag nach Ostern;;Semiduplex;;5;;
+
+[Rule]
+9 Lectiones
+Una Antiphona
+StJamesRule=Jas
+
+[Capitulum Vespera]
+!Jak 1,17
+v. Geliebteste, alles, was es an guten Gaben und an allseitig guten Spenden gibt, stammt von oben und geht aus von dem alles beglückenden Vater, bei dem es keine Umwandlung gibt und keinen Schatten einer Wesenänderung.
+$Deo gratias
+
+[Versum 1]
+@Tempora/Pasc1-0:Versum 1
+
+[Ant 1]
+Ich gehe zu dem, * der mich gesandt hat: und niemand von euch fragt mich: Wo gehst du hin? Alleluja, alleluja.
+
+[Oratio]
+O Gott, der du die Herzen der Menschen lenkst, dass sie sich in einem Willen einigen, verleihe den dir geweihten Scharen die Gnade, dass sie das lieben, was du befiehlst, und das ersehnen, was du verheißest, damit inmitten der Unbeständigkeit auf dieser Welt unsere Herzen dorthin gerichtet bleiben, wo die wahren Freuden sind.
+$Per Dominum
+
+[Lectio1]
+Anfang des an alle gerichteten Briefes des heiligen Apostels Jakobus.
+!Jak 1,1-6
+1 Jakobus, Gottes und unseres Herrn Jesu Christi Knecht, entbietet den Angehörigen der zwölf Stämme, die zerstreut leben, Heil.
+2 Seht es als die höchste Freude an, meine Brüder, wenn ihr in verschiedene Prüfungen hineingeratet:
+3 Ihr wisst es doch, dass das Erproben eures Glaubens Ausdauer bewirkt;
+4 die Ausdauer aber macht ein Werk zum vollkommenen: so seid ihr also vollkommene und ganze Menschen, an denen gar nichts fehlt.
+5 Wenn aber einer von euch Mangel hat am weisen Sinn, der bete zu Gott, der allen im Überfluss Gaben austeilt, ohne ihnen Vorwürfe zu machen.
+6 Er muss aber beten mit Vertrauen, ohne irgendwie zu zweifeln.
+
+[Responsory1]
+R. Wenn einmal ich dein vergessen sollte, alleluja, mag los von mir getrennt sein meine Rechte:
+* Mag dann meine Zunge fest an meinem Gaumen kleben, wenn ich an dich nicht denken sollte, alleluja, alleluja.
+V. An dem großen Fluss in Babylon, da haben unser Lager wir und weinen, wenn wir an dich, o Sion, denken.
+R. Mag dann meine Zunge fest an meinem Gaumen kleben, wenn ich an dich nicht denken sollte, alleluja, alleluja.
+
+[Lectio2]
+!Jak 1,6-11
+6 Wer nämlich zweifelt, der ist ähnlich einer Meereswoge, die vom Wind bewegt und hin- und hergetrieben wird:
+7 Darum darf ein solcher Mensch nicht meinen, dass er etwas vom Herrn erhalte.
+8 Ein nach zwei Seiten schauender Mann ist wankelmütig in allem, was er unternimmt.
+9 Es mag ein in Bedrängnis lebender Bruder mit Freuden das umfassen, was ihn erhöht:
+10 der Reiche aber (daran denken), dass er erniedrigt werden kann; denn er ist ja wie eine vorübergehend erscheinende Grasblüte.
+11 Wie nämlich die Sonne, wenn sie erscheint mit ihrer Glut, das Gras zum Vertrocknen bringt, so dass dessen Blüte abfällt und die Schönheit ihrer Erscheinung zugrunde geht, so wird auch der Reiche bei seinen Unternehmungen kraftlos werden.
+
+[Responsory2]
+R. Wo das Wasser dich erblickte, o Gott, wo das Wasser dich erblickte, hatte es Ehrfurcht:
+* Laut brauste dann das Meer, es donnerten die Wolken, alleluja, alleluja, alleluja.
+V. Grelles Licht gewährten deine Blitze für den Erdkreis; es bebte und zitterte die Erde.
+R. Laut brauste dann das Meer, es donnerten die Wolken, alleluja, alleluja, alleluja.
+
+[Lectio3]
+!Jak 1,12-16
+12 Selig ist der Mann, der in der Prüfung aushält: denn wenn er erprobt ist, wird er als Krone das Leben erhalten, das Gott denen versprochen hat, die ihn lieben.
+13 Keiner darf nun, wenn er zur Sünde gereizt wird, sagen, dass er von Gott gereizt wird: denn Gott ist unfähig, zum Bösen anzuregen, und er reizt niemanden.
+14 Ein jeder aber wird gereizt, wenn er sich von seiner Begierde ziehen und locken lässt.
+15 Denn wenn nämlich die Begierde einen Keim in sich aufnimmt, bringt sie eine Sünde hervor: und wenn die Sünde vollbracht ist, erzeugt sie den Tod.
+16 Also urteilt nicht falsch, meine geliebtesten Brüder.
+
+[Responsory3]
+R. Ich will von deiner Majestät erzählen meinen Brüdern, alleluja:
+* Mitten unterm Volk, das versammelt ist, dich loben, alleluja, alleluja.
+V. Ich will dich preisen, dass es, Herr, die Völker hören, und ein Harfenlied singen, dass es dringt bis zu den Heiden.
+R. Mitten unterm Volk, das versammelt ist, dich loben, alleluja, alleluja.
+&Gloria
+R. Mitten unterm Volk, das versammelt ist, dich loben, alleluja, alleluja.
+
+[Lectio4]
+Aus der Abhandlung des heiligen Bischofs und Martyrers Cyprian über den Wert der Ausdauer.
+!Am Anfang des 3. Sermo.
+De patientia locuturus, fratres dilectissimi, et utilitates ejus et commoda praedicaturus, unde potius incipiam, quam quod nunc quoque ad audientiam, vestram patientiam video esse necessariam: ut nec hoc ipsum, quod auditis et discitis, sine patientia facere possitis? Tunc enim demum sermo et ratio salutaris efficaciter discitur, si patienter, quod dicitur, audiatur. Nec invenio, fratres dilectissimi, inter ceteras caelestis disciplinae vias, quibus ad consequenda divinitus praemia spei ac fidei nostrae secta dirigitur, quid magis sit vel utilius ad vitam, vel majus ad gloriam, quam ut qui praeceptis Dominicis obsequio timoris ac devotionis innitimur, patientiam maxime tota observatione tueamur. Hanc se sectari philosophi quoque profitentur: sed tam illic patientia falsa est, quam et falsa sapientia est. Unde enim vel sapiens esse, vel patiens possit, qui nec sapientiam, nec patientiam Dei novit?
+
+[Responsory4]
+R. In Scharen singet nun Preis dem Herrgott, alleluja,
+* Dem Herrn ihr, in denen Israels Blut quillt, alleluja, alleluja.
+V. Ein Lied singt seiner Majestät zu Ehren, gewährt Verherrlichung seiner lobenswerten Größe.
+R. Dem Herrn ihr, in denen Israels Blut quillt, alleluja, alleluja.
+
+[Lectio5]
+Nos autem, fratres dilectissimi, qui philosophi non verbis, sed factis sumus; nec vestitu sapientiam, sed veritate praeferimus: qui virtutum conscientiam magis quam jactantiam novimus: qui non loquimur magna, sed vivimus quasi servi et cultores Dei: patientiam, quam magisteriis caelestibus discimus, obsequiis spiritalibus praebeamus. Est enim nobis cum Deo virtus ista communis: inde patientia incipit, inde claritas ejus et dignitas caput sumit. Origo et magnitudo patientiae Deo auctore procedit. Diligenda res homini, quae Deo cara est. Bonum quod amat, majestas divina commendat. Si Dominus nobis et Pater Deus est, sectemur patientiam domini pariter et patris: quia et servos oportet esse obsequentes, et filios non decet esse degeneres.
+
+[Responsory5]
+R. Von meinem ganzen Herzen, alleluja, bitte ich dich, alleluja:
+* Lass mich von dem, was du befiehlst, nicht abgehen, alleluja, alleluja.
+V. Gepriesen bist du, Herr, o lehr mich deine Regeln kennen.
+R. Lass mich von dem, was du befiehlst, nicht abgehen, alleluja, alleluja.
+
+[Lectio6]
+Patientia est, quae nos Deo et commendat et servat: ipsa est, quae iram temperat, quae linguam frenat, quae mentem gubernat, pacem custodit, disciplinam regit, libidinis impetum frangit, tumoris violentiam comprimit, incendium simultatis exstinguit, coercet potentiam divitum, inopiam pauperum refovet, tuetur in virginibus beatam integritatem, in viduis laboriosam castitatem, in conjunctis et maritatis individuam caritatem: facit humiles in prosperis, in adversis fortes, contra injurias et contumelias mites: docet delinquentibus cito ignoscere; si ipse delinquas, diu et multum rogare: tentationes expugnat, persecutiones tolerat, passiones et martyria consummat Ipsa est, quae fidei nostrae fundamenta firmiter munit.
+
+[Responsory6]
+R. Singt uns etwas von euren Liedern, alleluja:
+* Wie könnten wir das Lied des Herrn singen im Feindeslande? Alleluja, alleluja.
+V. Dort fragten uns, die als Gefangene uns abgeführt, nach unseren Gesängen.
+R. Wie könnten wir das Lied des Herrn singen im Feindeslande? Alleluja, alleluja.
+&Gloria
+R. Wie könnten wir das Lied des Herrn singen im Feindeslande? Alleluja, alleluja.
+
+[Lectio7]
+Lectio sancti Evangelii secundum Joannem.
+!Joannes 16:5-14
+In illo tempore: Dixit Jesus discipulis suis: Vado ad eum qui misit me; et nemo ex vobis interrogat me, Quo vadis? Et reliqua.
+_
+Homilia sancti Augustini Episcopi.
+!Tractatus 94. in Joannem, initio.
+Cum Dominus Jesus praedixisset discipulis suis persecutiones, quas passuri erant post ejus abscessum, subjunxit atque ait: Haec autem vobis ab initio non dixi, quia vobiscum eram: nunc autem vado ad eum, qui me misit. Ubi primum videndum est, utrum eis futuras non praedixerit ante passiones. Sed alii tres Evangelistae satis eum praedixisse ista demonstrant, antequam ventum esset ad coenam: qua peracta, secundum Joannem ista locutus est, ubi ait: Haec autem vobis ab initio non dixi, quia vobiscum eram.
+
+[Responsory7]
+R. O Gott, ein neues Lied will ich dir singen, alleluja:
+* Auf zehnsaitiger Harfe will ich dir zu Ehren spielen, alleluja, alleluja.
+V. Mein Gott bist du, ich will dich preisen; mein Gott bist du und ich will rühmend dich besingen.
+R. Auf zehnsaitiger Harfe will ich dir zu Ehren spielen, alleluja, alleluja.
+
+[Lectio8]
+An forte hinc ista solvitur quaestio, quia et illi eum narrant passioni proximum fuisse cum haec diceret? Non ergo ab initio, quando cum illis erat: quia jam discessurus, jamque ad Patrem perrecturus haec dixit. Et ideo etiam secundum illos Evangelistas verum est, quod hic dictum est: Haec autem vobis ab initio non dixi. Sed quid agimus de fide Evangelii secundum Matthaeum, qui haec eis a Domino non solum cum jam Pascha esset cum discipulis coenaturus, imminente passione, verum et ab initio denuntiata esse commemorat; ubi primum nominatim duodecim exprimuntur Apostoli, et ad opera divina mittuntur?
+
+[Responsory8]
+R. Es ist so angenehm, den Herrn zu preisen, alleluja:
+* Und im Liede zu besingen, alleluja.
+V. Auf der zehnsait'gen Harfe mit Liedersang begleitet von der Zither.
+R. Und im Liede zu besingen, alleluja.
+&Gloria
+R. Und im Liede zu besingen, alleluja.
+
+[Lectio9]
+Quid sibi ergo vult, quod hic ait: Haec autem vobis ab initio non dixi, quia vobiscum eram: nisi quia ea, quae hic dicit de Spiritu Sancto, quod sit venturus ad eos, et testimonium perhibiturus, quando mala illa passuri sunt, haec ab initio eis non dixit, quia cum ipsis erat? Consolator ergo ille, vel advocatus, (utrumque enim interpretatur, quod est Graece Paraclitus) Christo abscedente fuerat necessarius: et ideo de illo non dixerat ab initio, quando cum illis erat, quia ejus praesentia consolabantur.
+&teDeum
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Versum 2]
+@Tempora/Pasc1-0:Versum 2
+
+[Ant 2]
+@:Ant 1
+
+[Capitulum Tertia]
+@:Capitulum Vespera
+
+[Capitulum Sexta]
+!Jak 1,19-20
+v. Ihr seid Wissende, meine geliebtesten Brüder. Es mag deshalb jedermann schnell zum Hören, aber langsam zum Reden sein, langsam auch zum Zürnen. Des Menschen Zorn wirkt nämlich nicht, was vor Gott recht ist.
+$Deo gratias
+
+[Capitulum Nona]
+!Jak 1,21
+v. Deshalb legt ab allen Schmutz und alles, was sich an Schlechtigkeit aufgehäuft hat, und pfleget mit Ausdauer das euch eingepflanzte Wort, das geeignet ist, eure Seelen zum Heil zu führen.
+$Deo gratias
+
+[Versum 3]
+@Tempora/Pasc1-0:Versum 1
+
+[Ant 3]
+Ich gehe zu dem, * der mich gesandt hat: doch weil ich euch das gesagt habe, hat Traurigkeit euer Herz erfüllt, alleluja.

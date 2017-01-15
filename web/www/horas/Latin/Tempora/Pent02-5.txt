@@ -233,9 +233,7 @@ Veníte ad me * omnes qui laborátis et oneráti estis et ego refíciam vos.
 Fili, * præbe mihi cor tuum et óculi tui custódiant vias meas.
 
 [Capitulum Laudes]
-!Eph 3:8-9
-v. Fratres: Mihi ómnium sanctórum mínimo data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi; et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a sæculis in Deo.
-$Deo gratias
+@:Capitulum Vespera
 
 [Hymnus Laudes]
 v. Cor, arca legem continens
@@ -281,9 +279,7 @@ Facta sunt * enim hæc ut Scriptúra impleréntur quæ dicit: Vidébunt in quem 
 v. In caritáte radicáti et fundáti, ut possítis comprehéndere cum ómnibus sanctis, quæ sit latitúdo et longitúdo, et sublímitas et profúndum; scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.
 
 [Capitulum Tertia]
-!Eph 3:8-9
-v. Fratres: Mihi ómnium sanctórum mínimo data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi; et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a sæculis in Deo.
-$Deo gratias
+@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Tóllite jugum meum super vos * Et díscite a me.
@@ -344,7 +340,7 @@ Ad Jesum autem * cum venissent ut viderunt eum jam mortuum, non fregerunt ejus c
 
 [Oratio 3]
 Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum; multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, ut non amittámus ætérna.
-$Per Dóminum
+$Per Dominum
 
 [Octava 1]
 !Commemoratio pro Octava SSmi Cordis D.N.J.C
@@ -374,4 +370,4 @@ V. Haurietis aquas in gaudio.
 R. De fontibus Salvatoris.
 _
 Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum; multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, ut non amittámus ætérna.
-$Per Dóminum
+$Per Dominum

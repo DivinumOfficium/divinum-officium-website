@@ -111,3 +111,36 @@ Divinum Officium
 
 [Post]
 Post
+
+[Commemoratio]
+Kommemoration
+
+[#Incipit]
+#Eröffnung
+
+[#Invitatorium]
+#Invitatorium
+
+[#Hymnus]
+#Hymnus
+
+[#Psalmi cum lectionibus]
+#Psalmen und Lesungen
+
+[#Psalmi]
+#Psalmen
+
+[#Capitulum Hymnus Versus]
+#Kapitel Hymnus Versikel
+
+[#Capitulum Responsorium Versus]
+#Kapitel Responsorium Versikel
+
+[#Lectio brevis]
+#Kurzlesung
+
+[#Oratio]
+#Oration
+
+[#Conclusio]
+#Abschluss
