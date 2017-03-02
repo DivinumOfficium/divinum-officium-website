@@ -2,10 +2,10 @@
 De Ezechiele Propheta
 !Ezek 33:1-5
 1 Et factum est verbum Domini ad me, dicens:
-2 Fili hominis, loquere ad filios populi tui, et dices ad eos: Terra, cum induxero super eam gladium, et tulerit populus terrae virum unum de novissimis suis, et constituerit eum super se speculatorem:
+2 Fili hominis, loquere ad filios populi tui, et dices ad eos: Terra, cum induxero super eam gladium, et tulerit populus terræ virum unum de novissimis suis, et constituerit eum super se speculatorem:
 3 et ille viderit gladium venientem super terram, et cecinerit buccina, et annuntiaverit populo:
-4 audiens autem quisquis ille est sonitum buccinae, et non se observaverit, veneritque gladius, et tulerit eum: sanguis ipsius super caput ejus erit.
-5 Sonum buccinae audivit, et non se observavit: sanguis ejus in ipso erit. Si autem se custodierit, animam suam salvabit.
+4 audiens autem quisquis ille est sonitum buccinæ, et non se observaverit, veneritque gladius, et tulerit eum: sanguis ipsius super caput ejus erit.
+5 Sonum buccinæ audivit, et non se observavit: sanguis ejus in ipso erit. Si autem se custodierit, animam suam salvabit.
 
 [Responsory1]
 @Tempora/111-1:Responsory1

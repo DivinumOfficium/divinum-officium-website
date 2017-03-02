@@ -12,8 +12,8 @@ De libro Ecclesiastici.
 
 [Lectio2]
 !Sir 4:5-7
-5 Ab inope ne avertas oculos tuos propter iram: et non relinquas quaerentibus tibi retro maledicere.
-6 Maledicentis enim tibi in amaritudine animae, exaudietur deprecatio illius: exaudiet autem eum qui fecit illum.
+5 Ab inope ne avertas oculos tuos propter iram: et non relinquas quærentibus tibi retro maledicere.
+6 Maledicentis enim tibi in amaritudine animæ, exaudietur deprecatio illius: exaudiet autem eum qui fecit illum.
 7 Congregationi pauperum affabilem te facito: et presbytero humilia animam tuam, et magnato humilia caput tuum.
 
 

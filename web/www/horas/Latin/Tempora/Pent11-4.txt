@@ -8,7 +8,7 @@ Oratio Dominica
 De libro quarto Regum.
 !2 Kgs 23:36-37; 24:1
 36 Viginti quinque annorum erat Joakim cum regnare cúpisset, et undecim annis regnavit in Jerusalem: Nomen matris ejus Zebida filia Phadaia de Ruma.
-37 Et fecit malum coram Domino juxta omnia quae fecerant patres ejus.
+37 Et fecit malum coram Domino juxta omnia qu√¶ fecerant patres ejus.
 1 In diebus ejus ascendit Nabuchodonosor rex Babylonis, et factus est ei Joakim servus tribus annis: et rursum rebellavit contra eum.
 
 [Responsory1]
@@ -16,8 +16,8 @@ De libro quarto Regum.
 
 [Lectio2]
 !2 Kgs 24:2-4
-2 Immisitque ei Dominus latrunculos Chaldaeorum, et latrunculos Syriae, et latrunculos Moab, et latrunculos filiorum Ammon: et immisit eos in Judam ut disperderent eum, juxta verbum Domini quod locutus fuerat per servos suos prophetas.
-3 Factum est autem hoc per verbum Domini contra Judam, ut auferret eum coram se propter peccata Manasse universa quae fecit,
+2 Immisitque ei Dominus latrunculos Chald√¶orum, et latrunculos Syri√¶, et latrunculos Moab, et latrunculos filiorum Ammon: et immisit eos in Judam ut disperderent eum, juxta verbum Domini quod locutus fuerat per servos suos prophetas.
+3 Factum est autem hoc per verbum Domini contra Judam, ut auferret eum coram se propter peccata Manasse universa qu√¶ fecit,
 4 et propter sanguinem innoxium quem effudit, et implevit Jerusalem cruore innocentium: et ob hanc rem noluit Dominus propitiari.
 
 [Responsory2]
@@ -25,9 +25,9 @@ De libro quarto Regum.
 
 [Lectio3]
 !2 Kgs 24:5-7
-5 Reliqua autem sermonum Joakim, et universa quae fecit, nonne haec scripta sunt in libro sermonum dierum regum Juda? Et dormivit Joakim cum patribus suis:
+5 Reliqua autem sermonum Joakim, et universa qu√¶ fecit, nonne h√¶c scripta sunt in libro sermonum dierum regum Juda? Et dormivit Joakim cum patribus suis:
 6 Et regnavit Joachin filius ejus pro eo.
-7 Et ultra non addidit rex ∆gypti ut egrederetur de terra sua: tulerat enim rex Babylonis, a rivo ∆gypti usque ad fluvium Euphraten, omnia quae fuerant regis ∆gypti.
+7 Et ultra non addidit rex ∆gypti ut egrederetur de terra sua: tulerat enim rex Babylonis, a rivo ∆gypti usque ad fluvium Euphraten, omnia qu√¶ fuerant regis ∆gypti.
 
 [Responsory3]
 @Tempora/Pent01-1:Responsory3

@@ -26,18 +26,18 @@ $Deo gratias
 
 [Hymnus Vespera]
 v. En ut superba criminum
-Et saeva nostrorum cohors
+Et sæva nostrorum cohors
 Cor sauciavit innocens
 Merentis haud tale Dei!
 _
 Vibrantis hastam militis
 Peccata nostra dirigunt:
-Ferrumque dirae cuspidis
+Ferrumque diræ cuspidis
 Mortale crimen acuit.
 _
 Ex Corde scisso Ecclesia
 Christo jugata nascitur:
-Hoc ostium arcae in latere est
+Hoc ostium arcæ in latere est
 Genti ad salutem positum.
 _
 Ex hoc perennis gratia,
@@ -46,14 +46,14 @@ Stolas ut illic sordidas
 Lavemus Agni in sanguine.
 _
 Turpe est redire ad crimina,
-Quae Cor beatum lacerent
-Sed aemulemur cordibus
+Quæ Cor beatum lacerent
+Sed æmulemur cordibus
 Flammas amoris indices.
 _
 Jesu, tibi sit gloria,
 Qui Corde fundis gratiam,
 Cum Patre, et almo Spiritu,
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 [Versum 1]
@@ -71,7 +71,7 @@ $Per eumdem
 Cor Jesu amóre nostri vulnerátum * Veníte, adorémus.
 
 [Hymnus Matutinum]
-v. Auctor beate saeculi,
+v. Auctor beate sæculi,
 Christe Redemptor omnium,
 Lumen Patris de lumine,
 Deusque verus de Deo.
@@ -82,7 +82,7 @@ Ut novus Adam redderes,
 Quod vetus ille abstulerat.
 _
 Ille amor almus artifex
-Terrae marisque, et siderum,
+Terræ marisque, et siderum,
 Errata patrum miserans,
 Et nostra rumpens vincula.
 _
@@ -99,7 +99,7 @@ _
 Jesu, tibi sit gloria,
 Qui Corde fundis gratiam,
 Cum Patre, et almo Spiritu,
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 [Ant Matutinum]
@@ -197,7 +197,7 @@ R. Et adorábunt coram te, Dómine.
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
 !Joannes 19:31-37
-In illo tempore: Judaei, quoniam parasceve erat, ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum, ut frangerentur eorum crura, et tollerentur. Et reliqua.
+In illo tempore: Judæi, quoniam parasceve erat, ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum, ut frangerentur eorum crura, et tollerentur. Et reliqua.
 _
 Homilía sancti Bonaventúræ Epíscopi
 !Liber de ligno vitæ, num. 30
@@ -238,8 +238,8 @@ Fili, * præbe mihi cor tuum et óculi tui custódiant vias meas.
 [Hymnus Laudes]
 v. Cor, arca legem continens
 Non servitutis veteris,
-Sed gratiae, sed veniae,
-Sed et misericordiae.
+Sed gratiæ, sed veniæ,
+Sed et misericordiæ.
 _
 Cor, sanctuarium novi
 Intemeratum foederis,

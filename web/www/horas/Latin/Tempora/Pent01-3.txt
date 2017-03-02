@@ -9,7 +9,7 @@ De libro primo Regum
 14 et mittebat eam in lebetem, vel in caldariam, aut in ollam, sive in cacabum: et omne quod levabat fuscinula, tollebat sacerdos sibi: Sic faciebant universo Isra�li venientium in Silo.
 
 [Responsory1]
-R. Peccavi super numerum arenae maris, et multiplicata sunt peccata mea et non sum dignus videre altitudinem caeli prae multitudine iniquitatis meae: quoniam irritavi iram tuam,
+R. Peccavi super numerum arenæ maris, et multiplicata sunt peccata mea et non sum dignus videre altitudinem cæli præ multitudine iniquitatis meæ: quoniam irritavi iram tuam,
 * Et malum coram te feci.
 V. Quoniam iniquitatem meam ego cognosco: et delictum meum contra me est semper, quia tibi soli peccavi.
 R. Et malum coram te feci.
@@ -21,7 +21,7 @@ R. Et malum coram te feci.
 17 Erat ergo peccatum puerorum grande nimis coram Domino: quia retrahebant homines a sacrificio Domini.
 
 [Responsory2]
-R. Exaudisti, Domine, orationem servi tui, ut aedificarem templum nomini tuo:
+R. Exaudisti, Domine, orationem servi tui, ut ædificarem templum nomini tuo:
 * Benedic, et sanctifica domum istam in sempiternum, Deus Isra�l.
 V. Domine, qui custodis pactum cum servis tuis, qui ambulant coram te in toto corde suo.
 R. Benedic, et sanctifica domum istam in sempiternum, Deus Isra�l.
@@ -30,17 +30,17 @@ R. Benedic, et sanctifica domum istam in sempiternum, Deus Isra�l.
 !1 Sam 2:18-21
 18 Samuel autem ministrabat ante faciem Domini, puer accinctus ephod lineo.
 19 Et tunicam parvam faciebat ei mater sua, quam afferebat statutis diebus, ascendens cum viro suo, ut immolaret hostiam solemnem.
-20 Et benedixit Heli Elcanae et uxori ejus: dixitque ei: Reddat tibi Dominus semen de muliere hac, pro faenore quod commodasti Domino. Et abierunt in locum suum.
+20 Et benedixit Heli Elcanæ et uxori ejus: dixitque ei: Reddat tibi Dominus semen de muliere hac, pro fænore quod commodasti Domino. Et abierunt in locum suum.
 21 Visitavit ergo Dominus Annam, et concepit, et peperit tres filios, et duas filias: Et magnificatus est puer Samuel apud Dominum.
 
 [Responsory3]
-R. Audi, Domine, hymnum, et orationem, quam servus tuus orat coram te hodie: ut sint oculi tui aperti, et aures tuae intentae,
+R. Audi, Domine, hymnum, et orationem, quam servus tuus orat coram te hodie: ut sint oculi tui aperti, et aures tuæ intentæ,
 * Super domum istam die ac nocte.
-V. Respice, Domine, de sanctuario tuo, et de excelso caelorum habitaculo.
+V. Respice, Domine, de sanctuario tuo, et de excelso cælorum habitaculo.
 R. Super domum istam die ac nocte.
 &Gloria
 R. Super domum istam die ac nocte.
 
 [Oratio]
-Deus, in te sperantium fortitudo, adesto propitius invocationibus nostris: et quia sine te nihil potest mortalis infirmitas, praesta auxilium gratiae tuae; ut in exsequendis mandatis tuis, et voluntate tibi et actione placeamus.
+Deus, in te sperantium fortitudo, adesto propitius invocationibus nostris: et quia sine te nihil potest mortalis infirmitas, præsta auxilium gratiæ tuæ; ut in exsequendis mandatis tuis, et voluntate tibi et actione placeamus.
 $Per Dominum

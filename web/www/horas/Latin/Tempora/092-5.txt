@@ -26,7 +26,7 @@ De libro Job
 !Job 42:1-6
 1 Respondens autem Job Domino, dixit:
 2 Scio quia omnia potes, et nulla te latet cogitatio.
-3 Quis est iste qui celat consilium absque scientia? Ideo insipienter locutus sum, et quae ultra modum excederent scientiam meam.
+3 Quis est iste qui celat consilium absque scientia? Ideo insipienter locutus sum, et qu√¶ ultra modum excederent scientiam meam.
 4 Audi, et ego loquar: interrogabo te, et responde mihi.
 5 Auditu auris audivi te: nunc autem oculus meus videt te.
 6 Idcirco ipse me reprehendo, et ago púnitentiam in favilla et cinere.

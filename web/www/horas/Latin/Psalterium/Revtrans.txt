@@ -60,8 +60,8 @@ $Aperi
 [Benedicamus Domino]
 &Benedicamus_Domino
 
-[Fidelium animae]
-$Fidelium animae
+[Fidelium animæ]
+$Fidelium animæ
 
 [Oremus]
 Oremus
@@ -91,7 +91,7 @@ $Qui vivis
 $Qui tecum
 
 [Sacrosanctea]
-$Sacrosanctaea
+$Sacrosanctæa
 
 [Te Deum]
 &teDeum

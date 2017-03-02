@@ -3,7 +3,7 @@ De libro Ecclesiastici.
 !Sir 32:1-5
 1 Rectorem te posuerunt? noli extolli: esto in illis quasi unus ex ipsis.
 2 Curam illorum habe, et sic conside, et omni cura tua explicita recumbe:
-3 ut laeteris propter illos, et ornamentum gratiae accipias coronam, et dignationem consequaris corrogationis.
+3 ut læteris propter illos, et ornamentum gratiæ accipias coronam, et dignationem consequaris corrogationis.
 4 Loquere major natu: decet enim te,
 5 Primum verbum diligenti scientia, et non impedias musicam.
 
@@ -24,10 +24,10 @@ De libro Ecclesiastici.
 
 [Lectio3]
 !Sir 32:12-17
-12 In multis esto quasi inscius, et audi tacens simul et quaerens.
-13 In medio magnatorum non praesumas: et ubi sunt senes non multum loquaris.
-14 Ante grandinem praeibit coruscatio: et ante verecundiam praeibit gratia, et pro reverentia accedet tibi bona gratia.
-15 Et hora surgendi non te trices: praecurre autem prior in domum tuam, et illic avocare, et illic lude,
+12 In multis esto quasi inscius, et audi tacens simul et quærens.
+13 In medio magnatorum non præsumas: et ubi sunt senes non multum loquaris.
+14 Ante grandinem præibit coruscatio: et ante verecundiam præibit gratia, et pro reverentia accedet tibi bona gratia.
+15 Et hora surgendi non te trices: præcurre autem prior in domum tuam, et illic avocare, et illic lude,
 16 et age conceptiones tuas, et non in delictis et verbo superbo:
 17 et super his omnibus benedicito Dominum, qui fecit te, et inebriantem te ab omnibus bonis suis.
 

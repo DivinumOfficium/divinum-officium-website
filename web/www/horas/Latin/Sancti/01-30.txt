@@ -1,41 +1,41 @@
 [Rank]
-S. Martinae Virginis et Martyris;;Semiduplex;;2;;vide C6b
+S. Martinæ Virginis et Martyris;;Semiduplex;;2;;vide C6b
 
 [Rule]
 vide C6b;
 9 lectiones
 
 [Oratio]
-@Commune/C6::s/N\./Martinae/
+@Commune/C6::s/N\./Martinæ/
 
 [Hymnus Matutinum]
-v. Martinae celebri plaudite nomini,
-Cives Romulei, plaudite gloriae:
+v. Martinæ celebri plaudite nomini,
+Cives Romulei, plaudite gloriæ:
 Insignem meritis dicite Virginem,
 Christi dicite martyrem.
 _
-Haec dum conspicuis orta parentibus
+Hæc dum conspicuis orta parentibus
 Inter delicias, inter amabiles
 Luxus illecebras ditibus affluit
-Faustae muneribus domus.
+Faustæ muneribus domus.
 _
-Vitae despiciens commoda, dedicat
+Vitæ despiciens commoda, dedicat
 Se rerum Domino, et munifica manu
 Christi pauperibus distribuens opes,
-Quaerit praemia caelitum.
+Quærit præmia cælitum.
 _
-Non illam crucians ungula, non ferae,
-Non virgae horribili vulnere commovent;
+Non illam crucians ungula, non feræ,
+Non virgæ horribili vulnere commovent;
 Hinc lapsi e superum sedibus Angeli
-Caelesti dape recreant.
+Cælesti dape recreant.
 _
-Quin et deposita saevitie leo
+Quin et deposita sævitie leo
 Se rictu placido projicit ad pedes:
 Te, Martina, tamen dans gladius neci
-Caeli coetibus inserit.
+Cæli coetibus inserit.
 _
 Te, thuris redolens ara vaporibus,
-Quae fumat, precibus jugiter invocat,
+Quæ fumat, precibus jugiter invocat,
 Et falsum perimens auspicium, tui
 Delet nominis omine.
 _
@@ -46,18 +46,18 @@ Quo clemens animos beas.
 Amen.
 
 [Lectio4]
-Martina virgo Romana, patre consulari illustri genere nata, teneris adhuc annis orbata parentibus christianae pietatis ardore succensa, divitias, quibus affluebat, mira in pauperes liberalitate distribuit. Sub Alexandro principe, cum deos inanes colere juberetur, immane facinus summa libertate detestatur. Quapropter iterum atque iterum affecta verberibus, uncis, ungulis ferreis, testarum fragmentis lacerata, acutissimis gladiis membratim concisa, adipe ferventi peruncta, demum in amphitheatro damnatur ad bestias a quibus illaesa divinitus evadens, in ardentem rogum injecta, incolumis pari beneficio servatur.
+Martina virgo Romana, patre consulari illustri genere nata, teneris adhuc annis orbata parentibus christianæ pietatis ardore succensa, divitias, quibus affluebat, mira in pauperes liberalitate distribuit. Sub Alexandro principe, cum deos inanes colere juberetur, immane facinus summa libertate detestatur. Quapropter iterum atque iterum affecta verberibus, uncis, ungulis ferreis, testarum fragmentis lacerata, acutissimis gladiis membratim concisa, adipe ferventi peruncta, demum in amphitheatro damnatur ad bestias a quibus illæsa divinitus evadens, in ardentem rogum injecta, incolumis pari beneficio servatur.
 
 [Lectio5]
-Ex ejus tortoribus nonnulli, miraculi novitate correpti, Dei aspirante gratia, Christi fidem amplexi, post cruciatus gloriosam martyrii palmam capitis abscissione promeruere. Ad eiusdem preces nunc terraemotibus exortis, nunc ignibus e caelo tonante delapsis, deorum templa prostrata sunt, et simulacra consumpta. Interdum ex vulneribus lac cum sanguine erupit, splendorque nitidissimus, ac suavissimus odor e corpore emanavit: interdum sublimis regia in sede divinis laudibus una cum caelitibus interesse visa est.
+Ex ejus tortoribus nonnulli, miraculi novitate correpti, Dei aspirante gratia, Christi fidem amplexi, post cruciatus gloriosam martyrii palmam capitis abscissione promeruere. Ad eiusdem preces nunc terræmotibus exortis, nunc ignibus e cælo tonante delapsis, deorum templa prostrata sunt, et simulacra consumpta. Interdum ex vulneribus lac cum sanguine erupit, splendorque nitidissimus, ac suavissimus odor e corpore emanavit: interdum sublimis regia in sede divinis laudibus una cum cælitibus interesse visa est.
 
 [Lectio6]
-Hisce prodigiis, ejusque in primis constantia, acriter permotus judex, caput virgini amputari praecepit; qua perempta, auditaque de caelo voce, qua ad Superos evocabatur, urbs tota contremuit, ac multi idolorum cultores ad Christi fidem conversi sunt. Sacrum Martinae corpus, sedente sancto Urbano primo, martyrio affectum, Urbano octavo Pontifice Maximo, in pervetusta eiusdem ecclesia, ad Mamertinum carcerem, in Capitolini clivi radicibus, cum sanctorum Martyrum Concordii, Epiphanii et sociorum corporibus repertum, eodem loco in meliorem formam redacto, atque decentius ornato, magno populi concursu, totius Urbis laetitia, solemni ritu ac pompa repositum est.
+Hisce prodigiis, ejusque in primis constantia, acriter permotus judex, caput virgini amputari præcepit; qua perempta, auditaque de cælo voce, qua ad Superos evocabatur, urbs tota contremuit, ac multi idolorum cultores ad Christi fidem conversi sunt. Sacrum Martinæ corpus, sedente sancto Urbano primo, martyrio affectum, Urbano octavo Pontifice Maximo, in pervetusta eiusdem ecclesia, ad Mamertinum carcerem, in Capitolini clivi radicibus, cum sanctorum Martyrum Concordii, Epiphanii et sociorum corporibus repertum, eodem loco in meliorem formam redacto, atque decentius ornato, magno populi concursu, totius Urbis lætitia, solemni ritu ac pompa repositum est.
 
 [Hymnus Laudes]
-v. Tu natale solum protege, tu bonae
+v. Tu natale solum protege, tu bonæ
 Da pacis requiem Christiadum plagis
-Armorum strepitus, et fera praelia
+Armorum strepitus, et fera prælia
 In fines age Thracios.
 _
 Et regum socians agmina sub crucis
@@ -67,7 +67,7 @@ Robur funditus erue.
 _
 Tu nostrum columen, tu decus inclytum,
 Nostrarum obsequium respice mentium;
-Romae vota libens excipe, quae pio
+Romæ vota libens excipe, quæ pio
 Te ritu canit, et colit.
 _
 A nobis abigas lubrica gaudia

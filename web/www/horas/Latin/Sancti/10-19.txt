@@ -6,21 +6,21 @@ vide C5;mtv
 9 lectiones
 
 [Oratio]
-Deus, qui beatum Petrum Confessorem tuum admirabilis poenitentiae et altissimae~
-contemplationis munere illustrare dignatus es: da nobis, quaesumus; ut ejus~
-suffragantibus meritis carne mortificati, facilius caelestia capiamus.
+Deus, qui beatum Petrum Confessorem tuum admirabilis poenitentiæ et altissimæ~
+contemplationis munere illustrare dignatus es: da nobis, quæsumus; ut ejus~
+suffragantibus meritis carne mortificati, facilius cælestia capiamus.
 $Per Dominum
 
 [Lectio4]
-Petrus, Alcantarae in Hispania nobilibus parentibus natus, a teneris annis~
-futurae sanctitatis indicia prabbuit. Decimo sexto aetatis anno ordinem Minorum~
+Petrus, Alcantaræ in Hispania nobilibus parentibus natus, a teneris annis~
+futuræ sanctitatis indicia prabbuit. Decimo sexto ætatis anno ordinem Minorum~
 ingressus, se omnium virtutum exemplar exhibuit. Tum munus concionatoris ex~
 obedientia exercens, innumeros a vitiis ad veram poenitentiam traduxit.~
-Primaevum sancti Francisci institutum exactissime reparare cupiens, ope divina~
+Primævum sancti Francisci institutum exactissime reparare cupiens, ope divina~
 fretus, et apostolica munitus auctoritate, angustissimum et pauperrimum~
-caenobium juxta Pedrosum fundavit: quod vitae genus asperrimum, ibi feliciter~
-acceptum, per diversas Hispaniae provincias, usque ad Indias mirifice propagatum~
-fuit. Sanctae Teresiae, cujus probaverat spiritum, in promovenda Carmelitarum~
+cænobium juxta Pedrosum fundavit: quod vitæ genus asperrimum, ibi feliciter~
+acceptum, per diversas Hispaniæ provincias, usque ad Indias mirifice propagatum~
+fuit. Sanctæ Teresiæ, cujus probaverat spiritum, in promovenda Carmelitarum~
 reformatione adjutor fuit. Ipsa autem a Deo edocta, quod Petri nomine nihil~
 quisquam peteret, quin protinus exaudiretur, ejus precibus se commendare, et~
 ipsum adhuc viventem Sanctum appellare consuevit.
@@ -32,24 +32,24 @@ rigidissimus custos, una tunica, qua nulla deterior esset, contentus erat.~
 Puritatem ita coluit, ut a fratre, in extremo morbo sibi inserviente, nec~
 leviter quidem tangi passus sit. Corpus suum perpetuis vigiliis, jejuniis,~
 fiagellis, frigore, nuditate, atque omni genere asperitatum in servitutem redegit,~
-cum quo pactum inierat, ne ullam in hoc saeculo ei requiem praeberet. Caritas~
+cum quo pactum inierat, ne ullam in hoc sæculo ei requiem præberet. Caritas~
 Dei et proximi in ejus corde diffusa tantum quandoque excitabat incendium, ut e~
-cellae angustiis in apertum campum prosilire, aerisque refrigerio conceptum~
+cellæ angustiis in apertum campum prosilire, ærisque refrigerio conceptum~
 ardorem temperare cogeretur.
 
 [Lectio6]
 Gratia contemplationis admirabilis in eo fuit, qua cum assidue spiritus~
 reficeretur, interdum accidit, ut ab omni cibo et potu pluribus diebus~
-abstinuerit. In aera frequenter sublatus, miro fulgore coruscare visus est.~
-Rapidos fluvios sicco pede trajecit. Fratres in extrema penuria, caelitus delata~
-alimonia cibavit. Baculus ab ipso terrae defixus, mox in viridem ficulneam~
+abstinuerit. In æra frequenter sublatus, miro fulgore coruscare visus est.~
+Rapidos fluvios sicco pede trajecit. Fratres in extrema penuria, cælitus delata~
+alimonia cibavit. Baculus ab ipso terræ defixus, mox in viridem ficulneam~
 excrevit. Cum noctu iter ageret, densa nive cadente, dirutam domum sine tecto~
-ingressus est, eique nix in aere pendula pro tecto fuit, ne illius copia~
-suffocaretur. Dono prophetiae ac discretionis spirituum imbutum fuisse sancta~
-Teresia testatur. Denique annum agens sexagesimum tertium, hora qua praedixerat,~
-migravit ad Dominum, mirabili visione, sanctorumque praesentia confortatus. Quem~
+ingressus est, eique nix in ære pendula pro tecto fuit, ne illius copia~
+suffocaretur. Dono prophetiæ ac discretionis spirituum imbutum fuisse sancta~
+Teresia testatur. Denique annum agens sexagesimum tertium, hora qua prædixerat,~
+migravit ad Dominum, mirabili visione, sanctorumque præsentia confortatus. Quem~
 eodem momento in coelum ferri beata Teresia procul distans vidit; cui postea~
-apparens dixit: O felix poenitentia, quae tantam mihi promeruit gloriam! Post~
+apparens dixit: O felix poenitentia, quæ tantam mihi promeruit gloriam! Post~
 mortem vero plurimis miraculis claruit, et a Clemente nono sanctorum numero~
 adscriptus est.
 

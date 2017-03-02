@@ -50,4 +50,4 @@ Amen.
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-$Fidelium animae
+$Fidelium animæ

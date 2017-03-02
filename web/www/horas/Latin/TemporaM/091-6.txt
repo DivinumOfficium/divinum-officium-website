@@ -2,7 +2,7 @@
 De libro Job
 !Job 7:1-4
 1 Militia est vita hominis super terram, et sicut dies mercenarii dies ejus.
-2 Sicut servus desiderat umbram, et sicut mercenarius praestolatur finem operis sui,
+2 Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui,
 3 sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi.
 4 Si dormiero, dicam: Quando consurgam? et rursum expectabo vesperam, et replebor doloribus usque ad tenebras.
 
@@ -25,7 +25,7 @@ De libro Job
 !Job 7:9-12
 9 Sicut consumitur nubes, et pertransit, sic qui descenderit ad inferos, non ascendet.
 10 Nec revertetur ultra in domum suam, neque cognoscet eum amplius locus ejus.
-11 Quapropter et ego non parcam ori meo: loquar in tribulatione spiritus mei; confabulabor cum amaritudine animae meae.
+11 Quapropter et ego non parcam ori meo: loquar in tribulatione spiritus mei; confabulabor cum amaritudine animæ meæ.
 12 Numquid mare ego sum, aut cetus, quia circumdedisti me carcere?
 
 

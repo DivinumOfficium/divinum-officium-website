@@ -1,8 +1,8 @@
 [Rank]
-In Praesentatione Beatae Mariae Virginis;;Duplex majus;;4;;ex C11
+In Præsentatione Beatæ Mariæ Virginis;;Duplex majus;;4;;ex C11
 
 [Rank1960]
-In Praesentatione Beatae Mariae Virginis;;Duplex;;3;;vide C11
+In Præsentatione Beatæ Mariæ Virginis;;Duplex;;3;;vide C11
 
 [Rule]
 ex C11;
@@ -14,8 +14,8 @@ Ipsa Virgo Virginum
 
 [Oratio]
 Deus, qui beatam Mariam semper Virginem, Spiritus Sancti habitaculum, hodierna~
-die in templo praesentari voluisti: praesta, quaesumus; ut ejus intercessione in~
-templo gloriae tuae praesentari mereamur.
+die in templo præsentari voluisti: præsta, quæsumus; ut ejus intercessione in~
+templo gloriæ tuæ præsentari mereamur.
 $Per Dominum eiusdem
 
 [Lectio4]
@@ -23,43 +23,43 @@ Ex libro sancti Joannis Damasceni de fide orthodoxa.
 !Lib. 4. Cap. l.
 Joachim lectissimam illam ac summis laudibus dignam mulierem Annam matrimonio~
 sibi copulavit. Verum, quemadmodum prisca illa Anna, cum sterilitatis morbo~
-laboraret, per orationem ac promissionem Samuelem procreavit: eodem modo haec~
+laboraret, per orationem ac promissionem Samuelem procreavit: eodem modo hæc~
 etiam per obsecrationem et promissionem Dei Genitricem a Deo accepit, ut ne hic~
 quoque cuiquam ex illustribus matronis cederet. Itaque gratia (nam hoc sonat~
-Annae vocabulum) Dominam parit (id enim Mariae nomine significatur): vere etenim~
+Annæ vocabulum) Dominam parit (id enim Mariæ nomine significatur): vere etenim~
 rerum omnium conditarum Domina facta est, cum Creatoris Mater exstitit In lucem~
-autem editur in domo probaticae Joachim, atque ad templum adducitur: ac deinde~
-in domo Dei plantata, atque per Spiritum saginata, instar olivae frugiferae~
-virtutum omnium domicilium efficitur: ut quae videlicet ab omni hujusce vitae et~
+autem editur in domo probaticæ Joachim, atque ad templum adducitur: ac deinde~
+in domo Dei plantata, atque per Spiritum saginata, instar olivæ frugiferæ~
+virtutum omnium domicilium efficitur: ut quæ videlicet ab omni hujusce vitæ et~
 carnis concupiscentia mentem abstraxisset, atque ita virginem una cum corpore~
-animam conservasset, ut eam decebat, quae Deum sinu suo exceptura erat.
+animam conservasset, ut eam decebat, quæ Deum sinu suo exceptura erat.
 
 [Lectio5]
 Ex libro sancti Ambrosii Episcopi de Virginibus.
 !Lib. 2. post initium.
 Talis fuit Maria, ut ejus unius vita omnium sit disciplina. Si igitur auctor non~
-displicet, opus probemus: ut quaecumque sibi ejus exoptat praemium, imitetur~
-exemplum. Quantae in una virgine species virtutum emicant! Secretum verecundiae,~
+displicet, opus probemus: ut quæcumque sibi ejus exoptat præmium, imitetur~
+exemplum. Quantæ in una virgine species virtutum emicant! Secretum verecundiæ,~
 vexillum fidei, devotionis obsequium: virgo intra domum, comes ad ministerium,~
 mater ad templum. O quantis illa virginibus occurret! Quantas complexa ad~
-Dominum trahet, dicens: Haec torum filii mei, haec thalamos nuptiales immaculato~
+Dominum trahet, dicens: Hæc torum filii mei, hæc thalamos nuptiales immaculato~
 servavit pudore!
 
 [Lectio6]
 Quid ergo exsequar ciborum parsimoniam, officiorum redundantiam: alterum ultra~
-naturam superfuisse, alterum pene ipsi naturae defuisse? Illic nulla intermissa~
+naturam superfuisse, alterum pene ipsi naturæ defuisse? Illic nulla intermissa~
 tempora, hic congeminatos jejunio dies. Et si quando reficiendi successisset~
 voluntas, cibus plerumque obvius, qui mortem arceret, non delicias ministraret.~
 Dormire non prius cupiditas, quam necessitas fuit: et tamen cum quiesceret~
 corpus, vigilaret animus: qui frequenter in somnis aut lecta repetit, aut somno~
-interrupta continuat, aut disposita gerit, aut gerenda praenuntiat.
+interrupta continuat, aut disposita gerit, aut gerenda prænuntiat.
 
 [Responsory7]
 R. Felix namque es, sacra Virgo Maria, et omni laude dignissima:
-* Quia ex te ortus est sol justitiae, Christus Deus noster.
+* Quia ex te ortus est sol justitiæ, Christus Deus noster.
 V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu:~
 sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam Presentationem.
-R. Quia ex te ortus est sol justitiae, Christus Deus noster.
+R. Quia ex te ortus est sol justitiæ, Christus Deus noster.
 
 [Ant 2]
 @Commune/C10:Ant 2

@@ -15,7 +15,7 @@ Serve bone * et fidelis, intra in gaudium Domini tui Alleluia;;112
 [Capitulum Vespera]
 !Sir 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est~
-justus: et in tempore iracundiae factus est reconciliatio.
+justus: et in tempore iracundiæ factus est reconciliatio.
 $Deo gratias
 _
 R.br. Elegit eum Dominus sacerdotem sibi * Alleluia, alleluia.
@@ -33,7 +33,7 @@ R. Elegit eum Dominus sacerdotem sibi * Alleluia, alleluia.
 
 [Versum 1]
 V. Amavit eum Dominus, et ornavit eum. Alleluia
-R. Stolam gloriae induit eum. Alleluia
+R. Stolam gloriæ induit eum. Alleluia
 
 [Ant 1]
 Sacerdos et Pontifex, * et virtutum opifex, pastor bone in populo, ora pro nobis Dominum. Alleluia
@@ -48,14 +48,14 @@ Regem confessorum Dominum * Venite adoremus Alleluia.
 @Commune/C4:Hymnus1 Vespera
 
 [Ant Matutinum]
-Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quaecumque faciet, semper prosperabuntur Alleluia.;;1
+Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quæcumque faciet, semper prosperabuntur Alleluia.;;1
 ;;2
 ;;4
 ;;5
 ;;8
 ;;10
 V. Amavit eum Dominus, et ornavit eum. Alleluia.
-R. Stolam gloriae induit eum. Alleluia.
+R. Stolam gloriæ induit eum. Alleluia.
 Domine, * iste sanctus habitabit in tabernaculo tuo, operatus est justitiam, requiescet in monte sancto tuo. Alleluia;;14 
 ;;20
 ;;23
@@ -64,8 +64,8 @@ Domine, * iste sanctus habitabit in tabernaculo tuo, operatus est justitiam, req
 ;;97
 V. Elegit eum Dominus sacerdotem sibi. Alleluia
 R. Ad sacrificandum ei hostiam laudis. Alleluia 
-Sint lumbi vestri * praecincti et lucernae ardentes in manibus vestris. Alleluia;;256;257;258
-V. Tu es sacerdos in aeternum. Alleluia
+Sint lumbi vestri * præcincti et lucernæ ardentes in manibus vestris. Alleluia;;256;257;258
+V. Tu es sacerdos in æternum. Alleluia
 R. Secundum ordinem Melchisedech. Alleluia
 
 [Lectio1]
@@ -74,8 +74,8 @@ De Epistola prima beati Pauli Apostoli ad Timotheum.
 1 Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat.
 2 Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,
 3 non vinolentum, non percussorem, sed modestum: non litigiosum, non cupidum, sed
-4 suae domui bene praepositum: filios habentem subditos cum omni castitate.
-5 Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?
+4 suæ domui bene præpositum: filios habentem subditos cum omni castitate.
+5 Si quis autem domui suæ præesse nescit, quomodo ecclesiæ Dei diligentiam habebit?
 6 Non neophytum: ne in superbiam elatus, in judicium incidat diaboli.
 7 Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.
 
@@ -93,7 +93,7 @@ De Epistola ad Titum.
 8 sed hospitalem, benignum, sobrium, justum, sanctum, continentem,
 9 amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.
 10 Sunt enim multi etiam inobedientes, vaniloqui, et seductores: maxime qui de circumcisione sunt:
-11 quos oportet redargui: qui universas domos subvertunt, docentes quae non oportet, turpis lucri gratia.
+11 quos oportet redargui: qui universas domos subvertunt, docentes quæ non oportet, turpis lucri gratia.
 
 
 [Responsory2]
@@ -104,23 +104,23 @@ R. Ideo jurejurando fecit illum Dominus crescere in plebem suam. Alleluia
 
 [Lectio3]
 !Titus 2:1-8
-1 Tu autem loquere quae decent sanam doctrinam:
+1 Tu autem loquere quæ decent sanam doctrinam:
 2 senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 3 anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
 4 ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
 5 prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.
 6 Juvenes similiter hortare ut sobrii sint.
-7 In omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
+7 In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
 8 verbum sanum, irreprehensibile: ut is qui ex adverso est, vereatur, nihil habens malum dicere de nobis.
 
 
 [Responsory3]
 R. Juravit Dominus, et non poenitebit eum:
-* Tu es sacerdos in aeternum secundum ordinem Melchisedech. Alleluia
+* Tu es sacerdos in æternum secundum ordinem Melchisedech. Alleluia
 V. Dixit Dominus Domino meo, sede a dextris meis.
-R. Tu es sacerdos in aeternum secundum ordinem Melchisedech. Alleluia
+R. Tu es sacerdos in æternum secundum ordinem Melchisedech. Alleluia
 &Gloria
-R. Tu es sacerdos in aeternum secundum ordinem Melchisedech. Alleluia
+R. Tu es sacerdos in æternum secundum ordinem Melchisedech. Alleluia
 
 [MM Capitulum]
 !Eccli 44:20
@@ -128,16 +128,16 @@ Non est inventus similis illi in gloria: qui conservavit legem Excelsi. Ideo jur
 $Deo gratias
 _
 V. Justus germinabit sicut lilium
-R. Et florebit in aeternum ante Dominum
+R. Et florebit in æternum ante Dominum
 
 [Lectio4]
 Sermo sancti Maximi Episcopi.
-!Homilia 59, quae est 2. de S, Eusebio Vercellensi.
+!Homilia 59, quæ est 2. de S, Eusebio Vercellensi.
 Ad sancti ac beatissimi Patris nostri N. cujus hodie festa celebramus, laudes~
 addidisse aliquid, decerpsisse est: siquidem virtutum ejus gratia non sermonibus~
 exponenda est, sed operibus comprobanda. Cum enim dicat Scriptura: Gloria patris~
-est filius sapiens: quantae hujus sunt gloriae, qui tantorum filiorum sapientia,~
-et devotione laetatur? In Christo enim Jesu per Evangelium ipse nos genuit.
+est filius sapiens: quantæ hujus sunt gloriæ, qui tantorum filiorum sapientia,~
+et devotione lætatur? In Christo enim Jesu per Evangelium ipse nos genuit.
 
 [Responsory4]
 R. Inveni David, servum meum, oleo sancto meo unxi eum:
@@ -146,10 +146,10 @@ V. Nihil proficiet inimicus in eo, et filius iniquitatis non nocebit ei.
 R. Manus enim mea auxiliabitur ei. Alleluia
 
 [Lectio5]
-Quidquid igitur in hac sancta plebe potest esse virtutis et gratiae, de hoc~
+Quidquid igitur in hac sancta plebe potest esse virtutis et gratiæ, de hoc~
 quasi quodam fonte lucidissimo omnium rivulorum puritas emanavit. Etenim quia~
-castitatis pollebat vigore, quia abstinentiae gloriabatur angustus, quia~
-blandimentis erat praeditus lenitatis, omnium civium in Deum provocavit~
+castitatis pollebat vigore, quia abstinentiæ gloriabatur angustus, quia~
+blandimentis erat præditus lenitatis, omnium civium in Deum provocavit~
 affectum: quia Pontificis administratione fulgebat, plures e discipulis reliquit~
 sui sacerdotii successores.
 
@@ -161,29 +161,29 @@ R. Manus enim mea auxiliabitur ei. Alleluia
 
 [Lectio6]
 Bene et congrue in hac die, quam nobis beati Patris nostri N. ad paradisum~
-transitus exsultabilem reddit, praesentis Psalmi
-versiculum decantavimus In memoria aeterna erit justus. Digne enim in memoriam
+transitus exsultabilem reddit, præsentis Psalmi
+versiculum decantavimus In memoria æterna erit justus. Digne enim in memoriam
 vertitur hominum, qui ad gaudium transiit Angelorum. Dicit sermo divinus: Ne~
 laudes hominem in vita sua: tamquam si diceret: Lauda post vitam, magnifica post~
-consummationem. Duplici enim ex causa utilius est hominum magis memoriae laudem~
-dare, quam vitae; ut illo potissimum tempore merita sanctitatis extollas, quando~
+consummationem. Duplici enim ex causa utilius est hominum magis memoriæ laudem~
+dare, quam vitæ; ut illo potissimum tempore merita sanctitatis extollas, quando~
 nec laudantem adulatio movet, nec laudatum tentet elatio.
 
 [Responsory6]
 R. Iste est qui ante Deum magnas virtutes operatus est, et omnis terra doctrina ejus repleta est:
 * Ipse intercedat pro peccatis omnium populorum. Alleluia
-V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad cælestia regna.
 R. Ipse intercedat pro peccatis omnium populorum.
 &Gloria
 R. Ipse intercedat pro peccatis omnium populorum. Alleluia
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 25:14-23
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Homo peregre~
 proficiscens, vocavit servos suos, et tradidit illis bonis suis. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 9. in Evangelia
 Lectio sancti Evangelii, fratres carissimi, sollicite considerare nos admonet,~
 ne nos, qui plus ceteris in hoc mundo accepisse aliquid cernimur, ab auctore~
@@ -196,15 +196,15 @@ operantes pro apportato lucro remunerat, servum vero a bono opere torpentem~
 damnat.
 
 [Responsory7]
-R. Amavit eum Dominus, et ornavit eum: stolam gloriae induit eum
+R. Amavit eum Dominus, et ornavit eum: stolam gloriæ induit eum
 * Et ad portas paradisi coronavit eum. Alleluia
 V. Induit eum Dominus loricam fidei, et ornavit eum.
 R. Et ad portas paradisi coronavit eum. Alleluia
 
 [Lectio8]
 Quis itaque iste homo est, qui peregre proficiscitur, nisi Redemptor noster, qui~
-in ea carne quam assumpserat, abiit in caelum? Carnis enim locus proprius terra~
-est; quae quasi ad peregrina ducitur, dum per Redemptorem nostrum in caelo~
+in ea carne quam assumpserat, abiit in cælum? Carnis enim locus proprius terra~
+est; quæ quasi ad peregrina ducitur, dum per Redemptorem nostrum in cælo~
 collocatur. Sed homo iste peregre proficiscens, servis suis bona sua tradidit,~
 quia fidelibus suis spiritualia dona concessit. Et uni quidem quinque talenta,~
 alii duo, alii vero commisit unum. Quinque etenim sunt corporis sensus, videlicet: visus, auditus, gustus, odoratus, et tactus. Quinque ergo talentis, donum~
@@ -213,7 +213,7 @@ intellectus et operatio designatur. Unius autem talenti nomine, intellectus~
 tantummodo designatur.
 
 [Responsory8]
-R. Sint lumbi vestri praecincti, et lucernae ardentes in manibus vestris:
+R. Sint lumbi vestri præcincti, et lucernæ ardentes in manibus vestris:
 * Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis. Alleluia
 V. Vigilate ergo, quia nescitis qua hora Dominus vester venturus sit.
 R. Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis. Alleluia
@@ -223,13 +223,13 @@ R. Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nup
 [Lectio9]
 Sed is, qui quinque talenta acceperat, alia quinque lucratus est: quia sunt~
 nonnulli, qui etsi interna ac mystica penetrare nesciunt, pro intentione tamen~
-supernae patriae docent recta quos possunt, de ipsis exterioribus, quae~
+supernæ patriæ docent recta quos possunt, de ipsis exterioribus, quæ~
 acceperunt, duplum talentum portant: dumque se a carnis petulantia, et a~
 terrenarum rerum ambitu, atque a visibilium
 voluptate custodiunt, ab his etiam alios admonendo compescunt. Et sunt nonnulli,~
 qui quasi duobus talentis ditati, intellectum atque operationem percipiunt,~
 subtilia de internis intelligunt, mira in exterioribus operantur. Cumque et~
-intelligendo et operando aliis praedicant, quasi duplicatum de negotio lucrum~
+intelligendo et operando aliis prædicant, quasi duplicatum de negotio lucrum~
 reportant.
 &teDeum
 
@@ -243,12 +243,12 @@ Serve bone * et fidelis, intra in gaudium Domini tui. Alleluia
 [Capitulum Laudes]
 !Sir 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus:~
-et in tempore iracundiae factus est reconciliatio.
+et in tempore iracundiæ factus est reconciliatio.
 $Deo gratias
 _
 R.br. Amavit eum Dominus, et ornavit eum. * Alleluia, alleluia.
 R. Amavit eum Dominus, et ornavit eum. * Alleluia, alleluia.
-V. Stolam gloriae induit eum.
+V. Stolam gloriæ induit eum.
 R. Alleluia, alleluia.
 &Gloria
 R. Amavit eum Dominus, et ornavit eum. * Alleluia, alleluia.
@@ -265,12 +265,12 @@ Euge serve bone * et fidelis, quia in pauca fuisti fidelis, supra multa te~
 constituam, dicit Dominus. Alleluia
 
 [Oratio]
-Da, quaesumus omnipotens Deus: ut beati N. Confessoris tui atque Pontificis~
+Da, quæsumus omnipotens Deus: ut beati N. Confessoris tui atque Pontificis~
 veneranda solemnitas, et devotionem nobis augeat et salutem.
 $Per Dominum.
 
 [Oratio1]
-Exaudi, quaesumus Domine, preces nostras, quas in beati N. Confessoris tui atque~
+Exaudi, quæsumus Domine, preces nostras, quas in beati N. Confessoris tui atque~
 Pontificis solemnitate deferimus: et qui tibi digne meruit famulari, ejus~
 intercedentibus meritis ab omnibus nos absolve peccatis.
 $Per Dominum.
@@ -282,7 +282,7 @@ v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerri illi incensum
 [Capitulum Tertia]
 !Sir 44. c.
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est~
-justus: et in tempore iracundiae factus est reconciliatio.
+justus: et in tempore iracundiæ factus est reconciliatio.
 $Deo gratias
 
 [Responsory Tertia]
@@ -296,7 +296,7 @@ jurejurando fecit illum Dominus crescere in plebem suam.
 $Deo gratias
 
 [Responsory Sexta]
-V. Tu es sacerdos in aeternum.
+V. Tu es sacerdos in æternum.
 R. Secundum ordinem Melchisedech.
 
 [Capitulum Nona]
@@ -310,7 +310,7 @@ V. Justum deduxit Dominus per vias rectas.
 R. Et ostendit illi regnum Dei.
 
 [Ant 3]
-Amavit eum Dominus, * et ornavit eum: stolam gloriae induit eum, et ad portas~
+Amavit eum Dominus, * et ornavit eum: stolam gloriæ induit eum, et ad portas~
 paradisi coronavit eum.
 
 [Versum 3]
@@ -318,7 +318,7 @@ V. Justum deduxit Dominus per vias rectas.
 R. Et ostendit illi regnum Dei.
 
 [LectioE]
-v. Sequentia Sancti Evangelii secundum Matthaeum
+v. Sequentia Sancti Evangelii secundum Matthæum
 !Matt 25:14-23
 25:14 Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua.
 25:15 Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem: et profectus est statim.

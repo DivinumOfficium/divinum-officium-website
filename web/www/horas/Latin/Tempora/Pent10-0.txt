@@ -11,7 +11,7 @@ Symbolum Athanasium
 Fecit Joas * rectum coram Domino cunctis diebus, quibus docuit eum Joiada sacerdos.
 
 [Oratio]
-Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas: multiplica super nos misericordiam tuam; ut ad tua promissa currentes, caelestium bonorum facias esse consortes.
+Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas: multiplica super nos misericordiam tuam; ut ad tua promissa currentes, cælestium bonorum facias esse consortes.
 $Per Dominum
 
 [Lectio1]
@@ -20,8 +20,8 @@ De libro quarto Regum.
 29 Anno undecimo Joram filii Achab, regnavit Ochozias super Judam,
 30 venitque Jehu in Jezrahel. Porro Jezabel, introitu ejus audito, depinxit oculos suos stibio, et ornavit caput suum, et respexit per fenestram
 31 ingredientem Jehu per portam, et ait: Numquid pax potest esse Zambri, qui interfecit dominum suum?
-32 Levavitque Jehu faciem suam ad fenestram, et ait: Quae est ista? Et inclinaverunt se ad eum duo vel tres eunuchi.
-33 At ille dixit eis: Praecipitate eam deorsum: et praecipitaverunt eam, aspersusque est sanguine paries, et equorum ungulae conculcaverunt eam.
+32 Levavitque Jehu faciem suam ad fenestram, et ait: Quæ est ista? Et inclinaverunt se ad eum duo vel tres eunuchi.
+33 At ille dixit eis: Præcipitate eam deorsum: et præcipitaverunt eam, aspersusque est sanguine paries, et equorum ungulæ conculcaverunt eam.
 34 Cumque introgressus esset ut comederet biberetque, ait: Ite, et videte maledictam illam, et sepelite eam: quia filia regis est.
 
 [Responsory1]
@@ -31,7 +31,7 @@ De libro quarto Regum.
 !2 Kgs 9:35-37; 10:1-3
 35 Cumque issent ut sepelirent eam, non invenerunt nisi calvariam, et pedes, et summas manus.
 36 Reversique nuntiaverunt ei. Et ait Jehu: Sermo Domini est, quem locutus est per servum suum Eliam Thesbiten, dicens: In agro Jezrahel comedent canes carnes Jezabel,
-37 et erunt carnes Jezabel sicut stercus super faciem terrae in agro Jezrahel, ita ut praetereuntes dicant: Haeccine est illa Jezabel?
+37 et erunt carnes Jezabel sicut stercus super faciem terræ in agro Jezrahel, ita ut prætereuntes dicant: Hæccine est illa Jezabel?
 1 Erant autem Achab septuaginta filii in Samaria: Scripsit ergo Jehu litteras, et misit in Samariam, ad optimates civitatis, et ad majores natu, et ad nutricios Achab, dicens:
 2 Statim ut acceperitis litteras has, qui habetis filios domini vestri, et currus, et equos, et civitates firmas, et arma,
 3 eligite meliorem, et eum qui vobis placuerit de filiis domini vestri, et eum ponite super solium patris sui, et pugnate pro domo domini vestri.
@@ -42,9 +42,9 @@ De libro quarto Regum.
 [Lectio3]
 !2 Kgs 10:4-7
 4 Timuerunt illi vehementer, et dixerunt: Ecce duo reges non potuerunt stare coram eo, et quomodo nos valebimus resistere?
-5 Miserunt ergo praepositi domus, et praefecti civitatis, et majores natu, et nutricii, ad Jehu, dicentes: Servi tui sumus: quaecumque jusseris faciemus, nec constituemus nobis regem: quaecumque tibi placent, fac.
+5 Miserunt ergo præpositi domus, et præfecti civitatis, et majores natu, et nutricii, ad Jehu, dicentes: Servi tui sumus: quæcumque jusseris faciemus, nec constituemus nobis regem: quæcumque tibi placent, fac.
 6 Rescripsit autem eis litteras secundo, dicens: Si mei estis, et obeditis mihi, tollite capita filiorum domini vestri, et venite ad me hac eadem hora cras in Jezrahel. Porro filii regis, septuaginta viri, apud optimates civitatis nutriebantur.
-7 Cumque venissent litterae ad eos, tulerunt filios regis, et occiderunt septuaginta viros, et posuerunt capita eorum in cophinis, et miserunt ad eum in Jezrahel.
+7 Cumque venissent litteræ ad eos, tulerunt filios regis, et occiderunt septuaginta viros, et posuerunt capita eorum in cophinis, et miserunt ad eum in Jezrahel.
 
 [Responsory3]
 @Tempora/Pent01-1
@@ -52,19 +52,19 @@ De libro quarto Regum.
 [Lectio4]
 Sermo sancti Joannis Chrysostomi.
 !Homilia 25. in Epist. ad Rom.
-Non putemus nos excusationem habituros, si quando delictorum socios invenerimus: nam istud, supplicium magis augebit. Quandoquidem et serpens magis punitus est quam mulier: quemadmodum et mulier plus quam vir. Et Jezabel majores poenas dedit, quam Achab vineae raptor, ipsa quippe universum istud negotium texuerat, regique lapsus occasionem dederat. Igitur et tu quoque si reliquis perditionis causa fueris, graviora patieris, quam qui per te subversi sunt. Neque enim peccare tantum in se perditionis habet, quantum quod reliqui ad peccandum inducuntur.
+Non putemus nos excusationem habituros, si quando delictorum socios invenerimus: nam istud, supplicium magis augebit. Quandoquidem et serpens magis punitus est quam mulier: quemadmodum et mulier plus quam vir. Et Jezabel majores poenas dedit, quam Achab vineæ raptor, ipsa quippe universum istud negotium texuerat, regique lapsus occasionem dederat. Igitur et tu quoque si reliquis perditionis causa fueris, graviora patieris, quam qui per te subversi sunt. Neque enim peccare tantum in se perditionis habet, quantum quod reliqui ad peccandum inducuntur.
 
 [Responsory4]
 @Tempora/Pent01-2:Responsory1
 
 [Lectio5]
-Itaque si quando peccantes viderimus, non solum non impellamus, sed et extrahamus ex ipso malitiae barathro: ne et alienae perditionis poenas demus. Recordemur quoque perpetuo terribilis illius tribunalis, fluminis ignei, vinculorum insolubilium, profundarum tenebrarum, stridorum dentium, venenosique vermis. Sed dices: Benignus est Deus. Ergo haec omnia verba. sunt, et neque punitur dives ille Lazari contemptor, neque fatuae virgines a sponso rejiciuntur? Ergo qui Christum non paverunt, in ignem diabolo praeparatum non abibunt? Ergo qui sordidis est vestibus, non peribit, manus ac pedes vinctus? Qui centum denarios a conservo suo exegit, non tradetur tortoribus? Quod de moechis dictum est, nimirum quod vermis eorum non morietur, et ignis eorum non exstinguetur, verum non erit?
+Itaque si quando peccantes viderimus, non solum non impellamus, sed et extrahamus ex ipso malitiæ barathro: ne et alienæ perditionis poenas demus. Recordemur quoque perpetuo terribilis illius tribunalis, fluminis ignei, vinculorum insolubilium, profundarum tenebrarum, stridorum dentium, venenosique vermis. Sed dices: Benignus est Deus. Ergo hæc omnia verba. sunt, et neque punitur dives ille Lazari contemptor, neque fatuæ virgines a sponso rejiciuntur? Ergo qui Christum non paverunt, in ignem diabolo præparatum non abibunt? Ergo qui sordidis est vestibus, non peribit, manus ac pedes vinctus? Qui centum denarios a conservo suo exegit, non tradetur tortoribus? Quod de moechis dictum est, nimirum quod vermis eorum non morietur, et ignis eorum non exstinguetur, verum non erit?
 
 [Responsory5]
 @Tempora/Pent01-2:Responsory2
 
 [Lectio6]
-Sed minatur ista tantummodo Deus? Utique inquies. Et unde, dic quaeso, tantam rem audes publice loqui, atque ex teipso ferre sententiam? Ego quippe et ex iis quae dixit Deus, et ex iis quae fecit, contrarium probare potero. Quod si propter futura non credis, vel saltem propter ea quae jam facta sunt, crede. Non enim certe minae sunt et verba tantummodo, quae facta sunt et in opus ipsum exierunt. Quis igitur totum orbem inducto diluvio stagnavit, ac grave illud naufragium omnimodamque generis nostri perditionem effecit? Quis deinde fulmina illa, telaque flammantia super terram Sodomorum demisit? Quis universum Aegypti exercitum in mare demersit? Quis synagogam Abiron combussit? Quis septuaginta illa millia propter Davidis peccatum uno temporis momento peste occidit? Nonne haec omnia et alia Deus illis intulit?
+Sed minatur ista tantummodo Deus? Utique inquies. Et unde, dic quæso, tantam rem audes publice loqui, atque ex teipso ferre sententiam? Ego quippe et ex iis quæ dixit Deus, et ex iis quæ fecit, contrarium probare potero. Quod si propter futura non credis, vel saltem propter ea quæ jam facta sunt, crede. Non enim certe minæ sunt et verba tantummodo, quæ facta sunt et in opus ipsum exierunt. Quis igitur totum orbem inducto diluvio stagnavit, ac grave illud naufragium omnimodamque generis nostri perditionem effecit? Quis deinde fulmina illa, telaque flammantia super terram Sodomorum demisit? Quis universum Aegypti exercitum in mare demersit? Quis synagogam Abiron combussit? Quis septuaginta illa millia propter Davidis peccatum uno temporis momento peste occidit? Nonne hæc omnia et alia Deus illis intulit?
 
 [Responsory6]
 @Tempora/Pent01-2:Responsory3
@@ -72,27 +72,27 @@ Sed minatur ista tantummodo Deus? Utique inquies. Et unde, dic quaeso, tantam re
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luc 18:9-14
-In illo tempore: Dixit Jesus ad quosdam, qui in se confidebant tamquam justi, et aspernabantur ceteros, parabolam istam: Duo homines ascenderunt in templum ut orarent, unus pharisaeus, et alter publicanus. Et reliqua.
+In illo tempore: Dixit Jesus ad quosdam, qui in se confidebant tamquam justi, et aspernabantur ceteros, parabolam istam: Duo homines ascenderunt in templum ut orarent, unus pharisæus, et alter publicanus. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Sermo 36. de Verbis Domini, circa medium.
-Diceret saltem pharisaeus: Non sum sicut multi homines. Quid est, ceteri homines, nisi omnes praeter ipsum? Ego, inquit, justus sum, ceteri peccatores. Non sum sicut ceteri homines, injusti, raptores, adulteri. Et ecce tibi ex vicino publicano majoris tumoris occasio. Sicut, inquit, publicanus iste. Ego, inquit, solus sum: iste de ceteris est. Non sum, inquit, talis, qualis iste, per justitias meas, quibus iniquus non sum.
+Diceret saltem pharisæus: Non sum sicut multi homines. Quid est, ceteri homines, nisi omnes præter ipsum? Ego, inquit, justus sum, ceteri peccatores. Non sum sicut ceteri homines, injusti, raptores, adulteri. Et ecce tibi ex vicino publicano majoris tumoris occasio. Sicut, inquit, publicanus iste. Ego, inquit, solus sum: iste de ceteris est. Non sum, inquit, talis, qualis iste, per justitias meas, quibus iniquus non sum.
 
 [Responsory7]
 @Tempora/Pent01-3:Responsory1
 
 [Lectio8]
-Jejuno bis in sabbato: decimas do omnium quae possideo. Quid rogaverit Deum, quaere in verbis ejus, nihil invenies. Ascendit orare: noluit Deum rogare, sed se laudare. Parum est, non Deum rogare, sed se laudare: insuper et roganti insultare. Publicanus autem de longinquo stabat, et Deo tamen ipse appropinquabat: cordis conscientia eum removebat, pietas applicabat. Publicanus autem de longinquo stabat, sed Dominus eum de propinquo attendebat.
+Jejuno bis in sabbato: decimas do omnium quæ possideo. Quid rogaverit Deum, quære in verbis ejus, nihil invenies. Ascendit orare: noluit Deum rogare, sed se laudare. Parum est, non Deum rogare, sed se laudare: insuper et roganti insultare. Publicanus autem de longinquo stabat, et Deo tamen ipse appropinquabat: cordis conscientia eum removebat, pietas applicabat. Publicanus autem de longinquo stabat, sed Dominus eum de propinquo attendebat.
 
 [Responsory8]
 @Tempora/Pent01-0:Responsory8
 
 [Lectio9]
-Excelsus enim Dominus, et humilia respicit: excelsos autem, qualis erat ille pharisaeus, a longe cognoscit. Excelsa quidem Deus a longe cognoscit, sed non ignoscit. Adhuc audi humilitatem publicani. Parum est, quia de longinquo stabat: nec oculos suos ad caelum levabat: ut aspiceretur, non aspiciebat: respicere sursum non audebat: premebat conscientia, spes sublevabat. Adhuc audi: Percutiebat pectus suum. Poenas a se ipso exigebat: propterea Dominus confitenti parcebat. Percutiebat pectus suum, dicens: Domine propitius esto mihi peccatori. Ecce qui rogat. Quid miraris, si Deus ignoscit, quando ipse agnoscit?
+Excelsus enim Dominus, et humilia respicit: excelsos autem, qualis erat ille pharisæus, a longe cognoscit. Excelsa quidem Deus a longe cognoscit, sed non ignoscit. Adhuc audi humilitatem publicani. Parum est, quia de longinquo stabat: nec oculos suos ad cælum levabat: ut aspiceretur, non aspiciebat: respicere sursum non audebat: premebat conscientia, spes sublevabat. Adhuc audi: Percutiebat pectus suum. Poenas a se ipso exigebat: propterea Dominus confitenti parcebat. Percutiebat pectus suum, dicens: Domine propitius esto mihi peccatori. Ecce qui rogat. Quid miraris, si Deus ignoscit, quando ipse agnoscit?
 &teDeum
 
 [Ant 2]
-Stans a longe * publicanus, nolebat oculos ad caelum levare, sed percutiebat pectus suum dicens: Deus, propitius esto mihi peccatori.
+Stans a longe * publicanus, nolebat oculos ad cælum levare, sed percutiebat pectus suum dicens: Deus, propitius esto mihi peccatori.
 
 [Ant 3]
 Descendit * hic justificatus in domum suam ab illo quia omnis qui se exaltat, humiliabitur: et qui se humiliat, exaltabitur.

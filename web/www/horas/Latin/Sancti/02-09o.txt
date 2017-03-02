@@ -5,15 +5,15 @@ S. Apollonia virgin and martyr;;Simplex;;1.1;;vide C6b
 vide C6b;
 
 [Oratio]
-Deus, qui inter cetera potentiae tuae miracula etiam in sexu fragili victoriam~
-martyrii contulisti: concede propitius; ut qui beatae Apolloniae Virginis et~
-Martyris tuae natalitia colimus, per ejus ad te exempla gradiamur.
+Deus, qui inter cetera potentiæ tuæ miracula etiam in sexu fragili victoriam~
+martyrii contulisti: concede propitius; ut qui beatæ Apolloniæ Virginis et~
+Martyris tuæ natalitia colimus, per ejus ad te exempla gradiamur.
 $Per Dominum
 
 [Lectio93]
-Apollonia virgo Alexandrina, sub Decio imperatore, cum ingravescente jam aetate~
+Apollonia virgo Alexandrina, sub Decio imperatore, cum ingravescente jam ætate~
 ad idola sisteretur, ut eis venerationem adhiberet: illis contemptis, Jesum~
-Christum verum Deum colendum esse praedicabat. Quamobrem omnes ei contusi sunt,~
+Christum verum Deum colendum esse prædicabat. Quamobrem omnes ei contusi sunt,~
 et evulsi dentes; ac, nisi Christum detestata deos coleret, accenso rogo~
 combusturos vivam minati sunt impii carnifices. Quibus illa, se quamvis mortem~
 pro Jesu Christi fide subituram, respondit. Itaque comprehensa ut combureretur,~

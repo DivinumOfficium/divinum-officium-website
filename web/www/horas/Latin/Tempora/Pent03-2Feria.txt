@@ -9,17 +9,17 @@ Oratio Dominica
 
 [Responsory1]
 R. Domine, si conversus fuerit populus tuus, et oraverit ad sanctuarium tuum:
-* Tu exaudies de caelo, Domine, et libera eos de manibus inimicorum suorum.
+* Tu exaudies de cælo, Domine, et libera eos de manibus inimicorum suorum.
 V. Si peccaverit in te populus tuus, et conversus egerit poenitentiam, veniensque oraverit in isto loco.
-R. Tu exaudies de caelo, Domine, et libera eos de manibus inimicorum suorum.
+R. Tu exaudies de cælo, Domine, et libera eos de manibus inimicorum suorum.
 
 [Lectio2]
 @Tempora/Pent03-2
 
 [Responsory2]
-R. Factum est, dum tolleret Dominus Eliam per turbinem in caelum,
+R. Factum est, dum tolleret Dominus Eliam per turbinem in cælum,
 * Eliseus clamabat, dicens: Pater mi, pater mi, currus Isra�l, et auriga ejus.
-V. Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus et equi ignei diviserunt utrumque, et ascendit Elias per turbinem in caelum.
+V. Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus et equi ignei diviserunt utrumque, et ascendit Elias per turbinem in cælum.
 R. Eliseus clamabat, dicens: Pater mi, pater mi, currus Isra�l, et auriga ejus.
 
 [Lectio3]
@@ -27,8 +27,8 @@ R. Eliseus clamabat, dicens: Pater mi, pater mi, currus Isra�l, et auriga ejus.
 
 [Responsory3]
 R. Ego te tuli de domo patris tui, dicit Dominus, et posui te pascere gregem populi mei:
-* Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
+* Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in æternum.
 V. Fecique tibi nomen grande, juxta nomen magnorum qui sunt in terra: et requiem dedi tibi ab omnibus inimicis tuis.
-R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
+R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in æternum.
 &Gloria
-R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
+R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in æternum.

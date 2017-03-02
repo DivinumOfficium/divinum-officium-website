@@ -98,15 +98,15 @@ Prudentes Virgines * aptate vestras lampades: ecce sponsus venit, exite obviam e
 
 [Versum 2]
 V. Adducentur Regi Virgines post eam.
-R. Proximae ejus afferentur tibi.
+R. Proximæ ejus afferentur tibi.
 
 [Oratio]
-Da nobis, quaesumus Domine Deus noster, sanctarum Virginum et Martyrum tuarum N. et N. palmas incessabili devotione venerari: ut quas digna mente non possumus celebrare, humilibus saltem frequentemus obsequiis.
+Da nobis, quæsumus Domine Deus noster, sanctarum Virginum et Martyrum tuarum N. et N. palmas incessabili devotione venerari: ut quas digna mente non possumus celebrare, humilibus saltem frequentemus obsequiis.
 $Per Dominum
 
 [Lectio Prima]
 !Sir 51:13-14
-v. Domine Deus meus, exaltasti super terram habitationem meam, et pro morte defluente deprecata sum. Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum sine adjutorio.
+v. Domine Deus meus, exaltasti super terram habitationem meam, et pro morte defluente deprecata sum. Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meæ, et in tempore superborum sine adjutorio.
 
 [Capitulum Tertia]
 @Commune/C6:Capitulum Vespera

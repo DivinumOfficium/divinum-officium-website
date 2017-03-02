@@ -1,11 +1,11 @@
 [Lectio1]
 De libro Ecclesiastici.
 !Sir 1:22-26
-22 Corona sapientiae timor Domini, replens pacem et salutis fructum:
+22 Corona sapientiæ timor Domini, replens pacem et salutis fructum:
 23 et vidit, et dinumeravit eam: utraque autem sunt dona Dei.
-24 Scientiam et intellectum prudentiae sapientia compartietur, et gloriam tenentium se exaltat.
-25 Radix sapientiae est timere Dominum, et rami illius longaevi.
-26 In thesauris sapientiae intellectus et scientiae religiositas: execratio autem peccatoribus sapientia.
+24 Scientiam et intellectum prudentiæ sapientia compartietur, et gloriam tenentium se exaltat.
+25 Radix sapientiæ est timere Dominum, et rami illius longævi.
+26 In thesauris sapientiæ intellectus et scientiæ religiositas: execratio autem peccatoribus sapientia.
 
 
 [Responsory1]
@@ -17,9 +17,9 @@ De libro Ecclesiastici.
 28 nam qui sine timore est non poterit justificari: iracundia enim animositatis illius subversio illius est.
 29 Usque in tempus sustinebit patiens, et postea redditio jucunditatis.
 30 Bonus sensus usque in tempus abscondet verba illius, et labia multorum enarrabunt sensum illius.
-31 In thesauris sapientiae significatio disciplinae:
+31 In thesauris sapientiæ significatio disciplinæ:
 32 execratio autem peccatori cultura Dei.
-33 Fili, concupiscens sapientiam, conserva justitiam, et Deus praebebit illam tibi.
+33 Fili, concupiscens sapientiam, conserva justitiam, et Deus præbebit illam tibi.
 
 
 [Responsory2]
@@ -31,8 +31,8 @@ De libro Ecclesiastici.
 35 fides et mansuetudo, et adimplebit thesauros illius.
 36 Ne sis incredibilis timori Domini, et ne accesseris ad illum duplici corde.
 37 Ne fueris hypocrita in conspectu hominum, et non scandalizeris in labiis tuis.
-38 Attende in illis, ne forte cadas, et adducas animae tuae inhonorationem:
-39 et revelet Deus absconsa tua, et in medio synagogae elidat te:
+38 Attende in illis, ne forte cadas, et adducas animæ tuæ inhonorationem:
+39 et revelet Deus absconsa tua, et in medio synagogæ elidat te:
 40 quoniam accessisti maligne ad Dominum, et cor tuum plenum est dolo et fallacia.
 
 

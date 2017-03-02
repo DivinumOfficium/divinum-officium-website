@@ -11,10 +11,10 @@ $Qui tecum
 [Lectio1]
 De Jeremia Propheta.
 !Jer 31:15-17
-15 Haec dicit Dominus: Vox in excelso audita est lamentationis: luctus, et~
+15 Hæc dicit Dominus: Vox in excelso audita est lamentationis: luctus, et~
 fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non~
 sunt.
-16 Haec dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia~
+16 Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia~
 est merces operi tuo, ait Dominus, et revertentur de terra inimici:
 17 et est spes novissimis tuis, ait Dominus, et revertentur filii ad terminos~
 suos.
@@ -33,7 +33,7 @@ R. Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
 juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
 19 Postquam enim convertisti me, egi p�nitentiam: et postquam ostendisti mihi,~
 percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium~
-adolescentiae meae.
+adolescentiæ meæ.
 20 Si filius honorabilis mihi Ephraim, si puer delicatus ! quia ex quo locutus~
 sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum:~
 miserans miserebor ejus, ait Dominus.
@@ -53,15 +53,15 @@ sustinete modicum tempus, donec impleatur numerus fratrum vestrorum.
 in qua ambulasti: revertere, virgo Isra�l, revertere ad civitates tuas istas.
 22 Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super~
 terram: femina circumdabit virum.
-23 Haec dicit Dominus exercituum, Deus Isra�l: Adhuc dicent verbum istud in~
+23 Hæc dicit Dominus exercituum, Deus Isra�l: Adhuc dicent verbum istud in~
 terra Juda et in urbibus ejus, cum convertero captivitatem eorum: Benedicat tibi~
-Dominus, pulchritudo justitiae, mons sanctus:
+Dominus, pulchritudo justitiæ, mons sanctus:
 
 [Responsory3]
-R. Adoraverunt viventem in saecula saeculorum,
+R. Adoraverunt viventem in sæcula sæculorum,
 * Mittentes coronas suas ante thronum Domini Dei sui.
 V. Et ceciderunt in conspectu throni in facies suas: et benedixerunt viventem in~
-saecula saeculorum.
+sæcula sæculorum.
 R. Mittentes coronas suas ante thronum Domini Dei sui.
 &Gloria
 R. Mittentes coronas suas ante thronum Domini Dei sui.

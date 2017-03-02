@@ -1,7 +1,7 @@
 [Lectio1]
 De libro Ecclesiastici. 
 !Sir 3:1-4
-1 Filii sapientiae ecclesia justorum, et natio illorum obedientia et dilectio.
+1 Filii sapientiæ ecclesia justorum, et natio illorum obedientia et dilectio.
 2 Judicium patris audite, filii, et sic facite, ut salvi sitis.
 3 Deus enim honoravit patrem in filiis: et judicium matris exquirens, firmavit in filios.
 4 Qui diligit Deum exorabit pro peccatis, et continebit se ab illis, et in oratione dierum exaudietur.
@@ -13,7 +13,7 @@ De libro Ecclesiastici.
 [Lectio2]
 !Sir 3:5-8
 5 Et sicut qui thesaurizat, ita et qui honorificat matrem suam.
-6 Qui honorat patrem suum jucundabitur in filiis, et in die orationis suae exaudietur.
+6 Qui honorat patrem suum jucundabitur in filiis, et in die orationis suæ exaudietur.
 7 Qui honorat patrem suum vita vivet longiore, et qui obedit patri refrigerabit matrem.
 8 Qui timet Dominum honorat parentes, et quasi dominis serviet his qui se genuerunt.
 

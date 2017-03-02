@@ -4,7 +4,7 @@
 Commune Virginum Tempore Paschale
 
 [Responsory10]
-R. Veni Sponsa Christi, accipe coronam, quam tibi Dominus praeparavit in aeternum: pro cujus amore sanguinem tuum fudisti,
+R. Veni Sponsa Christi, accipe coronam, quam tibi Dominus præparavit in æternum: pro cujus amore sanguinem tuum fudisti,
 * Et cum Angelis in paradisum introisti. Alleluia
 V. Veni electa mea, et ponam in te thronum meum, quia concupivit Rex speciem tuam.
 R. Et cum Angelis in paradisum introisti. Alleluia
@@ -17,14 +17,14 @@ R. Quia concupivit Rex speciem tuam, alleluia.
 
 [Responsory2]
 R. Diffusa est gratia in labiis tuis:
-* Propterea benedixit te Deus in aeternum, alleluia.
+* Propterea benedixit te Deus in æternum, alleluia.
 V. Specie tua et pulchritudine tua intende, prospere procede, et regna.
-R. Propterea benedixit te Deus in aeternum, alleluia.
+R. Propterea benedixit te Deus in æternum, alleluia.
 
 [Responsory3]
 R. Specie tua et pulchritudine tua
 * Intende, prospere procede, et regna, alleluia.
-V. Diffusa est gratia in labiis tuis, propterea benedixit te Deus in aeternum.
+V. Diffusa est gratia in labiis tuis, propterea benedixit te Deus in æternum.
 R. Intende, prospere procede, et regna, alleluia.
 &Gloria
 R. Intende, prospere procede, et regna, alleluia.
@@ -37,20 +37,20 @@ R. Et deducet te mirabiliter dextera tua, alleluia.
 
 [Responsory5]
 R. Dilexisti justitiam, et odisti iniquitatem:
-* Propterea unxit te Deus, Deus tuus, oleo laetitiae, alleluia.
+* Propterea unxit te Deus, Deus tuus, oleo lætitiæ, alleluia.
 V. Propter veritatem, et mansuetudinem, et justitiam.
-R. Propterea unxit te Deus, Deus tuus, oleo laetitiae, alleluia.
+R. Propterea unxit te Deus, Deus tuus, oleo lætitiæ, alleluia.
 
 [Responsory6]
-R. Afferentur Regi virgines post eam, proximae ejus
-* Afferentur tibi in laetitia et exsultatione, alleluia.
+R. Afferentur Regi virgines post eam, proximæ ejus
+* Afferentur tibi in lætitia et exsultatione, alleluia.
 V. Specie tua et pulchritudine tua intende, prospere procede, et regna.
-R. Afferentur tibi in laetitia et exsultatione, alleluia.
+R. Afferentur tibi in lætitia et exsultatione, alleluia.
 &Gloria
-R. Afferentur tibi in laetitia et exsultatione, alleluia.
+R. Afferentur tibi in lætitia et exsultatione, alleluia.
 
 [Responsory7]
-R. Haec est Virgo sapiens, quam Dominus vigilantem invenit, quae acceptis lampadibus, sumpsit secum oleum:
+R. Hæc est Virgo sapiens, quam Dominus vigilantem invenit, quæ acceptis lampadibus, sumpsit secum oleum:
 * Et veniente Domino, introivit cum eo ad nuptias, alleluia.
 V. Media nocte clamor factus est: Ecce sponsus venit, exite obviam ei.
 R. Et veniente Domino, introivit cum eo ad nuptias, alleluia.
@@ -65,5 +65,5 @@ R. Ecce sponsus venit, exite obviam ei, alleluia.
 
 [Capitulum Nona1]
 !Sir 51:13-14
-v. Domine Deus meus, exaltasti super terram habitationem meam, et pro morte defluente deprecata sum. Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum sine adjutorio.
+v. Domine Deus meus, exaltasti super terram habitationem meam, et pro morte defluente deprecata sum. Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meæ, et in tempore superborum sine adjutorio.
 $Deo gratias

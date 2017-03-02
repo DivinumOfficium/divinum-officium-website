@@ -1,7 +1,7 @@
 [Lectio1]
 De libro Ecclesiastici.
 !Sir 2:1-3
-1 Fili, accedens ad servitutem Dei sta in justitia et timore, et praepara animam tuam ad tentationem.
+1 Fili, accedens ad servitutem Dei sta in justitia et timore, et præpara animam tuam ad tentationem.
 2 Deprime cor tuum, et sustine: inclina aurem tuam, et suscipe verba intellectus: et ne festines in tempore obductionis.
 3 Sustine sustentationes Dei: conjungere Deo, et sustine, ut crescat in novissimo vita tua.
 

@@ -16,7 +16,7 @@ De libro quarto Regum.
 
 [Lectio2]
 !2 Kgs 12:4-5
-4 Dixitque Joas ad sacerdotes: Omnem pecuniam sanctorum, quae illata fuerit in templum Domini a praetereuntibus, quae offertur pro pretio animae, et quam sponte et arbitrio cordis sui inferunt in templum Domini:
+4 Dixitque Joas ad sacerdotes: Omnem pecuniam sanctorum, quæ illata fuerit in templum Domini a prætereuntibus, quæ offertur pro pretio animæ, et quam sponte et arbitrio cordis sui inferunt in templum Domini:
 5 accipiant illam sacerdotes juxta ordinem suum, et instaurent sartatecta domus, si quid necessarium viderint instauratione.
 
 [Responsory2]

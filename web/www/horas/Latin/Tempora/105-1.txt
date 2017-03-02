@@ -1,11 +1,11 @@
 [Lectio1Tridentina]
-De libro secundo Machabaeorum
+De libro secundo Machabæorum
 !2 Mac 7:7-12
 7 Mortuo itaque illo primo hoc modo, sequentem deducebant ad illudendum: et cute capitis ejus cum capillis abstracta, interrogabant si manducaret, prius quam toto corpore per membra singula puniretur.
 8 At ille respondens patria voce, dixit: Non faciam. Propter quod et iste, sequenti loco, primi tormenta suscepit:
-9 et in ultimo spiritu constitutus, sic ait: Tu quidem scelestissime in praesenti vita nos perdis: sed Rex mundi defunctos nos pro suis legibus in aeternae vitae resurrectione suscitabit.
+9 et in ultimo spiritu constitutus, sic ait: Tu quidem scelestissime in præsenti vita nos perdis: sed Rex mundi defunctos nos pro suis legibus in æternæ vitæ resurrectione suscitabit.
 10 Post hunc tertius illuditur, et linguam postulatus cito protulit, et manus constanter extendit:
-11 et cum fiducia ait: E caelo ista possideo, sed propter Dei leges nunc haec ipsa despicio, quoniam ab ipso me ea recepturum spero:
+11 et cum fiducia ait: E cælo ista possideo, sed propter Dei leges nunc hæc ipsa despicio, quoniam ab ipso me ea recepturum spero:
 12 ita ut rex, et qui cum ipso erant, mirarentur adolescentis animum, quod tamquam nihilum duceret cruciatus.
 
 [Lectio1]
@@ -23,7 +23,7 @@ De libro secundo Machabaeorum
 15 Et cum admovissent quintum, vexabant eum. At ille respiciens in eum,
 16 dixit: Potestatem inter homines habens, cum sis corruptibilis, facis quod vis: noli autem putare genus nostrum a Deo esse derelictum:
 17 Tu autem patienter sustine, et videbis magnam potestatem ipsius, qualiter te et semen tuum torquebit.
-18 Post hunc ducebant sextum, et is, mori incipiens, sic ait: Noli frustra errare: nos enim propter nosmetipsos haec patimur, peccantes in Deum nostrum, et digna admiratione facta sunt in nobis:
+18 Post hunc ducebant sextum, et is, mori incipiens, sic ait: Noli frustra errare: nos enim propter nosmetipsos hæc patimur, peccantes in Deum nostrum, et digna admiratione facta sunt in nobis:
 19 Tu autem ne existimes tibi impune futurum, quod contra Deum pugnare tentaveris.
 
 [Lectio2]
@@ -36,8 +36,8 @@ De libro secundo Machabaeorum
 
 [Lectio3Tridentina]
 !2 Mac 7:20-23
-20 Supra modum autem mater mirabilis, et bonorum memoria digna, quae pereuntes septem filios sub unius diei tempore conspiciens, bono animo ferebat propter spem quam in Deum habebat:
-21 singulos illorum hortabatur voce patria fortiter, repleta sapientia: et, femineae cogitationi masculinum animum inserens,
+20 Supra modum autem mater mirabilis, et bonorum memoria digna, quæ pereuntes septem filios sub unius diei tempore conspiciens, bono animo ferebat propter spem quam in Deum habebat:
+21 singulos illorum hortabatur voce patria fortiter, repleta sapientia: et, femineæ cogitationi masculinum animum inserens,
 22 dixit ad eos: Nescio qualiter in utero meo apparuistis, neque enim ego spiritum et animam donavi vobis et vitam, et singulorum membra non ego ipsa compegi:
 23 sed enim mundi Creator, qui formavit hominis nativitatem, quique omnium invenit originem, et spiritum vobis iterum cum misericordia reddet et vitam, sicut nunc vosmetipsos despicitis propter leges ejus.
 

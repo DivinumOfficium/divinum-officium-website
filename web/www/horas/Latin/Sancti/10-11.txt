@@ -1,8 +1,8 @@
 [Rank]
-Maternitatis Beatae Mariae Virginis;;Duplex 2 classis;;5.1;;ex C11
+Maternitatis BeatÃ¦ MariÃ¦ Virginis;;Duplex 2 classis;;5.1;;ex C11
 
 [Rank1960]
-Maternitatis Beatae Mariae Virginis;;Duplex 2 classis;;5;;ex C11
+Maternitatis BeatÃ¦ MariÃ¦ Virginis;;Duplex 2 classis;;5;;ex C11
 
 [Rule]
 ex C11;
@@ -12,11 +12,11 @@ Antiphonas horas
 Doxology=Nat
 
 [Ant Vespera]
-Beata es, * Virgo Maria, quae omnium portasti Creatorem.;;109
-Genuisti, * qui te fecit, et in aeternum permanes Virgo.;;112
+Beata es, * Virgo Maria, quÃ¦ omnium portasti Creatorem.;;109
+Genuisti, * qui te fecit, et in Ã¦ternum permanes Virgo.;;112
 Cum essem parvula, * placui Altissimo et de meis visceribus genui Deum et hominem.;;121
-Benedicta filia * tu a Domino, quia per te fructum vitae communicavimus.;;126
-Viderunt eam * filiae Sion, et beatam dixerunt, et reginae laudaverunt eam.;;147
+Benedicta filia * tu a Domino, quia per te fructum vitÃ¦ communicavimus.;;126
+Viderunt eam * filiÃ¦ Sion, et beatam dixerunt, et reginÃ¦ laudaverunt eam.;;147
 
 [Capitulum Vespera]
 !Sir 24:12-13
@@ -28,14 +28,14 @@ V. Benedicta tu in mulieribus.
 R. Et benedictus fructus ventris tui.
 
 [Ant 1]
-Cum jucunditate * Maternitatem Beatae Mariae semper Virginis celebremus.
+Cum jucunditate * Maternitatem BeatÃ¦ MariÃ¦ semper Virginis celebremus.
 
 [Oratio]
 Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscipere voluísti: præsta supplicibus tuis: ut qui vere eam Genitricem Dei crédimus, ejus apud te intercessiónibus adjuvemur.
 $Per eumdem
 
 [Invit]
-Maternitatem Beatae Mariae Virginis celebremus: * Christum eius Filium adoremus Dominum.
+Maternitatem BeatÃ¦ MariÃ¦ Virginis celebremus: * Christum eius Filium adoremus Dominum.
 
 [Hymnus Matutinum]
 v. Cæli Redémptor prætulit
@@ -68,45 +68,45 @@ Amen.
 De libro Ecclesiatici
 !Sir 24:5-11
 5 Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam.
-6 Ego feci in caelis ut oriretur lumen indeficiens, et sicut nebula texi omnem terram.
+6 Ego feci in cÃ¦lis ut oriretur lumen indeficiens, et sicut nebula texi omnem terram.
 7 Ego in altissimis habitavi, et thronus meus in columna nubis.
-8 Gyrum caeli circuivi sola, et profundum abyssi penetravi: in fluctibus maris ambulavi.
+8 Gyrum cÃ¦li circuivi sola, et profundum abyssi penetravi: in fluctibus maris ambulavi.
 9 Et in omni terra steti: et in omni populo,
 10 et in omni gente primatum habui:
-11 et omnium excellentium et humilium corda virtute calcavi. Et in his omnibus requiem quaesivi, et in hereditate Domini morabor.
+11 et omnium excellentium et humilium corda virtute calcavi. Et in his omnibus requiem quÃ¦sivi, et in hereditate Domini morabor.
 
 [Responsory1]
 R. Felix es, sacra Virgo Maria, et omni laude dignissima:
-* Ex qua ortus es Sol justitiae, Christus Deus noster, per quem salvati et redempti sumus.
-V. Maternitatem Beatae Mariae Virginis cum gaudio celebremus.
-R. Ex qua ortus es Sol justitiae, Christus Deus noster, per quem salvati et redempti sumus.
+* Ex qua ortus es Sol justitiÃ¦, Christus Deus noster, per quem salvati et redempti sumus.
+V. Maternitatem BeatÃ¦ MariÃ¦ Virginis cum gaudio celebremus.
+R. Ex qua ortus es Sol justitiÃ¦, Christus Deus noster, per quem salvati et redempti sumus.
 
 [Lectio2]
 !Sir 24:12-16
-12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
-13 Et dixit mihi: In Jacob inhabita, et in Israel hereditare, et in electis meis mitte radices.
-14 Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam: et in habitatione sancta coram ipso ministravi.
+12 Tunc prÃ¦cepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
+13 Et dixit mihi: In Jacob inhabita, et in IsrÃ¦l hereditare, et in electis meis mitte radices.
+14 Ab initio et ante sÃ¦cula creata sum, et usque ad futurum sÃ¦culum non desinam: et in habitatione sancta coram ipso ministravi.
 15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
 16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 
 [Responsory2]
 R. Sine tactu pudoris inventa est Mater Salvatoris:
-* Qui caelum terramque regit, in tua se clausit viscera factus homo.
+* Qui cÃ¦lum terramque regit, in tua se clausit viscera factus homo.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Qui caelum terramque regit, in tua se clausit viscera factus homo.
+R. Qui cÃ¦lum terramque regit, in tua se clausit viscera factus homo.
 
 [Lectio3]
 !Sir 24:17-23
 17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
-18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
+18 quasi palma exaltata sum in Cades, et quasi plantatio rosÃ¦ in Jericho:
 19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
 20 Sicut cinnamomum et balsamum aromatizans odorem dedi; quasi myrrha electa dedi suavitatem odoris:
 21 et quasi storax, et galbanus, et ungula, et gutta, et quasi Libanus non incisus vaporavi habitationem meam, et quasi balsamum non mistum odor meus.
-22 Ego quasi terebinthus extendi ramos meos, et rami mei honoris et gratiae.
+22 Ego quasi terebinthus extendi ramos meos, et rami mei honoris et gratiÃ¦.
 23 Ego quasi vitis fructificavi suavitatem odoris: et flores mei fructus honoris et honestatis.
 
 [Responsory3]
-R. Multae filiae congregaverunt divitias, tu supergressa es universas:
+R. MultÃ¦ filiÃ¦ congregaverunt divitias, tu supergressa es universas:
 * Speciosa facta es et suavis in deliciis tuis, Sancta Dei Genitrix.
 V. Sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam Maternitatem.
 R. Speciosa facta es et suavis in deliciis tuis, Sancta Dei Genitrix.
@@ -114,35 +114,35 @@ R. Speciosa facta es et suavis in deliciis tuis, Sancta Dei Genitrix.
 R. Speciosa facta es et suavis in deliciis tuis, Sancta Dei Genitrix.
 
 [Lectio4]
-Sermo Sancti Leonis Papae
+Sermo Sancti Leonis PapÃ¦
 !Serm. 1 de Nativitate Domini
 Virgo regia Davídicæ stirpis elígitur, quæ sacro gravidanda fœtu divinam humanamque prolem prius conciperet mente quam corpore: et ne superni ignara consílii ad inusitatos pavéret affatus, quod in ea operándum erat a Spíritu Sancto, colloquio didicit angelico, nec damnum credidit pudoris Dei Génitrix mox futura.  Cur enim de conceptiónis novitate despéret, cui efficiéntia de Altíssimi virtúte promittitur?  Confirmátur credéntis fides etiam præeuntis attestatióne miraculi.  Donátur Elisabeth inopináta fœcunditas, ut qui conceptum dederat sterili, datúrus non dubitarétur et Virgini.  Verbum ígitur Dei Fílius, qui in principio erat apud Deum, per quem facta sunt ómnia, et sine quo factum est nihil, propter liberándum hóminem ab æterna morte, factus est homo.
 
 [Responsory4]
-R. Gloriosae Virginis Mariae Maternitatem dignissimam recolamus:
-* Cujus Dominus humilitatem respexit, quae Angelo nuntiante concepit Salvatorem mundi.
+R. GloriosÃ¦ Virginis MariÃ¦ Maternitatem dignissimam recolamus:
+* Cujus Dominus humilitatem respexit, quÃ¦ Angelo nuntiante concepit Salvatorem mundi.
 V. Christo canamus gloriam in hac sacra solemnitate mirabilis Genitricis Dei.
-R. Cujus Dominus humilitatem respexit, quae Angelo nuntiante concepit Salvatorem mundi.
+R. Cujus Dominus humilitatem respexit, quÃ¦ Angelo nuntiante concepit Salvatorem mundi.
 
 [Lectio5]
 !Serm. 2 de Nativitate Domini
 Ingréditur hæc ínfima Jesus Christus Dóminus noster de cæli sede descendens, et a paterna glória non recédens, novo ordine, nova nativitáte generatus.  Novo ordine, quia invisibilis in suis, visibilis factus est in nostris: incomprehensibilis vóluit comprehéndi: ante témpora manens, esse cœpit in témpore.  Nova autem nativitáte génitus est: concéptus a Vírgine, natus ex Vírgine, sine paternæ carnis concupiscéntia, sine maternæ integritátis injuria: quia futurum hóminum Salvatórem talis ortus decebat, qui et in se haberet humanæ substantiæ natúram, et humanæ carnis inquinaménta nescíret.  Origo dissímilis, sed natúra consímilis; humano usu et consuetúdine, quod crédimus, caret: sed divina potestate subnixum est, quod Virgo concéperit, Virgo pepérerit, Virgo permanserit.
 
 [Responsory5]
-R. Benedicta filia tu a Domino, quia per te fructum vitae communicavimus:
+R. Benedicta filia tu a Domino, quia per te fructum vitÃ¦ communicavimus:
 * Sola sine exemplo placuisti Domino nostro Jesu Christo.
 V. Nostras deprecationes ne despicias, in necessitatibus nostris, sed a periculis cunctis libera nos, sancta Dei Genitrix.
 R. Sola sine exemplo placuisti Domino nostro Jesu Christo.
 
 [Lectio6]
-Ex actis Pii Papae undecimi
+Ex actis Pii PapÃ¦ undecimi
 _
 Quum anno millesimo nongentésimo trigesimo primo, universo orbe catholico plaudente, sollemnia celebraréntur expleti sæculi décimi quinti, postquam in Ephesina synodo beáta Maria Virgo, de qua natus est Jesus, contra Nestorii hæresim Mater Dei a Pátribus, Cælestino Papa præeunte, conclamáta est, Summus Pontifex Pius undecimus faustíssimi eventus memóriam, perenni suæ pietátis testimonio perpetuandam vóluit.  Itaque quod jam in Urbe exstábat nóbile ephesinæ proclamatiónis monuméntum, triumphalem arcum in Basilica sanctæ Maríæ Majoris in Exquiliis, a decessore suo Xysto tertio mirábili opere musivo ornátum, témporis injuria fatiscéntem feliciter restituéndum una cum ala transversa Basilicæ munificéntia sua curávit.  Litteris vero encyclicis, œcumenici Concilii Ephesini genuinis líneamentis descriptis, ineffábile divinæ Maternitátis beátæ Maríæ Vírginis privilegium, pie copioseque illustrávit, ut tam excélsi mysterii doctrina altius fidelium ánimis insidéret.  Insimul autem benedictam inter omnes mulieres, Mariam Matrem Dei nazarenámque Familiam nobilíssimum præ ómnibus exemplum præpósuit imitándum tum dignitátis ac sanctitúdinis casti connubii tum educatiónis juventúti sancte tradendæ.  Demum ut neque liturgicum deésset monuméntum jussit ut festum divinæ Maternitátis beátæ Maríæ Vírginis cum Missa et Officio propriis die undecima Octobris sub ritu duplici secundæ classis quotannis ab univérsa Ecclésia celebrarétur.
 
 [Responsory6]
 R. Benedicta te inter mulieres, et benedictus fructus ventris tui:
 * Unde hoc mihi, ut veniat Mater Domini mei ad me?
-V. Respexit humilitatem ancillae suae, et fecit mihi magna qui potens est.
+V. Respexit humilitatem ancillÃ¦ suÃ¦, et fecit mihi magna qui potens est.
 R. Unde hoc mihi, ut veniat Mater Domini mei ad me?
 &Gloria
 R. Unde hoc mihi, ut veniat Mater Domini mei ad me?
@@ -157,10 +157,10 @@ Homilia sancti Bernardi Abbatis
 Deum et Dóminum Angelórum Maria suum fílium appellat, dicens: Fili, quid fecísti nobis sic?  Quis hoc audeat Angelórum?  Sufficit eis, et pro magno habent, quod cum sint spíritus ex conditióne, ex grátia facti sint et vocáti Angeli, testante David: Qui facit Angelos suos spíritus.  Maria vero matrem se agnoscens, majestátem illam, cui illi cum reveréntia serviunt, cum fiducia suum núncupat Fílium: nec dedignátur nuncupari Deus, quod esse dignátus est.  Nam paulo post subdit Evangelista: Et erat súbditus illis.  Quis?  Quibus?  Deus homínibus?  Deus, inquam, cui Angeli súbditi sunt, cui Principátus et Potestates obediunt, súbditus erat Maríæ.
 
 [Responsory7]
-R. Beata es, Virgo Maria, Dei Genitrix, quae credidisti Domino: perfecta sunt in te, quae dicta sunt tibi:
-* Propterea benedixit te Deus in aeternum.
+R. Beata es, Virgo Maria, Dei Genitrix, quÃ¦ credidisti Domino: perfecta sunt in te, quÃ¦ dicta sunt tibi:
+* Propterea benedixit te Deus in Ã¦ternum.
 V. Diffusa est gratia in labiis tuis: intercede pro nobis ad Dominum Deum nostrum.
-R. Propterea benedixit te Deus in aeternum.
+R. Propterea benedixit te Deus in Ã¦ternum.
 
 [Lectio8]
 Mirare utrúmlibet, et élige quod ámplius miréris, sive Fílii benigníssimam dignatiónem, sive Matris excelentíssimam dignitátem.  Utrimque stupor, utrimque miraculum.  Et quod Deus feminæ obtémperet, humilitas absque exemplo: et quod Deo fémina principétur, sublimitas sine socio.  In laudibus Vírginum singuláriter cánitur quod sequúntur Agnum quocúmque íerit.  Quibus ergo laudibus júdicas dignam, quæ etiam præit?  Disce homo obedire: disce terra subdi; disce pulvis obtemperare.  De Auctore tuo loquens Evangelista: Et erat, inquit, súbditus illis.  Erubesce superbe cinis: Deus se humíliat, et tu te exaltas?  Deus se homínibus subdit, et tu dominari gestiens homínibus tuo te præpónis Auctori?
@@ -178,11 +178,11 @@ Felix Maria, cui nec humilitas defuit, nec virginitas!  Et quidem singuláris vir
 &teDeum
 
 [Ant Laudes]
-Beata es * Virgo Maria, quae omnium portasti Creatorem.
-Genuisti, * qui te fecit, et in aeternum permanes Virgo.
+Beata es * Virgo Maria, quÃ¦ omnium portasti Creatorem.
+Genuisti, * qui te fecit, et in Ã¦ternum permanes Virgo.
 Cum essem parvula, * placui Altissimo et de meis visceribus genui Deum et hominem.
-Benedicta filia * tu a Domino, quia per te fructum vitae communicavimus.
-Viderunt eam * filiae Sion, et beatam dixerunt, et reginae laudaverunt eam.
+Benedicta filia * tu a Domino, quia per te fructum vitÃ¦ communicavimus.
+Viderunt eam * filiÃ¦ Sion, et beatam dixerunt, et reginÃ¦ laudaverunt eam.
 
 [Capitulum Laudes]
 !Sir 24:12-13

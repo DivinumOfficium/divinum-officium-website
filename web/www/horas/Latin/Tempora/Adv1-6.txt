@@ -7,17 +7,17 @@ Oratio Dominica
 [Lectio1]
 De Isaia Propheta
 !Isa 7:1-3
-1 Et factum est in diebus Achaz, filii Joathan, filii Oziae, regis Juda, ascendit Rasin, rex Syriae, et Phacee, filius Romeliae, rex Isra�l, in Jerusalem, ad praeliandum contra eam: et non potuerunt
+1 Et factum est in diebus Achaz, filii Joathan, filii Oziæ, regis Juda, ascendit Rasin, rex Syriæ, et Phacee, filius Romeliæ, rex Isra�l, in Jerusalem, ad præliandum contra eam: et non potuerunt
 2 debellare eam. Et nuntiaverunt domui David, dicentes: Requievit Syria super Ephraim, et commotum est cor ejus, et cor populi ejus, sicut moventur ligna silvarum a facie venti.
-3 Et dixit Dominus ad Isaiam: Egredere in occursum Achaz, tu et qui derelictus est Jasub, filius tuus, ad extremum aquaeductus piscinae superioris in via Agri fullonis;
+3 Et dixit Dominus ad Isaiam: Egredere in occursum Achaz, tu et qui derelictus est Jasub, filius tuus, ad extremum aquæductus piscinæ superioris in via Agri fullonis;
 
 [Responsory1]
 @Tempora/Adv1-0:Responsory7
 
 [Lectio2]
 !Isa 7:4-6
-4 Et dices ad eum: Vide ut sileas; noli timere, et cor tuum ne formidet a duabus caudis titionum fumigantium istorum, in ira furoris Rasin, regis Syriae, et filii Romeliae;
-5 eo quod consilium inierit contra te Syria in malum, Ephraim, et filius Romeliae, dicentes:
+4 Et dices ad eum: Vide ut sileas; noli timere, et cor tuum ne formidet a duabus caudis titionum fumigantium istorum, in ira furoris Rasin, regis Syriæ, et filii Romeliæ;
+5 eo quod consilium inierit contra te Syria in malum, Ephraim, et filius Romeliæ, dicentes:
 6 Ascendamus ad Judam, et suscitemus eum, et avellamus eum ad nos, et ponamus regem in medio ejus filium Tabeel.
 
 [Responsory2]

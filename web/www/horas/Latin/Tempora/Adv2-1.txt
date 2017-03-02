@@ -17,26 +17,26 @@ De Isaia Propheta
 
 [Lectio2]
 !Isa 13:4-8
-4 Dominus exercituum praecepit militiae belli,
-5 venientibus de terra procul, a summitate caeli; Dominus, et vasa furoris ejus, ut disperdat omnem terram.
+4 Dominus exercituum præcepit militiæ belli,
+5 venientibus de terra procul, a summitate cæli; Dominus, et vasa furoris ejus, ut disperdat omnem terram.
 6 Ululate, quia prope est dies Domini; quasi vastitas a Domino veniet.
 7 Propter hoc omnes manus dissolventur, et omne cor hominis contabescet,
-8 et conteretur. Torsiones et dolores tenebunt; quasi parturiens dolebunt: unusquisque ad proximum suum stupebit, facies combustae vultus eorum.
+8 et conteretur. Torsiones et dolores tenebunt; quasi parturiens dolebunt: unusquisque ad proximum suum stupebit, facies combustæ vultus eorum.
 
 [Responsory2]
 @Tempora/Adv1-1:Responsory2
 
 [Lectio3]
 !Isa 13:9-11
-9 Ecce dies Domini veniet, crudelis, et indignationis plenus, et irae, furorisque, ad ponendam terram in solitudinem, et peccatores ejus conterendos de ea.
-10 Quoniam stellae caeli, et splendor earum, non expandent lumen suum; obtenebratus est sol in ortu suo, et luna non splendebit in lumine suo.
+9 Ecce dies Domini veniet, crudelis, et indignationis plenus, et iræ, furorisque, ad ponendam terram in solitudinem, et peccatores ejus conterendos de ea.
+10 Quoniam stellæ cæli, et splendor earum, non expandent lumen suum; obtenebratus est sol in ortu suo, et luna non splendebit in lumine suo.
 11 Et visitabo super orbis mala, et contra impios iniquitatem eorum; et quiescere faciam superbiam infidelium, et arrogantiam fortium humiliabo.
 
 [Responsory3]
 @Tempora/Adv1-1:Responsory3
 
 [Ant 2]
-De caelo veniet * Dominator Dominus, et in manu ejus honor et imperium.
+De cælo veniet * Dominator Dominus, et in manu ejus honor et imperium.
 
 [Ant 3]
-Ecce veniet Rex * Dominus terrae et ipse auferet jugum captivitatis nostrae.
+Ecce veniet Rex * Dominus terræ et ipse auferet jugum captivitatis nostræ.

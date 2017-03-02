@@ -9,7 +9,7 @@ Antiphonas horas
 Psalm5 Vespera=116
 
 [Oratio]
-Sanctissimae genitricis tuae sponsi, quaesumus Domine meritis adjuvemur; ut quod~
+Sanctissimæ genitricis tuæ sponsi, quæsumus Domine meritis adjuvemur; ut quod~
 possibilitas nostra non obtinet, eius nobis intercessione donetur
 $Qui vivis
 
@@ -19,11 +19,11 @@ Sermo sancti Bernardi Abbatis.
 Quis et qualis homo fuerit beatus Joseph, conjice ex appellatione, qua, licet~
 dispensatoria, meruit honorari adeo, ut pater Dei et dictus et creditus sit:~
 conjice et ex proprio vocabulo, quod augmentum non dubitas interpretari. Simul~
-et memento magni illius quondam Patriarchae venditi in Aegypto, et scito ipsius~
+et memento magni illius quondam Patriarchæ venditi in Aegypto, et scito ipsius~
 istum non solum vocabulum fuisse sortitum, sed et castimoniam adeptum,~
 innocentiam assecutum et gratiam. Siquidem ille Joseph, fraterna ex invidia venditus, et ductus in Aegyptum,~
-Christi venditionem praefiguravit: iste Joseph, Herodianam invidiam fugiens,~
-Christum in Aegyptum portavit. Ille domino suo fidem servans, dominae noluit~
+Christi venditionem præfiguravit: iste Joseph, Herodianam invidiam fugiens,~
+Christum in Aegyptum portavit. Ille domino suo fidem servans, dominæ noluit~
 commisceri: iste dominam suam Domini sui matrem, virginem agnoscens, et ipse~
 continens, fideliter custodivit. 
 
@@ -33,8 +33,8 @@ somniorum: isti datum est conscium fieri atque participem coelestium~
 sacramentorum. Ille frumenta servavit non sibi, sed omni populo: iste panem~
 vivum e coelo servandum accepit tam sibi quam toti mundo. Non est dubium, quin~
 bonus et fidelis homo fuerit iste Joseph, cui Mater desponsata est Salvatoris.~
-Fidelis, inquam, servus, et prudens, quem constituit Dominus suae matris~
-solatium, suae carnis nutritium, solum denique in terris magni consilii~
+Fidelis, inquam, servus, et prudens, quem constituit Dominus suæ matris~
+solatium, suæ carnis nutritium, solum denique in terris magni consilii~
 coadjutorem fidelissimum. Huc accedit quod dicitur fuisse de domo David. Vere enim de domo David, vere de regia stirpe descenditur iste vir Joseph nobili genere, mente nobilior:
 plane filius David non degerans a patre suo David.
 

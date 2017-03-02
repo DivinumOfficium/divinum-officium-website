@@ -11,21 +11,21 @@ Psalm5 Vespera3=131
 Dixerunt discipuli * ad beatum Martinum: Cur nos pater deseris, aut cui nos desolatos relinquis? Invadent enim gregem tuum lupi rapaces.;;109
 Domine, * si adhuc populo tuo sum necessarius, non recuso laborem: fiat voluntas tua.;;110
 O virum ineffabilem, * nec labore victum, nec morte vincendum, qui nec mori timuit, nec vivere recusavit.;;111
-Oculis ac manibus * in caelum semper intentus, invictum ab oratione spiritum non relaxabat, alleluia.;;112
-Martinus * Abrahae sinu laetus excipitur: Martinus, hic pauper et modicus, caelum dives ingreditur, hymnis caelestibus honoratur.;;131
+Oculis ac manibus * in cælum semper intentus, invictum ab oratione spiritum non relaxabat, alleluia.;;112
+Martinus * Abrahæ sinu lætus excipitur: Martinus, hic pauper et modicus, cælum dives ingreditur, hymnis cælestibus honoratur.;;131
 
 [Ant 1]
-O beatum virum * cujus anima paradisum possidet: unde exsultant Angeli, laetantur Archangeli, chorus Sanctorum proclamat, turba Virginum invitat, Mane nobiscum in aeternum.
+O beatum virum * cujus anima paradisum possidet: unde exsultant Angeli, lætantur Archangeli, chorus Sanctorum proclamat, turba Virginum invitat, Mane nobiscum in æternum.
 
 [Oratio]
 Deus, qui conspicis, quia ex nulla nostra virtute subsistimus: concede, propitius; ut intercessione beati Martini Confessoris tui atque Pontificis contra omnia adversa muniamur.
 $Per Dominum
 
 [Commemoratio]
-!Commemoratio S. Mennae Martyris
+!Commemoratio S. Mennæ Martyris
 @Commune/C2:Oratio proper
 v. Oremus.
-Praesta, quaesumus, omnipotens Deus: ut qui beati Mennae Martyris tui natalitia colimus, intercessione ejus in tui nominis amore roboremur.
+Præsta, quæsumus, omnipotens Deus: ut qui beati Mennæ Martyris tui natalitia colimus, intercessione ejus in tui nominis amore roboremur.
 $Per Dominum
 
 [Invit]
@@ -33,10 +33,10 @@ Laudemus Deum nostrum * In confessione beati Martini.
 
 [Ant Matutinum]
 Martinus, * adhuc catechumenus, hac me veste contexit.;;1
-Sanctae Trinitatis * fidem Martinus confessus est, et baptismi gratiam percepit.;;2
+Sanctæ Trinitatis * fidem Martinus confessus est, et baptismi gratiam percepit.;;2
 Ego signo crucis, * non clypeo protectus, aut galea, hostium cuneos penetrabo securus.;;3
 V. Amavit eum Dominus, et ornavit eum.
-R. Stolam gloriae induit eum.
+R. Stolam gloriæ induit eum.
 Confido in Domino, * quod filia mea, precibus tuis, reddenda sit sanitati.;;4
 Tetradius, * cognita Dei virtute, ad baptismi gratiam pervenit.;;5
 O ineffabilem virum, * per quem nobis tanta miracula coruscant!;;8
@@ -45,7 +45,7 @@ R. Ad sacrificandum ei hostiam laudis.
 Dominus Jesus Christus, * non purpuratum aut diademate renitentem, se venturum esse prædixit.;;10
 Sacerdos Dei, Martine, * aperti sunt tibi cæli et regnum Patris mei.;;14
 Sacerdos Dei, Martine, * pastor egregie, ora pro nobis Deum.;;20
-V. Tu es sacerdos in aeternum.
+V. Tu es sacerdos in æternum.
 R. Secundum ordinem Melchisedech.
 
 [Lectio1]
@@ -53,9 +53,9 @@ R. Secundum ordinem Melchisedech.
 
 [Responsory1]
 R. Hic est Martinus electus Dei Pontifex, cui Dominus post Apostolos tantam gratiam conferre dignatus est,
-* Ut in virtute Trinitatis Deificae mereretur fieri trium mortuorum suscitator magnificus.
-V. Sanctae Trinitatis fidem Martinus confessus est.
-R. Ut in virtute Trinitatis Deificae mereretur fieri trium mortuorum suscitator magnificus.
+* Ut in virtute Trinitatis Deificæ mereretur fieri trium mortuorum suscitator magnificus.
+V. Sanctæ Trinitatis fidem Martinus confessus est.
+R. Ut in virtute Trinitatis Deificæ mereretur fieri trium mortuorum suscitator magnificus.
 
 [Lectio2]
 @Commune/C4:Lectio2
@@ -63,7 +63,7 @@ R. Ut in virtute Trinitatis Deificae mereretur fieri trium mortuorum suscitator 
 [Responsory2]
 R. Domine, si adhuc populo tuo sum necessarius, non recuso subire propter eos laborem:
 * Fiat voluntas tua.
-V. Oculis ac manibus in caelum semper intentus, invictum ab oratione spiritum non relaxabat.
+V. Oculis ac manibus in cælum semper intentus, invictum ab oratione spiritum non relaxabat.
 R. Fiat voluntas tua.
 
 [Lectio3]
@@ -78,30 +78,30 @@ R. Qui nec mori timuit, nec vivere recusavit!
 R. Qui nec mori timuit, nec vivere recusavit!
 
 [Lectio4]
-Martinus, Sabariae in Pannonia natus, cum decimum attigisset annum, invitis parentibus ad Ecclesiam confugiens, in catechumenorum numerum adscribi voluit. Quindecim annos natus in militiam profectus, primum in Constantii, deinde Juliani exercitu militavit. Qui cum nihil haberet praeter arma, et vestimentum quo tegebatur, Ambiani, pauperi ac nudo ab eo petenti, ut Christi nomine sibi eleemosynam tribueret, partem chlamydis dedit. Cui sequenti nocte Christus dimidiata illa veste indutus apparuit, hanc mittens vocem: Martinus catechumenus hac me veste contexit.
+Martinus, Sabariæ in Pannonia natus, cum decimum attigisset annum, invitis parentibus ad Ecclesiam confugiens, in catechumenorum numerum adscribi voluit. Quindecim annos natus in militiam profectus, primum in Constantii, deinde Juliani exercitu militavit. Qui cum nihil haberet præter arma, et vestimentum quo tegebatur, Ambiani, pauperi ac nudo ab eo petenti, ut Christi nomine sibi eleemosynam tribueret, partem chlamydis dedit. Cui sequenti nocte Christus dimidiata illa veste indutus apparuit, hanc mittens vocem: Martinus catechumenus hac me veste contexit.
 
 [Responsory4]
-R. Oculis ac manibus in caelum semper intentus,
+R. Oculis ac manibus in cælum semper intentus,
 * Invictum ab oratione spiritum non relaxabat.
 V. Dum sacramenta offerret beatus Martinus, globus igneus apparuit super caput ejus.
 R. Invictum ab oratione spiritum non relaxabat.
 
 [Lectio5]
-Decem et octo annos cum haberet, baptizatus est. Quare relicta militari vita, ad Hilarium Pictaviensem episcopum se contulit, a quo in acolythorum numerum redactus est. Post factus episcopus Turonensis monasterium aedificavit, ubi cum octoginta monachis sanctissime aliquamdiu vixit. Qui cum postea ad Candacensem vicum suae dioecesis in gravem febrim incidisset, assidua Deum oratione precabatur, ut se ex illo mortali carcere liberaret. Quem audientes discipuli, sic rogabant: Cur nos pater deseris? cui nos miseros derelinquis? Quorum voce commotus Martinus, ita Deum orabat: Domine, si adhuc populo tuo sum necessarius, non recuso laborem.
+Decem et octo annos cum haberet, baptizatus est. Quare relicta militari vita, ad Hilarium Pictaviensem episcopum se contulit, a quo in acolythorum numerum redactus est. Post factus episcopus Turonensis monasterium ædificavit, ubi cum octoginta monachis sanctissime aliquamdiu vixit. Qui cum postea ad Candacensem vicum suæ dioecesis in gravem febrim incidisset, assidua Deum oratione precabatur, ut se ex illo mortali carcere liberaret. Quem audientes discipuli, sic rogabant: Cur nos pater deseris? cui nos miseros derelinquis? Quorum voce commotus Martinus, ita Deum orabat: Domine, si adhuc populo tuo sum necessarius, non recuso laborem.
 
 [Responsory5]
-R. Beatus Martinus obitum suum longe ante praescivit, dixitque fratribus,
+R. Beatus Martinus obitum suum longe ante præscivit, dixitque fratribus,
 * Dissolutionem sui corporis imminere, quia judicabat se jam resolvi.
 V. Viribus corporis coepit repente destitui, convocatisque discipulis dixit.
 R. Dissolutionem sui corporis imminere, quia judicabat se jam resolvi.
 
 [Lectio6]
-Sed cum eum in illa vehementi febre supinum orantem viderent discipuli, suppliciter ab eo petierunt, ut converso corpore tantisper, dum remitteret morbi vis, pronus conquiesceret. Quibus Martinus, Sinite me, inquit, caelum potius, quam terram aspicere, ut suo jam itinere iturus ad Dominum spiritus dirigatur. Instante jam morte, viso humani generis hoste, Quid, inquit, astas, cruenta bestia? nihil in me funeste reperies. Ea in voce, unum et octoginta annos natus, animam Deo reddidit: quam Angelorum chorus excepit, eosque divinas canentes laudes multi, in primisque sanctus Severinus Coloniensis episcopus, audierunt.
+Sed cum eum in illa vehementi febre supinum orantem viderent discipuli, suppliciter ab eo petierunt, ut converso corpore tantisper, dum remitteret morbi vis, pronus conquiesceret. Quibus Martinus, Sinite me, inquit, cælum potius, quam terram aspicere, ut suo jam itinere iturus ad Dominum spiritus dirigatur. Instante jam morte, viso humani generis hoste, Quid, inquit, astas, cruenta bestia? nihil in me funeste reperies. Ea in voce, unum et octoginta annos natus, animam Deo reddidit: quam Angelorum chorus excepit, eosque divinas canentes laudes multi, in primisque sanctus Severinus Coloniensis episcopus, audierunt.
 
 [Responsory6]
 R. Dixerunt discipuli ad beatum Martinum: Cur nos pater deseris, aut cui nos desolatos relinquis?
 * Invadent enim gregem tuum lupi rapaces.
-V. Scimus quidem desiderare te Christum, sed salva sunt tibi tua praemia: nostri potius miserere, quos deseris.
+V. Scimus quidem desiderare te Christum, sed salva sunt tibi tua præmia: nostri potius miserere, quos deseris.
 R. Invadent enim gregem tuum lupi rapaces.
 &Gloria
 R. Invadent enim gregem tuum lupi rapaces.
@@ -117,39 +117,39 @@ In illo tempore: Dixit Jesus discipulis suis: Nemo lucernam accendit, et in absc
 _
 Homilia sancti Ambrosii Episcopi.
 !Lib. 7. Comment. in Luc. cap. 11, post initium.
-Quia in superioribus Ecclesiam Synagogae praetulit, hortatur nos, ut fidem potius nostram ad Ecclesiam transferamus. Lucerna enim fides est, juxta quod scriptum est: Lucerna pedibus meis verbum tuum Domine. Verbum enim Dei fides nostra est: verbum Dei lux est. Lucerna est fides. Erat lux vera quae illuminat omnem hominem venientem in hunc mundum. Lucerna autem lucere non potest, nisi aliunde lumen acceperit.
+Quia in superioribus Ecclesiam Synagogæ prætulit, hortatur nos, ut fidem potius nostram ad Ecclesiam transferamus. Lucerna enim fides est, juxta quod scriptum est: Lucerna pedibus meis verbum tuum Domine. Verbum enim Dei fides nostra est: verbum Dei lux est. Lucerna est fides. Erat lux vera quæ illuminat omnem hominem venientem in hunc mundum. Lucerna autem lucere non potest, nisi aliunde lumen acceperit.
 
 [Responsory7]
 R. O beatum virum, in cujus transitu Sanctorum canit numerus, Angelorum exsultat chorus,
-* Omniumque caelestium Virtutum occurrit psallentium exercitus!
-V. Ecclesia virtute roboratur, sacerdotes Dei revelatione glorificantur, quem Michael assumpsit cum Angelis.
-R. Omniumque caelestium Virtutum occurrit psallentium exercitus!
+* Omniumque cælestium Virtutum occurrit psallentium exercitus!
+V. Ecclesia virtute roboratur, sacerdotes Dei revelatione glorificantur, quem Michæl assumpsit cum Angelis.
+R. Omniumque cælestium Virtutum occurrit psallentium exercitus!
 
 [Lectio8]
-Haec est lucerna quae accenditur, virtus scilicet nostrae mentis et sensus, ut drachma illa possit, quae perierat, reperiri. Nemo ergo fidem sub lege constituat. Lex enim intra mensuram est, ultra mensuram gratia: lex obumbrat, gratia clarificat. Et ideo nemo fidem suam intra mensuram legis includat, sed ad Ecclesiam conferat, in qua septiformis Spiritus relucet gratia, quam princeps ille sacerdotum fulgore supernae divinitatis illuminat, ne eam legis umbra restinguat. Denique lucerna illa, quam matutinis vespertinisque temporibus ritu veteri Judaeorum princeps sacerdotum solebat accendere, velut sub modio sita legis evanuit; et civitas illa Jerusalem, quae in terris est, quae occidit prophetas, quasi in convalle fletus posita delitescit: illa autem Jerusalem, quae in caelo est, in qua militat fides nostra, in illo altissimo omnium locata monte, hoc est Christo, non potest tenebris et ruinis hujus mundi abscondi, sed fulgens candore solis aeterni, luce nos gratiae spiritalis illuminat.
+Hæc est lucerna quæ accenditur, virtus scilicet nostræ mentis et sensus, ut drachma illa possit, quæ perierat, reperiri. Nemo ergo fidem sub lege constituat. Lex enim intra mensuram est, ultra mensuram gratia: lex obumbrat, gratia clarificat. Et ideo nemo fidem suam intra mensuram legis includat, sed ad Ecclesiam conferat, in qua septiformis Spiritus relucet gratia, quam princeps ille sacerdotum fulgore supernæ divinitatis illuminat, ne eam legis umbra restinguat. Denique lucerna illa, quam matutinis vespertinisque temporibus ritu veteri Judæorum princeps sacerdotum solebat accendere, velut sub modio sita legis evanuit; et civitas illa Jerusalem, quæ in terris est, quæ occidit prophetas, quasi in convalle fletus posita delitescit: illa autem Jerusalem, quæ in cælo est, in qua militat fides nostra, in illo altissimo omnium locata monte, hoc est Christo, non potest tenebris et ruinis hujus mundi abscondi, sed fulgens candore solis æterni, luce nos gratiæ spiritalis illuminat.
 
 [Responsory8]
-R. Martinus Abrahae sinu laetus excipitur: Martinus, hic pauper et modicus,
-* Caelum dives ingreditur, hymnis caelestibus honoratur.
-V. Martinus episcopus migravit a saeculo: vivit in Christo gemma sacerdotum.
-R. Caelum dives ingreditur, hymnis caelestibus honoratur.
+R. Martinus Abrahæ sinu lætus excipitur: Martinus, hic pauper et modicus,
+* Cælum dives ingreditur, hymnis cælestibus honoratur.
+V. Martinus episcopus migravit a sæculo: vivit in Christo gemma sacerdotum.
+R. Cælum dives ingreditur, hymnis cælestibus honoratur.
 &Gloria
-R. Caelum dives ingreditur, hymnis caelestibus honoratur.
+R. Cælum dives ingreditur, hymnis cælestibus honoratur.
 
 [Lectio93]
 !Commemoratio Pro S. Menna Mart.
-Mennas Aegyptius, christianus miles in persecutione Diocletiani et Maximiani imperatorum, cum poenitentiae causa in solitudinem secessisset, natali die imperatorum, quo populus celebri spectaculo tenebatur, in theatrum prosiliens, libera voce Gentilium superstitionem insectabatur. Quamobrem comprehensus et Pyrrho praeside, in metropoli Cottiensium Phrygiae vinctus, loris crudeliter caeditur: deinde equuleo tortus, lampadibus ardentibus ad corpus admotis, plagisque cilicio confricatis, tum per tribulos et virgas ferreas manibus ac pedibus colligatis tractus, plumbatis etiam contusus, demum gladio interficitur, in ignemque conjicitur. Corpus inde a Christianis ereptum sepultum est, ac postea Constantinopolim translatum.
+Mennas Aegyptius, christianus miles in persecutione Diocletiani et Maximiani imperatorum, cum poenitentiæ causa in solitudinem secessisset, natali die imperatorum, quo populus celebri spectaculo tenebatur, in theatrum prosiliens, libera voce Gentilium superstitionem insectabatur. Quamobrem comprehensus et Pyrrho præside, in metropoli Cottiensium Phrygiæ vinctus, loris crudeliter cæditur: deinde equuleo tortus, lampadibus ardentibus ad corpus admotis, plagisque cilicio confricatis, tum per tribulos et virgas ferreas manibus ac pedibus colligatis tractus, plumbatis etiam contusus, demum gladio interficitur, in ignemque conjicitur. Corpus inde a Christianis ereptum sepultum est, ac postea Constantinopolim translatum.
 &teDeum
 
 [Ant Laudes]
 Dixerunt discipuli * ad beatum Martinum: Cur nos pater deseris, aut cui nos desolatos relinquis? Invadent enim gregem tuum lupi rapaces.
 Domine, * si adhuc populo tuo sum necessarius, non recuso laborem: fiat voluntas tua.
 O virum ineffabilem, * nec labore victum, nec morte vincendum, qui nec mori timuit, nec vivere recusavit.
-Oculis ac manibus * in caelum semper intentus, invictum ab oratione spiritum non relaxabat, alleluia.
-Martinus Abrahae sinu * laetus excipitur: Martinus, hic pauper et modicus, caelum dives ingreditur, hymnis caelestibus honoratur.
+Oculis ac manibus * in cælum semper intentus, invictum ab oratione spiritum non relaxabat, alleluia.
+Martinus Abrahæ sinu * lætus excipitur: Martinus, hic pauper et modicus, cælum dives ingreditur, hymnis cælestibus honoratur.
 
 [Ant 2]
-O beatum virum * cujus anima paradisum possidet: unde exsultant Angeli, laetantur Archangeli, chorus Sanctorum proclamat, turba Virginum invitat, mane nobiscum in aeternum.
+O beatum virum * cujus anima paradisum possidet: unde exsultant Angeli, lætantur Archangeli, chorus Sanctorum proclamat, turba Virginum invitat, mane nobiscum in æternum.
 
 [Ant 3]
 O beatum Pontificem * qui totis visceribus diligebat Christum Regem, et non formidabat imperii principatum: o sanctissima anima, quam etsi gladius persecutoris non abstulit, palmam tamen martyrii non amisit!

@@ -16,7 +16,7 @@ De libro quarto Regum.
 
 [Lectio2]
 !2 Kgs 2:8-10
-8 Tulitque Elias pallium suum, et involvit illud, et percussit aquas: quae divisae sunt in utramque partem, et transierunt ambo per siccum.
+8 Tulitque Elias pallium suum, et involvit illud, et percussit aquas: quæ divisæ sunt in utramque partem, et transierunt ambo per siccum.
 9 Cumque transissent, Elias dixit ad Eliseum: Postula quod vis ut faciam tibi, antequam tollar a te. Dixitque Eliseus: Obsecro ut fiat in me duplex spiritus tuus.
 10 Qui respondit: Rem difficilem postulasti: attamen si videris me quando tollar a te, erit tibi quod petisti: si autem non videris, non erit.
 
@@ -25,9 +25,9 @@ De libro quarto Regum.
 
 [Lectio3]
 !2 Kgs 2:11-13
-11 Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus, et equi ignei diviserunt utrumque: et ascendit Elias per turbinem in caelum.
+11 Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus, et equi ignei diviserunt utrumque: et ascendit Elias per turbinem in cælum.
 12 Eliseus autem videbat, et clamabat: Pater mi, pater mi, currus Isra�l, et auriga ejus. Et non vidit eum amplius: Apprehenditque vestimenta sua, et scidit illa in duas partes.
-13 Et levavit pallium Eliae, quod ceciderat ei: Reversusque stetit super ripam Jordanis.
+13 Et levavit pallium Eliæ, quod ceciderat ei: Reversusque stetit super ripam Jordanis.
 
 [Responsory3]
 @Tempora/Pent03-1Feria:Responsory3

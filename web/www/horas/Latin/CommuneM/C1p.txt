@@ -8,7 +8,7 @@ Una Antiphona
 
 [Ant Vespera]
 Sancti tui * Domine florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia;;109
-In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia;;110
+In cælestibus regnis * sanctorum habitatio est, alleluia: et in æternum requies eorum, alleluia;;110
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia;;111
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;112
 
@@ -20,7 +20,7 @@ $Deo gratias
 _
 R.br. Lux perpetua lucebit sanctis tuis Domine, * Alleluia, alleluia.
 R. Lux perpetua lucebit sanctis tuis Domine, * Alleluia, alleluia.
-V. Et aeternitas temporum.
+V. Et æternitas temporum.
 R. Alleluia, alleluia.
 &Gloria
 R. Lux perpetua lucebit sanctis tuis Domine, * Alleluia, alleluia.
@@ -32,16 +32,16 @@ Quem morte crudelissima
 Servi necarant impii.
 _
 Sermone verax angelus
-Mulieribus praedixerat:
+Mulieribus prædixerat:
 Mox ore Christus gaudium
 Gregi feret fidelium.
 _
 Ad anxios Apostolos
-Currunt statim dum nuntiae,
-Illae micantis obvia
+Currunt statim dum nuntiæ,
+Illæ micantis obvia
 Christi tenent vestigia.
 _
-Galillaeae ad alta montium
+Galillææ ad alta montium
 Se conferunt Apostoli,
 Jesuque, voti compotes,
 Almo beantur lumine.
@@ -49,12 +49,12 @@ _
 Ut sis perenne mentibus
 Paschale Jesu gaudium;
 A morte dira criminum
-Vitae renatos libera.
+Vitæ renatos libera.
 _
 * Deo Patri sit gloria
 Et Filio, qui a mortuis
 Surrexit, ac Paraclito
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 [Versum 1]
@@ -62,7 +62,7 @@ V. Sancti et justi in Domino gaudete, alleluia.
 R. Vos elegit Deus in hereditatem sibi, alleluia.
 
 [Ant 1]
-Lux perpetua * lucebit sanctis tuis Domine, et aeternitas temporum, alleluia.
+Lux perpetua * lucebit sanctis tuis Domine, et æternitas temporum, alleluia.
 
 [Invit]
 Regem Apostolorum Dominum, * Venite, adoremus, alleluia
@@ -86,15 +86,15 @@ Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;74
 ;;98
 ;;100
 V. Lux perpetua lucebit sanctis tuis Domine, alleluia
-R. Et aeternitas temporum, alleluia.
-Lux perpetua * lucebit sanctis tuis Domine, et aeternitas temporum, alleluia;;253;254;255
-V. Laetitia sempiterna super capita eorum, alleluia.
+R. Et æternitas temporum, alleluia.
+Lux perpetua * lucebit sanctis tuis Domine, et æternitas temporum, alleluia;;253;254;255
+V. Lætitia sempiterna super capita eorum, alleluia.
 R. Gaudium et exsultationem obtinebunt, alleluia
 
 [Lectio1]
 !1 Cor 4:1-5
 1 Sic nos existimet homo ut ministros Christi, et dispensatores mysteriorum Dei.
-2 Hic jam quaeritur inter dispensatores ut fidelis quis inveniatur.
+2 Hic jam quæritur inter dispensatores ut fidelis quis inveniatur.
 3 Mihi autem pro minimo est ut a vobis judicer, aut ab humano die: sed neque meipsum judico.
 4 Nihil enim mihi conscius sum, sed non in hoc justificatus sum: qui autem judicat me, Dominus est.
 5 Itaque nolite ante tempus judicare, quoadusque veniat Dominus: qui et illuminabit abscondita tenebrarum, et manifestabit consilia cordium: et tunc laus erit unicuique a Deo.
@@ -103,12 +103,12 @@ R. Gaudium et exsultationem obtinebunt, alleluia
 [Responsory1]
 R. Beatus vir qui metuit Dominum, alleluia:
 * In mandatis ejus cupit nimis, alleluia, alleluia, alleluia.
-V. Gloria et divitiae in domo ejus, et justitia ejus manet in saeculum saeculi
+V. Gloria et divitiæ in domo ejus, et justitia ejus manet in sæculum sæculi
 R. In mandatis ejus cupit nimis, alleluia, alleluia, alleluia.
 
 [Lectio2]
 !1 Cor 4:6-9
-6 Haec autem, fratres, transfiguravi in me et Apollo, propter vos: ut in nobis discatis, ne supra quam scriptum est, unus adversus alterum infletur pro alio.
+6 Hæc autem, fratres, transfiguravi in me et Apollo, propter vos: ut in nobis discatis, ne supra quam scriptum est, unus adversus alterum infletur pro alio.
 7 Quis enim te discernit? quid autem habes quod non accepisti? si autem accepisti, quid gloriaris quasi non acceperis?
 8 Jam saturati estis, jam divites facti estis: sine nobis regnatis: et utinam regnetis, ut et nos vobiscum regnemus.
 9 Puto enim quod Deus nos Apostolos novissimos ostendit, tamquam morti destinatos: quia spectaculum facti sumus mundo, et angelis, et hominibus.
@@ -123,11 +123,11 @@ R. Convertetur in gaudium, alleluia, alleluia.
 [Lectio3]
 !1 Cor 4:10-15
 10 Nos stulti propter Christum, vos autem prudentes in Christo: nos infirmi, vos autem fortes: vos nobiles, nos autem ignobiles.
-11 Usque in hanc horam et esurimus, et sitimus, et nudi sumus, et colaphis caedimur, et instabiles sumus,
+11 Usque in hanc horam et esurimus, et sitimus, et nudi sumus, et colaphis cædimur, et instabiles sumus,
 12 et laboramus operantes manibus nostris: maledicimur, et benedicimus: persecutionem patimur, et sustinemus:
 13 blasphemamur, et obsecramus: tamquam purgamenta hujus mundi facti sumus, omnium peripsema usque adhuc.
-14 Non ut confundam vos, haec scribo, sed ut filios meos carissimos moneo.
-15 Nam si decem millia paedagogorum habeatis in Christo, sed non multos patres. Nam in Christo Jesu per Evangelium ego vos genui.
+14 Non ut confundam vos, hæc scribo, sed ut filios meos carissimos moneo.
+15 Nam si decem millia pædagogorum habeatis in Christo, sed non multos patres. Nam in Christo Jesu per Evangelium ego vos genui.
 
 
 [Responsory3]
@@ -139,31 +139,31 @@ R. Mors sanctorum ejus, alleluia
 R. Mors sanctorum ejus, alleluia
 
 [Lectio4]
-Sermo sancti Gregorii Papae.
+Sermo sancti Gregorii Papæ.
 !Homilia 30. in Evangelia, post medium.
-Scriptum est: Spiritus Domini ornavit caelos. Ornamenta enim caelorum sunt~
-virtutes praedicantium. Quae videlicet ornamenta Paulus emiserat, dicens: Alii~
-datur per Spiritum sermo sapientiae, alii sermo scientiae secundum eumdem~
+Scriptum est: Spiritus Domini ornavit cælos. Ornamenta enim cælorum sunt~
+virtutes prædicantium. Quæ videlicet ornamenta Paulus emiserat, dicens: Alii~
+datur per Spiritum sermo sapientiæ, alii sermo scientiæ secundum eumdem~
 Spiritum, alteri fides in eodem Spiritu, alii gratia sanitatum in uno Spiritu,~
 alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera~
-linguarum, alii interpretatio sermonum. Haec autem omnia operatur unus atque~
+linguarum, alii interpretatio sermonum. Hæc autem omnia operatur unus atque~
 idem Spiritus, dividens singulis prout vult.
 
 [Responsory4]
 R. Lux perpetua lucebit sanctis tuis Domine
-* Et aeternitas temporum, alleluia, alleluia
-V. Laetitia sempiterna erit super capita eorum: gaudium et exsultationem~
+* Et æternitas temporum, alleluia, alleluia
+V. Lætitia sempiterna erit super capita eorum: gaudium et exsultationem~
 obtinebunt.
-R. Et aeternitas temporum, alleluia, alleluia
+R. Et æternitas temporum, alleluia, alleluia
 
 [Lectio5]
-Quot ergo sunt bona praedicantium, tot sunt ornamenta caelorum. Hinc rursus~
-scriptum est: Verbo Domini caeli firmati sunt. Verbum enim Domini Filius est~
-Patris. Sed eosdem caelos, videlicet sanctos Apostolos, ut tota simul sancta~
+Quot ergo sunt bona prædicantium, tot sunt ornamenta cælorum. Hinc rursus~
+scriptum est: Verbo Domini cæli firmati sunt. Verbum enim Domini Filius est~
+Patris. Sed eosdem cælos, videlicet sanctos Apostolos, ut tota simul sancta~
 Trinitas ostendatur operata, repente de sancti Spiritus divinitate adjungitur:~
-Et spiritu oris ejus omnis virtus eorum. Caelorum ergo virtus de Spiritu sumpta~
-est: quia mundi hujus potestatibus contraire non praesumerent, nisi eos sancti~
-Spiritus fortitudo solidasset. Quales namque doctores sanctae Ecclesiae ante~
+Et spiritu oris ejus omnis virtus eorum. Cælorum ergo virtus de Spiritu sumpta~
+est: quia mundi hujus potestatibus contraire non præsumerent, nisi eos sancti~
+Spiritus fortitudo solidasset. Quales namque doctores sanctæ Ecclesiæ ante~
 adventum hujus Spiritus fuerint, scimus: et post adventum illius, cujus~
 fortitudinis facti sint, conspicimus.
 
@@ -174,26 +174,26 @@ V. Repleti quidem Spiritu sancto, loquebantur cum fiducia verbum Dei.
 R. Testimonium resurrectionis Jesu Christi Domini nostri, alleluia, alleluia
 
 [Lectio6]
-Certe iste ipse pastor Ecclesiae, ad cujus sacratissimum corpus sedemus, quantae~
-debilitatis, quantaeque formidinis ante adventum Spiritus fuerit, ancilla~
+Certe iste ipse pastor Ecclesiæ, ad cujus sacratissimum corpus sedemus, quantæ~
+debilitatis, quantæque formidinis ante adventum Spiritus fuerit, ancilla~
 ostiaria requisita dicat. Una enim mulieris voce percussus, dum mori timuit,~
 vitam negavit. Et pensandum, quia eum comprehensum Petrus negavit in terra, quem~
-suspensum latro confessus est in cruce. Sed vir iste tantae formidinis, qualis~
+suspensum latro confessus est in cruce. Sed vir iste tantæ formidinis, qualis~
 post adventum Spiritus exsistat, audiamus. Fit conventus magistratus atque~
-seniorum, caesis denuntiatur Apostolis, ne in nomine Jesu loqui debeant: Petrus~
+seniorum, cæsis denuntiatur Apostolis, ne in nomine Jesu loqui debeant: Petrus~
 magna auctoritate respondet: Obedire oportet Deo magis quam hominibus.
 
 [Responsory6]
 R. Isti sunt agni novelli, qui annuntiaverunt alleluia modo venerunt ad~
 fontes,
 * Repleti sunt claritate, alleluia, alleluia
-V. In conspectu Agni amicti sunt stolis albis, et palmae in manibus eorum
+V. In conspectu Agni amicti sunt stolis albis, et palmæ in manibus eorum
 R. Repleti sunt claritate, alleluia, alleluia
 &Gloria
 R. Repleti sunt claritate, alleluia, alleluia
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 19:27-29
 In illo tempore: Dixit Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti~
 sumus te: quid ergo erit nobis? Et reliqua.
@@ -201,11 +201,11 @@ _
 Homilia S. Hieronymi Presbyteri.
 !Lib. 3. in Matth. cap. 19.
 Grandis fiducia! Petrus piscator erat, dives non fuerat, cibos manu et arte~
-quaerebat: et tamen loquitur confidenter: Reliquimus omnia. Et quia non sufficit~
+quærebat: et tamen loquitur confidenter: Reliquimus omnia. Et quia non sufficit~
 tantum relinquere, jungit quod perfectum est: Et secuti sumus te. Fecimus quod~
-jussisti: quid igitur nobis dabis praemii? Jesus autem dixit illis: Amen dico~
+jussisti: quid igitur nobis dabis præmii? Jesus autem dixit illis: Amen dico~
 vobis, quod vos qui secuti estis me, in regeneratione, cum sederit Filius~
-hominis in sede majestatis suae, sedebitis et vos super sedes duodecim,~
+hominis in sede majestatis suæ, sedebitis et vos super sedes duodecim,~
 judicantes duodecim tribus Isra�l. Non dixit: Qui reliquistis omnia; hoc enim et~
 Crates fecit philosophus, et multi alii divitias contempserunt: sed, Qui secuti~
 estis me: quod proprie Apostolorum est, atque credentium.
@@ -217,20 +217,20 @@ V. Sicut dilexit me Pater, et ego dilexi vos.
 R. Qui manet in me, et ego in eo, hic fert fructum multum, alleluia, alleluia.
 
 [Lectio8]
-In regeneratione, cum sederit Filius hominis in sede majestatis suae (quando et~
+In regeneratione, cum sederit Filius hominis in sede majestatis suæ (quando et~
 mortui de corruptione resurgent incorruptionem sedebitis et vos in solus~
 judicantium, condemnantes duodecim tribus Isra�l: quia vobis credentibus, illi~
 credere noluerunt Et omnis qui reliquerit domum, vel fratres, aut sorores, aut~
 patrem, aut matrem, aut uxorem, aut filios, aut agros propter nomen meum,~
-centuplum accipiet, et vitam aeternam possidebit. Locus iste cum illa sententia~
+centuplum accipiet, et vitam æternam possidebit. Locus iste cum illa sententia~
 congruit, in qua Salvator loquitur: Non veni pacem mittere, sed gladium. Veni~
 enim separare hominem a patre suo, et matrem a filia, et nurum a socru: et~
 inimici hominis domestici ejus. Qui ergo propter fidem Christi, et~
-praedicationem Evangelii, omnes affectus contempserint, atque divitias et~
-saeculi voluptates: isti centuplum recipient, et vitam aeternam possidebunt._
+prædicationem Evangelii, omnes affectus contempserint, atque divitias et~
+sæculi voluptates: isti centuplum recipient, et vitam æternam possidebunt._
 
 [Responsory8]
-R. Candidi facti sunt Nazaraei ejus, alleluia: splendorem Deo dederunt,~
+R. Candidi facti sunt Nazaræi ejus, alleluia: splendorem Deo dederunt,~
 alleluia:
 * Et sicut lac coagulati sunt, alleluia, alleluia.
 V. Candidiores nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro~
@@ -240,12 +240,12 @@ R. Et sicut lac coagulati sunt, alleluia, alleluia.
 R. Et sicut lac coagulati sunt, alleluia, alleluia.
 
 [Lectio9]
-Ex occasione hujus sententiae quidam introducunt mille annos post resurrectionem,~
-dicentes, tunc nobis centuplum omnium rerum quas dimisimus, et vitam aeternam~
+Ex occasione hujus sententiæ quidam introducunt mille annos post resurrectionem,~
+dicentes, tunc nobis centuplum omnium rerum quas dimisimus, et vitam æternam~
 esse reddendam: non intelligentes, quod, si in ceteris digna sit repromissio, in~
 uxoribus appareat turpitudo: ut qui unam pro Domino dimiserit centum recipiat in~
 futuro. Sensus ergo iste est: Qui carne pro Salvatore dimiserit, spiritualia~
-recipiet: quae comparatione et merito sui ita erunt, quasi si parvo numero~
+recipiet: quæ comparatione et merito sui ita erunt, quasi si parvo numero~
 centenarius numerus comparetur.
 
 [Responsory9]
@@ -261,9 +261,9 @@ alleluia.
 
 [Ant Laudes]
 Sancti tui * Domine florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia
-In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia
+In cælestibus regnis * sanctorum habitatio est, alleluia: et in æternum requies eorum, alleluia
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia.
-Spiritus et animae * justorum hymnum dicite Deo nostro, alleluia, alleluia.
+Spiritus et animæ * justorum hymnum dicite Deo nostro, alleluia, alleluia.
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia.
 
 [Capitulum Laudes]
@@ -288,7 +288,7 @@ _
 In carne Christi vulnera
 Micare tamquam sidera 
 Mirantur, et quidquid vident
-Testes fideles praedicant.
+Testes fideles prædicant.
 _
 Rex Christe clementissime, 
 Tu corda nostra posside:
@@ -298,12 +298,12 @@ _
 Ut sis perenne mentibus
 Paschale Jesu gaudium;
 A morte dira criminum
-Vitae renatos libera.
+Vitæ renatos libera.
 _
 Deo, Patri sit gloria,
 Et Filio, qui a mortuis
 Surrexit, ac Paraclito,
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 
@@ -323,7 +323,7 @@ Tu corda nostra posside,
 Ut tibi laudes debitas
 Reddamus omni tempore.
 _
-Quaesumus Auctor omnium,
+Quæsumus Auctor omnium,
 In hoc Paschali gaudio,
 Ab omnis morti impetu
 Tuum defende populum.
@@ -331,7 +331,7 @@ _
 Gloria tibi, Domine,
 Qui surrexisti a morutis,
 Cum Patre, et Sancto Spiritu,
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 [Versum 2]
@@ -339,8 +339,8 @@ V. Pretiosa in conspectu Domini, alleluia.
 R. Mors sanctorum ejus, alleluia.
 
 [Ant 2]
-Filiae Jerusalem, * venite, et videte Martyres cum coronis, quibus coronavit eos~
-Dominus in die solemnitatis et laetitiae, alleluia, alleluia.
+Filiæ Jerusalem, * venite, et videte Martyres cum coronis, quibus coronavit eos~
+Dominus in die solemnitatis et lætitiæ, alleluia, alleluia.
 
 [Lectio Prima]
 !Rom 8:28
@@ -366,7 +366,7 @@ $Deo gratias
 
 [Responsory Sexta]
 V. Lux perpetua lucebit sanctis tuis Domine, alleluia.
-R. Et aeternitas temporum, alleluia.
+R. Et æternitas temporum, alleluia.
 
 [Capitulum Nona]
 !Rom 8:28
@@ -375,7 +375,7 @@ propositum vocati sunt sancti.
 $Deo gratias
 
 [Responsory Nona]
-V. Laetitia sempiterna super capita eorum, alleluia.
+V. Lætitia sempiterna super capita eorum, alleluia.
 R. Gaudium et exsultationem obtinebunt, alleluia
 
 [Ant 3]
@@ -384,14 +384,14 @@ alleluia.
 
 [Ant Vespera 3]
 Sancti tui * Domine florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia;;109
-In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia;;112
+In cælestibus regnis * sanctorum habitatio est, alleluia: et in æternum requies eorum, alleluia;;112
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia;;115
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;138
 
 [LectioE]
-v. Sequentia Sancti Evangelii secundum Matthaeum
+v. Sequentia Sancti Evangelii secundum Matthæum
 !Matt 19:27-29
 19:27 Tunc respondens Petrus, dixit ei: Ecce nos reliquimus omnia, et secuti sumus te: quid ergo erit nobis?
-19:28 Jesus autem dixit illis: Amen dico vobis, quod vos, qui secuti estis me, in regeneratione cum sederit Filius hominis in sede majestatis suae, sedebitis et vos super sedes duodecim, judicantes duodecim tribus Isra�l.
-19:29 Et omnis qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem, aut uxorem, aut filios, aut agros propter nomen meum, centuplum accipiet, et vitam aeternam possidebit.
+19:28 Jesus autem dixit illis: Amen dico vobis, quod vos, qui secuti estis me, in regeneratione cum sederit Filius hominis in sede majestatis suæ, sedebitis et vos super sedes duodecim, judicantes duodecim tribus Isra�l.
+19:29 Et omnis qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem, aut uxorem, aut filios, aut agros propter nomen meum, centuplum accipiet, et vitam æternam possidebit.
 $Te decet

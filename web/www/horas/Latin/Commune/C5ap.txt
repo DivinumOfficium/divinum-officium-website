@@ -1,5 +1,5 @@
 [Name]
-Commune Confessoris non Pontificis Ecclesiae Doctoris Tempore Paschali
+Commune Confessoris non Pontificis Ecclesiæ Doctoris Tempore Paschali
 
 [Rule]
 Psalmi Dominica

@@ -1,8 +1,8 @@
 [Name]
-Officium Beatae Mariae Virginis in Sabbato
+Officium BeatÃ¦ MariÃ¦ Virginis in Sabbato
 
 [Rank]
-Sanctae Mariae Sabbato;;Feria;;2;;vide C10
+SanctÃ¦ MariÃ¦ Sabbato;;Feria;;2;;vide C10
 
 [Rule]
 vide C10
@@ -12,7 +12,7 @@ Doxology=Nat
 
 [Capitulum Vespera]
 !Sir 24:14
-v. Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
+v. Ab initio et ante sÃ¦cula creata sum, et usque ad futurum sÃ¦culum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
 [Hymnus Vespera]
@@ -21,15 +21,15 @@ $Deo gratias.
 v. Ave maris stella,
 Dei Mater alma,
 Atque semper Virgo,
-Felix caeli porta.
+Felix cÃ¦li porta.
 _
 Sumens illud Ave
 Gabrielis ore,
 Funda nos in pace,
-Mutans Hevae nomen.
+Mutans HevÃ¦ nomen.
 _
 Solve vincla reis,
-Profer lumen caecis,
+Profer lumen cÃ¦cis,
 Mala nostra pelle,
 Bona cuncta posce.
 _
@@ -43,10 +43,10 @@ Inter omnes mitis,
 Nos culpis solutos
 Mites fac et castos.
 _
-Vitam praesta puram,
+Vitam prÃ¦sta puram,
 Iter para tutum,
 Ut videntes Jesum,
-Semper collaetemur.
+Semper collÃ¦temur.
 _
 Sit laus Deo Patri,
 Summo Christo decus,
@@ -56,13 +56,13 @@ Amen.
 
 [Versum 1]
 V. Diffusa est gratia in labiis tuis.
-R. Propterea benedixit te Deus in aeternum.
+R. Propterea benedixit te Deus in Ã¦ternum.
 
 [Ant 1]
 Beata Mater, * et intacta Virgo, gloriosa Regina mundi, intercede pro nobis ad Dominum.
 
 [Oratio]
-Concede nos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis sanitate gaudere: et gloriosa Beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia, et aeterna perfrui laetitia.
+Concede nos famulos tuos, quÃ¦sumus, Domine Deus, perpetua mentis et corporis sanitate gaudere: et gloriosa BeatÃ¦ MariÃ¦ semper Virginis intercessione, a prÃ¦senti liberari tristitia, et Ã¦terna perfrui lÃ¦titia.
 $Per Dominum
 
 [Ant 11]
@@ -78,7 +78,7 @@ Ave María, grátia plena, * Dóminus tecum.
 @Commune/C11:Hymnus Matutinum
 
 [Benedictio]
-Precibus et meritis beatae Mariae semper Virginis et omnium Sanctorum, perducat nos Dominus ad regna caelorum. Amen.
+Precibus et meritis beatÃ¦ MariÃ¦ semper Virginis et omnium Sanctorum, perducat nos Dominus ad regna cÃ¦lorum. Amen.
 Jube domne benedicere.
 Nos cum prole pia benedicat Virgo Maria. Amen.
 Ipsa Virgo Virginum intercedat pro nobis ad Dominum. Amen.
@@ -86,7 +86,7 @@ Per Virginem Matrem, concedat nobis Dominus salutem et pacem. Amen.
 
 [Capitulum Laudes]
 !Sir 24:14
-v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
+v. Ab initio, et ante sÃ¦cula creata sum, et usque ad futurum sÃ¦culum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -98,17 +98,17 @@ _
 Quod Heva tristis abstulit,
 Tu reddis almo germine:
 Intrent ut astra flebiles,
-Caeli recludis cardines.
+CÃ¦li recludis cardines.
 _
 Tu regis alti janua,
 Et aula lucis fulgida:
 Vitam datam per Virginem
-Gentes redemptae plaudite.
+Gentes redemptÃ¦ plaudite.
 _
 Jesu, tibi sit gloria,
 Qui natus es de Virgine,
 Cum Patre, et almo Spiritu
-In sempiterna saecula.
+In sempiterna sÃ¦cula.
 Amen.
 
 [Versum 2]
@@ -159,7 +159,7 @@ R. Deus vultu suo.
 &Gloria
 R. Adjuvabit eam * Deus vultu suo.
 _
-V. Elegit eam Deus, et praeelegit eam.
+V. Elegit eam Deus, et prÃ¦elegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
@@ -168,15 +168,15 @@ v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi myrrh
 $Deo gratias.
 
 [Responsory Nona]
-R.br. Elegit eam Deus, * Et praeelegit eam.
-R. Elegit eam Deus, * Et praeelegit eam.
+R.br. Elegit eam Deus, * Et prÃ¦elegit eam.
+R. Elegit eam Deus, * Et prÃ¦elegit eam.
 V. In tabernaculo suo habitare facit eam.
-R. Et praeelegit eam.
+R. Et prÃ¦elegit eam.
 &Gloria
-R. Elegit eam Deus, * Et praeelegit eam.
+R. Elegit eam Deus, * Et prÃ¦elegit eam.
 _
 V. Diffusa est gratia in labiis tuis.
-R. Propterea benedixit te Deus in aeternum.
+R. Propterea benedixit te Deus in Ã¦ternum.
 
 [Lectio M01]
 Ex Epistola S. Ambrosii Episcopi ad Siricium Papam.
@@ -191,7 +191,7 @@ Christus virgo, Mater vírginis nostri virgo perpetua, mater et virgo.  Jesus eni
 &teDeum
 
 [Lectio M03]
-Ex libro sancti Irenaei Episcopi et Martyris adversus haereses.
+Ex libro sancti IrenÃ¦i Episcopi et Martyris adversus hÃ¦reses.
 !Lib. 5. c. 19.
 In sua própria veniénte Dómino et sua própria eum bajulánte conditióne, quæ bajulátur ab ipso, et recapitulatiónem ejus quæ in ligno fuit inobediéntiæ, per eam quæ in ligno est obediéntiam, faciénte, et seductióne illa solúta, qua sedúcta est male illa, quæ jam viro destináta erat, virgo Heva; per veritátem evangelizáta est bene ab Angelo jam sub viro Virgo María.  Quemádmodum enim illa per Angélicum sermónem sedúcta est, ut effúgeret Deum, prævaricáta verbum ejus: ita et hæc per Angélicum sermónem evangelizáta est, ut portáret Deum, obédiens ejus verbo.  Et sicut illa sedúcta est, ut effúgeret Deum; sic hæc suása est obedíre Deo, ut vírginis Hevæ Virgo María fíeret advocáta.  Et quemádmodum adstríctum est morte genus humánum per vírginem, solvátur per Vírginem: æqua lance dispósita virginális inobediéntia per Virginitátem obediéntiam.
 &teDeum
@@ -221,13 +221,13 @@ Non excedit fidem, quod homo exívit de vírgine, quando petra fontem prófluum sca
 &teDeum
 
 [Lectio M08]
-De Expositione sancti Gregorii Papae in libros Regum.
+De Expositione sancti Gregorii PapÃ¦ in libros Regum.
 !In 1. Reg. 1.
 Fuit vir unus de Ramáthaim Sophim, de monte Ephraim.  Potest, hujus montis nómine, beatíssima semper Virgo Maria, Dei Génitrix, designari.  Mons quippe fuit, quæ omnem electæ creaturæ altitúdinem, electiónis suæ dignitate, transcéndit.  An non mons sublimis Maria, quæ, ut ad conceptiónem æterni Verbi pertingeret, meritórum vérticem, supra omnes Angelórum choros, usque ad sólium Deitátis eréxit?  Hujus enim montis præcellentíssimam dignitátem Isaías vatícinans, ait: Erit in novíssimis diébus præparátus mons domus Dómini in vértice móntium. Mons quippe in vértice móntium fuit, quia altitúdo Maríæ supra omnes Sanctos refulsit.
 &teDeum
 
 [Lectio M09]
-Ex Epistola sancti Leonis Papae ad Pulcheriam Augustam.
+Ex Epistola sancti Leonis PapÃ¦ ad Pulcheriam Augustam.
 !Epistola 1. ante medium.
 Sacraméntum reconcilatiónis nostræ, ante témpora æterna dispósitum, nullæ implébant figuræ; quia nondum supervenerat Spíritus Sanctus in Vírginem nec virtus Altíssimi obumbraverat ei, ut, et intra intemeráta víscera, ædificante sibi Sapiéntia domum, Verbum caro fieret, et, forma Dei ac forma servi in unam conveniénte personam, Creator témporum nascerétur in témpore, et, per quem facta sunt ómnia, ipse inter ómnia gignerétur.  Nisi enim novus homo, factus in similitúdinem carnis peccati, nostram susciperet vetustátem, et, consubstantialis Patri, consubstantialis esse dignarétur et matri, naturámque sibi nostram solus a peccáto liber uníret; sub jugo diaboli generáliter tenerétur humana captivas.
 &teDeum
@@ -240,8 +240,8 @@ Amplectámur Maríæ vestígia, fratres mei, et devotíssima supplicatióne beátis ill
 
 [Lectio M101]
 Sermo sancti Bernárdi Abbátis
-!In Dom. infra Oct. Assumpt. B. Mariae Virg.
-Quid ergo sidéreum micat in generatióne Maríae? Plane quod ex régibus orta, quod ex sémine Abrahae, quod generósa ex stripe Davi. Si id parum vidétur, adde quod generatióni illi ob singuláre privilégium sanctitátis divínitus nóscitur esse concéssa, quod longe ante eísdem pátribus cáelitus repromíssa, quod mýsticis praefiguráta miráculis, quod oráculis praenuntiáta prophéticis. Hanc enim sacerdotális virga, dum sine radíce flóruit; hanc Gedeónis vellus, dum in médio siccae áreae máduit; hanc in Ezechiélis visióne orientális porta, quae nulli umquam pátuit, praesignábat. Hanc dénique prae céteris Isaías nunc virgam de radíce Jesse oritúram promittébat, nunc evidéntius vírginem paritúram. Mérito signum hoc magnum in caelo apparuísse scríbitur, quod tanto ante de caelo nóscitur fuísse promíssum.
+!In Dom. infra Oct. Assumpt. B. MariÃ¦ Virg.
+Quid ergo sidéreum micat in generatióne MaríÃ¦? Plane quod ex régibus orta, quod ex sémine AbrahÃ¦, quod generósa ex stripe Davi. Si id parum vidétur, adde quod generatióni illi ob singuláre privilégium sanctitátis divínitus nóscitur esse concéssa, quod longe ante eísdem pátribus cáelitus repromíssa, quod mýsticis prÃ¦figuráta miráculis, quod oráculis prÃ¦nuntiáta prophéticis. Hanc enim sacerdotális virga, dum sine radíce flóruit; hanc Gedeónis vellus, dum in médio siccÃ¦ áreÃ¦ máduit; hanc in Ezechiélis visióne orientális porta, quÃ¦ nulli umquam pátuit, prÃ¦signábat. Hanc dénique prÃ¦ céteris Isaías nunc virgam de radíce Jesse oritúram promittébat, nunc evidéntius vírginem paritúram. Mérito signum hoc magnum in cÃ¦lo apparuísse scríbitur, quod tanto ante de cÃ¦lo nóscitur fuísse promíssum.
 &teDeum
 
 [Lectio M11]

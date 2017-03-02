@@ -1,5 +1,5 @@
 [Lectio1]
-De libro secundo Machabaeorum
+De libro secundo Machab√¶orum
 !2 Mac 5:1-4
 1 Eodem tempore, Antiochus secundam profectionem paravit in ∆gyptum.
 2 Contigit autem per universam Jerosolymorum civitatem videri diebus quadraginta per aÎra equites discurrentes, auratas stolas habentes et hastis, quasi cohortes armatos:
@@ -12,7 +12,7 @@ De libro secundo Machabaeorum
 [Lectio2]
 !2 Mac 5:5-7
 5 Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Jason non minus mille viris, repente aggressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
-6 Jason vero non parcebat in caede civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophaea capturum.
+6 Jason vero non parcebat in c√¶de civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se troph√¶a capturum.
 7 Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammaniten.
 
 [Responsory2]
@@ -20,8 +20,8 @@ De libro secundo Machabaeorum
 
 [Lectio3]
 !2 Mac 5:8-10
-8 Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et exsecrabilis, ut patriae et civium hostis, in ∆gyptum extrusus est:
-9 et qui multos de patria sua expulerat, peregre periit, Lacedaemonas profectus, quasi pro cognatione ibi refugium habiturus:
+8 Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et exsecrabilis, ut patri√¶ et civium hostis, in ∆gyptum extrusus est:
+9 et qui multos de patria sua expulerat, peregre periit, Laced√¶monas profectus, quasi pro cognatione ibi refugium habiturus:
 10 et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulcro participans.
 
 [Responsory3]

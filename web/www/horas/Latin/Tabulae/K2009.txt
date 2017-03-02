@@ -88,7 +88,7 @@
 06-22=06-22n=Ss. John Fisher and Thomas More, martyrs=2=S. Paulinus of Nola, bishop=2=
 06-24=06-24=Birth of S. John the Baptist=6=
 06-27=02-09=S. Cyril of Alexandria, bishop and doctor=2=
-06-28=06-28=S. Irenaeus, bishop and martyr=3=
+06-28=06-28=S. Irenæus, bishop and martyr=3=
 06-29=06-29=Ss. Peter and Paul, Apostles=6=
 06-30=06-30n=First Martyrs of the Church of Rome=2=
 *July*
@@ -149,13 +149,13 @@
 09-16=09-16=Ss. Cornelius, pope, and Cyprian, bishop, martyrs=3=
 09-17=05-13=S. Robert Bellarmine, bishop and doctor=2=
 09-19=09-19=S. Januarius, bishop and martyr=2=
-09-20=09-20n=S. Andrew Kim Taegon, priest, and Paul Chong Hasang and companions, martyrs=3=
+09-20=09-20n=S. Andrew Kim Tægon, priest, and Paul Chong Hasang and companions, martyrs=3=
 09-21=09-21=S. Matthew the Evangelist, Apostle, Evangelist=5=
 09-23=09-23n=S. Pio of Pietrelcina (Padre Pio), priest=3=
 09-26=09-27=Ss. Cosmas and Damian, martyrs=2=
 09-27=07-19=S. Vincent de Paul, priest=3=
 09-28=09-28=S. Wenceslaus, martyr=2=Ss. Lawrence Ruiz and companions, martyrs=2=
-09-29=09-29=Ss. Michael, Gabriel and Raphael, Archangels=6=
+09-29=09-29=Ss. Michæl, Gabriel and Raphæl, Archangels=6=
 09-30=09-30r=S. Jerome, priest and doctor=3=
 *October*
 10-01=10-03=S. Therese of the Child Jesus, virgin and doctor=3=

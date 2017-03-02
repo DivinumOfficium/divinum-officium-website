@@ -13,12 +13,12 @@ $Deus in adjutorium
 
 #Psalmi cum lectionibus
 
-!Reliqua omittuntur, nisi %Laudes% separandae sint.
+!Reliqua omittuntur, nisi %Laudes% separandæ sint.
 
 #Oratio
 
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-$Fidelium animae
+$Fidelium animæ
 $Pater noster

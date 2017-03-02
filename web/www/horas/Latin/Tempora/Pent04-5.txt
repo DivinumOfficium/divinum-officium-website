@@ -7,7 +7,7 @@ Oratio Dominica
 [Lectio1]
 De libro primo Regum.
 !1 Sam 20:1-2
-1 Fugit autem David de Najoth, quae est in Ramatha, veniensque locutus est coram Jonatha: Quid feci? quae est iniquitas mea, et quod peccatum meum in patrem tuum, quia quaerit animam meam?
+1 Fugit autem David de Najoth, quæ est in Ramatha, veniensque locutus est coram Jonatha: Quid feci? quæ est iniquitas mea, et quod peccatum meum in patrem tuum, quia quærit animam meam?
 2 Qui dixit ei: Absit, non morieris: neque enim faciet pater meus quidquam grande vel parvum, nisi prius indicaverit mihi: hunc ergo celavit me pater meus sermonem tantummodo? Nequaquam erit istud.
 
 [Responsory1]
@@ -23,8 +23,8 @@ De libro primo Regum.
 
 [Lectio3]
 !1 Sam 20:5-7
-5 Dixit autem David ad Jonathan: Ecce calendae sunt crastino, et ego ex more sedere soleo juxta regem ad vescendum: dimitte ergo me ut abscondar in agro usque ad vesperam diei tertiae.
-6 Si respiciens requisierit me pater tuus, respondebis ei: Rogavit me David ut iret celeriter in Bethlehem civitatem suam, quia victimae solemnes ibi sunt universis contribulibus suis.
+5 Dixit autem David ad Jonathan: Ecce calendæ sunt crastino, et ego ex more sedere soleo juxta regem ad vescendum: dimitte ergo me ut abscondar in agro usque ad vesperam diei tertiæ.
+6 Si respiciens requisierit me pater tuus, respondebis ei: Rogavit me David ut iret celeriter in Bethlehem civitatem suam, quia victimæ solemnes ibi sunt universis contribulibus suis.
 7 Si dixerit: Bene: pax erit servo tuo, si autem fuerit iratus, scito quia completa est malitia ejus.
 
 [Responsory3]

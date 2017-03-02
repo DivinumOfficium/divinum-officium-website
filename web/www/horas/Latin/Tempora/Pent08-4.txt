@@ -29,9 +29,9 @@ De libro tertio Regum.
 [Lectio3]
 !1 Kgs 12:13-16
 13 Responditque rex populo dura, derelicto consilio seniorum quod ei dederant,
-14 et locutus est eis secundum consilium juvenum, dicens: Pater meus aggravavit jugum vestrum, ego autem addam jugo vestro: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus.
-15 Et non acquievit rex populo: quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum quod locutus fuerat in manu Ahiae Silonitae, ad Jeroboam filium Nabat.
-16 Videns itaque populus quod noluisset eos audire rex, respondit ei dicens: Quae nobis pars in David? vel quae hereditas in filio Isai? 
+14 et locutus est eis secundum consilium juvenum, dicens: Pater meus aggravavit jugum vestrum, ego autem addam jugo vestro: pater meus cecidit vos flagellis, ego autem cædam vos scorpionibus.
+15 Et non acquievit rex populo: quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum quod locutus fuerat in manu Ahiæ Silonitæ, ad Jeroboam filium Nabat.
+16 Videns itaque populus quod noluisset eos audire rex, respondit ei dicens: Quæ nobis pars in David? vel quæ hereditas in filio Isai? 
 
 [Responsory3]
 @Tempora/Pent01-1:Responsory3

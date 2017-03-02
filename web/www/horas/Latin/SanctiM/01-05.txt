@@ -12,7 +12,7 @@ $Per Dominum
 De Epistola ad Romanos.
 !Rom 7:1-3
 1 An ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit?
-2 Nam quae sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir ejus, soluta est a lege viri.
+2 Nam quæ sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir ejus, soluta est a lege viri.
 3 Igitur, vivente viro, vocabitur adultera si fuerit cum alio viro: si autem mortuus fuerit vir ejus, liberata est a lege viri, ut non sit adultera si fuerit cum alio viro.
 
 [Responsory1]
@@ -21,8 +21,8 @@ De Epistola ad Romanos.
 [Lectio2]
 !Rom 7:4-6
 4 Itaque fratres mei, et vos mortificati estis legi per corpus Christi: ut sitis alterius, qui ex mortuis resurrexit, ut fructificemus Deo.
-5 Cum enim essemus in carne, passiones peccatorum, quae per legem erant, operabantur in membris nostris, ut fructificarent morti.
-6 Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litterae.
+5 Cum enim essemus in carne, passiones peccatorum, quæ per legem erant, operabantur in membris nostris, ut fructificarent morti.
+6 Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litteræ.
 
 [Responsory2]
 @SanctiM/01-01:Responsory2

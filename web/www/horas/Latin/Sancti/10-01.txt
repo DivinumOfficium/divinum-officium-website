@@ -5,7 +5,7 @@ S. Remigii Episcopi Confessoris;;Simplex;;1.1;;vide C4
 vide C4;mtv
 
 [Oratio]
-Da, quaesumus, omnipotens Deus: ut beati Remigii Confessoris tui atque Pontificis~
+Da, quæsumus, omnipotens Deus: ut beati Remigii Confessoris tui atque Pontificis~
 veneranda solemnitas, et devotionem nobis augeat et salutem.
 $Per Dominum
 
@@ -13,8 +13,8 @@ $Per Dominum
 Remigius, episcopus Rhemensis, floruit Clodoveo rege Francorum, quem etiam~
 baptizavit, et primus omnium doctrina et miraculis Francos ad Christi Domini~
 fidem perduxit Ejus oratione mortua puella revixit. Multos interpretatus est~
-divinae Scripturae libros. Amplius septuaginta annos summa cum laude Rhemensem~
-ecclesiam administravit. Cujus vitae et mortis sanctitatem multa, quae consecuta~
+divinæ Scripturæ libros. Amplius septuaginta annos summa cum laude Rhemensem~
+ecclesiam administravit. Cujus vitæ et mortis sanctitatem multa, quæ consecuta~
 sunt, miracula comprobarunt.
 &teDeum
 

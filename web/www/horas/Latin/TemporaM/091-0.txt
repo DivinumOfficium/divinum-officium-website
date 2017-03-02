@@ -11,15 +11,15 @@ R. Et descendat super nos misericordia tua.
 Incipit liber Job
 !Job 1:1-3
 1 Vir erat in terra Hus, nomine Job: et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo.
-2 Natique sunt ei septem filii, et tres filiae.
-3 Et fuit possessio ejus septem millia ovium, et tria millia camelorum, quingenta quoque juga boum, et quingentae asinae, ac familia multa nimis: eratque vir ille magnus inter omnes orientales.
+2 Natique sunt ei septem filii, et tres filiæ.
+3 Et fuit possessio ejus septem millia ovium, et tria millia camelorum, quingenta quoque juga boum, et quingentæ asinæ, ac familia multa nimis: eratque vir ille magnus inter omnes orientales.
 
 
 [Responsory1]
 R. Si bona suscepimus de manu Dei, mala autem quare non sustineamus?
 * Dominus dedit, Dominus abstulit: sicut Domino placuit, ita factum est: sit~
 nomen Domini benedictum.
-V. Nudus egressus sum de utero matris meae, et nudus revertar illuc.
+V. Nudus egressus sum de utero matris meæ, et nudus revertar illuc.
 R. Dominus dedit, Dominus abstulit: sicut Domino placuit, ita factum est: sit~
 nomen Domini benedictum.
 
@@ -30,7 +30,7 @@ nomen Domini benedictum.
 
 
 [Responsory2]
-R. Antequam comedam, suspiro, et tamquam inundantes aquae, sic rugitus meus:~
+R. Antequam comedam, suspiro, et tamquam inundantes aquæ, sic rugitus meus:~
 quia timor quem timebam, evenit mihi; et quod verebar, accidit: nonne~
 dissimulavi? nonne silui? nonne quievi?
 *. Et venit super me indignatio.
@@ -44,26 +44,26 @@ R. Et venit super me indignatio.
 8 Dixitque Dominus ad eum: Numquid considerasti servum meum Job, quod non sit ei similis in terra, homo simplex et rectus, ac timens Deum, et recedens a malo?
 9 Cui respondens Satan, ait: Numquid Job frustra timet Deum?
 10 nonne tu vallasti eum, ac domum ejus, universamque substantiam per circuitum; operibus manuum ejus benedixisti, et possessio ejus crevit in terra?
-11 sed extende paululum manum tuam et tange cuncta quae possidet, nisi in faciem benedixerit tibi.
+11 sed extende paululum manum tuam et tange cuncta quæ possidet, nisi in faciem benedixerit tibi.
 
 
 [Responsory3]
 R. Quare detraxistis sermonibus veritatis: ad increpandum verba componitis, et~
 subvertere nitimini amicum vestrum?
-* Verumtamen quae cogitastis, explete.
+* Verumtamen quæ cogitastis, explete.
 V. Quod justum est, judicate; et non invenietis in lingua mea iniquitatem.
-R. Verumtamen quae cogitastis, explete.
+R. Verumtamen quæ cogitastis, explete.
 &Gloria
-R. Verumtamen quae cogitastis, explete.
+R. Verumtamen quæ cogitastis, explete.
 
 [Lectio4]
-Ex libro Moralium sancti Gregorii Papae.
+Ex libro Moralium sancti Gregorii Papæ.
 !Lectio iv. Lib. 2. Cap. 1.
 Scriptura sacra mentis oculis quasi quoddam speculum opponitur, ut interna~
 nostra facies in ipsa videatur. Ibi etenim foeda, ibi pulchra nostra~
 cognoscimus: ibi sentimus quantum proficimus, ibi a profectu quam longe~
 distamus. Narrat autem gesta sanctorum et ad imitationem corda provocat~
-infirmorum: dumque illorum victricia facta commemorat, contra vitiorum praelia~
+infirmorum: dumque illorum victricia facta commemorat, contra vitiorum prælia~
 debilia nostra confirmat: fitque verbis illius, ut eo mens minus inter certamina~
 trepidet, quo ante se positos tot virorum fortium triumphos videt.
 
@@ -90,8 +90,8 @@ exemplo roboratur.
 R. Paucitas dierum meorum finietur brevi: dimitte me Domine, ut plangam paululum~
 dolorem meum,
 * Antequam vadam ad terram tenebrosam, et opertam mortis caligine.
-V. Manus tuae Domine fecerunt me, et plasmaverunt me totum in circuitu, et sic~
-repente praecipitas me?
+V. Manus tuæ Domine fecerunt me, et plasmaverunt me totum in circuitu, et sic~
+repente præcipitas me?
 R. Antequam vadam ad terram tenebrosam, et opertam mortis caligine.
 
 [Lectio6]
@@ -101,8 +101,8 @@ ut ejus meritum virtutis exprimatur. Hus namque quis nesciat quod sit in terra~
 Gentilium? Gentilitas autem eo obligata vitiis exstitit, quo cognitionem sui~
 conditoris ignoravit. Dicatur itaque ubi habitaverit: ut hoc ejus laudibus~
 proficiat, quod bonus inter malos fuit. Neque enim valde laudabile est, bonum~
-esse cum bonis, sed bonum esse cum malis. Sicut enim gravioris culpae est, inter~
-bonos bonum non esse: ita immensi est praeconii, bonum etiam inter malos~
+esse cum bonis, sed bonum esse cum malis. Sicut enim gravioris culpæ est, inter~
+bonos bonum non esse: ita immensi est præconii, bonum etiam inter malos~
 exstitisse.
 
 [Responsory6]
@@ -118,7 +118,7 @@ R. Et formido tua non me terreat.
 R. Quis mihi tribuat, ut in inferno protegas me, et abscondas me, donec~
 pertranseat furor tuus Domine, nisi tu, qui solus es Deus?
 * Et constituas mihi tempus, in quo recorderis mei?
-V. Numquid sicut dies hominis, dies tui, ut quaeras iniquitatem meam; cum sit~
+V. Numquid sicut dies hominis, dies tui, ut quæras iniquitatem meam; cum sit~
 nemo, qui de manu tua possit eruere?
 R. Et constituas mihi tempus, in quo recorderis mei?
 

@@ -8,19 +8,19 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Ant 1]
-Dum tolleret Dominus * Eliam per turbinem in caelum, Eliseus clamabat: Pater mi, currus Isra�l, et auriga ejus.
+Dum tolleret Dominus * Eliam per turbinem in cælum, Eliseus clamabat: Pater mi, currus Isra�l, et auriga ejus.
 
 [Oratio]
-Pateant aures misericordiae tuae, Domine, precibus supplicantium: et ut petentibus desiderata concedas, fac eos, quae tibi sunt placita, postulare.
+Pateant aures misericordiæ tuæ, Domine, precibus supplicantium: et ut petentibus desiderata concedas, fac eos, quæ tibi sunt placita, postulare.
 $Per Dominum
 
 [Lectio1]
 Incipit liber quartus Regum.
 !2 Kgs 1:1-4
-1 Praevaricatus est autem Moab in Isra�l, postquam mortuus est Achab.
-2 Ceciditque Ochozias per cancellos c�naculi sui, quod habebat in Samaria, et aegrotavit: misitque nuntios, dicens ad eos: Ite, consulite Beelzebub deum Accaron, utrum vivere queam de infirmitate mea hac.
-3 Angelus autem Domini locutus est ad Eliam Thesbiten, dicens: Surge, et ascende in occursum nuntiorum regis Samariae, et dices ad eos: Numquid non est Deus in Isra�l, ut eatis ad consulendum Beelzebub deum Accaron?
-4 Quam ob rem haec dicit Dominus: De lectulo, super quem ascendisti, non descendes, sed morte morieris.
+1 Prævaricatus est autem Moab in Isra�l, postquam mortuus est Achab.
+2 Ceciditque Ochozias per cancellos c�naculi sui, quod habebat in Samaria, et ægrotavit: misitque nuntios, dicens ad eos: Ite, consulite Beelzebub deum Accaron, utrum vivere queam de infirmitate mea hac.
+3 Angelus autem Domini locutus est ad Eliam Thesbiten, dicens: Surge, et ascende in occursum nuntiorum regis Samariæ, et dices ad eos: Numquid non est Deus in Isra�l, ut eatis ad consulendum Beelzebub deum Accaron?
+4 Quam ob rem hæc dicit Dominus: De lectulo, super quem ascendisti, non descendes, sed morte morieris.
 
 [Responsory1]
 @Tempora/Pent01-1
@@ -29,17 +29,17 @@ Incipit liber quartus Regum.
 !2 Kgs 1:4-6
 4 Et abiit Elias.
 5 Reversique sunt nuntii ad Ochoziam. Qui dixit eis: Quare reversi estis?
-6 At illi responderunt ei: Vir occurrit nobis, et dixit ad nos: Ite, et revertimini ad regem qui misit vos, et dicetis ei: Haec dicit Dominus: Numquid quia non erat Deus in Isra�l, mittis ut consulatur Beelzebub deus Accaron? Idcirco de lectulo, super quem ascendisti, non descendes, sed morte morieris.
+6 At illi responderunt ei: Vir occurrit nobis, et dixit ad nos: Ite, et revertimini ad regem qui misit vos, et dicetis ei: Hæc dicit Dominus: Numquid quia non erat Deus in Isra�l, mittis ut consulatur Beelzebub deus Accaron? Idcirco de lectulo, super quem ascendisti, non descendes, sed morte morieris.
 
 [Responsory2]
 @Tempora/Pent01-1
 
 [Lectio3]
 !2 Kgs 1:7-10
-7 Qui dixit eis: Cujus figurae et habitus est vir ille, qui occurrit vobis, et locutus est verba haec?
+7 Qui dixit eis: Cujus figuræ et habitus est vir ille, qui occurrit vobis, et locutus est verba hæc?
 8 At illi dixerunt: Vir pilosus, et zona pellicea accinctus renibus. Qui ait: Elias Thesbites est.
-9 Misitque ad eum quinquagenarium principem, et quinquaginta qui erant sub eo. Qui ascendit ad eum: sedentique in vertice montis, ait: Homo Dei, rex praecepit ut descendas.
-10 Respondensque Elias, dixit quinquagenario: Si homo Dei sum, descendat ignis de caelo, et devoret te, et quinquaginta tuos. Descendit itaque ignis de caelo, et devoravit eum, et quinquaginta qui erant cum eo.
+9 Misitque ad eum quinquagenarium principem, et quinquaginta qui erant sub eo. Qui ascendit ad eum: sedentique in vertice montis, ait: Homo Dei, rex præcepit ut descendas.
+10 Respondensque Elias, dixit quinquagenario: Si homo Dei sum, descendat ignis de cælo, et devoret te, et quinquaginta tuos. Descendit itaque ignis de cælo, et devoravit eum, et quinquaginta qui erant cum eo.
 
 [Responsory3]
 @Tempora/Pent01-1
@@ -47,19 +47,19 @@ Incipit liber quartus Regum.
 [Lectio4]
 Sermo sancti Augustini Episcopi.
 !Sermo 201. de Tempore.
-In lectionibus, quae nobis diebus istis recitantur, fratres carissimi, frequenter admonui, ut non sequamur litteram occidentem, et vivificantem spiritum relinquamus. Sic enim Apostolus ait: Littera enim occidit, spiritus vivificat. Si enim hoc tantum volumus intelligere, quod sonat in littera: aut parvam, aut prope nullam aedificationem de divinis lectionibus capiemus. Illa enim omnia quae recitantur, typus erant et imago futurorum. In Judaeis enim figurata, in nobis, gratia Dei donante, completa sunt.
+In lectionibus, quæ nobis diebus istis recitantur, fratres carissimi, frequenter admonui, ut non sequamur litteram occidentem, et vivificantem spiritum relinquamus. Sic enim Apostolus ait: Littera enim occidit, spiritus vivificat. Si enim hoc tantum volumus intelligere, quod sonat in littera: aut parvam, aut prope nullam ædificationem de divinis lectionibus capiemus. Illa enim omnia quæ recitantur, typus erant et imago futurorum. In Judæis enim figurata, in nobis, gratia Dei donante, completa sunt.
 
 [Responsory4]
 @Tempora/Pent01-2:Responsory1
 
 [Lectio5]
-Beatus enim Elias typum habuit Domini Salvatoris. Sicut enim Elias a Judaeis persecutionem passus est: ita et verus Elias Dominus noster ab ipsis Judaeis reprobatus est, et contemptus. Elias reliquit gentem suam: et Christus deseruit synagogam. Elias abiit in desertum: et Christus venit in mundum. Elias in deserto corvis ministrantibus pascebatur: et Christus in deserto mundi hujus Gentium fide reficitur.
+Beatus enim Elias typum habuit Domini Salvatoris. Sicut enim Elias a Judæis persecutionem passus est: ita et verus Elias Dominus noster ab ipsis Judæis reprobatus est, et contemptus. Elias reliquit gentem suam: et Christus deseruit synagogam. Elias abiit in desertum: et Christus venit in mundum. Elias in deserto corvis ministrantibus pascebatur: et Christus in deserto mundi hujus Gentium fide reficitur.
 
 [Responsory5]
 @Tempora/Pent01-2:Responsory2
 
 [Lectio6]
-Corvi enim illi, qui beato Eliae, jubente Domino, ministrabant, Gentium populum figurabant: Propterea et de Gentium Ecclesia dicitur: Nigra sum et formosa, filia Jerusalem. Unde est Ecclesia nigra, et formosa? Nigra per naturam, formosa per gratiam. Unde nigra? Ecce in iniquitatibus conceptus sum, et in delictis peperit me mater mea. Unde formosa? Asperges me hyssopo, et mundabor: lavabis me, et super nivem dealbabor.
+Corvi enim illi, qui beato Eliæ, jubente Domino, ministrabant, Gentium populum figurabant: Propterea et de Gentium Ecclesia dicitur: Nigra sum et formosa, filia Jerusalem. Unde est Ecclesia nigra, et formosa? Nigra per naturam, formosa per gratiam. Unde nigra? Ecce in iniquitatibus conceptus sum, et in delictis peperit me mater mea. Unde formosa? Asperges me hyssopo, et mundabor: lavabis me, et super nivem dealbabor.
 
 [Responsory6]
 @Tempora/Pent01-2:Responsory3
@@ -67,27 +67,27 @@ Corvi enim illi, qui beato Eliae, jubente Domino, ministrabant, Gentium populum 
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luc 19:41-47
-In illo tempore: Cum appropinquaret Jesus Jerusalem, videns civitatem flevit super illam, dicens: Quia si cognovisses et tu, et quidem in hac die tua, quae ad pacem tibi! Nunc autem abscondita sunt ab oculis tuis. Et reliqua.
+In illo tempore: Cum appropinquaret Jesus Jerusalem, videns civitatem flevit super illam, dicens: Quia si cognovisses et tu, et quidem in hac die tua, quæ ad pacem tibi! Nunc autem abscondita sunt ab oculis tuis. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 39. In Evangelia.
-Quod a flente Domino illa Jerosolymorum subversio describitur, quae a Vespasiano et Tito Romanis principibus facta est, nullus qui historiam eversionis eiusdem legit, ignorat. Romani etenim principes denuntiantur, cum dicitur: Quia venient dies in te, et circumdabunt te inimici tui vallo. Hoc quoque quod additur: Non relinquent in te lapidem super lapidem: etiam jam ipsa eiusdem civitatis transmigratio testatur; quia dum nunc in eo loco constructa est, ubi extra portam fuerat Dominus crucifixus, prior illa Jerusalem, ut dicitur, funditus est eversa.
+Quod a flente Domino illa Jerosolymorum subversio describitur, quæ a Vespasiano et Tito Romanis principibus facta est, nullus qui historiam eversionis eiusdem legit, ignorat. Romani etenim principes denuntiantur, cum dicitur: Quia venient dies in te, et circumdabunt te inimici tui vallo. Hoc quoque quod additur: Non relinquent in te lapidem super lapidem: etiam jam ipsa eiusdem civitatis transmigratio testatur; quia dum nunc in eo loco constructa est, ubi extra portam fuerat Dominus crucifixus, prior illa Jerusalem, ut dicitur, funditus est eversa.
 
 [Responsory7]
 @Tempora/Pent01-3:Responsory1
 
 [Lectio8]
-Cui ex qua culpa eversionis suae poena fuerit illata, subjungitur: Eo quod non cognoveris tempus visitationis tuae. Creator quippe hominum per incarnationis suae mysterium hanc visitare dignatus est: sed ipsa timoris et amoris illius recordata non est. Unde etiam per prophetam in increpatione cordis humani aves caeli ad testimonium deducuntur, dum dicitur: Milvus in caelo cognovit tempus suum, turtur et hirundo et ciconia custodierunt tempus adventus sui: populus autem meus non cognovit judicium Domini.
+Cui ex qua culpa eversionis suæ poena fuerit illata, subjungitur: Eo quod non cognoveris tempus visitationis tuæ. Creator quippe hominum per incarnationis suæ mysterium hanc visitare dignatus est: sed ipsa timoris et amoris illius recordata non est. Unde etiam per prophetam in increpatione cordis humani aves cæli ad testimonium deducuntur, dum dicitur: Milvus in cælo cognovit tempus suum, turtur et hirundo et ciconia custodierunt tempus adventus sui: populus autem meus non cognovit judicium Domini.
 
 [Responsory8]
 @Tempora/Pent01-0:Responsory8
 
 [Lectio9]
-Flevit etenim prius Redemptor ruinam perfidae civitatis, quam ipsa sibi civitas non cognoscebat esse venturam. Cui a flente Domino recte dicitur: Quia si cognovisses, et tu; subaudi, fleres; quae modo, quia nescis quod imminet, exsultas. Unde et subditur: Et quidem in hac die tua, quae ad pacem tibi. Cum enim carnis se voluptatibus daret, et ventura mala non prospiceret; in die sua, quae ad pacem esse ei poterant, habebat.
+Flevit etenim prius Redemptor ruinam perfidæ civitatis, quam ipsa sibi civitas non cognoscebat esse venturam. Cui a flente Domino recte dicitur: Quia si cognovisses, et tu; subaudi, fleres; quæ modo, quia nescis quod imminet, exsultas. Unde et subditur: Et quidem in hac die tua, quæ ad pacem tibi. Cum enim carnis se voluptatibus daret, et ventura mala non prospiceret; in die sua, quæ ad pacem esse ei poterant, habebat.
 &teDeum
 
 [Ant 2]
-Cum appropinquaret * Dominus Jerusalem, videns civitatem, flevit super illam, et dixit: Quia si cognovisses et tu: quia venient dies in te, et circumdabunt te inimici tui vallo, et circumdabunt te, et coangustabunt te undique, et ad terram prosternent te: eo quod non cognovisti tempus visitationis tuae, alleluia.
+Cum appropinquaret * Dominus Jerusalem, videns civitatem, flevit super illam, et dixit: Quia si cognovisses et tu: quia venient dies in te, et circumdabunt te inimici tui vallo, et circumdabunt te, et coangustabunt te undique, et ad terram prosternent te: eo quod non cognovisti tempus visitationis tuæ, alleluia.
 
 [Ant 3]
 Scriptum est enim: * Quia domus mea domus orationis est cunctis gentibus: vos autem fecistis illam speluncam latronum: Et erat quotidie docens in templo.

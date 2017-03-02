@@ -1,8 +1,8 @@
 [Lectio1]
-De libro secundo Machabaeorum
+De libro secundo Machabæorum
 !2 Mac 2:1-3
-1 Invenitur autem in descriptionibus Jeremiae prophetae, quod jussit eos ignem accipere qui transmigrabant, ut significatum est, et ut mandavit transmigratis,
-2 et dedit illis legem, ne obliviscerentur praecepta Domini, et ut non exerrarent mentibus, videntes simulacra aurea et argentea, et ornamenta eorum;
+1 Invenitur autem in descriptionibus Jeremiæ prophetæ, quod jussit eos ignem accipere qui transmigrabant, ut significatum est, et ut mandavit transmigratis,
+2 et dedit illis legem, ne obliviscerentur præcepta Domini, et ut non exerrarent mentibus, videntes simulacra aurea et argentea, et ornamenta eorum;
 3 et alia hujusmodi dicens, hortabatur ne legem amoverent a corde suo.
 
 [Responsory1]
@@ -11,7 +11,7 @@ De libro secundo Machabaeorum
 [Lectio2]
 !2 Mac 2:4-6
 4 Erat autem in ipsa scriptura, quomodo tabernaculum et arcam jussit propheta divino responso ad se facto comitari secum, usquequo exiit in montem in quo Moyses ascendit, et vidit Dei hereditatem.
-5 Et veniens ibi Jeremias, invenit locum speluncae: et tabernaculum, et arcam, et altare incensi intulit illuc, et ostium obstruxit.
+5 Et veniens ibi Jeremias, invenit locum speluncæ: et tabernaculum, et arcam, et altare incensi intulit illuc, et ostium obstruxit.
 6 Et accesserunt quidam simul, qui sequebantur, ut notarent sibi locum: et non potuerunt invenire.
 
 [Responsory2]
@@ -20,7 +20,7 @@ De libro secundo Machabaeorum
 [Lectio3]
 !2 Mac 2:7-9
 7 Ut autem cognovit Jeremias, culpans illos dixit: quod ignotus erit locus donec congreget Deus congregationem populi, et propitius fiat:
-8 et tunc Dominus ostendet haec, et apparebit majestas Domini, et nubes erit, sicut et Moysi manifestabatur, et sicut cum Salomon petiit ut locus sanctificaretur magno Deo, manifestabat haec;
+8 et tunc Dominus ostendet hæc, et apparebit majestas Domini, et nubes erit, sicut et Moysi manifestabatur, et sicut cum Salomon petiit ut locus sanctificaretur magno Deo, manifestabat hæc;
 9 magnifice etenim sapientiam tractabat: et ut sapientiam habens, obtulit sacrificium dedicationis et consummationis templi.
 
 [Responsory3]

@@ -1,5 +1,5 @@
 [Rank]
-S. Joannis Baptistae de la Salle Confessoris;;Duplex;;3;;vide C5
+S. Joannis Baptist√¶ de la Salle Confessoris;;Duplex;;3;;vide C5
 
 [Rule]
 vide C5;mtv
@@ -9,62 +9,62 @@ vide C5;mtv
 Deus, qui ad Christianam pauperum eruditionem et ad juventam in via veritatis~
 firmandam, sanctum Joannem Baptistam Confessorem excitasti, et novam per eum in~
 Ecclesia familiam collegisti: concede propitius, ut eius intercessione et~
-exemplo, studio gloriae tuae in animarum salute ferventes, eius in caelis~
-coronae participes fieri valeamus.
+exemplo, studio glori√¶ tu√¶ in animarum salute ferventes, eius in c√¶lis~
+coron√¶ participes fieri valeamus.
 $Per Dominum
 
 [Lectio4]
 Joannes Baptista de la Salle, Rhemis claro genere ortus, puer adhuc moribus et~
-factis in sortem Domini se vocandum et sanctimoniae laude honestandum portendit.~
+factis in sortem Domini se vocandum et sanctimoni√¶ laude honestandum portendit.~
 Adolescens in Rhemensi academia litteras ac philosophicas disciplinas didicit:~
 quo tempore, etsi ob animi virtutes et alacre ingenium ac suave omnibus carus~
-esset, ab aequalium tamen societate abhorrebat, ut solitudini addictus facilius~
-Deo vacaret. In clericalem militiam jampridem cooptatus, sexto decimo aetatis~
-anno inter Rhemenses canonicos adscriptus est. Lutetiam Parisiorum, theologiae~
+esset, ab √¶qualium tamen societate abhorrebat, ut solitudini addictus facilius~
+Deo vacaret. In clericalem militiam jampridem cooptatus, sexto decimo √¶tatis~
+anno inter Rhemenses canonicos adscriptus est. Lutetiam Parisiorum, theologi√¶~
 in Sorbonica universitate daturus operam, contendit, atque in Sulpitianum~
 seminarium adscitus est. At brevi parentibus orbatus, domum regredi coactus,~
 fratres educandos suscepit; quod, scientiarum interim sacrarum studia non~
-intermittens, optimo cum fructu praestitit, uti exitus comprobavit.
+intermittens, optimo cum fructu pr√¶stitit, uti exitus comprobavit.
 
 [Lectio5]
-Sacerdotio demum auctus quae praestanti fide animique ardore primum ad aram~
-fecit, eiusdem toto vitae tempore Sacris est operatus. Interea salutis animarium~
+Sacerdotio demum auctus qu√¶ pr√¶stanti fide animique ardore primum ad aram~
+fecit, eiusdem toto vit√¶ tempore Sacris est operatus. Interea salutis animarium~
 studio incensus, totum in earundem utilitatem sese impendit. Sororum a Jesu~
 infante, puellis educandis instituarum, regimen suscepit; easque non modo~
 prudentissime est moderatus, sed ab excidio vindicavit. Hinc porro animum~
 advertit ad pueros de plebe religione bonisque moribus informandos. Atque in hoc~
 quidem illum suscitaverat Deus, ut scilicet noca in Ecclesia sua religiosorum~
-hominum familia condita, puerorum, praesentim pauperum, scholis perenni~
+hominum familia condita, puerorum, pr√¶sentim pauperum, scholis perenni~
 efficacique ratione consuleret. De mandatum vero a Dei providentia munus, per~
-contradictiones plurimas magnasque aerumnas, feliciter implevit, fundata fratrum~
+contradictiones plurimas magnasque √¶rumnas, feliciter implevit, fundata fratrum~
 sodalitate, quam a Scholis christianis nuncupavit.
 
 [Lectio6]
 Adjunctos igitur sibi homines in gravi opere et arduo, apud se primum suscepit;~
 tum aptiori in sede constitutos disciplina sua optime imbuit iis legibus~
-sapientibusque institutis, qae postea a Benecto decimo tertio sunt confirmata.~
+sapientibusque institutis, q√¶ postea a Benecto decimo tertio sunt confirmata.~
 Ex demissione animi ac paupertatis amore primum canonicatu se abdicavit,~
-omniaque sua bona in pauperes erogavit; quin etiam serius quod frustra saepius~
+omniaque sua bona in pauperes erogavit; quin etiam serius quod frustra s√¶pius~
 tentaveret, fundati a se instituti regimen sponte deposuit. Nihil tamen interim~
 de fratrum sollicitudine remittens deque scholis ab eo, pluribus iam locis,~
 apertis, impensius Deo vacare coepit. Assidue jejuniis, flagellis alusque~
-asperitatibus in seipsum saeviens, noctes orando ducebat. Donec, virtutibus~
-omnibus conspicuus, praesertim obedientia studio divinae voluntatis implendae,~
+asperitatibus in seipsum s√¶viens, noctes orando ducebat. Donec, virtutibus~
+omnibus conspicuus, pr√¶sertim obedientia studio divin√¶ voluntatis implend√¶,~
 amore ac devotione in Apostolicam Sedem: meritis onustus, sacramentis rite~
 susceptis, obdormivit in Domino annos natus duo de septuaginta. Eum Leo decimus~
 tertius, Pontifex maximus, beatorum catalogo inseruit; novissime fulgentem~
-signis anno jubilaei milesimo noningentesimo Sanctorum honoribus decoravit. Pius vero duodÈcimus Ûmnium magistrÛrum p˙eris adulescentib˙sque instituÈndis praecÌpuum apud Deum caelÈstem patrÛnum constÌtuit.
+signis anno jubil√¶i milesimo noningentesimo Sanctorum honoribus decoravit. Pius vero duodÈcimus Ûmnium magistrÛrum p˙eris adulescentib˙sque instituÈndis pr√¶cÌpuum apud Deum c√¶lÈstem patrÛnum constÌtuit.
 
 [Lectio7]
-Lectio Sancti Evangelii secundum Matthaeum
+Lectio Sancti Evangelii secundum Matth√¶um
 !Matt 18:1-5
 In illo tempore: Ascenderunt discipuli ad Jesum dicentes: qui putas major et in~
-regno caelorum? Et reliqua.
+regno c√¶lorum? Et reliqua.
 _
 Homilia Sancti Chrysostomi Episcopi
 !In Cap. 18 Matth. Hom. 60
 Videte ne aliquem istorum contempseritis parvulorum, quia eorum Angeli Patris~
-me! faciem semper aspiciunt, et quia ego propter eos veni, et haec Patris mei~
+me! faciem semper aspiciunt, et quia ego propter eos veni, et h√¶c Patris mei~
 voluntas est. Ad tuendos conservandosque pusillos, diligentiores nos reddit.~
 Perspicis quam ingentia in tutelam tenuium moenia erexerit, et quantum studium~
 curamque habeat, ne perdantur; tum quia supremas despicientibus eos poenas~
@@ -73,16 +73,16 @@ idque tam suo quam Patris exemplo corroborat.
 
 [Lectio8]
 Dominum igitur etiam nos imitemur, et nihil pro fratribus omittamus, etiam eorum~
-quae humilia viliaque nimium videntur. Sed si administratione nostra etiam opus~
+qu√¶ humilia viliaque nimium videntur. Sed si administratione nostra etiam opus~
 fuerit, quamvis tenuis atque abjectus quidem, cui administrandum sit, fuerit,~
-quamvis ardua nobis res atque laboris plena esse videatur; omnia haec pro~
+quamvis ardua nobis res atque laboris plena esse videatur; omnia h√¶c pro~
 fratria salute tolerabiliora facilioraque, oro, videantur. Tanto enim studio~
 tantaque cura Deus dignam esse animam ostendit, ut neque Filio suo pepercit.
 
 [Lectio9]
 Si non est nobis satis ad salutem quod virtuose ipsi vivamus, sed oportet~
 aliorum salutem re ipsa desiderare: cum necte nos recte vivamus neque alios~
-hortemus, quid respondebimus? qae nobis spes salutis reliqa erit? Quid majus quam~
+hortemus, quid respondebimus? q√¶ nobis spes salutis reliqa erit? Quid majus quam~
 animis moderari, quam adulescentulorum fingere mores? Omni certe pictore, omni~
 certe statuario, ceterisque huiusmodi omnibus excellentiorem hunc duco, qui~
 juvenum animos fingere non ignoret. 

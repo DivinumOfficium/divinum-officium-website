@@ -13,7 +13,7 @@ De libro Job
 
 [Lectio2]
 !Job 31:7-12
-7 Si declinavit gressus meus de via, et si secutum est oculos meos cor meum, et si manibus meis adhaesit macula,
+7 Si declinavit gressus meus de via, et si secutum est oculos meos cor meum, et si manibus meis adhæsit macula,
 8 seram, et alius comedat, et progenies mea eradicetur.
 9 Si deceptum est cor meum super muliere, et si ad ostium amici mei insidiatus sum,
 10 scortum alterius sit uxor mea, et super illam incurventur alii.
@@ -26,11 +26,11 @@ De libro Job
 [Lectio3]
 !Job 31:13-18
 13 Si contempsi subire judicium cum servo meo et ancilla mea, cum disceptarent adversum me:
-14 quid enim faciam cum surrexerit ad judicandum Deus? et cum quaesierit, quid respondebo illi?
+14 quid enim faciam cum surrexerit ad judicandum Deus? et cum quæsierit, quid respondebo illi?
 15 Numquid non in utero fecit me, qui et illum operatus est, et formavit me in vulva unus?
-16 Si negavi quod volebant pauperibus, et oculos viduae exspectare feci;
+16 Si negavi quod volebant pauperibus, et oculos viduæ exspectare feci;
 17 Si comedi buccellam meam solus, et non comedit pupillus ex ea,
-18 Quia ab infantia mea crevit mecum miseratio, et de utero matris meae egressa est mecum;
+18 Quia ab infantia mea crevit mecum miseratio, et de utero matris meæ egressa est mecum;
 
 [Responsory3]
 @Tempora/091-0:Responsory3

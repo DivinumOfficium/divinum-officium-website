@@ -1,8 +1,8 @@
 [Rank]
-S. Bartholomaei Apostoli;;Duplex II classis;;5.5;;ex C1
+S. BartholomÃ¦i Apostoli;;Duplex II classis;;5.5;;ex C1
 
 [Rank1960]
-S. Bartholomaei Apostoli;;Duplex II classis;;5;;ex C1
+S. BartholomÃ¦i Apostoli;;Duplex II classis;;5;;ex C1
 
 [Rule]
 ex C1;
@@ -24,7 +24,7 @@ Ibi Polymium regem et cónjugem ejus ac præterea duódecim civitátes ad christiana
 Ejus corpus Albani, quæ est urbs majoris Armeniæ, ubi is passus fuerat, sepúltus est.  Quod póstea ad Líparam insulam delátum, inde Benevéntum translátum est.  Postremo Romam ab Ottone tertio imperatóre portátum, in Tíberis insula, in ecclésia ejus nómine Deo dicata, collocátum fuit.
 
 [Lectio6] (rubrica Tridentina)
-Ejus corpus Albani, quae est urbs majoris Armeniae, ubi is passus fuerat, sepultum est: quod postea ad Liparam insulam delatum, inde Beneventum translatum est: postremo Romam ab Ottone tertio imperatore portatum, in Tiberis insula, in ecclesia ejus nomine Deo dicata, collocatum fuit. Agitur autem Romae dies festus octavo Kalendas Septembris, et per octo consequentes dies illa basilica magna populi frequentia celebratur.
+Ejus corpus Albani, quÃ¦ est urbs majoris ArmeniÃ¦, ubi is passus fuerat, sepultum est: quod postea ad Liparam insulam delatum, inde Beneventum translatum est: postremo Romam ab Ottone tertio imperatore portatum, in Tiberis insula, in ecclesia ejus nomine Deo dicata, collocatum fuit. Agitur autem RomÃ¦ dies festus octavo Kalendas Septembris, et per octo consequentes dies illa basilica magna populi frequentia celebratur.
 
 
 [Lectio7]

@@ -8,8 +8,8 @@ Antiphonas horas
 9 lectiones
 
 [Ant 1]
-Iste est Joannes * qui supra pectus Domini in caena recubuit: beatus Apostolus,~
-cui revelata sunt secreta caelestia.
+Iste est Joannes * qui supra pectus Domini in cæna recubuit: beatus Apostolus,~
+cui revelata sunt secreta cælestia.
 
 [Versum 1]
 V. Valde honorandus est beatus Joannes.
@@ -17,18 +17,18 @@ R. Qui supra pectus Domini in cena recubuit
 
 [Oratio]
 Ecclesiam tuam Domine benignus illustra: ut beati Joannis Apostoli tui et~
-Evangelistae illuminata doctrinis, ad dona perveniat sempiterna.
+Evangelistæ illuminata doctrinis, ad dona perveniat sempiterna.
 $Per Dominum
 
 [Lectio1]
 Incipit Epistola prima beati Joannis Apostoli.
 !1 Joann. 1:1-5
-1 Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostrae contrectaverunt de verbo vitae:
-2 et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam aeternam, quae erat apud Patrem, et apparuit nobis:
+1 Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:
+2 et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:
 3 quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo.
-4 Et haec scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
-5 Et haec est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam~
-Deus lux est, et tenebrae in eo non sunt ullae.
+4 Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
+5 Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam~
+Deus lux est, et tenebræ in eo non sunt ullæ.
 
 [Responsory1]
 R. Valde honorandus est beatus Joannes, qui supra pectus Domini in cena~
@@ -46,14 +46,14 @@ R. Cui Christus in cruce matrem virginem virgini commendavit.
 10 Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.
 
 [Responsory2]
-R. Hic est discipulus ille, qui testimonium perhibet de his, et scripsit haec:
+R. Hic est discipulus ille, qui testimonium perhibet de his, et scripsit hæc:
 * Et scimus quia verum est testimonium ejus.
 V. Fluenta Evangelii de ipso sacro Dominici pectoris fonte potavit.
 R. Et scimus quia verum est testimonium ejus.
 
 [Lectio3]
 !1 Joann. 2:1-5
-1 Filioli mei, haec scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Jesum Christum justum:
+1 Filioli mei, hæc scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Jesum Christum justum:
 2 et ipse est propitiatio pro peccatis nostris: non pro nostris autem tantum, sed etiam pro totius mundi.
 3 Et in hoc scimus quoniam cognovimus eum, si mandata ejus observemus.
 4 Qui dicit se nosse eum, et mandata ejus non custodit, mendax est, et in hoc~
@@ -63,43 +63,43 @@ scimus quoniam in ipso sumus.
 
 [Responsory3]
 R. Hic est beatissimus Evangelista et Apostolus Joannes
-* Qui privilegio amoris praecipui, ceteris altius a Domino meruit honorari.
+* Qui privilegio amoris præcipui, ceteris altius a Domino meruit honorari.
 V. Hic est discipulus ille, quem diligebat Jesus, qui supra pectus Domini in~
 cena recubuit.
-R. Qui privilegio amoris praecipui, ceteris altius a Domino meruit honarari.
+R. Qui privilegio amoris præcipui, ceteris altius a Domino meruit honarari.
 &Gloria
-R. Qui privilegio amoris praecipui, ceteris altius a Domino moruit honorari.
+R. Qui privilegio amoris præcipui, ceteris altius a Domino moruit honorari.
 
 [Lectio4]
 Ex libro sancti Hieronymi Presbyteri
 !De Scriptoribus Ecclesiasticis.
-Joannes Apostolus, quem Jesus amavit plurimum, filius Zebedaei, frater Jacobi~
+Joannes Apostolus, quem Jesus amavit plurimum, filius Zebedæi, frater Jacobi~
 Apostoli, quem Herodes post passionem Domini decollavit, novissimus omnium~
-scripsit Evangelium, rogatus ab Asiae episcopis, adversus Cerinthum, aliosque~
-haereticos: et maxime tunc Ebionitarum dogma consurgens, qui asserunt Christum~
+scripsit Evangelium, rogatus ab Asiæ episcopis, adversus Cerinthum, aliosque~
+hæreticos: et maxime tunc Ebionitarum dogma consurgens, qui asserunt Christum~
 ante Mariam non fuisse: unde et compulsus est divinam ejus nativitatem edicere.
 
 [Responsory4]
 R. Qui vicerit, faciam illum columnam in templo meo, dicit Dominus:
-* Et scribam super eum nomen meum, et nomen civitatis novae Jerusalem.
-V. Vincenti dabo edere de ligno vitae, quod est in paradiso Dei mei.
-R. Et scribam super eum nomen meum, et nomen civitatis novae Jerusalem.
+* Et scribam super eum nomen meum, et nomen civitatis novæ Jerusalem.
+V. Vincenti dabo edere de ligno vitæ, quod est in paradiso Dei mei.
+R. Et scribam super eum nomen meum, et nomen civitatis novæ Jerusalem.
 
 [Lectio5]
 Quarto decimo igitur anno, secundam post Neronem persecutionem movente Domitiano,~
 in Patmos insulam relegatus, scripsit Apocalypsim, quam interpretatur Justinus~
-Martyr, et Irenaeus. Interfecto autem Domitiano, et actis ejus ob nimiam~
+Martyr, et Irenæus. Interfecto autem Domitiano, et actis ejus ob nimiam~
 crudelitatem a senatu rescissis, sub Nerva principe rediit Ephesum: ibique usque~
-ad Trajanum principem perseverans, totas Asiae fundavit, rexitque ecclesias; et~
+ad Trajanum principem perseverans, totas Asiæ fundavit, rexitque ecclesias; et~
 confectus senio, sexagesimo octavo post passionem Domini anno mortuus, juxta~
 eamdem urbem sepultus est.
 
 [Responsory5]
-R. Diligebat autem eum Jesus, quoniam specialis praerogativa castitatis ampliari~
+R. Diligebat autem eum Jesus, quoniam specialis prærogativa castitatis ampliari~
 dilectione fecerat dignum:
-* Quia virgo electus ab ipso, virgo in aevum permansit.
+* Quia virgo electus ab ipso, virgo in ævum permansit.
 V. In cruce denique moriturus, huic matrem suam virginem virgini commendavit.
-R. Quia virgo electus ab ipso, virgo in aevum permansit.
+R. Quia virgo electus ab ipso, virgo in ævum permansit.
 
 [Lectio6]
 !Ex Commentariis eiusdem in Epistolam ad Galatas.
@@ -107,18 +107,18 @@ R. Quia virgo electus ab ipso, virgo in aevum permansit.
 Beatus Joannes Evangelista, cum Ephesi moraretur usque ad ultimam senectutem, et~
 vix inter discipulorum manus ad Ecclesiam deferretur, nec posset in plura vocem~
 verba contexere: nihil aliud per singulas solebat proferre collectas, nisi hoc:~
-Filioli, diligite alterutrum. Tandem discipuli, et fratres, qui aderant, taedio~
+Filioli, diligite alterutrum. Tandem discipuli, et fratres, qui aderant, tædio~
 affecti quod eadem semper audirent, dixerunt: Magister, quare semper hoc~
-loqueris? Qui respondit dignam Joanne sententiam: Quia praeceptum Domini est: et~
+loqueris? Qui respondit dignam Joanne sententiam: Quia præceptum Domini est: et~
 si solum fiat, sufficit.
 
 [Responsory6]
-R. In medio Ecclesiae aperuit os ejus
-* Et implevit eum Dominus spiritu sapientiae et intellectus.
+R. In medio Ecclesiæ aperuit os ejus
+* Et implevit eum Dominus spiritu sapientiæ et intellectus.
 V. Jucunditatem et exsultationem thesaurizavit super eum.
-R. Et implevit eum Dominus spiritu sapientiae et intellectus.
+R. Et implevit eum Dominus spiritu sapientiæ et intellectus.
 &Gloria
-R. Et implevit eum Dominus spiritu sapientiae et intellectus.
+R. Et implevit eum Dominus spiritu sapientiæ et intellectus.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
@@ -128,9 +128,9 @@ discipulum, quem diligebat Jesus, sequentem. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Tract. 124. in Joann., post med.
-Duas vitas sibi divinitus praedicatas, et commendatas novit Ecclesia: quarum est~
+Duas vitas sibi divinitus prædicatas, et commendatas novit Ecclesia: quarum est~
 una in fide, altera in specie: una in tempore peregrinationis, altera in~
-aeternitate mansionis: una in labore, altera in requie: una in via, altera in~
+æternitate mansionis: una in labore, altera in requie: una in via, altera in~
 patria: una in opere actionis, altera in mercede contemplationis. Una declinat a~
 malo et facit bonum: altera nullum habet, a quo declinet, malum; et magnum habet,~
 quo fruatur, bonum. Una cum hoste pugnat, altera sine hoste regnat.
@@ -139,29 +139,29 @@ quo fruatur, bonum. Una cum hoste pugnat, altera sine hoste regnat.
 R. In illum diem suscipiam te servum meum, et ponam te sicut signaculum in~
 conspectu meo:
 * Quoniam ego elegi te, dicit Dominus.
-V. Esto fidelis usque ad mortem, et dabo tibi coronam vitae.
+V. Esto fidelis usque ad mortem, et dabo tibi coronam vitæ.
 R. Quoniam ego elegi te, dicit Dominus.
 
 [Lectio8]
 Una subvenit indigenti, altera ibi est, ubi nullum invenit indigentem. Una~
 aliena peccata, ut sua sibi ignoscantur, ignoscit: altera nec patitur quod~
 ignoscat, nec facit quod sibi poscat ignosci. Una flagellatur malis, ne~
-extollatur in bonis: altera tanta plenitudine gratiae caret omni malo, ut sine~
-ulla tentatione superbiae cohaereat summo bono.
+extollatur in bonis: altera tanta plenitudine gratiæ caret omni malo, ut sine~
+ulla tentatione superbiæ cohæreat summo bono.
 
 [Responsory8]
 R. Iste est Joannes, qui supra pectus Domini in cena recubuit:
-* Beatus Apostolus, cui revelata sunt secreta caelestia.
+* Beatus Apostolus, cui revelata sunt secreta cælestia.
 V. Fluenta Evangelii de ipso sacro Dominici pectoris fonte potavit.
-R. Beatus Apostolus, cui revelata sunt secreta caelestia.
+R. Beatus Apostolus, cui revelata sunt secreta cælestia.
 &Gloria
-R. Beatus Apostolus, cui revelata sunt secreta caelestia.
+R. Beatus Apostolus, cui revelata sunt secreta cælestia.
 
 [Lectio9]
 Ergo una bona est, sed adhuc misera: altera melior, et beata. Ista significata~
 est per Apostolum Petrum, illa per Joannem. Tota hic agitur ista usque in hujus~
-saeculi finem, et illic invenit finem: differetur illa complenda post hujus~
-saeculi finem, sed in futuro saeculo non habet finem. Ideo dicitur huic: Sequere~
+sæculi finem, et illic invenit finem: differetur illa complenda post hujus~
+sæculi finem, sed in futuro sæculo non habet finem. Ideo dicitur huic: Sequere~
 me. De illo autem: Sic eum volo manere, donec veniam: quid ad te? tu me sequere.~
 Quid enim est hoc? Quantum sapio, quantum capio, quid est hoc? nisi tu me~
 sequere per imitationem perferendi temporalia mala: ille maneat, donec~
@@ -184,13 +184,13 @@ Ecce puer meus * electus, quem elegi, posui super eum spiritum meum.
 
 [Capitulum Laudes]
 !Sir 15:1-2
-v. Qui timet Deum, faciet bona: et qui continens est justitiae, apprehendet~
+v. Qui timet Deum, faciet bona: et qui continens est justitiæ, apprehendet~
 illam, et obviabit illi quasi mater honorificata.
 $Deo gratias
 _
 R.br. In omnem terram * exivit sonus eorum.
 R. In omnem terram exivit sonus eorum.
-V. Et in fines orbis terrae verba eorum.
+V. Et in fines orbis terræ verba eorum.
 R. Exivit sonus eorum.
 &Gloria
 R. In omnem terram exivit sonus eorum.
@@ -201,29 +201,29 @@ R. Et scimus quia verum est testimonium ejus
 
 [Ant 2]
 Iste est Joannes * qui supra pectus Domini in cena recubuit: beatus Apostolus,~
-cui revelata sunt secreta caelestia.
+cui revelata sunt secreta cælestia.
 
 [Capitulum Tertia]
 !Sir 15:1-2
-v. Qui timet Deum, faciet bona: et qui continens est justitiae, apprehendet~
+v. Qui timet Deum, faciet bona: et qui continens est justitiæ, apprehendet~
 illam, et obviabit illi quasi mater honorificata.
 $Deo gratias
 
 [Capitulum Sexta]
 !Sir 15:3
-v. Cibavit illum pane vitae, et intellectus et aqua sapientiae salutaris potavit~
+v. Cibavit illum pane vitæ, et intellectus et aqua sapientiæ salutaris potavit~
 illum Dominus Deus noster.
 $Deo gratias
 
 [Capitulum Nona]
 !Sir 15:5
-v. In medio Ecclesiae aperuit os ejus, et implevit illum Dominus spiritu~
-sapientiae, et intellectus, et stolam gloriae induit eum.
+v. In medio Ecclesiæ aperuit os ejus, et implevit illum Dominus spiritu~
+sapientiæ, et intellectus, et stolam gloriæ induit eum.
 $Deo gratias
 
 [Capitulum Vespera]
 !Sir 15:1-2
-v. Qui timet Deum, faciet bona: et qui continens est justitiae, apprehendet~
+v. Qui timet Deum, faciet bona: et qui continens est justitiæ, apprehendet~
 illam, et obviabit illi quasi mater honorificata.
 $Deo gratias
 _
@@ -256,6 +256,6 @@ sequere.
 21:23 Exiit ergo sermo iste inter fratres quia discipulus ille non moritur. Et~
 non dixit ei Jesus: Non moritur, sed: Sic eum volo manere donec veniam, quid ad~
 te?
-21:24 Hic est discipulus ille qui testimonium perhibet de his, et scripsit haec:~
+21:24 Hic est discipulus ille qui testimonium perhibet de his, et scripsit hæc:~
 et scimus quia verum est testimonium ejus.
 $Te decet

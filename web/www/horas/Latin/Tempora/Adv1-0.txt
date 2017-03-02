@@ -9,7 +9,7 @@ Antiphonas horas
 In illa die * stillabunt montes dulcedinem, et colles fluent lac et mel, alleluia.
 Jucundare * filia Sion, et exsulta satis, filia Jerusalem, alleluia.
 Ecce Dominus veniet, * et omnes Sancti ejus cum eo et erit in die illa lux magna, alleluia.
-Omnes sitientes, * venite ad aquas: quaerite Dominum, dum inveniri potest, alleluia.
+Omnes sitientes, * venite ad aquas: quærite Dominum, dum inveniri potest, alleluia.
 Ecce veniet * Propheta magnus, et ipse renovabit Jerusalem, alleluia.
 
 [Capitulum Vespera]
@@ -25,11 +25,11 @@ Excita, quæsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccat
 $Qui vivis
 
 [Lectio1]
-Incipit liber Isaiae Prophetae
+Incipit liber Isaiæ Prophetæ
 !Isa 1:1-3
-1 Visio Isaiae, filii Amos, quam vidit super Judam et Jerusalem, in diebus Oziae, Joathan, Achaz, et Ezechiae, regum Juda.
-2 Audite, caeli, et auribus percipe, terra, quoniam Dominus locutus est. Filios enutrivi, et exaltavi; ipsi autem spreverunt me.
-3 Cognovit bos possessorem suum, et asinus praesepe domini sui; Israël autem me non cognovit, et populus meus non intellexit.
+1 Visio Isaiæ, filii Amos, quam vidit super Judam et Jerusalem, in diebus Oziæ, Joathan, Achaz, et Ezechiæ, regum Juda.
+2 Audite, cæli, et auribus percipe, terra, quoniam Dominus locutus est. Filios enutrivi, et exaltavi; ipsi autem spreverunt me.
+3 Cognovit bos possessorem suum, et asinus præsepe domini sui; Israël autem me non cognovit, et populus meus non intellexit.
 
 [Responsory1]
 R. Aspíciens a longe, ecce video Dei poténtiam veniéntem, et nébulam totam terram tegéntem. * Ite obviam ei, et dícite: * Núntia nobis, si tu es ipse, * Qui regnatúrus es in pópulo Israël.
@@ -41,34 +41,34 @@ R. Aspíciens a longe, ecce video Dei poténtiam veniéntem, et nébulam totam t
 
 [Lectio2]
 !Isa 1:4-6
-4 Vae genti peccatrici, populo gravi iniquitate, semini nequam, filiis sceleratis: dereliquerunt Dominum; blasphemaverunt Sanctum Israël; abalienati sunt retrorsum.
-5 Super quo percutiam vos ultra, addentes praevaricationem? omne caput languidum, et omne cor mœrens.
+4 Væ genti peccatrici, populo gravi iniquitate, semini nequam, filiis sceleratis: dereliquerunt Dominum; blasphemaverunt Sanctum Israël; abalienati sunt retrorsum.
+5 Super quo percutiam vos ultra, addentes prævaricationem? omne caput languidum, et omne cor mœrens.
 6 A planta pedis usque ad verticem, non est in eo sanitas; vulnus, et livor, et plaga tumens, non est circumligata, nec curata medicamine, neque fota oleo.
 
 [Responsory2]
-R. Aspiciebam in visu noctis, et ecce in nubibus caeli Filius hominis veniebat: et datum est ei regnum, et honor:
-* Et omnis populus, tribus, et linguae servient ei.
-V. Potestas ejus, potestas aeterna, quae non auferetur: et regnum ejus, quod non corrumpetur.
-R. Et omnis populus, tribus, et linguae servient ei.
+R. Aspiciebam in visu noctis, et ecce in nubibus cæli Filius hominis veniebat: et datum est ei regnum, et honor:
+* Et omnis populus, tribus, et linguæ servient ei.
+V. Potestas ejus, potestas æterna, quæ non auferetur: et regnum ejus, quod non corrumpetur.
+R. Et omnis populus, tribus, et linguæ servient ei.
 
 [Lectio3]
 !Isa 1:7-9
-7 Terra vestra deserta; civitates vestrae succensae igni: regionem vestram coram vobis alieni devorant, et desolabitur sicut in vastitate hostili.
-8 Et derelinquetur filia Sion ut umbraculum in vinea, et sicut tugurium in cucumerario, et sicut civitas quae vastatur.
+7 Terra vestra deserta; civitates vestræ succensæ igni: regionem vestram coram vobis alieni devorant, et desolabitur sicut in vastitate hostili.
+8 Et derelinquetur filia Sion ut umbraculum in vinea, et sicut tugurium in cucumerario, et sicut civitas quæ vastatur.
 9 Nisi Dominus exercituum reliquisset nobis semen, quasi Sodoma fuissemus, et quasi Gomorrha similes essemus.
 
 [Responsory3]
 R. Missus est Gabriel Angelus ad Mariam Virginem desponsatam Joseph, nuntians ei verbum; et expavescit Virgo de lumine: ne timeas, Maria, invenisti gratiam apud Dominum:
 * Ecce concipies et paries, et vocabitur Altissimi Filius.
-V. Dabit ei Dominus Deus sedem David, patris ejus, et regnabit in domo Jacob in aeternum.
+V. Dabit ei Dominus Deus sedem David, patris ejus, et regnabit in domo Jacob in æternum.
 R. Ecce concipies et paries, et vocabitur Altissimi Filius.
 &Gloria
 R. Ecce concipies et paries, et vocabitur Altissimi Filius.
 
 [Lectio4]
-Sermo sancti Leonis Papae.
+Sermo sancti Leonis Papæ.
 !Serm. 8. de jej. X. mens. et eleemos.
-Cum de adventu regni Dei, et de mundi fine ac temporum, discipulos suos Salvator instrueret, totamque Ecclesiam suam in Apostolis erudiret: Cavete, inquit, ne forte graventur corda vestra in crapula, et ebrietate, et cogitationibus saecularibus. Quod utique praeceptum dilectissimi, ad nos specialius pertinere cognoscimus, quibus denuntiatus dies, etiamsi est occultus, non dubitatur esse vicinus.
+Cum de adventu regni Dei, et de mundi fine ac temporum, discipulos suos Salvator instrueret, totamque Ecclesiam suam in Apostolis erudiret: Cavete, inquit, ne forte graventur corda vestra in crapula, et ebrietate, et cogitationibus sæcularibus. Quod utique præceptum dilectissimi, ad nos specialius pertinere cognoscimus, quibus denuntiatus dies, etiamsi est occultus, non dubitatur esse vicinus.
 
 [Responsory4]
 R. Ave Maria, gratia plena, Dominus tecum:
@@ -77,16 +77,16 @@ V. Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus, dixit 
 R. Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod enim ex te nascetur Sanctum, vocabitur Filius Dei.
 
 [Lectio5]
-Ad cujus adventum omnem hominem convenit praeparari: ne quem aut ventri deditum, aut curis saecularibus inveniat implicatum. Quotidiano enim, dilectissimi, experimento probatur, potus satietate aciem mentis obtundi, et ciborum nimietate vigorem cordis hebetari: ita ut delectatio edendi etiam corporum contraria sit saluti, nisi ratio temperantiae obsistat illecebrae, et quod futurum est oneri, subtrahat voluptati.
+Ad cujus adventum omnem hominem convenit præparari: ne quem aut ventri deditum, aut curis sæcularibus inveniat implicatum. Quotidiano enim, dilectissimi, experimento probatur, potus satietate aciem mentis obtundi, et ciborum nimietate vigorem cordis hebetari: ita ut delectatio edendi etiam corporum contraria sit saluti, nisi ratio temperantiæ obsistat illecebræ, et quod futurum est oneri, subtrahat voluptati.
 
 [Responsory5]
 R. Salvatorem exspectamus Dominum Jesum Christum,
-* Qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae.
-V. Sobrie, et juste, et pie vivamus in hoc saeculo, exspectantes beatam spem, et adventum gloriae magni Dei.
-R. Qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae.
+* Qui reformabit corpus humilitatis nostræ configuratum corpori claritatis suæ.
+V. Sobrie, et juste, et pie vivamus in hoc sæculo, exspectantes beatam spem, et adventum gloriæ magni Dei.
+R. Qui reformabit corpus humilitatis nostræ configuratum corpori claritatis suæ.
 
 [Lectio6]
-Quamvis enim sine anima nihil caro desideret, et inde accipiat sensus, unde sumit et motus: eiusdem tamen est animae, quaedam sibi subditae negare substantiae, et interiori judicio ab inconvenientibus exteriora frenare: ut a corporeis cupiditatibus saepius libera, in aula mentis possit divinae vacare sapientiae: ubi omni strepitu terrenarum silente curarum, in meditationibus sanctis, et in deliciis laetetur aeternis.
+Quamvis enim sine anima nihil caro desideret, et inde accipiat sensus, unde sumit et motus: eiusdem tamen est animæ, quædam sibi subditæ negare substantiæ, et interiori judicio ab inconvenientibus exteriora frenare: ut a corporeis cupiditatibus sæpius libera, in aula mentis possit divinæ vacare sapientiæ: ubi omni strepitu terrenarum silente curarum, in meditationibus sanctis, et in deliciis lætetur æternis.
 
 [Responsory6]
 R. Obsecro, Domine, mitte quem missurus es: vide afflictionem populi tui:
@@ -101,27 +101,27 @@ Lectio sancti Evangelii secundum Lucam.
 !Luc 21:25-33
 In illo tempore: Dixit Jesus discipulis suis: Erunt signa in sole, et luna, et stellis, et in terris pressura gentium. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 1. in Evangelia.
-Dominus ac Redemptor noster paratos nos invenire desiderans, senescentem mundum quae mala sequantur denuntiat, ut nos ab ejus amore compescat. Appropinquantem ejus terminum quantae percussiones praeveniant, innotescit: ut si Deum metuere in tranquillitate nolumus, saltem vicinum ejus judicium vel percussionibus attriti timeamus.
+Dominus ac Redemptor noster paratos nos invenire desiderans, senescentem mundum quæ mala sequantur denuntiat, ut nos ab ejus amore compescat. Appropinquantem ejus terminum quantæ percussiones præveniant, innotescit: ut si Deum metuere in tranquillitate nolumus, saltem vicinum ejus judicium vel percussionibus attriti timeamus.
 
 [Responsory7]
 R. Ecce virgo concipiet, et pariet filium, dicit Dominus:
 * Et vocabitur nomen ejus Admirabilis, Deus, Fortis.
-V. Super solium David, et super regnum ejus sedebit in aeternum.
+V. Super solium David, et super regnum ejus sedebit in æternum.
 R. Et vocabitur nomen ejus Admirabilis, Deus, Fortis.
 
 [Lectio8]
-Huic etenim lectioni sancti Evangelii, quam modo vestra fraternitas audivit, paulo superius Dominus praemisit, dicens: Exsurget gens contra gentem, et regnum adversus regnum: et erunt terraemotus magni per loca, et pestilentiae, et fames. Et quibusdam interpositis, hoc, quod modo audistis, adjunxit: Erunt signa in sole, et luna, et stellis, et in terris pressura gentium prae confusione sonitus maris, et fluctuum. Ex quibus profecto omnibus alia jam facta cernimus, alia in proximo ventura formidamus.
+Huic etenim lectioni sancti Evangelii, quam modo vestra fraternitas audivit, paulo superius Dominus præmisit, dicens: Exsurget gens contra gentem, et regnum adversus regnum: et erunt terræmotus magni per loca, et pestilentiæ, et fames. Et quibusdam interpositis, hoc, quod modo audistis, adjunxit: Erunt signa in sole, et luna, et stellis, et in terris pressura gentium præ confusione sonitus maris, et fluctuum. Ex quibus profecto omnibus alia jam facta cernimus, alia in proximo ventura formidamus.
 
 [Responsory8]
-R. Audite verbum Domini Gentes, et annuntiate illud in finibus terrae:
-* Et insulis, quae procul sunt, dicite: Salvator noster adveniet.
+R. Audite verbum Domini Gentes, et annuntiate illud in finibus terræ:
+* Et insulis, quæ procul sunt, dicite: Salvator noster adveniet.
 V. Annuntiate, et auditum facite: loquimini, et clamate.
-R. Et insulis, quae procul sunt, dicite: Salvator noster adveniet.
+R. Et insulis, quæ procul sunt, dicite: Salvator noster adveniet.
 
 [Lectio9]
-Nam gentem contra gentem exsurgere, earumque pressuram terris insistere, plus jam in nostris temporibus cernimus, quam in codicibus legimus. Quod terraemotus urbes innumeras obruat, ex aliis mundi partibus scitis quam frequenter audivimus. Pestilentias sine cessatione patimur. Signa vero in sole, et luna, et stellis, adhuc aperte minime vidimus: sed quia et haec non longe sint, ex ipsa jam aëris immutatione colligimus.
+Nam gentem contra gentem exsurgere, earumque pressuram terris insistere, plus jam in nostris temporibus cernimus, quam in codicibus legimus. Quod terræmotus urbes innumeras obruat, ex aliis mundi partibus scitis quam frequenter audivimus. Pestilentias sine cessatione patimur. Signa vero in sole, et luna, et stellis, adhuc aperte minime vidimus: sed quia et hæc non longe sint, ex ipsa jam aëris immutatione colligimus.
 
 [Responsory9]
 R. Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum et regnabit rex, et sapiens erit, et faciet judicium et justitiam in terra
@@ -135,7 +135,7 @@ R. Dominus justus noster.
 In illa die * stillabunt montes dulcedinem, et colles fluent lac et mel, alleluia.
 Jucundare * filia Sion, et exsulta satis, filia Jerusalem, alleluia.
 Ecce Dominus veniet, * et omnes Sancti ejus cum eo: et erit in die illa lux magna, alleluia.
-Omnes sitientes * venite ad aquas: quaerite Dominum, dum inveniri potest, alleluia.
+Omnes sitientes * venite ad aquas: quærite Dominum, dum inveniri potest, alleluia.
 Ecce veniet * Propheta magnus, et ipse renovabit Jerusalem, alleluia.
 
 [Capitulum Laudes]
@@ -149,12 +149,12 @@ Spiritus Sanctus * in te descendet, Maria: ne timeas, habebis in utero Filium De
 
 [Capitulum Sexta]
 !Rom 13:12
-v. Nox praecessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis.
+v. Nox præcessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis.
 $Deo gratias
 
 [Capitulum Nona]
 !Rom 13:13-14
-v. Sicut in die honeste ambulemus, non in comessationibus et ebrietatibus, non in cubilibus et impudicitiis, non in contentione et aemulatione: sed induimini Dominum Jesum Christum.
+v. Sicut in die honeste ambulemus, non in comessationibus et ebrietatibus, non in cubilibus et impudicitiis, non in contentione et æmulatione: sed induimini Dominum Jesum Christum.
 $Deo gratias
 
 [Ant 3]

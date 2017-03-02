@@ -57,7 +57,7 @@ $Qui vivis
 @:Oratio_Fid
 
 [Oratio1]
-Absolve, quaesumus Domine, animam famuli tui N., ut defunctus saeculo tibi vivat: et quae per fragilitatem carnis humana conversatione commisit, tu venia misericordissimae pietatis absterge.
+Absolve, quæsumus Domine, animam famuli tui N., ut defunctus sæculo tibi vivat: et quæ per fragilitatem carnis humana conversatione commisit, tu venia misericordissimæ pietatis absterge.
 $Per Dominum
 
 [Oratio2]
@@ -65,7 +65,7 @@ Deus indulgentiarum Domine: da animabus famulorum famularumque tuarum, quorum an
 $Per Dominum
 
 [Conclusio]
-V. Requiem aeternam dona eis Domine.
+V. Requiem æternam dona eis Domine.
 R. Et lux perpetua luceat eis.
 V. Requiescant in pace.
 R. Amen.
@@ -79,8 +79,8 @@ Convertere, * Domine, et eripe animam meam: quoniam non est in morte, qui memor 
 Nequando rapiat * ut leo animam meam, dum non est qui redimat, neque qui salvum faciat.;;7
 V. A porta inferi.
 R. Erue, Domine, animas eorum.
-In loco pascuae * ibi me collocavit.;;22
-Delicta * juventutis meae, et ignorantias meas ne memineris, Domine.;;24
+In loco pascuæ * ibi me collocavit.;;22
+Delicta * juventutis meæ, et ignorantias meas ne memineris, Domine.;;24
 Credo videre * bona Domini in terra viventium.;;26
 V. Collocet eos Dominus cum principibus.
 R. Cum principibus populi sui.
@@ -107,30 +107,30 @@ R. Et in carne mea videbo Deum Salvatorem meum.
 
 [Lectio2]
 !Job 10:1-7
-1 Taedet animam meam vitae meae; dimittam adversum me eloquium meum: loquar in amaritudine animae meae.
+1 Tædet animam meam vitæ meæ; dimittam adversum me eloquium meum: loquar in amaritudine animæ meæ.
 2 Dicam Deo: Noli me condemnare; indica mihi cur me ita judices.
 3 Numquid bonum tibi videtur, si calumnieris me, et opprimas me opus manuum tuarum, et consilium impiorum adjuves?
 4 Numquid oculi carnei tibi sunt? aut sicut videt homo, et tu videbis?
 5 Numquid sicut dies hominis dies tui, et anni tui sicut humana sunt tempora,
-6 ut quaeras iniquitatem meam, et peccatum meum scruteris,
+6 ut quæras iniquitatem meam, et peccatum meum scruteris,
 7 et scias quia nihil impium fecerim, cum sit nemo qui de manu tua possit eruere?
 
 [Responsory2]
 R. Qui Lazarum resuscitasti a monumento foetidum:
-* Tu eis, Domine, dona requiem, et locum indulgentiae.
-V. Qui venturus es judicare vivos et mortuos, et saeculum per ignem.
-R. Tu eis, Domine, dona requiem, et locum indulgentiae.
+* Tu eis, Domine, dona requiem, et locum indulgentiæ.
+V. Qui venturus es judicare vivos et mortuos, et sæculum per ignem.
+R. Tu eis, Domine, dona requiem, et locum indulgentiæ.
 
 [Lectio3]
 !Job 10:8-12
-8 Manus tuae fecerunt me et plasmaverunt me totum in circuitu et sic repente praecipitas me
-9 memento quaeso quod sicut lutum feceris me et in pulverem reduces me
+8 Manus tuæ fecerunt me et plasmaverunt me totum in circuitu et sic repente præcipitas me
+9 memento quæso quod sicut lutum feceris me et in pulverem reduces me
 10 nonne sicut lac mulsisti me et sicut caseum me coagulasti
 11 pelle et carnibus vestisti me ossibus et nervis compegisti me
 12 vitam et misericordiam tribuisti mihi et visitatio tua custodivit spiritum meum
 
 [Responsory3]
-R. Domine, quando veneris judicare terram, ubi me abscondam a vultu irae tuae?
+R. Domine, quando veneris judicare terram, ubi me abscondam a vultu iræ tuæ?
 * Quia peccavi nimis in vita mea.
 V. Commissa mea pavesco, et ante te erubesco: dum veneris judicare, noli me condemnare.
 R. Quia peccavi nimis in vita mea.
@@ -143,7 +143,7 @@ R. Quia peccavi nimis in vita mea.
 23 Quantas habeo iniquitates et peccata? scelera mea et delicta ostende mihi.
 24 Cur faciem tuam abscondis, et arbitraris me inimicum tuum?
 25 Contra folium, quod vento rapitur, ostendis potentiam tuam, et stipulam siccam persequeris:
-26 scribis enim contra me amaritudines, et consumere me vis peccatis adolescentiae meae.
+26 scribis enim contra me amaritudines, et consumere me vis peccatis adolescentiæ meæ.
 27 Posuisti in nervo pedem meum, et observasti omnes semitas meas, et vestigia pedum meorum considerasti:
 28 qui quasi putredo consumendus sum, et quasi vestimentum quod comeditur a tinea.
 
@@ -177,22 +177,22 @@ R. Miserere mei, dum veneris in novissimo die.
 
 [Responsory6]
 R. Ne recorderis peccata mea, Domine;
-* Dum veneris judicare saeculum per ignem.
+* Dum veneris judicare sæculum per ignem.
 V. Dirige, Domine, Deus meus, in conspectu tuo viam meam.
-R. Dum veneris judicare saeculum per ignem.
+R. Dum veneris judicare sæculum per ignem.
 $Requiem
-R. Dum veneris judicare saeculum per ignem.
+R. Dum veneris judicare sæculum per ignem.
 
 [Lectio7]
 !Job 17:1-3; 17:11-15
 1 Spiritus meus attenuabitur; dies mei breviabuntur: et solum mihi superest sepulcrum.
 2 Non peccavi, et in amaritudinibus moratur oculus meus.
 3 Libera me, Domine, et pone me juxta te, et cujusvis manus pugnet contra me.
-11 Dies mei transierunt; cogitationes meae dissipatae sunt, torquentes cor meum.
+11 Dies mei transierunt; cogitationes meæ dissipatæ sunt, torquentes cor meum.
 12 Noctem verterunt in diem, et rursum post tenebras spero lucem.
 13 Si sustinuero, infernus domus mea est, et in tenebris stravi lectulum meum.
 14 Putredini dixi: Pater meus es; Mater mea, et soror mea, vermibus.
-15 Ubi est ergo nunc praestolatio mea? et patientiam meam quis considerat?
+15 Ubi est ergo nunc præstolatio mea? et patientiam meam quis considerat?
 
 [Responsory7]
 R. Peccantem me quotidie, et non me poenitentem, timor mortis conturbat me:
@@ -223,10 +223,10 @@ R. Ut tu, Deus, deleas iniquitátem meam.
 19 Fuissem quasi non essem, de utero translatus ad tumulum.
 20 Numquid non paucitas dierum meorum finietur brevi? dimitte ergo me, ut plangam paululum dolorem meum,
 21 antequam vadam, et non revertar, ad terram tenebrosam, et opertam mortis caligine:
-22 terram miseriae et tenebrarum, ubi umbra mortis et nullus ordo, sed sempiternus horror inhabitat.
+22 terram miseriæ et tenebrarum, ubi umbra mortis et nullus ordo, sed sempiternus horror inhabitat.
 
 [Responsory91]
-R. Libera me, Domine, de viis inferni, qui portas aereas confregisti: et visitasti infernum, et dedisti eis lumen, ut viderent te:
+R. Libera me, Domine, de viis inferni, qui portas æreas confregisti: et visitasti infernum, et dedisti eis lumen, ut viderent te:
 * Qui erant in poenis tenebrarum.
 V. Clamantes et dicentes: Advenisti Redemptor noster.
 R. Qui erant in poenis tenebrarum.

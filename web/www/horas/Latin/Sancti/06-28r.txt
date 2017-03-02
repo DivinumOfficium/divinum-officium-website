@@ -9,7 +9,7 @@ no Te Deum
 Laudes 2
 
 [Oratio]
-Praesta, quaesumus, omnipotens Deus: ut nullis nos permittas perturbationibus concuti; quos in apostolicae confessionis petra solidasti.
+Præsta, quæsumus, omnipotens Deus: ut nullis nos permittas perturbationibus concuti; quos in apostolicæ confessionis petra solidasti.
 $Per Dominum
 
 [Lectio1]

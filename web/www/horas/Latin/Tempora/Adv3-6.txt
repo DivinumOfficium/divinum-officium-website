@@ -12,32 +12,32 @@ Sabbato infra Hebdomadam III Adventus;;Feria major;;2
 [Lectio1]
 Lectio sancti Evangelii secundum Lucam.
 !Luc 3:1-6
-Anno quintodecimo imperii Tiberii Caesaris, procurante Pontio Pilato Judaeam. Et reliqua.
+Anno quintodecimo imperii Tiberii Cæsaris, procurante Pontio Pilato Judæam. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 20. in Evang.
-Redemptoris nostri Praecursor, quo tempore praedicationis officium acceperit, memorato Romanae reipublicae principe, et Judaeae regibus, designatur. Quia enim illum praedicare veniebat, qui et ex Judaea quosdam, et multos ex Gentibus redempturus erat: per regem Gentium et principes Judaeorum praedicationis ejus tempora designantur. Quia autem Gentilitas colligenda erat, et Judaea pro culpa perfidiae dispergenda, ipsa quoque descriptio terreni principatus ostendit: quoniam et in Romana republica unus praefuisse describitur, et in Judaeae regno per quartam partem plurimi principabantur.
+Redemptoris nostri Præcursor, quo tempore prædicationis officium acceperit, memorato Romanæ reipublicæ principe, et Judææ regibus, designatur. Quia enim illum prædicare veniebat, qui et ex Judæa quosdam, et multos ex Gentibus redempturus erat: per regem Gentium et principes Judæorum prædicationis ejus tempora designantur. Quia autem Gentilitas colligenda erat, et Judæa pro culpa perfidiæ dispergenda, ipsa quoque descriptio terreni principatus ostendit: quoniam et in Romana republica unus præfuisse describitur, et in Judææ regno per quartam partem plurimi principabantur.
 
 [Responsory1]
 R. Egredietur virga de radice Jesse, et flos de radice ejus ascendet:
 * Et erit justitia cingulum lumborum ejus, et fides cinctorium renum ejus.
-V. Et requiescet super eum spiritus Domini: spiritus sapientiae, et intellectus: spiritus consilii, et fortitudinis.
+V. Et requiescet super eum spiritus Domini: spiritus sapientiæ, et intellectus: spiritus consilii, et fortitudinis.
 R. Et erit justitia cingulum lumborum ejus, et fides cinctorium renum ejus.
 
 [Lectio2]
-Voce etenim nostri Redemptoris dicitur: Omne regnum in seipsum divisum desolabitur. Liquet ergo, quod ad finem regni Judaea pervenerat, quae tot regibus divisa subjacebat. Apte quoque non solum quibus regibus, sed etiam quibus sacerdotibus actum sit, demonstratur: et quia illum Joannes Baptista praedicaret, qui simul Rex et Sacerdos exsisteret, Lucas Evangelista praedicationis ejus tempora per regnum et sacerdotium designavit.
+Voce etenim nostri Redemptoris dicitur: Omne regnum in seipsum divisum desolabitur. Liquet ergo, quod ad finem regni Judæa pervenerat, quæ tot regibus divisa subjacebat. Apte quoque non solum quibus regibus, sed etiam quibus sacerdotibus actum sit, demonstratur: et quia illum Joannes Baptista prædicaret, qui simul Rex et Sacerdos exsisteret, Lucas Evangelista prædicationis ejus tempora per regnum et sacerdotium designavit.
 
 [Responsory2]
 R. Radix Jesse, qui exsurget judicare Gentes, in eum Gentes sperabunt:
-* Et erit nomen ejus benedictum in saecula.
+* Et erit nomen ejus benedictum in sæcula.
 V. Super ipsum continebunt reges os suum, ipsum Gentes deprecabuntur.
-R. Et erit nomen ejus benedictum in saecula.
+R. Et erit nomen ejus benedictum in sæcula.
 
 [Lectio3]
-Et venit in omnem regionem Jordanis, praedicans baptismum poenitentiae in remissionem peccatorum. Cunctis legentibus liquet, quia Joannes non solum baptismum poenitentiae praedicavit verum etiam quibusdam dedit: sed tamen baptismum suum in remissionem peccatorum dare non potuit. Remissio etenim peccatorum in solo nobis baptismo Christi tribuitur. Notandum itaque, quod dicitur: Praedicans baptismum poenitentiae in remissionem peccatorum: quoniam baptismum, quod peccata solveret, quia dare non poterat, praedicabat: ut sicut incarnatum Verbum Patris praecurrebat verbo praedicationis ita baptismum poenitentiae, quo peccata solvuntur, praecurreret suo baptismate, quo peccata solvi non possunt.
+Et venit in omnem regionem Jordanis, prædicans baptismum poenitentiæ in remissionem peccatorum. Cunctis legentibus liquet, quia Joannes non solum baptismum poenitentiæ prædicavit verum etiam quibusdam dedit: sed tamen baptismum suum in remissionem peccatorum dare non potuit. Remissio etenim peccatorum in solo nobis baptismo Christi tribuitur. Notandum itaque, quod dicitur: Prædicans baptismum poenitentiæ in remissionem peccatorum: quoniam baptismum, quod peccata solveret, quia dare non poterat, prædicabat: ut sicut incarnatum Verbum Patris præcurrebat verbo prædicationis ita baptismum poenitentiæ, quo peccata solvuntur, præcurreret suo baptismate, quo peccata solvi non possunt.
 
 [Responsory3]
-R. Veni, Domine, et noli tardare: relaxa facinora plebi tuae,
+R. Veni, Domine, et noli tardare: relaxa facinora plebi tuæ,
 * Et revoca dispersos in terram suam.
 V. Excita, Domine, potentiam tuam, et veni, ut salvos facias nos.
 R. Et revoca dispersos in terram suam.
