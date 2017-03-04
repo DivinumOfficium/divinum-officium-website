@@ -61,7 +61,7 @@ Benedicámus Dómino
 [Benedicamus Domino alleluja]
 Benedicámus Dómino, allelúja, allelúja
 
-[Fidelium animae]
+[Fidelium animæ]
 Fidélium ánimć
 
 [Oremus]
@@ -91,7 +91,7 @@ Qui vivis
 [Qui tecum]
 Qui tecum
 
-[Sacrosanctaea]
+[Sacrosanctæa]
 Sacrosanctća
 
 [Te Deum]
@@ -115,14 +115,14 @@ Post
 [Commemoratio]
 Commemoratio
 
-[Antiphonae]
+[Antiphonæ]
 Antiphonæ
 
-[Psalmi, antiphonae]
+[Psalmi, antiphonæ]
 Psalmi, antiphonæ
 
-[Psalmi et antiphonae]
+[Psalmi et antiphonæ]
 Psalmi et antiphonæ
 
-[Psalmi Dominica, antiphonae]
+[Psalmi Dominica, antiphonæ]
 Psalmi Dominica, antiphonæ

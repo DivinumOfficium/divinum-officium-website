@@ -1,5 +1,5 @@
 [Rank]
-S. Luciae Virginis et Martyris;;Duplex majus;;4;;ex C6
+S. Luciæ Virginis et Martyris;;Duplex majus;;4;;ex C6
 
 [Rule]
 vide C6;
@@ -7,45 +7,45 @@ vide C6;
 
 [Ant Vespera]
 Orante sancta Lucia, * apparuit ei beata Agatha, et consolabatur ancillam Christi;;109
-Lucia virgo * quid a me petis, quod ipsa poteris praestare continuo matri tuae?;;112
+Lucia virgo * quid a me petis, quod ipsa poteris præstare continuo matri tuæ?;;112
 Per te Lucia virgo * civitas Syracusana decorabitur a Domino Jesu Christo;;121
-Soror mea Lucia, * virgo Deo devota, quid a me petis, quod ipsa poteris praestare continuo matri tuae?;;126
+Soror mea Lucia, * virgo Deo devota, quid a me petis, quod ipsa poteris præstare continuo matri tuæ?;;126
 
 [Ant 1]
-In tua patientia * possedisti animam tuam, Lucia sponsa Christi: odisti quae in~
+In tua patientia * possedisti animam tuam, Lucia sponsa Christi: odisti quæ in~
 mundo sunt, et coruscas cum Angelis: sanguine proprio inimicum vicisti.
 
 [Oratio]
-Exaudi nos Deus salutaris noster: ut sicut de beatae Luciae Virginis et Martyris~
-tuae festivitate gaudemus ita piae devotionis erudiamur affectu.
+Exaudi nos Deus salutaris noster: ut sicut de beatæ Luciæ Virginis et Martyris~
+tuæ festivitate gaudemus ita piæ devotionis erudiamur affectu.
 $Per Dominum
 
 [Lectio4]
 Lucia virgo Syracusana genere et christiana fide ab infantia nobilis, una cum~
-matre Eutychia, quae sanguinis fluxu laborabat, Catanam ad venerandum corpus~
-beatae Agathae venit: quae ad ejus sepulcrum cum suppliciter orasset, Agathae~
+matre Eutychia, quæ sanguinis fluxu laborabat, Catanam ad venerandum corpus~
+beatæ Agathæ venit: quæ ad ejus sepulcrum cum suppliciter orasset, Agathæ~
 intercessione matri sanitatem impetravit. Statim vero matrem exoravit, ut quam~
 dotem sibi datura esset, Christi pauperibus tribui pateretur. Ut igitur~
 Syracusas rediit, omnem pecuniam, quam ex facultatibus venditis redegerat,~
 pauperibus distribuit.
 
 [Responsory4]
-R. Lucia virgo, quid a me petis, quod ipsa poteris praestare continuo matri~
-tuae? nam et fides tua illi subvenit, et ecce salvata est:
-* Quia jucundum Deo in tua virginitate habitaculum praeparasti.
+R. Lucia virgo, quid a me petis, quod ipsa poteris præstare continuo matri~
+tuæ? nam et fides tua illi subvenit, et ecce salvata est:
+* Quia jucundum Deo in tua virginitate habitaculum præparasti.
 V. Sicut per me civitas Catanensium sublimatur a Christo, ita per te Syracusana~
 civitas decorabitur.
-R. Quia jucundum Deo in tua virginitate habitaculum praeparasti.
+R. Quia jucundum Deo in tua virginitate habitaculum præparasti.
 
 [Lectio5]
 Quod ubi rescivisset is, cui eam parentes contra virginis voluntatem~
-desponderant, apud Paschasium praefectum Luciam, quod Christiana esset,~
+desponderant, apud Paschasium præfectum Luciam, quod Christiana esset,~
 accusavit. Quam ille cum nec precibus, nec minis ad cultum idolorum posset~
-perducere: imo tanto magis incensam videret ad celebrandas christianae fidei~
+perducere: imo tanto magis incensam videret ad celebrandas christianæ fidei~
 laudes, quanto magis ipse eam a sententia avertere conabatur: Cessabunt, inquit,~
 verba, cum ventum erit ad verbera. Cui virgo: Dei servis verba deesse non~
 possunt, quibus a Christo Domino dictum est: Cum steteritis ante reges et~
-praesides, nolite cogitare quomodo aut quid loquamini: dabitur enim vobis in~
+præsides, nolite cogitare quomodo aut quid loquamini: dabitur enim vobis in~
 illa hora quid loquamini: non enim vos estis qui loquimini, sed Spiritus sanctus,~
 qui loquitur in vobis.
 
@@ -62,10 +62,10 @@ lupanar duci, ut te Spiritus sanctus deserat. Cui virgo:Si invitam jusseris~
 violari, castitas mihi duplicabitur ad coronam. Quare Paschasius ira inflammatus,~
 Luciam eo trahi jussit, ubi ejus virginitas violaretur: sed divinitus factum est,~
 ut firma virgo ita consisteret, ut nulla vi de loco dimoveri posset. Quamobrem~
-praefectus circum ipsam, pice, resina, ac ferventi oleo perfusam, ignem accendi~
-imperavit: sed cum ne flamma quidem eam laederet, multis tormentis excruciatae~
-guttur gladio transfigitur. Quo vulnere accepto, Lucia praedicens Ecclesiae~
-tranquillitatem, quae futura erat Diocletiano et Maximiano mortuis, Idibus~
+præfectus circum ipsam, pice, resina, ac ferventi oleo perfusam, ignem accendi~
+imperavit: sed cum ne flamma quidem eam læderet, multis tormentis excruciatæ~
+guttur gladio transfigitur. Quo vulnere accepto, Lucia prædicens Ecclesiæ~
+tranquillitatem, quæ futura erat Diocletiano et Maximiano mortuis, Idibus~
 Decembris spiritum Deo reddidit. Cujus corpus Syracusis sepultum, deinde~
 Constantinopolim, postremo Venetias translatum est.
 
@@ -112,14 +112,14 @@ Constantin�polim, postr�mo Ven�tias transl�tum est.
 
 [Ant Laudes]
 Orante sancta Lucia, * apparuit ei beata Agatha, et consolabatur ancillam Christi;;92
-Lucia virgo * quid a me petis, quod ipsa poteris praestare continuo matri tuae?;;99
+Lucia virgo * quid a me petis, quod ipsa poteris præstare continuo matri tuæ?;;99
 Per te Lucia virgo * civitas Syracusana decorabitur a Domino Jesu Christo;;62
 Benedico te * Pater Domini mei Jesu Christi, quia per Filium tuum ignis exstinctus est a latere meo;;210
-Soror mea Lucia, * virgo Deo devota, quid a me petis, quod ipsa poteris praestare continuo matri tuae?;;148
+Soror mea Lucia, * virgo Deo devota, quid a me petis, quod ipsa poteris præstare continuo matri tuæ?;;148
 
 [Ant 2]
 Columna es immobilis * Lucia sponsa Christi: quia omnis plebs te exspectat, ut~
-accipias coronam vitae, alleluia.
+accipias coronam vitæ, alleluia.
 
 [Ant 3]
 Tanto pondere * eam fixit Spiritus sanctus, ut virgo Christi immobilis~

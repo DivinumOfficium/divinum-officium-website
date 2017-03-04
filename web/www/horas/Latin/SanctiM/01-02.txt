@@ -6,7 +6,7 @@ Die secunda Januarii;;Feria;;1.1;;
 [Oratio]
 Deus, qui unigenitum Filium tuum constituisti humani generis Salvatorem, et~
 Jesum vocari jussisti: concede propitius; ut, cujus sanctum nomen veneramur in~
-terris, ejus quoque aspectu perfruamur in caelis.
+terris, ejus quoque aspectu perfruamur in cælis.
 $Per eumdem
 
 [Lectio1]
@@ -15,7 +15,7 @@ De Epistola ad Romanos.
 1 Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum~
 Christum:
 2 per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et~
-gloriamur in spe gloriae filiorum Dei.
+gloriamur in spe gloriæ filiorum Dei.
 3 Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio~
 patientiam operatur:
 4 patientia autem probationem, probatio vero spem,

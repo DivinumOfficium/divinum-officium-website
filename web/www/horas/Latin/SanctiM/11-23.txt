@@ -1,5 +1,5 @@
 [Rank]
-S. Clementis Papae et Martyris;;Duplex;;3;;vide C2
+S. Clementis Papæ et Martyris;;Duplex;;3;;vide C2
 
 [Rule]
 vide C2;
@@ -16,15 +16,15 @@ aperiat.
 
 [Oratio]
 Deus, qui nos annua beati Clementis Martyris tui atque Pontificis solemnitate~
-laetificas: concede propitius; ut cujus natalitia colimus, virtutem quoque~
+lætificas: concede propitius; ut cujus natalitia colimus, virtutem quoque~
 passionis imitemur.
 $Per Dominum
 
 [Responsory1]
 R. Orante sancto Clemente, apparuit ei Agnus Dei:
-* De sub cujus pede fons vivus emanat, luminis impetus laetificat civitatem Dei.
+* De sub cujus pede fons vivus emanat, luminis impetus lætificat civitatem Dei.
 V. Vidi supra montem Agnum stantem.
-R. De sub cujus pede fons vivus emanat, luminis impetus laetificat civitatem~
+R. De sub cujus pede fons vivus emanat, luminis impetus lætificat civitatem~
 Dei.
 
 
@@ -36,30 +36,30 @@ R. Ut digni efficiamur promissionibus Christi.
 
 [Responsory3]
 R. Dedisti Domine habitaculum Martyri tuo Clementi in mari, in modum templi~
-marmorei angelicis manibus praeparatum:
-* Iter praebens populo terrae, ut enarrent mirabilia tua.
+marmorei angelicis manibus præparatum:
+* Iter præbens populo terræ, ut enarrent mirabilia tua.
 V. Dedisti Domine sanctis tuis viam in mari, et in fluminibus semitam.
-R. Iter praebens populo terrae, ut enarrent mirabilia tua.
+R. Iter præbens populo terræ, ut enarrent mirabilia tua.
 &Gloria
-R. Iter praebens populo terrae, ut enarrent mirabilia tua.
+R. Iter præbens populo terræ, ut enarrent mirabilia tua.
 
 [Lectio4]
-Clemens Romanus, Faustini filius, de regione Caelii montis, discipulus beati~
+Clemens Romanus, Faustini filius, de regione Cælii montis, discipulus beati~
 Petri, cujus meminit Paulus scribens ad Philippenses: Etiam rogo et te germane~
-compar, adjuva illas quae mecum laboraverunt in Evangelio, cum Clemente et~
-ceteris adjutoribus meis, quorum nomina sunt in libro vitae. Hic septem Urbis~
+compar, adjuva illas quæ mecum laboraverunt in Evangelio, cum Clemente et~
+ceteris adjutoribus meis, quorum nomina sunt in libro vitæ. Hic septem Urbis~
 regiones divisit septem Notariis, singulas singulis attribuens, qui passiones~
 Martyrum et res ab eis gestas diligentissime conquisitas litteris mandarent.~
 Multa scripsit et ipse accurate et salutariter, quibus christianam religionem~
 illustravit.
 
 [Lectio5]
-Cum autem doctrina ac vitae sanctitate multos ad Christi fidem converteret, a~
+Cum autem doctrina ac vitæ sanctitate multos ad Christi fidem converteret, a~
 Trajano imperatore relegatus est trans mare Ponticum in solitudine urbis~
-Chersonae, in qua duo millia Christianorum reperit, qui ab eodem Trajano~
-condemnati fuerant. Qui cum in eruendis et secandis marmoribus aquae penuria~
+Chersonæ, in qua duo millia Christianorum reperit, qui ab eodem Trajano~
+condemnati fuerant. Qui cum in eruendis et secandis marmoribus aquæ penuria~
 laborarent, Clemens facta oratione, in vicinum collem ascendit, in cujus jugo~
-vidit Agnum dextero pede fontem aquae dulcis, qui inde scatebat, attingentem;~
+vidit Agnum dextero pede fontem aquæ dulcis, qui inde scatebat, attingentem;~
 ubi omnes sitim expleverunt: eoque miraculo multi infideles ad Christi fidem~
 conversi, Clementis etiam sanctitatem venerari coeperunt.
 
@@ -69,9 +69,9 @@ anchora, in profundum dejicerent. Quod cum factum esset, Christianis ad littus~
 orantibus, mare ad tria milliaria recessit: eoque illi accedentes, diculam~
 marmoream in templi formam, et intus arcam lapideam, ubi Martyris corpus~
 conditum erat, et juxta illud anchoram, qua mersus fuerat, invenerunt. Quo~
-miraculo incolae permoti, Christi fidem susceperunt. Ejus corpus postea Romam,~
+miraculo incolæ permoti, Christi fidem susceperunt. Ejus corpus postea Romam,~
 Nicolao primo Pontifice translatum, in ecclesia ipsius sancti Clementis cbnditum~
-est. Ecclesia etiam in eo insulae loco, unde divinitus fons manarat, eiusdem~
+est. Ecclesia etiam in eo insulæ loco, unde divinitus fons manarat, eiusdem~
 nomine dedicata est. Vixit in pontificatu annos novem, menses sex, dies sex.~
 Fecit ordinationes duas mense Decembri, quibus creavit presbyteros decem,~
 diaconos duos, episcopos per diversa loca quindecim.
@@ -93,7 +93,7 @@ eccl�sia, qu� ejus n�mine �ntea f�erat dic�ta, honor�fice rec�nditum est.
 Orante sancto Clemente, * apparuit ei Agnus Dei;;92
 Non meis meritis * ad vos me misit Dominus, vestris coronis participem fieri;;99
 Vidi supra montem * Agnum stantem, de sub cujus pede fons vivus emanat;;62
-De sub cujus pede * fons vivus emanat, fluminis impetus laetificat civitatem Dei;;210
+De sub cujus pede * fons vivus emanat, fluminis impetus lætificat civitatem Dei;;210
 Omnes gentes * per gyrum crediderunt Christo Domino;;148
 
 [Ant 2]
@@ -101,7 +101,7 @@ Cum iter ad mare * cepisset, populus voce magna clamabat: Domine Jesu Christe,~
 salva illum: et Clemens cum lacrimis dicebat: Suscipe Pater spiritum meum.
 
 [LectioE]
-v. Sequentia Sancti Evangelii secundum Matthaeum
+v. Sequentia Sancti Evangelii secundum Matthæum
 !Matt 24:42-45
 24:42 Vigilate ergo, quia nescitis qua hora Dominus vester venturus sit.
 24:43 Illud autem scitote, quoniam si sciret paterfamilias qua hora fur venturus~

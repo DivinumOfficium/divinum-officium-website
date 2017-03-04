@@ -1,5 +1,5 @@
 [Lectio1]
-De libro primo Machabaeorum
+De libro primo Machab√¶orum
 !1 Mac 7:1; 7:4-7
 1 Anno centesimo quinquagesimo primo, exiit Demetrius Seleuci filius ab urbe Roma, et ascendit cum paucis viris in civitatem maritimam, et regnavit illic.
 4 Et sedit Demetrius super sedem regni sui.
@@ -22,8 +22,8 @@ De libro primo Machabaeorum
 
 [Lectio3]
 !1 Mac 7:12-17
-12 Et convenerunt ad Alcimum et Bacchidem congregatio scribarum requirere quae justa sunt:
-13 et primi, Assidaei qui erant in filiis IsraÎl: et exquirebant ab eis pacem.
+12 Et convenerunt ad Alcimum et Bacchidem congregatio scribarum requirere qu√¶ justa sunt:
+13 et primi, Assid√¶i qui erant in filiis IsraÎl: et exquirebant ab eis pacem.
 14 Dixerunt enim: Homo sacerdos de semine Aaron venit; non decipiet nos:
 15 Et locutus est cum eis verba pacifica, et juravit illis, dicens: Non inferemus vobis malum, neque amicis vestris.
 16 Et crediderunt ei: et comprehendit ex eis sexaginta viros, et occidit eos in una die, secundum verbum quod scriptum est:

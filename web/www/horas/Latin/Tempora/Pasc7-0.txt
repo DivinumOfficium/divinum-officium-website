@@ -12,12 +12,12 @@ Prima=53
 Cum complerentur * dies Pentecostes, erant omnes pariter in eodem loco, alleluia.;;109
 Spiritus Domini * replevit orbem terrarum, alleluia.;;110
 Repleti sunt omnes * Spiritu Sancto, et coeperunt loqui, alleluia, alleluia.;;111
-Fontes, et omnia * quae moventur in aquis, hymnum dicite Deo, alleluia.;;112
+Fontes, et omnia * quæ moventur in aquis, hymnum dicite Deo, alleluia.;;112
 Loquebantur * variis linguis Apostoli magnalia Dei, alleluia, alleluia, alleluia.;;116
 
 [Capitulum Vespera]
 !Act. 2:1-2
-v. Cum complerentur dies Pentecostes, erant omnes discipuli pariter in eodem loco: et factus est repente de caelo sonus, tamquam advenientis spiritus vehementis, et replevit totam domum, ubi erant sedentes.
+v. Cum complerentur dies Pentecostes, erant omnes discipuli pariter in eodem loco: et factus est repente de cælo sonus, tamquam advenientis spiritus vehementis, et replevit totam domum, ubi erant sedentes.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -26,7 +26,7 @@ $Deo gratias
 v. Veni Creator Spiritus,
 Mentes tuorum visita,
 Imple superna gratia,
-Quae tu creasti pectora.
+Quæ tu creasti pectora.
 _
 Qui diceris Paraclitus,
 Altissimi donum Dei,
@@ -34,7 +34,7 @@ Fons vivus, ignis, caritas,
 Et spiritalis unctio.
 _
 Tu septiformis munere,
-Digitus paternae dexterae,
+Digitus paternæ dexteræ,
 Tu rite promissum Patris,
 Sermone ditans guttura.
 _
@@ -45,7 +45,7 @@ Virtute firmans perpeti.
 _
 Hostem repellas longius,
 Pacemque dones protinus:
-Ductore sic te praevio
+Ductore sic te prævio
 Vitemus omne noxium.
 _
 Per te sciamus da Patrem,
@@ -56,7 +56,7 @@ _
 Deo Patri sit gloria,
 Et Filio, qui a mortuis
 Surrexit, ac Paraclito,
-In saeculorum saecula.
+In sæculorum sæcula.
 Amen.
 
 [Versum 1]
@@ -100,11 +100,11 @@ Vocesque diversas sonant,
 Fantur Dei magnalia.
 _
 Notique cunctis Gentibus,
-Graecis, Latinis, Barbaris,
+Græcis, Latinis, Barbaris,
 Simulque demirantibus,
 Linguis loquuntur omnium.
 _
-Judaea tunc incredula,
+Judæa tunc incredula,
 Vesana torvo spiritu,
 Madere musto sobrios
 Christi fideles increpat.
@@ -117,13 +117,13 @@ _
 Deo Patri sit gloria,
 Et Filio, qui a mortuis
 Surrexit, ac Paraclito,
-In saeculorum saecula.
+In sæculorum sæcula.
 Amen.
 
 [Ant Matutinum]
-Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, alleluia.;;47
+Factus est * repente de cælo sonus advenientis spiritus vehementis, alleluia, alleluia.;;47
 Confirma hoc Deus, * quod operatus es in nobis: a templo sancto tuo, quod est in Jerusalem, alleluia, alleluia.;;67
-Emitte Spiritum tuum, * et creabuntur: et renovabis faciem terrae, alleluia, alleluia.;;103
+Emitte Spiritum tuum, * et creabuntur: et renovabis faciem terræ, alleluia, alleluia.;;103
 V. Spiritus Domini replevit orbem terrarum, alleluia.
 R. Et hoc quod continet omnia, scientiam habet vocis, alleluia.
 
@@ -132,14 +132,14 @@ Lectio sancti Evangelii secundum Joannem.
 !Joannes 14:23-31
 In illo tempore: Dixit Jesus discipulis suis: Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 30. in Evangelia.
-Libet, fratres carissimi, evangelicae verba lectionis sub brevitate transcurrere, ut post diutius liceat in contemplatione tantae solemnitatis immorari. Hodie namque Spiritus Sanctus repentino sonitu super discipulos venit, mentesque carnalium in sui amorem permutavit, et foris apparentibus linguis igneis, intus facta sunt corda flammantia: quia dum Deum in ignis visione susceperunt, per amorem suaviter arserunt. Ipse namque Spiritus Sanctus amor est: unde et Joannes dicit: Deus caritas est. Qui ergo mente integra Deum desiderat, profecto jam habet, quem amat. Neque enim quisquam posset Deum diligere, si eum quem diligit, non haberet.
+Libet, fratres carissimi, evangelicæ verba lectionis sub brevitate transcurrere, ut post diutius liceat in contemplatione tantæ solemnitatis immorari. Hodie namque Spiritus Sanctus repentino sonitu super discipulos venit, mentesque carnalium in sui amorem permutavit, et foris apparentibus linguis igneis, intus facta sunt corda flammantia: quia dum Deum in ignis visione susceperunt, per amorem suaviter arserunt. Ipse namque Spiritus Sanctus amor est: unde et Joannes dicit: Deus caritas est. Qui ergo mente integra Deum desiderat, profecto jam habet, quem amat. Neque enim quisquam posset Deum diligere, si eum quem diligit, non haberet.
 
 [Responsory1]
-R. Cum complerentur dies Pentecostes, erant omnes pariter in eodem loco, alleluia: et subito factus est sonus de caelo, alleluia,
+R. Cum complerentur dies Pentecostes, erant omnes pariter in eodem loco, alleluia: et subito factus est sonus de cælo, alleluia,
 * Tamquam spiritus vehementis, et replevit totam domum, alleluia, alleluia.
-V. Dum ergo essent in unum discipuli congregati propter metum Judaeorum, sonus repente de caelo venit super eos.
+V. Dum ergo essent in unum discipuli congregati propter metum Judæorum, sonus repente de cælo venit super eos.
 R. Tamquam spiritus vehementis, et replevit totam domum, alleluia, alleluia.
 
 [Lectio2]
@@ -154,14 +154,14 @@ R. Et convenit multitudo dicentium, alleluia.
 R. Et convenit multitudo dicentium, alleluia.
 
 [Lectio3]
-Et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus. Pensate, fratres carissimi, quanta sit ista dignitas, habere in cordis hospitio adventum Dei. Certe si domum nostram quisquam dives, aut praepotens amicus intraret, omni festinantia domus tota mundaretur, ne quid fortasse esset quod oculos amici intrantis offenderet. Tergat ergo sordes pravi operis, qui Deo praeparat domum mentis. Sed videte quid Veritas dicat: Veniemus, et mansionem apud eum faciemus. In quorumdam etenim corda venit, et mansionem non facit: quia per compunctionem quidem Dei respectum percipiunt, sed tentationis tempore hoc ipsum quo compuncti fuerant, obliviscuntur: sicque ad perpetranda peccata redeunt, ac si haec minime planxissent.
+Et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus. Pensate, fratres carissimi, quanta sit ista dignitas, habere in cordis hospitio adventum Dei. Certe si domum nostram quisquam dives, aut præpotens amicus intraret, omni festinantia domus tota mundaretur, ne quid fortasse esset quod oculos amici intrantis offenderet. Tergat ergo sordes pravi operis, qui Deo præparat domum mentis. Sed videte quid Veritas dicat: Veniemus, et mansionem apud eum faciemus. In quorumdam etenim corda venit, et mansionem non facit: quia per compunctionem quidem Dei respectum percipiunt, sed tentationis tempore hoc ipsum quo compuncti fuerant, obliviscuntur: sicque ad perpetranda peccata redeunt, ac si hæc minime planxissent.
 &teDeum
 
 [Ant Laudes]
 Cum complerentur * dies Pentecostes, erant omnes pariter in eodem loco, alleluia.
 Spiritus Domini * replevit orbem terrarum, alleluia.
 Repleti sunt omnes * Spiritu Sancto, et coeperunt loqui, alleluia, alleluia.
-Fontes, et omnia * quae moventur in aquis, hymnum dicite Deo, alleluia.
+Fontes, et omnia * quæ moventur in aquis, hymnum dicite Deo, alleluia.
 Loquebantur * variis linguis Apostoli magnalia Dei, alleluia, alleluia, alleluia.
 
 [Capitulum Laudes]
@@ -174,23 +174,23 @@ Cum Spiritus Paraclitus
 Illapsus est Apostolis.
 _
 Ignis vibrante lumine
-Linguae figuram detulit,
+Linguæ figuram detulit,
 Verbis ut essent proflui,
 Et caritate fervidi.
 _
 Linguis loquuntur omnium,
-Turbae pavent Gentilium:
+Turbæ pavent Gentilium:
 Musto madere deputant,
 Quos Spiritus repleverat.
 _
-Patrata sunt haec mystice,
-Paschae peracto tempore,
+Patrata sunt hæc mystice,
+Paschæ peracto tempore,
 Sacro dierum circulo,
 Quo lege fit remissio.
 _
 Te nunc, Deus, piissime
 Vultu precamur cernuo,
-Illapsa nobis caelitus
+Illapsa nobis cælitus
 Largire dona Spiritus.
 _
 Dudum sacrata pectora
@@ -201,7 +201,7 @@ _
 Deo Patri sit gloria,
 Et Filio, qui a mortuis
 Surrexit, ac Paraclito,
-In saeculorum saecula.
+In sæculorum sæcula.
 Amen.
 
 [Versum 2]
@@ -212,7 +212,7 @@ Accipite * Spiritum Sanctum: quorum remiseritis peccata, remittuntur eis, allelu
 
 [Lectio Prima]
 !Act. 2:11
-Judaei quoque, et Proselyti, Cretes, et Arabes: audivimus eos loquentes nostris linguis magnalia Dei.
+Judæi quoque, et Proselyti, Cretes, et Arabes: audivimus eos loquentes nostris linguis magnalia Dei.
 
 [Hymnus Tertia]
 @:Hymnus Vespera
@@ -249,7 +249,7 @@ R. Et coeperunt loqui, alleluia.
 
 [Capitulum Nona]
 !Act. 2:11
-v. Judaei quoque, et Proselyti, Cretes, et Arabes: audivimus eos loquentes nostris linguis magnalia Dei.
+v. Judæi quoque, et Proselyti, Cretes, et Arabes: audivimus eos loquentes nostris linguis magnalia Dei.
 $Deo gratias
 
 [Responsory Nona]
@@ -268,11 +268,11 @@ V. Loquebantur variis linguis Apostoli, alleluia.
 R. Magnalia Dei, alleluia.
 
 [Ant 3]
-Hodie * completi sunt dies Pentecostes, alleluia: hodie Spiritus Sanctus in igne discipulis apparuit, et tribuit eis charismatum dona: misit eos in universum mundum praedicare, et testificari: Qui crediderit, et baptizatus fuerit, salvus erit, alleluia.
+Hodie * completi sunt dies Pentecostes, alleluia: hodie Spiritus Sanctus in igne discipulis apparuit, et tribuit eis charismatum dona: misit eos in universum mundum prædicare, et testificari: Qui crediderit, et baptizatus fuerit, salvus erit, alleluia.
 
 [Ant Vespera 3]
 Cum complerentur * dies Pentecostes, erant omnes pariter in eodem loco, alleluia.;;109
 Spiritus Domini * replevit orbem terrarum, alleluia.;;110
 Repleti sunt omnes * Spiritu Sancto, et coeperunt loqui, alleluia, alleluia.;;111
-Fontes, et omnia * quae moventur in aquis, hymnum dicite Deo, alleluia.;;112
+Fontes, et omnia * quæ moventur in aquis, hymnum dicite Deo, alleluia.;;112
 Loquebantur * variis linguis Apostoli magnalia Dei, alleluia, alleluia, alleluia.;;113

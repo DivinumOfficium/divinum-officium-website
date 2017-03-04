@@ -1,31 +1,31 @@
 [Rank]
-In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Duplex majus;;4;;ex C11
+In Commemoratione Beatæ Mariæ Virgine de Monte Carmelo.;;Duplex majus;;4;;ex C11
 
 [Rank1960]
-In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Simplex;;1.1;;vide C11
+In Commemoratione Beatæ Mariæ Virgine de Monte Carmelo.;;Simplex;;1.1;;vide C11
 
 [RankNewcal]
-In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Duplex optional;;2;;ex C11
+In Commemoratione Beatæ Mariæ Virgine de Monte Carmelo.;;Duplex optional;;2;;ex C11
 
 [Rule]
 ex C11;
 9 lectiones;
 
 [Oratio]
-Deus, qui beatissimae semper Virginis et Genitricis tuae Mariae singulari titulo Carmeli ordinem decorasti: concede propitius; ut cujus hodie Commemorationem solemni celebramus officio, ejus muniti praesidiis, ad gaudia sempiterna pervenire mereamur.
+Deus, qui beatissimæ semper Virginis et Genitricis tuæ Mariæ singulari titulo Carmeli ordinem decorasti: concede propitius; ut cujus hodie Commemorationem solemni celebramus officio, ejus muniti præsidiis, ad gaudia sempiterna pervenire mereamur.
 $Qui vivis
 
 [Lectio4]
-Cum sacra Pentecostes die Apostoli, caelitus afflati, variis linguis loquerentur, et invocato augustissimo Jesu nomine, mira multa patrarent, viri plurimi (ut fertur), qui vestigiis sanctorum prophetarum Eliae ac Elisei institerant, et Joannis Baptistae praeconio ad Christi adventum comparati fuerant, rerum veritate perspecta atque probata, evangelicam fidem confestim amplexati sunt, ac peculiari quodam affectu beatissimam Virginem (cujus colloquiis ac familiaritate feliciter frui potuere) adeo venerari coeperunt, ut primi omnium in eo montis Carmeli loco, ubi Elias olim ascendentem nebulam, Virginis typo insignem, conspexerat, eidem purissimae Virgini sacellum construxerint.
+Cum sacra Pentecostes die Apostoli, cælitus afflati, variis linguis loquerentur, et invocato augustissimo Jesu nomine, mira multa patrarent, viri plurimi (ut fertur), qui vestigiis sanctorum prophetarum Eliæ ac Elisei institerant, et Joannis Baptistæ præconio ad Christi adventum comparati fuerant, rerum veritate perspecta atque probata, evangelicam fidem confestim amplexati sunt, ac peculiari quodam affectu beatissimam Virginem (cujus colloquiis ac familiaritate feliciter frui potuere) adeo venerari coeperunt, ut primi omnium in eo montis Carmeli loco, ubi Elias olim ascendentem nebulam, Virginis typo insignem, conspexerat, eidem purissimæ Virgini sacellum construxerint.
 
 [Lectio5]
-Ad novum ergo sacellum saepe quotidie convenientes, ritibus piis, precationibus ac laudibus beatissimam Virginem, velut singularem ordinis tutelam, colebant. Quam ob rem fratres beatae Mariae de Monte Carmelo passim ab omnibus appellari coeperunt, eumque titulum summi Pontifices non modo confirmarunt, sed et indulgentias peculiares iis, qui eo titulo vel ordinem vel fratres singulos nuncuparent, concessere. Nec vero nomenclaturam tantum magnificentissima Virgo tribuit et tutelam; verum et insigne sacri scapularis, quod beato Simoni Anglico praebuit, ut caelesti hac veste ordo ille sacer dignosceretur, et a malis ingruentibus protegeretur. Ac demum, cum olim in Europa ordo esset ignotus, et ob id apud Honorium tertium non pauci pro illius exstinctione instarent, astitit Honorio noctu piissima Virgo Maria, planeque jussit, ut institutum et homines benigne complecteretur.
+Ad novum ergo sacellum sæpe quotidie convenientes, ritibus piis, precationibus ac laudibus beatissimam Virginem, velut singularem ordinis tutelam, colebant. Quam ob rem fratres beatæ Mariæ de Monte Carmelo passim ab omnibus appellari coeperunt, eumque titulum summi Pontifices non modo confirmarunt, sed et indulgentias peculiares iis, qui eo titulo vel ordinem vel fratres singulos nuncuparent, concessere. Nec vero nomenclaturam tantum magnificentissima Virgo tribuit et tutelam; verum et insigne sacri scapularis, quod beato Simoni Anglico præbuit, ut cælesti hac veste ordo ille sacer dignosceretur, et a malis ingruentibus protegeretur. Ac demum, cum olim in Europa ordo esset ignotus, et ob id apud Honorium tertium non pauci pro illius exstinctione instarent, astitit Honorio noctu piissima Virgo Maria, planeque jussit, ut institutum et homines benigne complecteretur.
 
 [Lectio6]
-Non in hoc tantum saeculo ordinem sibi tam acceptum multis praerogativis beatissima Virgo insignivit; verum et in alio (cum ubique et potentia et misericordia plurimum valeat) filios in scapularis societatem relatos, qui abstinentiam modicam, precesque paucas eis praescriptas frequentarunt, ac pro sui status ratione castitatem coluerunt, materno plane affectu, dum igne purgatorii expiantur, solari, ac in caelestem patriam obtentu suo quantocius pie creditur efferre. Tot ergo tantisque beneficiis ordo cumulatus solemnem beatissimae Virginis Commemorationem ritu perpetuo ad eiusdem Virginis gloriam quotannis celebrandam instituit.
+Non in hoc tantum sæculo ordinem sibi tam acceptum multis prærogativis beatissima Virgo insignivit; verum et in alio (cum ubique et potentia et misericordia plurimum valeat) filios in scapularis societatem relatos, qui abstinentiam modicam, precesque paucas eis præscriptas frequentarunt, ac pro sui status ratione castitatem coluerunt, materno plane affectu, dum igne purgatorii expiantur, solari, ac in cælestem patriam obtentu suo quantocius pie creditur efferre. Tot ergo tantisque beneficiis ordo cumulatus solemnem beatissimæ Virginis Commemorationem ritu perpetuo ad eiusdem Virginis gloriam quotannis celebrandam instituit.
 
 [Ant 2]
-Caput tuum * ut Carmelus, et comae capitis tui sicut purpura Regis vincta canalibus, alleluia.
+Caput tuum * ut Carmelus, et comæ capitis tui sicut purpura Regis vincta canalibus, alleluia.
 
 [Ant 3]
 Gloria Libani * data est ei, decor Carmeli, et Saron, alleluia.
@@ -36,6 +36,6 @@ Cum sacra Pentec�stes die viri pl�rimi, ut fertur, qui vest�giis sanct�rum proph
 
 [Responsory7]
 R. Felix namque es, sacra Virgo Maria, et omni laude dignissima:
-* Quia ex te ortus est sol justitiae, Christus Deus noster.
+* Quia ex te ortus est sol justitiæ, Christus Deus noster.
 V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam solemnem Commemorationem.
-R. Quia ex te ortus est sol justitiae, Christus Deus noster.
+R. Quia ex te ortus est sol justitiæ, Christus Deus noster.

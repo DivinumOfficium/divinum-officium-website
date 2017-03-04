@@ -24,16 +24,16 @@ $Deo gratias
 Ante me * non est formatus Deus, et post me non erit: quia mihi curvabitur omne genu, et confitebitur omnis lingua.
 
 [Oratio]
-Aurem tuam, quaesumus, Domine, precibus nostris accommoda: et mentis nostrae tenebras gratia tuae visitationis illustra.
+Aurem tuam, quæsumus, Domine, precibus nostris accommoda: et mentis nostræ tenebras gratia tuæ visitationis illustra.
 $Qui vivis
 
 [Lectio1]
 De Isaia Propheta
 !Isa 26:1-6
-1 In die illa cantabitur canticum istud in terra Juda: Urbs fortitudinis nostrae Sion; salvator ponetur in ea murus et antemurale.
+1 In die illa cantabitur canticum istud in terra Juda: Urbs fortitudinis nostræ Sion; salvator ponetur in ea murus et antemurale.
 2 Aperite portas, et ingrediatur gens justa, custodiens veritatem.
 3 Vetus error abiit: servabis pacem; pacem, quia in te speravimus.
-4 Sperastis in Domino in saeculis aeternis; in Domino Deo forti in perpetuum.
+4 Sperastis in Domino in sæculis æternis; in Domino Deo forti in perpetuum.
 5 Quia incurvabit habitantes in excelso; civitatem sublimem humiliabit: humiliabit eam usque ad terram, detrahet eam usque ad pulverem.
 6 Conculcabit eam pes, pedes pauperis, gressus egenorum.
 
@@ -46,12 +46,12 @@ R. Et cum eo sanctorum millia: et habebit in vestimento, et in femore suo script
 [Lectio2]
 !Isa 26:7-10
 7 Semita justi recta est, rectus callis justi ad ambulandum.
-8 Et in semita judiciorum tuorum, Domine, sustinuimus te: nomen tuum et memoriale tuum in desiderio animae.
-9 Anima mea desideravit te in nocte, sed et spiritu meo in praecordiis meis de mane vigilabo ad te. Cum feceris judicia tua in terra, justitiam discent habitatores orbis.
+8 Et in semita judiciorum tuorum, Domine, sustinuimus te: nomen tuum et memoriale tuum in desiderio animæ.
+9 Anima mea desideravit te in nocte, sed et spiritu meo in præcordiis meis de mane vigilabo ad te. Cum feceris judicia tua in terra, justitiam discent habitatores orbis.
 10 Misereamur impio, et non discet justitiam; in terra sanctorum iniqua gessit, et non videbit gloriam Domini.
 
 [Responsory2]
-R. Bethlehem civitas Dei summi, ex te exiet Dominator Israel, et egressus ejus sicut a principio dierum aeternitatis, et magnificabitur in medio universae terrae:
+R. Bethlehem civitas Dei summi, ex te exiet Dominator Isræl, et egressus ejus sicut a principio dierum æternitatis, et magnificabitur in medio universæ terræ:
 * Et pax erit in terra nostra, dum venerit.
 V. Loquetur pacem in Gentibus, et potestas ejus a mari usque ad mare.
 R. Et pax erit in terra nostra, dum venerit.
@@ -72,27 +72,27 @@ R. Quoniam ipse est Salvator noster.
 R. Quoniam ipse est Salvator noster.
 
 [Lectio4]
-Sermo sancti Leonis Papae.
+Sermo sancti Leonis Papæ.
 !Serm. 2. de jejunio decimi mensis et collectis.
-Quod temporis ratio, et devotionis nostrae admonet consuetudo, pastorali vobis, dilectissimi, sollicitudine praedicamus, decimi mensis celebrandum esse jejunium, quo pro consummata perceptione omnium fructuum, dignissime largitori eorum Deo continentiae libamen offertur. Quid enim potest efficacius esse jejunio? cujus observantia appropinquamus Deo, et resistentes diabolo, vitia blanda superamus.
+Quod temporis ratio, et devotionis nostræ admonet consuetudo, pastorali vobis, dilectissimi, sollicitudine prædicamus, decimi mensis celebrandum esse jejunium, quo pro consummata perceptione omnium fructuum, dignissime largitori eorum Deo continentiæ libamen offertur. Quid enim potest efficacius esse jejunio? cujus observantia appropinquamus Deo, et resistentes diabolo, vitia blanda superamus.
 
 [Responsory4]
 R. Aegypte noli flere, quia Dominator tuus veniet tibi, ante cujus conspectum movebuntur abyssi,
-* Liberare populum suum de manu potentiae.
+* Liberare populum suum de manu potentiæ.
 V. Ecce veniet Dominus exercituum, Deus tuus cum potestate magna.
-R. Liberare populum suum de manu potentiae.
+R. Liberare populum suum de manu potentiæ.
 
 [Lectio5]
-Semper enim virtuti cibus jejunium fuit. De abstinentia denique prodeunt castae cogitationes, rationabiles voluntates, salubriora consilia: et per voluntarias afflictiones caro concupiscentiis moritur, virtutibus spiritus innovatur. Sed quia non solo jejunio animarum nostrarum salus acquiritur: jejunium nostrum misericordiis pauperum suppleamus. Impendamus virtuti, quod subtrahimus voluptati. Fiat refectio pauperis abstinentia jejunantis.
+Semper enim virtuti cibus jejunium fuit. De abstinentia denique prodeunt castæ cogitationes, rationabiles voluntates, salubriora consilia: et per voluntarias afflictiones caro concupiscentiis moritur, virtutibus spiritus innovatur. Sed quia non solo jejunio animarum nostrarum salus acquiritur: jejunium nostrum misericordiis pauperum suppleamus. Impendamus virtuti, quod subtrahimus voluptati. Fiat refectio pauperis abstinentia jejunantis.
 
 [Responsory5]
 R. Prope est ut veniat tempus ejus, et dies ejus non elongabuntur:
-* Miserebitur Dominus Jacob, et Israel salvabitur.
-V. Revertere virgo Israel, revertere ad civitates tuas.
-R. Miserebitur Dominus Jacob, et Israel salvabitur.
+* Miserebitur Dominus Jacob, et Isræl salvabitur.
+V. Revertere virgo Isræl, revertere ad civitates tuas.
+R. Miserebitur Dominus Jacob, et Isræl salvabitur.
 
 [Lectio6]
-Studeamus viduarum defensioni, pupillorum utilitati, lugentium consolationi, dissidentium paci. Suscipiatur peregrinus, adjuvetur oppressus, vestiatur nudus, foveatur aegrotus: ut quicumque nostrum de justis laboribus auctori bonorum omnium Deo sacrificium hujus pietatis obtulerit, ab eodem regni caelestis praemium percipere mereatur. Quarta igitur et sexta Feria jejunemus: Sabbato autem apud beatum Petrum Apostolum pariter vigilemus: cujus suffragantibus meritis, quae poscimus, impetrare possimus per Dominum nostrum Jesum Christum, qui cum Patre et Sancto Spiritu vivit et regnat in saecula saeculorum. Amen.
+Studeamus viduarum defensioni, pupillorum utilitati, lugentium consolationi, dissidentium paci. Suscipiatur peregrinus, adjuvetur oppressus, vestiatur nudus, foveatur ægrotus: ut quicumque nostrum de justis laboribus auctori bonorum omnium Deo sacrificium hujus pietatis obtulerit, ab eodem regni cælestis præmium percipere mereatur. Quarta igitur et sexta Feria jejunemus: Sabbato autem apud beatum Petrum Apostolum pariter vigilemus: cujus suffragantibus meritis, quæ poscimus, impetrare possimus per Dominum nostrum Jesum Christum, qui cum Patre et Sancto Spiritu vivit et regnat in sæcula sæculorum. Amen.
 
 [Responsory6]
 R. Descendet Dominus sicut pluvia in vellus:
@@ -105,29 +105,29 @@ R. Orietur in diebus ejus justitia, et abundantia pacis.
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
 !Joannes 1:19-28
-In illo tempore: Miserunt Judaei ab Jerosolymis sacerdotes et levitas ad Joannem, ut interrogarent eum: Tu quis es? Et reliqua.
+In illo tempore: Miserunt Judæi ab Jerosolymis sacerdotes et levitas ad Joannem, ut interrogarent eum: Tu quis es? Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 7. in Evang.
-Ex hujus nobis lectionis verbis, fratres carissimi, Joannis humilitas commendatur qui cum tantae virtutis esset, ut Christus credi potuisset, elegit solide subsistere in se, ne humana opinione raperetur inaniter super se. Nam confessus est, et non negavit: et confessus est, Quia non sum ego Christus. Sed qui dixit, Non sum; negavit plane quod non erat, sed non negavit quod erat: ut veritatem loquens, ejus membrum fieret, cujus sibi nomen fallaciter non usurparet. Cum ergo non vult appetere nomen Christi, factus est membrum Christi: quia dum infirmitatem suam studuit humiliter agnoscere, illius celsitudinem meruit veraciter obtinere.
+Ex hujus nobis lectionis verbis, fratres carissimi, Joannis humilitas commendatur qui cum tantæ virtutis esset, ut Christus credi potuisset, elegit solide subsistere in se, ne humana opinione raperetur inaniter super se. Nam confessus est, et non negavit: et confessus est, Quia non sum ego Christus. Sed qui dixit, Non sum; negavit plane quod non erat, sed non negavit quod erat: ut veritatem loquens, ejus membrum fieret, cujus sibi nomen fallaciter non usurparet. Cum ergo non vult appetere nomen Christi, factus est membrum Christi: quia dum infirmitatem suam studuit humiliter agnoscere, illius celsitudinem meruit veraciter obtinere.
 
 [Responsory7]
-R. Veni Domine, et noli tardare: relaxa facinora plebi tuae
+R. Veni Domine, et noli tardare: relaxa facinora plebi tuæ
 * Et revoca dispersos in terram suam.
 V. Excita Domine potentiam tuam, et veni, ut salvos facias nos.
 R. Et revoca dispersos in terram suam.
 
 [Lectio8]
-Sed cum ex lectione alia, Redemptoris nostri sententia ad mentem reducitur, ex hujus lectionis verbis nobis quaestio valde implexa generatur. Alio quippe in loco inquisitus a discipulis Dominus de Eliae adventu, respondit: Elias jam venit, et non cognoverunt eum, sed fecerunt in eum quaecumque voluerunt: et, si vultis scire, Joannes ipse est Elias. Requisitus autem Joannes dicit: Non sum Elias. Quid est hoc, fratres carissimi, quia quod Veritas affirmat, hoc propheta veritatis negat? Valde namque inter se diversa sunt: Ipse est: et, Non sum. Quomodo ergo propheta veritatis est, si eiusdem Veritatis sermonibus concors non est?
+Sed cum ex lectione alia, Redemptoris nostri sententia ad mentem reducitur, ex hujus lectionis verbis nobis quæstio valde implexa generatur. Alio quippe in loco inquisitus a discipulis Dominus de Eliæ adventu, respondit: Elias jam venit, et non cognoverunt eum, sed fecerunt in eum quæcumque voluerunt: et, si vultis scire, Joannes ipse est Elias. Requisitus autem Joannes dicit: Non sum Elias. Quid est hoc, fratres carissimi, quia quod Veritas affirmat, hoc propheta veritatis negat? Valde namque inter se diversa sunt: Ipse est: et, Non sum. Quomodo ergo propheta veritatis est, si eiusdem Veritatis sermonibus concors non est?
 
 [Responsory8]
 R. Ecce radix Jesse descendet in salutem populorum, ipsum Gentes deprecabuntur:
 * Et erit nomen ejus gloriosum.
-V. Dabit ei Dominus Deus sedem David patris ejus, et regnabit in domo Jacob in aeternum.
+V. Dabit ei Dominus Deus sedem David patris ejus, et regnabit in domo Jacob in æternum.
 R. Et erit nomen ejus gloriosum.
 
 [Lectio9]
-Sed si subtiliter veritas ipsa requiratur, hoc quod inter se contrarium sonat, quomodo contrarium non sit, invenitur. Ad Zachariam namque de Joanne Angelus dicit: Ipse praecedet ante illum in spiritu et virtute Eliae. Qui idcirco venturus in spiritu et virtute Eliae dicitur, quia sicut Elias secundum Domini adventum praeveniet, ita Joannes praevenit primum. Sicut ille praecursor venturus est Judicis, ita iste praecursor est factus Redemptoris. Joannes igitur in spiritu Elias erat, in persona Elias non erat. Quod ergo Dominus fatetur de spiritu, hoc Joannes denegat de persona.
+Sed si subtiliter veritas ipsa requiratur, hoc quod inter se contrarium sonat, quomodo contrarium non sit, invenitur. Ad Zachariam namque de Joanne Angelus dicit: Ipse præcedet ante illum in spiritu et virtute Eliæ. Qui idcirco venturus in spiritu et virtute Eliæ dicitur, quia sicut Elias secundum Domini adventum præveniet, ita Joannes prævenit primum. Sicut ille præcursor venturus est Judicis, ita iste præcursor est factus Redemptoris. Joannes igitur in spiritu Elias erat, in persona Elias non erat. Quod ergo Dominus fatetur de spiritu, hoc Joannes denegat de persona.
 
 [Responsory9]
 R. Docebit nos Dominus vias suas, et ambulabimus in semitis ejus:
@@ -144,20 +144,20 @@ R. Quia de Sion exibit lex, et verbum Domini de Jerusalem.
 @:Capitulum Vespera
 
 [Ant 2]
-Super solium * David, et super regnum ejus sedebit in aeternum, alleluia.
+Super solium * David, et super regnum ejus sedebit in æternum, alleluia.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
 !Phil 4:6
-v. Nihil solliciti sitis: sed in omni oratione, et obsecratione, cum gratiarum actione, petitiones vestrae innotescant apud Deum.
+v. Nihil solliciti sitis: sed in omni oratione, et obsecratione, cum gratiarum actione, petitiones vestræ innotescant apud Deum.
 $Deo gratias
 
 [Capitulum Nona]
 !Phil 4:7
-v. Et pax Dei, quae exsuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in Christo Jesu Domino nostro.
+v. Et pax Dei, quæ exsuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in Christo Jesu Domino nostro.
 $Deo gratias
 
 [Ant 3]
-Beata es Maria, * quae credidisti Domino: perficientur in te, quae dicta sunt tibi a Domino, alleluia.
+Beata es Maria, * quæ credidisti Domino: perficientur in te, quæ dicta sunt tibi a Domino, alleluia.

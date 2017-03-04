@@ -1,10 +1,10 @@
 [Lectio1]
-De libro Ecclesiastae.
+De libro Ecclesiastæ.
 !Eccl 2:1-4
 1 Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis; et vidi quod hoc quoque esset vanitas.
 2 Risum reputavi errorem, et gaudio dixi: Quid frustra deciperis?
-3 Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitae suae.
-4 Magnificavi opera mea, aedificavi mihi domos, et plantavi vineas;
+3 Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitæ suæ.
+4 Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas;
 
 
 [Responsory1]
@@ -22,8 +22,8 @@ De libro Ecclesiastae.
 
 [Lectio3]
 !Eccl 2:10-11
-10 Et omnia quae desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quae praeparaveram; et hanc ratus sum partem meam si uterer labore meo.
-11 Cumque me convertissem ad universa opera quae fecerant manus meae, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.
+10 Et omnia quæ desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram; et hanc ratus sum partem meam si uterer labore meo.
+11 Cumque me convertissem ad universa opera quæ fecerant manus meæ, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.
 
 
 [Responsory3]

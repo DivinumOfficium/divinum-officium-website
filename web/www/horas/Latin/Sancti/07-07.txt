@@ -6,17 +6,17 @@ vide C4;
 9 lectiones
 
 [Hymnus Vespera]
-v. Sedibus caeli nitidis receptos
+v. Sedibus cæli nitidis receptos
 Dicite athletas geminos, fideles;
-Slavicae duplex columen, decusque
+Slavicæ duplex columen, decusque
 Dicite gentis.
 _
 Hos amor fratres sociavit unus,
 Unaque abduxit pietas eremo,
-Ferre quo multis celerent beatae
-Pignora vitae.
+Ferre quo multis celerent beatæ
+Pignora vitæ.
 _
-Luce, quae templis superis renidet,
+Luce, quæ templis superis renidet,
 Bulgaros complent, Moravos, Bohemos;
 Mox feras turmas numerosa Petro
 Agmina ducunt.
@@ -26,15 +26,15 @@ Pergite o flecti lacrimis precantum;
 Prisca vos Slavis opus est datores
 Dona tueri.
 _
-Quaeque vos clamat generosa tellus
-Servet aeternae fidei nitorem;
-Quae dedit princeps, dabit ipsa semper
+Quæque vos clamat generosa tellus
+Servet æternæ fidei nitorem;
+Quæ dedit princeps, dabit ipsa semper
 Roma salutem.
 _
-Gentis humanae Sator et Redemptor,
-Qui bonus nobis bona cuncta praebes,
+Gentis humanæ Sator et Redemptor,
+Qui bonus nobis bona cuncta præbes,
 Sint tibi grates, tibi sit per omne
-Gloria saeclum.
+Gloria sæclum.
 Amen.
 
 [Versum 1]
@@ -45,7 +45,7 @@ R. Et Sancti tui exsultent.
 O quam speciosi * pedes evangelizantium pacem, evangelizantium bona, dicentium Sion: Regnabit Deus tuus.
 
 [Oratio]
-Omnipotens sempiterne Deus, qui Slavoniae gentes per beatos Confessores tuos atque Pontifices Cyrillum et Methodium ad agnitionem tui nominis venire tribuisti: praesta; ut quorum festivitate gloriamur, eorum consortio copulemur.
+Omnipotens sempiterne Deus, qui Slavoniæ gentes per beatos Confessores tuos atque Pontifices Cyrillum et Methodium ad agnitionem tui nominis venire tribuisti: præsta; ut quorum festivitate gloriamur, eorum consortio copulemur.
 $Per Dominum.
 
 [Hymnus Matutinum]
@@ -53,13 +53,13 @@ $Per Dominum.
 
 [Lectio4]
 !Ex Litteris Encyclicis Leonis PP. XIII.
-Cyrillus et Methodius fratres germani, Thessalonicae amplissimo loco nati, Constantinopolim mature concesserunt, ut in ipsa urbe Orientis principe humanitatis artes addiscerent. Uterque plurimum brevi profecerunt; sed maxime Cyrillus, qui tantam scientiarum laudem adeptus est, ut singularis honoris causa Philosophus appellaretur. Deinde monachum agere Methodius coepit; Cyrillus autem dignus est habitus, cui Theodora imperatrix, auctore Ignatio patriarcha, negotium daret erudiendi ad fidem christianam Chazaros trans Chersonesum incolentes; quos praeceptis suis edoctos et Dei numine instinctos, multiplici superstitione deleta, ad Jesum Christum adjunxit. Recenti Christianorum communitate optime constituta, Constantinopolim rediit alacer, atque in monasterium Polychronis, quo se jam Methodius receperat, Cyrillus ipse secessit. Interim cum res trans Chersonesum prospere gestas ad Rastilaum Moraviae principem fama detulisset, is de aliquot operariis evangelicis Constantinopoli arcessendis cum imperatore Michaele tertio egit. Igitur Cyrillus et Methodius illi expeditioni destinati, et in Moraviam celebri laetitia excepti, animos christianis institutionibus tanta vi, tamque operosa industria excolendos aggrediuntur, ut non longo intervallo ea gens nomen Jesu Christo libentissime dederit. Ad eam rem non parum scientia valuit dictionis Slavonicae, quam Cyrillus ante perceperat, multumque potuerunt sacrae utriusque Testamenti litterae, quas proprio populi sermone reddiderat: nam Cyrillus et Methodius principes inveniendi fuerunt ipsas litteras, quibus est sermo ipsorum Slavorum signatus et expressus, eaque de causa eiusdem sermonis auctores non immerito habentur.
+Cyrillus et Methodius fratres germani, Thessalonicæ amplissimo loco nati, Constantinopolim mature concesserunt, ut in ipsa urbe Orientis principe humanitatis artes addiscerent. Uterque plurimum brevi profecerunt; sed maxime Cyrillus, qui tantam scientiarum laudem adeptus est, ut singularis honoris causa Philosophus appellaretur. Deinde monachum agere Methodius coepit; Cyrillus autem dignus est habitus, cui Theodora imperatrix, auctore Ignatio patriarcha, negotium daret erudiendi ad fidem christianam Chazaros trans Chersonesum incolentes; quos præceptis suis edoctos et Dei numine instinctos, multiplici superstitione deleta, ad Jesum Christum adjunxit. Recenti Christianorum communitate optime constituta, Constantinopolim rediit alacer, atque in monasterium Polychronis, quo se jam Methodius receperat, Cyrillus ipse secessit. Interim cum res trans Chersonesum prospere gestas ad Rastilaum Moraviæ principem fama detulisset, is de aliquot operariis evangelicis Constantinopoli arcessendis cum imperatore Michæle tertio egit. Igitur Cyrillus et Methodius illi expeditioni destinati, et in Moraviam celebri lætitia excepti, animos christianis institutionibus tanta vi, tamque operosa industria excolendos aggrediuntur, ut non longo intervallo ea gens nomen Jesu Christo libentissime dederit. Ad eam rem non parum scientia valuit dictionis Slavonicæ, quam Cyrillus ante perceperat, multumque potuerunt sacræ utriusque Testamenti litteræ, quas proprio populi sermone reddiderat: nam Cyrillus et Methodius principes inveniendi fuerunt ipsas litteras, quibus est sermo ipsorum Slavorum signatus et expressus, eaque de causa eiusdem sermonis auctores non immerito habentur.
 
 [Lectio5]
-Cum rerum gestarum gloriam secundus rumor Romam nuntiasset, sanctus Nicolaus primus Pontifex maximus fratres optimos Romam contendere jussit. Illi Romanum iter ingressi, reliquias sancti Clementis primi Pontificis maximi, quas Cyrillus Chersonae repererat, secum advehunt. Quo nuntio, Hadrianus secundus, qui Nicolao demortuo fuerat suffectus, clero populoque comitante, obviam eis magna cum honoris significatione progreditur. Deinde Cyrillus et Methodius de munere apostolico in quo essent sancte laborioseque versati ad Pontificem maximum, assidente clero, referunt; Cum autem eo nomine ab invidis accusarentur, quod sermonem Slavonicum in perfunctione munerum sacrorum usurpavissent, causam dixere rationibus tam certis tamque illustribus, ut Pontifex et clerus et laudarint homines et probarint. Tum ambo jurati se in fide beati Petri et Pontificum Romanorum permansuros, episcopi ab Hadriano consecrati sunt. Sed erat provisum divinitus, ut Cyrillus vitae cursum Romae conderet, virtute magis quam aetate maturus. Itaque defuncti corpus elatum funere publico, in ipso sepulcro quod sibi Hadrianus exstruxerat compositum fuit; tum ad sancti Clementis deductum, et hujus prope cineres conditum, Cumque veheretur per urbem inter festos Psalmorum cantus, non tam funeris quam triumphi pompa, visus est populus Romanus libamenta honorum caelestium viro sanctissimo detulisse. Methodius vero in Moraviam regressus, ibique factus forma gregis ex animo, rei catholicae inservire majore in dies studio institit. Quin etiam Pannonios, Bulgaros, Dalmatas in fide christiani nominis confirmavit; in Carinthiis autem ad unius veri Dei cultum traducendis plurimum elaboravit.
+Cum rerum gestarum gloriam secundus rumor Romam nuntiasset, sanctus Nicolaus primus Pontifex maximus fratres optimos Romam contendere jussit. Illi Romanum iter ingressi, reliquias sancti Clementis primi Pontificis maximi, quas Cyrillus Chersonæ repererat, secum advehunt. Quo nuntio, Hadrianus secundus, qui Nicolao demortuo fuerat suffectus, clero populoque comitante, obviam eis magna cum honoris significatione progreditur. Deinde Cyrillus et Methodius de munere apostolico in quo essent sancte laborioseque versati ad Pontificem maximum, assidente clero, referunt; Cum autem eo nomine ab invidis accusarentur, quod sermonem Slavonicum in perfunctione munerum sacrorum usurpavissent, causam dixere rationibus tam certis tamque illustribus, ut Pontifex et clerus et laudarint homines et probarint. Tum ambo jurati se in fide beati Petri et Pontificum Romanorum permansuros, episcopi ab Hadriano consecrati sunt. Sed erat provisum divinitus, ut Cyrillus vitæ cursum Romæ conderet, virtute magis quam ætate maturus. Itaque defuncti corpus elatum funere publico, in ipso sepulcro quod sibi Hadrianus exstruxerat compositum fuit; tum ad sancti Clementis deductum, et hujus prope cineres conditum, Cumque veheretur per urbem inter festos Psalmorum cantus, non tam funeris quam triumphi pompa, visus est populus Romanus libamenta honorum cælestium viro sanctissimo detulisse. Methodius vero in Moraviam regressus, ibique factus forma gregis ex animo, rei catholicæ inservire majore in dies studio institit. Quin etiam Pannonios, Bulgaros, Dalmatas in fide christiani nominis confirmavit; in Carinthiis autem ad unius veri Dei cultum traducendis plurimum elaboravit.
 
 [Lectio6]
-Apud Joannem octavum, qui Hadriano successerat, iterum de suspecta fide violatoque more majorum accusatus, ac Romam venire jussus, coram Joanne, et episcopis aliquot cleroque urbano, facile vicit catholicam prorsus fidem et se retinuisse constanter, et ceteros diligenter edocuisse: quod vero ad linguam Slavonicam in sacris peragendis usurpatam, se certis de causis ex venia Hadriani Pontificis, nec sacris Litteris repugnantibus, jure fecisse. Quapropter in re praesenti complexus Methodium Pontifex, potestatem ejus archiepiscopalem, expeditionemque Slavonicam datis etiam litteris, ratam esse jussit. Quare Methodius in Moraviam reversus assignatum sibi munus explere vigilantius perseveravit, pro quo et exsilium libenter passus est Bohemorum principem ejusque uxorem ad fidem perduxit, et in ea gente christianum nomen longe lateque vulgavit. Evangelii lumen in Poloniam invexit, et, ut nonnulli scriptores tradunt, sede episcopali Leopoli fundata, in Moscoviam proprii nominis digressus, thronum pontificalem Kiowensem constituit. Demum in Moraviam reversus est ad suos; jamque sese abripi ad humanum exitum sentiens, ipsemet sibi successorem designavit, clerumque et populum supremis praeceptis ad virtutem cohortatus, ea vita, quae sibi via in caelum fuit, placidissime defunctus est. Uti Cyrillum Roma, sic Methodium Moravia decedentem summo honore prosecuta est. Illorum vero festum, quod apud Slavoniae populos jamdium celebrari consueverat, Leo decimus tertius Pontifex maximus cum Officio ac Missa propria in universa Ecclesia quotannis agi praecepit.
+Apud Joannem octavum, qui Hadriano successerat, iterum de suspecta fide violatoque more majorum accusatus, ac Romam venire jussus, coram Joanne, et episcopis aliquot cleroque urbano, facile vicit catholicam prorsus fidem et se retinuisse constanter, et ceteros diligenter edocuisse: quod vero ad linguam Slavonicam in sacris peragendis usurpatam, se certis de causis ex venia Hadriani Pontificis, nec sacris Litteris repugnantibus, jure fecisse. Quapropter in re præsenti complexus Methodium Pontifex, potestatem ejus archiepiscopalem, expeditionemque Slavonicam datis etiam litteris, ratam esse jussit. Quare Methodius in Moraviam reversus assignatum sibi munus explere vigilantius perseveravit, pro quo et exsilium libenter passus est Bohemorum principem ejusque uxorem ad fidem perduxit, et in ea gente christianum nomen longe lateque vulgavit. Evangelii lumen in Poloniam invexit, et, ut nonnulli scriptores tradunt, sede episcopali Leopoli fundata, in Moscoviam proprii nominis digressus, thronum pontificalem Kiowensem constituit. Demum in Moraviam reversus est ad suos; jamque sese abripi ad humanum exitum sentiens, ipsemet sibi successorem designavit, clerumque et populum supremis præceptis ad virtutem cohortatus, ea vita, quæ sibi via in cælum fuit, placidissime defunctus est. Uti Cyrillum Roma, sic Methodium Moravia decedentem summo honore prosecuta est. Illorum vero festum, quod apud Slavoniæ populos jamdium celebrari consueverat, Leo decimus tertius Pontifex maximus cum Officio ac Missa propria in universa Ecclesia quotannis agi præcepit.
 
 [Lectio7]
 @Commune/C1a:Lectio7
@@ -71,14 +71,14 @@ Apud Joannem octavum, qui Hadriano successerat, iterum de suspecta fide violatoq
 @Commune/C1a:Lectio9
 
 [Hymnus Laudes]
-v. Lux o decora patriae
+v. Lux o decora patriæ
 Slavisque amica gentibus,
 Salvete, fratres: annuo
 Vos efferemus cantico:
 _
 Quos Roma plaudens excipit,
 Complexa mater filios,
-Auget corona praesulum,
+Auget corona præsulum,
 Novoque firmat robore.
 _
 Terras ad usque barbaras
@@ -91,18 +91,18 @@ Ardor supernus abripit;
 Mutatur horror veprium
 In sanctitatis flosculos.
 _
-Et nunc serena caelitum
+Et nunc serena cælitum
 Locati in aula, supplici
 Adeste voto: Slavicas
 Servate gentes Numini.
 _
 Errore mersos unicum
 Ovile Christi congreget;
-Factis avitis aemula
+Factis avitis æmula
 Fides virescat pulchrior.
 _
 Tu nos, beata Trinitas,
-Caelesti amore concita,
+Cælesti amore concita,
 Patrumque natos inclyta
 Da persequi vestigia. 
 Amen.
@@ -112,7 +112,7 @@ V. Sapientiam Sanctorum narrent populi.
 R. Et laudem eorum nuntiet Ecclesia.
 
 [Ant 2]
-In sanctitate * et justitia servierunt Domino omnibus diebus suis: ideo stolam gloriae induit illos Dominus Deus Isra�l.
+In sanctitate * et justitia servierunt Domino omnibus diebus suis: ideo stolam gloriæ induit illos Dominus Deus Isra�l.
 
 [Versum 3]
 @:Versum 1

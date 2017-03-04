@@ -10,19 +10,19 @@ Sub unica concl
 Ego plantavi, * Apollo rigavit, Deus autem incrementum dedit. Alleluia.;;109
 Libenter gloriabor * in infirmitatibus meis, ut inhabitet in me virtus Christi.;;110
 Gratia Dei * in me vacua non fuit, sed gratia ejus semper in me manet.;;111
-Damasci praepositus * gentis Aretae regis voluit me comprehendere: a fratribus per murum demissus sum in sporta, et sic evasi manus ejus in nomine Domini.;;112
-Ter virgis caesus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.;;116
+Damasci præpositus * gentis Aretæ regis voluit me comprehendere: a fratribus per murum demissus sum in sporta, et sic evasi manus ejus in nomine Domini.;;112
+Ter virgis cæsus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.;;116
 
 [Capitulum Vespera]
 !Acts 9:1-2
-v. Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in Jerusalem.
+v. Saulus autem adhuc spirans minarum et cædis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viæ viros ac mulieres, vinctos perduceret in Jerusalem.
 $Deo gratias
 
 [Hymnus Vespera]
 @Sancti/06-30:Hymnus Matutinum
 
 [Ant 1]
-Vade Anania * et quaere Saulum: ecce enim orat: quia vas electionis est mihi, ut portet nomen meum coram Gentibus, et regibus, et filiis Israël.
+Vade Anania * et quære Saulum: ecce enim orat: quia vas electionis est mihi, ut portet nomen meum coram Gentibus, et regibus, et filiis Israël.
 
 [Invit]
 Laudemus Deum nostrum, * In conversione Doctoris Gentium.
@@ -30,9 +30,9 @@ Laudemus Deum nostrum, * In conversione Doctoris Gentium.
 [Lectio1]
 De Actibus Apostolorum.
 !Acts 9:1-5
-1 Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum,
-2 et petiit ab eo epistolas in Damascum ad synagogas: ut si quos invenisset hujus viae viros ac mulieres, vinctos perduceret in Jerusalem.
-3 Et cum iter faceret, contigit ut appropinquaret Damasco: et subito circumfulsit eum lux de caelo.
+1 Saulus autem adhuc spirans minarum et cædis in discipulos Domini, accessit ad principem sacerdotum,
+2 et petiit ab eo epistolas in Damascum ad synagogas: ut si quos invenisset hujus viæ viros ac mulieres, vinctos perduceret in Jerusalem.
+3 Et cum iter faceret, contigit ut appropinquaret Damasco: et subito circumfulsit eum lux de cælo.
 4 Et cadens in terram audivit vocem dicentem sibi: Saule, Saule, quid me persequeris?
 5 Qui dixit: Quis es, domine? Et ille: Ego sum Jesus, quem tu persequeris: durum est tibi contra stimulum calcitrare.
 
@@ -46,11 +46,11 @@ De Actibus Apostolorum.
 [Lectio4]
 !Acts 9:10-16
 10 Erat autem quidam discipulus Damasci, nomine Ananias: et dixit ad illum in visu Dominus: Anania. At ille ait: Ecce ego, Domine.
-11 Et Dominus ad eum: Surge, et vade in vicum qui vocatur Rectus: et quaere in domo Judae Saulum nomine Tarsensem: ecce enim orat.
+11 Et Dominus ad eum: Surge, et vade in vicum qui vocatur Rectus: et quære in domo Judæ Saulum nomine Tarsensem: ecce enim orat.
 12 (Et vidit virum Ananiam nomine, introeuntem, et imponentem sibi manus ut visum recipiat.)
 13 Respondit autem Ananias: Domine, audivi a multis de viro hoc, quanta mala fecerit sanctis tuis in Jerusalem:
 14 et hic habet potestatem a principibus sacerdotum alligandi omnes qui invocant nomen tuum.
-15 Dixit autem ad eum Dominus: Vade, quoniam vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis Israel.
+15 Dixit autem ad eum Dominus: Vade, quoniam vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis Isræl.
 16 Ego enim ostendam illi quanta oporteat eum pro nomine meo pati.
 &teDeum
 
@@ -58,23 +58,23 @@ De Actibus Apostolorum.
 Ego plantavi, * Apollo rigavit, Deus autem incrementum dedit, alleluia.
 Libenter gloriabor * in infirmitatibus meis, ut inhabitet in me virtus Christi.
 Gratia Dei * in me vacua non fuit, sed gratia ejus semper in me manet.
-Damasci praepositus * gentis Aretae regis voluit me comprehendere: a fratribus per murum demissus sum in sporta, et sic evasi manus ejus in nomine Domini.
-Ter virgis caesus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.
+Damasci præpositus * gentis Aretæ regis voluit me comprehendere: a fratribus per murum demissus sum in sporta, et sic evasi manus ejus in nomine Domini.
+Ter virgis cæsus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.
 
 [Capitulum Laudes]
 !Acts 9:1-2
-v. Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in Jerusalem.
+v. Saulus autem adhuc spirans minarum et cædis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viæ viros ac mulieres, vinctos perduceret in Jerusalem.
 $Deo gratias
 
 [Oratio]
-Deus, qui universum mundum beati Pauli Apostoli praedicatione docuisti: da nobis, quaesumus: ut qui ejus hodie conversionem colimus, per ejus ad te exempla gradiamur.
+Deus, qui universum mundum beati Pauli Apostoli prædicatione docuisti: da nobis, quæsumus: ut qui ejus hodie conversionem colimus, per ejus ad te exempla gradiamur.
 $Per Dominum
 _
 @Sancti/01-25:Commemoratio4
 
 [Capitulum Tertia]
 !Acts 9:1-2
-v. Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in Jerusalem.
+v. Saulus autem adhuc spirans minarum et cædis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viæ viros ac mulieres, vinctos perduceret in Jerusalem.
 $Deo gratias
 
 [Capitulum Sexta]
@@ -84,15 +84,15 @@ $Deo gratias
 
 [Capitulum Nona]
 !Acts 9:22
-v. Saulus autem multo magis convalescebat, et confundebat Judaeos, qui habitabant Damasci, affirmans quoniam hic est Christus.
+v. Saulus autem multo magis convalescebat, et confundebat Judæos, qui habitabant Damasci, affirmans quoniam hic est Christus.
 $Deo gratias
 
 [Ant Vespera 3]
 Ego plantavi, * Apollo rigavit, Deus autem incrementum dedit. Alleluia.;;109
 Libenter gloriabor * in infirmitatibus meis, ut inhabitet in me virtus Christi.;;112
 Gratia Dei * in me vacua non fuit, sed gratia ejus semper in me manet.;;115
-Damasci praepositus * gentis Aretae regis voluit me comprehendere: a fratribus per murum demissus sum in sporta, et sic evasi manus ejus in nomine Domini.;;125
-Ter virgis caesus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.;;138
+Damasci præpositus * gentis Aretæ regis voluit me comprehendere: a fratribus per murum demissus sum in sporta, et sic evasi manus ejus in nomine Domini.;;125
+Ter virgis cæsus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.;;138
 
 [Ant 3]
-Sancte Paule Apostole, * praedicator veritatis et Doctor Gentium, intercede pro nobis ad Deum, qui te elegit.
+Sancte Paule Apostole, * prædicator veritatis et Doctor Gentium, intercede pro nobis ad Deum, qui te elegit.

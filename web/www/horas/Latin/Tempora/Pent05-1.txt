@@ -7,8 +7,8 @@ Oratio Dominica
 [Lectio1]
 De libro secundo Regum.
 !2 Sam 2:1-4
-1 Igitur post haec consuluit David Dominum, dicens: Num ascendam in unam de civitatibus Juda? Et ait Dominus ad eum: Ascende. Dixitque David: Quo ascendam? Et respondit ei: In Hebron.
-2 Ascendit ergo David, et duae uxores ejus, Achinoam Jezrahelites, et Abigail uxor Nabal Carmeli:
+1 Igitur post hæc consuluit David Dominum, dicens: Num ascendam in unam de civitatibus Juda? Et ait Dominus ad eum: Ascende. Dixitque David: Quo ascendam? Et respondit ei: In Hebron.
+2 Ascendit ergo David, et duæ uxores ejus, Achinoam Jezrahelites, et Abigail uxor Nabal Carmeli:
 3 sed et viros, qui erant cum eo, duxit David singulos cum domo sua: et manserunt in oppidis Hebron.
 4 Veneruntque viri Juda, et unxerunt ibi David ut regnaret super domum Juda.
 
@@ -20,7 +20,7 @@ De libro secundo Regum.
 4 Et nuntiatum est David quod viri Jabes Galaad sepelissent Saul.
 5 Misit ergo David nuntios ad viros Jabes Galaad, dixitque ad eos: Benedicti vos a Domino, qui fecistis misericordiam hanc cum domino vestro Saul, et sepelistis eum.
 6 Et nunc retribuet vobis quidem Dominus misericordiam et veritatem: sed et ego reddam gratiam, eo quod fecistis verbum istud.
-7 Confortentur manus vestrae, et estote filii fortitudinis: licet enim mortuus sit dominus vester Saul, tamen me unxit domus Juda in regem sibi.
+7 Confortentur manus vestræ, et estote filii fortitudinis: licet enim mortuus sit dominus vester Saul, tamen me unxit domus Juda in regem sibi.
 
 [Responsory2]
 @Tempora/Pent03-1Feria:Responsory2

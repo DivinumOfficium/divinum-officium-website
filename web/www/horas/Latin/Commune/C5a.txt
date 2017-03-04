@@ -33,19 +33,19 @@ Antiphonas horas
 @Commune/C4:Hymnus1 Vespera
 
 [Ant Matutinum]
-Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quaecumque faciet, semper prosperabuntur.;;1
-Beatus iste Sanctus, * qui confisus est in Domino, praedicavit praeceptum Domini, constitutus est in monte sancto ejus.;;2
+Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quæcumque faciet, semper prosperabuntur.;;1
+Beatus iste Sanctus, * qui confisus est in Domino, prædicavit præceptum Domini, constitutus est in monte sancto ejus.;;2
 Tu es gloria mea, * tu es susceptor meus, Domine: tu exaltans caput meum, et exaudisti me de monte sancto tuo.;;3
 V. Amavit eum Dominus, et ornavit eum.
-R. Stolam gloriae induit eum.
+R. Stolam gloriæ induit eum.
 Invocantem * exaudivit Dominus Sanctum suum, Dominus exaudivit eum, et constituit eum in pace.;;4
-Laetentur omnes, * qui sperant in te, Domine: quoniam tu benedixisti justo, scuto bonae voluntatis tuae coronasti eum.;;5
+Lætentur omnes, * qui sperant in te, Domine: quoniam tu benedixisti justo, scuto bonæ voluntatis tuæ coronasti eum.;;5
 Domine, Dominus noster, * quam admirabile est nomen tuum in universa terra! quia gloria et honore coronasti Sanctum tuum, et constituisti eum super opera manuum tuarum.;;8
 V. Os justi meditabitur sapientiam.
 R. Et lingua eius loquetur judicium
 Domine, * iste Sanctus habitabit in tabernaculo tuo, operatus est justitiam, requiescet in monte sancto tuo.;;14
 Vitam petiit * a te, et tribuisti ei, Domine: gloriam et magnum decorem imposuisti super eum: posuisti in capite ejus coronam de lapide pretioso.;;20
-Hic accipiet * benedictionem a Domino, et misericordiam a Deo salutari suo: quia haec est generatio quaerentium Dominum.;;23
+Hic accipiet * benedictionem a Domino, et misericordiam a Deo salutari suo: quia hæc est generatio quærentium Dominum.;;23
 V. Lex Dei eius in corde ipsius.
 R. Et non supplantabuntur gressus eius.
 
@@ -170,21 +170,21 @@ R. Et non supplantabuntur gressus eius.
 @Commune/C5
 
 [Lectio92]
-Et hic possumus decem mnas decem verba intelligere, id est, legis doctrinam; quinque autem mnas, magisteria disciplinae. Sed legisperitum in omnibus volo esse perfectum; non enim in sermone, sed in virtute est regnum Dei. Bene autem, quia de Judaeis dicit, duo soli multiplicatam pecuniam deferunt, non utique aeris, sed dispensationis usuris. Alia est enim pecuniae foenebris, alia doctrinae caelestis usura.
+Et hic possumus decem mnas decem verba intelligere, id est, legis doctrinam; quinque autem mnas, magisteria disciplinæ. Sed legisperitum in omnibus volo esse perfectum; non enim in sermone, sed in virtute est regnum Dei. Bene autem, quia de Judæis dicit, duo soli multiplicatam pecuniam deferunt, non utique æris, sed dispensationis usuris. Alia est enim pecuniæ foenebris, alia doctrinæ cælestis usura.
 &teDeum
 
 [Lectio73]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 16:24-27
 In illo tempore: Dixit Jesus discipulis suis: Si quis vult post me venire, abneget semetipsum, et tollat crucem suam, et sequatur me. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 32. in Evang.
-Quia Dominus ac Redemptor noster novus homo venit in mundum, nova praecepta dedit mundo. Vitae etenim nostrae veteri in vitiis enutritae contrarietatem opposuit novitatis suae. Quid enim vetus, quid carnalis homo noverat, nisi sua retinere, aliena rapere, si posset; concupiscere, si non posset? Sed caelestis medicus singulis quibusque vitiis obviantia adhibet medicamenta. Nam sicut arte medicinae calida frigidis, frigida calidis curantur: ita Dominus noster contraria opposuit medicamenta peccatis, ut lubricis continentiam, tenacibus largitatem, iracundis mansuetudinem, elatis praeciperet humilitatem.
+Quia Dominus ac Redemptor noster novus homo venit in mundum, nova præcepta dedit mundo. Vitæ etenim nostræ veteri in vitiis enutritæ contrarietatem opposuit novitatis suæ. Quid enim vetus, quid carnalis homo noverat, nisi sua retinere, aliena rapere, si posset; concupiscere, si non posset? Sed cælestis medicus singulis quibusque vitiis obviantia adhibet medicamenta. Nam sicut arte medicinæ calida frigidis, frigida calidis curantur: ita Dominus noster contraria opposuit medicamenta peccatis, ut lubricis continentiam, tenacibus largitatem, iracundis mansuetudinem, elatis præciperet humilitatem.
 
 [Lectio83]
-Certe cum se sequentibus nova mandata proponeret,dixit: Nisi quis renuntiaverit omnibus quae possidet, non potest meus esse discipulus. Ac si aperte dicat: Qui per vitam veterem aliena concupiscitis, per novae conversationis studium et vestra largimini. Quid vero in hac lectione dicat, audiamus: Qui vult post me venire, abneget semetipsum. Ibi dicitur, ut abnegemus nostra: hic dicitur, ut abnegemus nos. Et fortasse laboriosum non est homini relinquere sua; sed valde laboriosum est relinquere semetipsum. Minus quippe est abnegare quod habet; valde autem multum est abnegare quod est.
+Certe cum se sequentibus nova mandata proponeret,dixit: Nisi quis renuntiaverit omnibus quæ possidet, non potest meus esse discipulus. Ac si aperte dicat: Qui per vitam veterem aliena concupiscitis, per novæ conversationis studium et vestra largimini. Quid vero in hac lectione dicat, audiamus: Qui vult post me venire, abneget semetipsum. Ibi dicitur, ut abnegemus nostra: hic dicitur, ut abnegemus nos. Et fortasse laboriosum non est homini relinquere sua; sed valde laboriosum est relinquere semetipsum. Minus quippe est abnegare quod habet; valde autem multum est abnegare quod est.
 
 [Lectio93]
-Ad se autem nobis venientibus Dominus praecepit, ut renuntiemus nostris: quia quicumque ad fidei agonem venimus, luctamen contra malignos spiritus sumimus. Nihil autem maligni spiritus in hoc mundo proprium possident: nudi ergo cum nudis luctari debemus. Nam si vestitus quisque cum nudo luctatur, citius ad terram dejicitur, quia habet unde teneatur. Quid enim sunt terrena omnia, nisi quaedam corporis indumenta? Qui ergo contra diabolum ad certamen properat, vestimenta abjiciat, ne succumbat.
+Ad se autem nobis venientibus Dominus præcepit, ut renuntiemus nostris: quia quicumque ad fidei agonem venimus, luctamen contra malignos spiritus sumimus. Nihil autem maligni spiritus in hoc mundo proprium possident: nudi ergo cum nudis luctari debemus. Nam si vestitus quisque cum nudo luctatur, citius ad terram dejicitur, quia habet unde teneatur. Quid enim sunt terrena omnia, nisi quædam corporis indumenta? Qui ergo contra diabolum ad certamen properat, vestimenta abjiciat, ne succumbat.
 &teDeum

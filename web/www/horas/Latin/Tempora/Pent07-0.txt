@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Ant 1]
-Unxerunt Salomonem * Sadoc sacerdos, et Nathan propheta, regem in Gihon, et ascendentes laeti dixerunt: Vivat rex in aeternum.
+Unxerunt Salomonem * Sadoc sacerdos, et Nathan propheta, regem in Gihon, et ascendentes læti dixerunt: Vivat rex in æternum.
 
 [Oratio]
 Deus, cujus providentia in sui dispositione non fallitur: te supplices exoramus; ut noxia cuncta submoveas, et omnia nobis profutura concedas.
@@ -17,9 +17,9 @@ $Per Dominum
 [Lectio1]
 Incipit liber tertius Regum.
 !1 Kgs 1:1-4
-1 Et rex David senuerat, habebatque aetatis plurimos dies: cumque operiretur vestibus, non calefiebat.
-2 Dixerunt ergo ei servi sui: Quaeramus domino nostro regi adolescentulam virginem, et stet coram rege, et foveat eum, dormiatque in sinu suo, et calefaciat dominum nostrum regem.
-3 Quaesierunt igitur adolescentulam speciosam in omnibus finibus Isra�l, et invenerunt Abisag Sunamitidem, et adduxerunt eam ad regem.
+1 Et rex David senuerat, habebatque ætatis plurimos dies: cumque operiretur vestibus, non calefiebat.
+2 Dixerunt ergo ei servi sui: Quæramus domino nostro regi adolescentulam virginem, et stet coram rege, et foveat eum, dormiatque in sinu suo, et calefaciat dominum nostrum regem.
+3 Quæsierunt igitur adolescentulam speciosam in omnibus finibus Isra�l, et invenerunt Abisag Sunamitidem, et adduxerunt eam ad regem.
 4 Erat autem puella pulchra nimis, dormiebatque cum rege, et ministrabat ei: rex vero non cognovit eam.
 
 [Responsory1]
@@ -29,8 +29,8 @@ Incipit liber tertius Regum.
 !1 Kgs 1:5-8
 5 Adonias autem filius Haggith elevabatur, dicens: Ego regnabo. Fecitque sibi currus et equites, et quinquaginta viros qui currerent ante eum.
 6 Nec corripuit eum pater suus aliquando, dicens: Quare hoc fecisti? Erat autem et ipse pulcher valde, secundus natu post Absalom.
-7 Et sermo ei cum Joab filio Sarviae, et cum Abiathar sacerdote, qui adjuvabant partes Adoniae.
-8 Sadoc vero sacerdos, et Banaias filius Jojadae, et Nathan propheta, et Semei et Rei, et robur exercitus David, non erat cum Adonia.
+7 Et sermo ei cum Joab filio Sarviæ, et cum Abiathar sacerdote, qui adjuvabant partes Adoniæ.
+8 Sadoc vero sacerdos, et Banaias filius Jojadæ, et Nathan propheta, et Semei et Rei, et robur exercitus David, non erat cum Adonia.
 
 [Responsory2]
 @Tempora/Pent01-1
@@ -39,7 +39,7 @@ Incipit liber tertius Regum.
 !1 Kgs 1:11-15
 11 Dixit itaque Nathan ad Bethsabee matrem Salomonis: Num audisti quod regnaverit Adonias filius Haggith, et dominus noster David hoc ignorat?
 12 Nunc ergo veni, accipe consilium a me, et salva animam tuam, filiique tui Salomonis.
-13 Vade, et ingredere ad regem David, et dic ei: Nonne tu, domine mi rex, jurasti mihi ancillae tuae, dicens: Salomon filius tuus regnabit post me, et ipse sedebit in solio meo? Quare ergo regnat Adonias?
+13 Vade, et ingredere ad regem David, et dic ei: Nonne tu, domine mi rex, jurasti mihi ancillæ tuæ, dicens: Salomon filius tuus regnabit post me, et ipse sedebit in solio meo? Quare ergo regnat Adonias?
 14 Et adhuc ibi te loquente cum rege, ego veniam post te, et complebo sermones tuos.
 15 Ingressa est itaque Bethsabee ad regem in cubiculum.
 
@@ -49,47 +49,47 @@ Incipit liber tertius Regum.
 [Lectio4]
 Ex Epistola sancti Hieronymi Presbyteri ad Nepotianum.
 !Epist. 2. tom. 1.
-David annos natus septuaginta, bellicosus quondam vir, senectute frigescente, non poterat calefieri. Quaeritur itaque puella de universis finibus Isra�l Abisag Sunamitis, quae cum rege dormiret, et senile corpus calefaceret. Quae est ista Sunamitis, uxor et virgo, tam fervens, ut frigidum calefaceret; tam sancta, ut calentem ad libidinem non provocaret? Exponat sapientissimus Salomon patris sui delicias, et pacificus bellatoris viri narret amplexus. Posside sapientiam, posside intelligentiam. Ne obliviscaris, et ne declinaveris a verbis oris mei: neque derelinquas illam, et apprehendet te: ama illam, et servabit te. Principium sapientiae, posside sapientiam: et in omni possessione tua posside intelligentiam: circumda illam, et exaltabit te: honora illam, et amplexabitur te, ut det capiti tuo coronam gratiarum. Corona quoque deliciarum proteget te.
+David annos natus septuaginta, bellicosus quondam vir, senectute frigescente, non poterat calefieri. Quæritur itaque puella de universis finibus Isra�l Abisag Sunamitis, quæ cum rege dormiret, et senile corpus calefaceret. Quæ est ista Sunamitis, uxor et virgo, tam fervens, ut frigidum calefaceret; tam sancta, ut calentem ad libidinem non provocaret? Exponat sapientissimus Salomon patris sui delicias, et pacificus bellatoris viri narret amplexus. Posside sapientiam, posside intelligentiam. Ne obliviscaris, et ne declinaveris a verbis oris mei: neque derelinquas illam, et apprehendet te: ama illam, et servabit te. Principium sapientiæ, posside sapientiam: et in omni possessione tua posside intelligentiam: circumda illam, et exaltabit te: honora illam, et amplexabitur te, ut det capiti tuo coronam gratiarum. Corona quoque deliciarum proteget te.
 
 [Responsory4]
 @Tempora/Pent01-2:Responsory1
 
 [Lectio5]
-Omnes pene virtutes corporis mutantur in senibus, et crescente sola sapientia, decrescunt cetera: jejunia, vigiliae, chameuniae, id est, super pavimentum dormitiones, huc illucque discursus, peregrinorum susceptio, defensio pauperum, instantia orationum, et perseverantia, visitatio languentium, labor manuum unde praebeantur eleemosynae. Et ne sermonem longius protraham, cuncta quae per corpus exercentur, fracto corpore minora fiunt.
+Omnes pene virtutes corporis mutantur in senibus, et crescente sola sapientia, decrescunt cetera: jejunia, vigiliæ, chameuniæ, id est, super pavimentum dormitiones, huc illucque discursus, peregrinorum susceptio, defensio pauperum, instantia orationum, et perseverantia, visitatio languentium, labor manuum unde præbeantur eleemosynæ. Et ne sermonem longius protraham, cuncta quæ per corpus exercentur, fracto corpore minora fiunt.
 
 [Responsory5]
 @Tempora/Pent01-2:Responsory2
 
 [Lectio6]
-Nec hoc dico, quod in juvenibus et adhuc solidioris aetatis, his dumtaxat, qui labore et ardentissimo studio, vitae quoque sanctimonia, et orationis ad Dominum Jesum frequentia, scientiam consecuti sunt, frigeat sapientia, quae in plerisque senibus aetate marcescit: sed quod adolescentia multa corporis bella sustineat, et inter incentiva vitiorum, et carnis titillationes, quasi ignis in lignis viridibus suffocetur, ut suum non possit explicare fulgorem. Senectus vero rursus eorum qui adolescentiam suam honestis artibus instruxerunt, et in lege Domini meditati sunt die ac nocte, aetate fit doctior, usu tritior, processu temporis sapientior, et veterum studiorum dulcissimos fructus metit.
+Nec hoc dico, quod in juvenibus et adhuc solidioris ætatis, his dumtaxat, qui labore et ardentissimo studio, vitæ quoque sanctimonia, et orationis ad Dominum Jesum frequentia, scientiam consecuti sunt, frigeat sapientia, quæ in plerisque senibus ætate marcescit: sed quod adolescentia multa corporis bella sustineat, et inter incentiva vitiorum, et carnis titillationes, quasi ignis in lignis viridibus suffocetur, ut suum non possit explicare fulgorem. Senectus vero rursus eorum qui adolescentiam suam honestis artibus instruxerunt, et in lege Domini meditati sunt die ac nocte, ætate fit doctior, usu tritior, processu temporis sapientior, et veterum studiorum dulcissimos fructus metit.
 
 [Responsory6]
 @Tempora/Pent01-2:Responsory3
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 7:15-21
 In illo tempore: Dixit Jesus discipulis suis: Attendite a falsis prophetis, qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces. Et reliqua.
 _
 Homilia sancti Hilarii Episcopi.
 !In Comment. in Matth. can. 6.
-Blandimenta verborum, et mansuetudinis simulationem admonet fructu operationis expendi oportere; ut non qualem quis verbis referat, sed qualem se rebus efficiat, spectemus: quia in multis vestitu ovium rabies lupina contegitur. Ergo ut spinae uvas, ut tribuli ficus non generant, et ut iniquae arbores utilia poma non afferunt: ita ne in istis quidem consistere docet boni operis effectum, et idcirco omnes cognoscendos esse de fructibus. Regnum enim caelorum sola verborum officia non obtinent: neque qui dixerit: Domine, Domine, heres illius erit.
+Blandimenta verborum, et mansuetudinis simulationem admonet fructu operationis expendi oportere; ut non qualem quis verbis referat, sed qualem se rebus efficiat, spectemus: quia in multis vestitu ovium rabies lupina contegitur. Ergo ut spinæ uvas, ut tribuli ficus non generant, et ut iniquæ arbores utilia poma non afferunt: ita ne in istis quidem consistere docet boni operis effectum, et idcirco omnes cognoscendos esse de fructibus. Regnum enim cælorum sola verborum officia non obtinent: neque qui dixerit: Domine, Domine, heres illius erit.
 
 [Responsory7]
 @Tempora/Pent01-3:Responsory1
 
 [Lectio8]
-Quid enim meriti est Domino dicere, Domine? Numquid Dominus non erit, nisi fuerit dictus a nobis? Et quae officii sanctitas est, nominis nuncupatio, cum caelestis regni iter obedientia potius voluntatis Dei, non nuncupatio repertura sit? Multi mihi dicent in illa die: Domine Domine, nonne in tuo nomine prophetavimus? Etiam nunc pseudoprophetarum fraudulentiam, et hypocritarum simulamenta condemnat, qui gloriam sibi ex verbi virtute praesumunt, in doctrinae prophetia, et daemoniorum fuga, et istiusmodi operum virtutibus.
+Quid enim meriti est Domino dicere, Domine? Numquid Dominus non erit, nisi fuerit dictus a nobis? Et quæ officii sanctitas est, nominis nuncupatio, cum cælestis regni iter obedientia potius voluntatis Dei, non nuncupatio repertura sit? Multi mihi dicent in illa die: Domine Domine, nonne in tuo nomine prophetavimus? Etiam nunc pseudoprophetarum fraudulentiam, et hypocritarum simulamenta condemnat, qui gloriam sibi ex verbi virtute præsumunt, in doctrinæ prophetia, et dæmoniorum fuga, et istiusmodi operum virtutibus.
 
 [Responsory8]
 @Tempora/Pent01-0:Responsory8
 
 [Lectio9]
-Atque hinc sibi regnum caelorum pollicentur: quasi vero eorum aliquid proprium sit, quae loquuntur aut faciunt, et non omnia virtus Dei invocata perficiat: cum doctrinae scientiam lectio afferat, daemonia Christi nomen exagitet. De nostro igitur est beata illa aeternitas promerenda, praestandumque est aliquid ex proprio, ut bonum velimus, malum omne vitemus, totoque affectu praeceptis caelestibus obtemperemus, ac talibus officiis cogniti Deo simus: agamusque potius quod vult, quam quod potest gloriemur, repudians eos ac repellens, quos a cognitione sua, opera iniquitatis averterint.
+Atque hinc sibi regnum cælorum pollicentur: quasi vero eorum aliquid proprium sit, quæ loquuntur aut faciunt, et non omnia virtus Dei invocata perficiat: cum doctrinæ scientiam lectio afferat, dæmonia Christi nomen exagitet. De nostro igitur est beata illa æternitas promerenda, præstandumque est aliquid ex proprio, ut bonum velimus, malum omne vitemus, totoque affectu præceptis cælestibus obtemperemus, ac talibus officiis cogniti Deo simus: agamusque potius quod vult, quam quod potest gloriemur, repudians eos ac repellens, quos a cognitione sua, opera iniquitatis averterint.
 &teDeum
 
 [Ant 2]
 Attendite * a falsis prophetis, qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces: a fructibus eorum cognoscetis eos, alleluia.
 
 [Ant 3]
-Non potest arbor * bona fructus malos facere, nec arbor mala fructus bonos facere: Omnis arbor, quae non facit fructum bonum, excidetur, et in ignem mittetur, alleluia.
+Non potest arbor * bona fructus malos facere, nec arbor mala fructus bonos facere: Omnis arbor, quæ non facit fructum bonum, excidetur, et in ignem mittetur, alleluia.

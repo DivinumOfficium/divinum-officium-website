@@ -3,18 +3,18 @@
 01-02=01-02o=Octave of St. Stephen=3=
 01-03=01-03o=Octave of St. John=3=
 01-04=01-04o=Octave of the Holy Innocents=3=
-01-05=01-05=Vigilia Epiphaniae=2=
+01-05=01-05=Vigilia Epiphaniæ=2=
 01-06=01-06=Epiphany of the Lord=3=
-01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
-01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
-01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
-01-10=01-10=Quinta die infra Octavam Epiphaniae=2=
-01-11=01-11=Sexta die infra Octavam Epiphaniae=2=
-01-12=01-12=Septima die infra Octavam Epiphaniae=2=
-01-13=01-13=Die Octava Epiphaniae=3=
+01-07=01-07=Secunda die infra Octavam Epiphaniæ=2=
+01-08=01-08=Tertia die infra Octavam Epiphaniæ=2=
+01-09=01-09=Quarta die infra Octavam Epiphaniæ=2=
+01-10=01-10=Quinta die infra Octavam Epiphaniæ=2=
+01-11=01-11=Sexta die infra Octavam Epiphaniæ=2=
+01-12=01-12=Septima die infra Octavam Epiphaniæ=2=
+01-13=01-13=Die Octava Epiphaniæ=3=
 01-14=01-14o=S. Hilary bishop and confessor=2=S. Felicis Presbyteri et Mart=1=
-01-15=01-15=S. Pauli primi Eremitae et Confessoris=2=S. Mauri Abbatis=1=
-01-16=01-16t=S. Marcelli Papae et Martyris=2= 
+01-15=01-15=S. Pauli primi Eremitæ et Confessoris=2=S. Mauri Abbatis=1=
+01-16=01-16t=S. Marcelli Papæ et Martyris=2= 
 01-17=01-17=S. S. Antonii Abbatis=3= 
 01-18=01-18=Chain of St Peter Rome=3=Commemoratio S. Prisca virgin martyr=1=
 01-19=01-19o= Ss. Marius, Martha, Audifax, and Abachum martyrs=1=
@@ -25,7 +25,7 @@
 01-24=01-24=S. Timothei Episcopi et Martyris=1=
 01-25=01-25=In Conversione S. Pauli Apostoli=3=
 01-26=01-26=S. Polycarpi Episcopi et Martyris=1=
-01-27=01-27=S. Joannis Chrysostomi Episcopi Confessoris Ecclesiae Doctoris=3=
+01-27=01-27=S. Joannis Chrysostomi Episcopi Confessoris Ecclesiæ Doctoris=3=
 01-28=01-28t=S. Agnetis Virginis et Martyris secundo=1=
 *February*
 02-01=02-01=Ignatius bishop and martyr=2=
@@ -38,8 +38,8 @@
 02-15=02-15=S. Faustinus and Jovita martyrs=1=
 02-18=02-18=S. Simeon bishop and martyr=1=
 02-22=02-22t=Chair of St Peter at Antioch=3=
-02-23=02-23o=Vigilia S. Matthaei Apostoli=1.5=
-02-24=02-24=S. Matthiae Apostoli=3=
+02-23=02-23o=Vigilia S. Matthæi Apostoli=1.5=
+02-24=02-24=S. Matthiæ Apostoli=3=
 *March*
 03-07=03-07t=St. Thomas Aquinas confessor=3=commemoration of Ss. Perpetua and Felicity martyrs
 03-09=03-10=Ss. Forty Holy martyrs=2=
@@ -62,7 +62,7 @@
 05-03=05-03t=Invention of the Holy Cross=3=Ss Alexander, Eventius and Theodulus martyrs, and Juvenal bishop and confessor=1=
 05-04=05-04=S. Monica Widow=1=
 05-06=05-06=S. John before the Latin Gate=3=
-05-08=05-08t=Apparition of St. Michael=3=
+05-08=05-08t=Apparition of St. Michæl=3=
 05-09=05-09t=S. Gregory the Theologian bishop and confessor=3=
 05-10=05-10o=Ss. Gordian and Epimachus martyrs=1=
 05-12=05-12t=Ss. Nereus, Achilleus and Pancras martyrs=1=
@@ -84,9 +84,9 @@
 06-19=06-19o=Ss. Gervase and Protase martyrs=1=
 06-20=06-20t=S. Silverius pope and martyr=1=
 06-22=06-22t=S. Paulinus bishop and confessor=1=
-06-23=06-23=Vigilia Nativitatis S. Joannis Baptistae=1.5=
+06-23=06-23=Vigilia Nativitatis S. Joannis Baptistæ=1.5=
 06-24=06-24t=Nativity of St. John the Baptist=3=
-06-25=06-25o=Second day of Octava Nativitatis S. Joannis Baptistae=2=
+06-25=06-25o=Second day of Octava Nativitatis S. Joannis Baptistæ=2=
 06-26=06-26t=Ss. John and Paul martyrs=2=
 06-27=06-27=Fourth day of the octave of the Nativity of St. John the Baptist=2=
 06-28=06-28t=S. Leo II pope and confessor=2=
@@ -163,12 +163,12 @@
 09-23=09-23t=S. Linus pope and martyr=1=commemoration of St Thecla virgin and martyr=1=
 09-26=09-26=Ss. Cyprian and Justina martyrs=1=
 09-27-09-27=Ss. Cosmas and Damian martyrs=2=
-09-29=09-29=Dedication of St Michael Archangel=3=
+09-29=09-29=Dedication of St Michæl Archangel=3=
 09-30=09-30=S. Jerome Priest, confessor, and Doctor of the Church=3=
 *October*
 10-01=10-01=Remigius bishop and confessor=1=
 10-04=10-04=S. Francis confessor=3=
-10-07=10-07t=S. Marci Papae Confessoris=1=Ss. Martyrum Sergii=Bacchi=Marcelli et Apuleji=1=
+10-07=10-07t=S. Marci Papæ Confessoris=1=Ss. Martyrum Sergii=Bacchi=Marcelli et Apuleji=1=
 10-09=10-09t=Ss. Denis, Rusticus, and Eleutherius martyrs=2=
 10-14=10-14t=S. Callistus pope and martyr=2=
 10-18=10-18=S. Luke Evangelist=3=

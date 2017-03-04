@@ -1,23 +1,23 @@
 [Rank]
-S. Lini Papae et Martyris;;Semiduplex;;2;;vide C2
+S. Lini Papæ et Martyris;;Semiduplex;;2;;vide C2
 
 [Rule]
 vide C2;
 
 [Oratio]
 Deus, qui nos beati Lini Martyris tui atque Pontificis annua solemnitate~
-laetificas: concede propitius; ut cujus natalitia colimus, de eiusdem etiam~
+lætificas: concede propitius; ut cujus natalitia colimus, de eiusdem etiam~
 protectione gaudeamus.
 $Per Dominum
 
 [Lectio4]
 Linus Pontifex, Volaterris in Etruria natus, primus post Petrum gubernavit~
-Ecclesiam. Cujus tanta fides et sanctitas fuit, ut non solum daemones ejiceret,~
+Ecclesiam. Cujus tanta fides et sanctitas fuit, ut non solum dæmones ejiceret,~
 sed etiam mortuos revocaret ad vitam. Scripsit res gestas beati Petri, et ea~
-maxime quae ab illo acta sunt contra Simonem magum. Sancivit, ne qua mulier,~
+maxime quæ ab illo acta sunt contra Simonem magum. Sancivit, ne qua mulier,~
 nisi velato capite in ecclesiam introiret. Huic Pontifici caput amputatum est ob~
-constantiam christianae fidei, jussu Saturnini impii et ingratissimi consularis,~
-cujus filiam a daemonum vexatione liberaverat. Sepultus est in Vaticano prope~
+constantiam christianæ fidei, jussu Saturnini impii et ingratissimi consularis,~
+cujus filiam a dæmonum vexatione liberaverat. Sepultus est in Vaticano prope~
 sepulcrum principis Apostolorum, nono Kalendas Octobris. Sedit annos undecim,~
 menses duos, dies viginti tres, creatis bis mense Decembri episcopis quindecim,~
 presbyteris decem et octo.

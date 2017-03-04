@@ -1,4 +1,4 @@
 @Commune/C12A
 
 [Rank]
-Officium parvum Beatae Mariae Virginis Festo Annuntiatione;;Simplex;;1;;vide C11
+Officium parvum Beatæ Mariæ Virginis Festo Annuntiatione;;Simplex;;1;;vide C11

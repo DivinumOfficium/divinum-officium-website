@@ -1,20 +1,20 @@
 [Lectio1]
-De libro Sapientiae.
+De libro Sapientiæ.
 !Sap 6:1-5
 1 Melior est sapientia quam vires, et vir prudens quam fortis.
-2 Audite ergo, reges, et intelligite; discite, judices finium terrae;
-3 praebete aures, vos qui continetis multitudines, et placetis vobis in turbis nationum;
+2 Audite ergo, reges, et intelligite; discite, judices finium terræ;
+3 præbete aures, vos qui continetis multitudines, et placetis vobis in turbis nationum;
 4 quoniam data est a Domino potestas vobis, et virtus ab Altissimo: qui interrogabit opera vestra, et cogitationes scrutabitur;
-5 quoniam cum essetis ministri regni illius, non recte judicastis, nec custodistis legem justitiae, neque secundum voluntatem Dei ambulastis.
+5 quoniam cum essetis ministri regni illius, non recte judicastis, nec custodistis legem justitiæ, neque secundum voluntatem Dei ambulastis.
 
 [Responsory1]
 @Tempora/081-2:Responsory1
 
 [Lectio2]
 !Sap 6:6-9
-6 Horrende et cito apparebit vobis, quoniam judicium durissimum his qui praesunt fiet.
+6 Horrende et cito apparebit vobis, quoniam judicium durissimum his qui præsunt fiet.
 7 Exiguo enim conceditur misericordia; potentes autem potenter tormenta patientur;
-8 non enim subtrahet personam cujusquam Deus, nec verebitur magnitudinem cujusquam, quoniam pusillum et magnum ipse fecit, et aequaliter cura est illi de omnibus
+8 non enim subtrahet personam cujusquam Deus, nec verebitur magnitudinem cujusquam, quoniam pusillum et magnum ipse fecit, et æqualiter cura est illi de omnibus
 9 fortioribus autem fortior instat cruciatio.
 
 [Responsory2]
@@ -25,7 +25,7 @@ De libro Sapientiae.
 10 Ad vos ergo, reges, sunt hi sermones mei: ut discatis sapientiam, et non excidatis.
 11 Qui enim custodierint justa juste, justificabuntur; et qui didicerint ista, invenient quid respondeant.
 12 Concupiscite ergo sermones meos; diligite illos, et habebitis disciplinam.
-13 Clara est, et quae numquam marcescit, sapientia: et facile videtur ab his qui diligunt eam, et invenitur ab his qui quaerunt illam.
+13 Clara est, et quæ numquam marcescit, sapientia: et facile videtur ab his qui diligunt eam, et invenitur ab his qui quærunt illam.
 
 [Responsory3]
 @Tempora/081-0:Responsory6

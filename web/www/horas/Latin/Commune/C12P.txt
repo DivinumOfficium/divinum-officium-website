@@ -1,10 +1,10 @@
 @Commune/C12
 
 [Name]
-Officium parvum Beatae Mariae Virginis
+Officium parvum Beatæ Mariæ Virginis
 
 [Rank]
-Officium parvum Beatae Mariae Virginis Tempora Paschalis;;Simplex;;1
+Officium parvum Beatæ Mariæ Virginis Tempora Paschalis;;Simplex;;1
 
 [Rule]
 Ave only

@@ -1,10 +1,10 @@
 [Ant 1]
-Qui caelorum * contines thronum, et abyssos intueris, Domine, Rex regum, montes ponderas, terram palmo concludis: exaudi nos, Domine, in gemitibus nostris.
+Qui cÃ¦lorum * contines thronum, et abyssos intueris, Domine, Rex regum, montes ponderas, terram palmo concludis: exaudi nos, Domine, in gemitibus nostris.
 
 [Lectio1]
-Incipit liber Osee Prophetae
+Incipit liber Osee ProphetÃ¦
 !Osee 1:1-3
-1 Verbum Domini, quod factum est ad Osee, filium Beeri, in diebus Oziae, Joathan, Achaz, Ezechiae, regum Juda; et in diebus Jeroboam, filii Joas, regis Israël.
+1 Verbum Domini, quod factum est ad Osee, filium Beeri, in diebus OziÃ¦, Joathan, Achaz, EzechiÃ¦, regum Juda; et in diebus Jeroboam, filii Joas, regis Israël.
 2 Principium loquendi Domino in Osee. Et dixit Dominus ad Osee: Vade, sume tibi uxorem fornicationum et fac tibi filios fornicationum, quia fornicans fornicabitur terra a Domino.
 3 Et abiit, et accepit Gomer, filiam Debelaim: et concepit, et peperit ei filium.
 
@@ -23,9 +23,9 @@ Incipit liber Osee Prophetae
 
 [Lectio3]
 !Osee 1:8-11
-8 Et ablactavit eam quae erat Absque misericordia et concepit, et peperit filium.
+8 Et ablactavit eam quÃ¦ erat Absque misericordia et concepit, et peperit filium.
 9 Et dixit: Voca nomen ejus, Non populus meus, quia vos non populus meus, et ego non ero vester.
-10 Et erit numerus filiorum Israël quasi arena maris, quae sine mensura est, et non numerabitur. Et erit in loco ubi dicetur eis: Non populus meus vos: dicetur eis: Filii Dei viventis.
+10 Et erit numerus filiorum Israël quasi arena maris, quÃ¦ sine mensura est, et non numerabitur. Et erit in loco ubi dicetur eis: Non populus meus vos: dicetur eis: Filii Dei viventis.
 11 Et congregabuntur filii Juda et filii Israël pariter; et ponent sibimet caput unum, et ascendent de terra, quia magnus dies Jezrahel.
 
 [Responsory3]
@@ -40,13 +40,13 @@ Osee propheta, quanto profundius quidem loquitur, tanto operosius penetratur. Se
 @Tempora/111-0:Responsory4
 
 [Lectio5]
-Et quia ipse quoque populus Gentium spiritaliter est in filiis Abrahae, ac per hoc recte dicitur Israël: propterea sequitur, et dicit: Et congregabuntur filii Juda, et filii Israël in idipsum: et ponent sibimet principatum unum, et ascendent a terra. Hoc si adhuc velimus exponere, eloquii prophetici obtundetur sapor. Recolatur tamen lapis ille angularis, et duo illi parietes, unus ex Judaeis, alter ex Gentibus: ille nomine filiorum Juda, iste nomine filiorum Israël: eidem uni principatui suo in idipsum innitentes, et ascendentes agnoscantur in terra.
+Et quia ipse quoque populus Gentium spiritaliter est in filiis AbrahÃ¦, ac per hoc recte dicitur Israël: propterea sequitur, et dicit: Et congregabuntur filii Juda, et filii Israël in idipsum: et ponent sibimet principatum unum, et ascendent a terra. Hoc si adhuc velimus exponere, eloquii prophetici obtundetur sapor. Recolatur tamen lapis ille angularis, et duo illi parietes, unus ex JudÃ¦is, alter ex Gentibus: ille nomine filiorum Juda, iste nomine filiorum Israël: eidem uni principatui suo in idipsum innitentes, et ascendentes agnoscantur in terra.
 
 [Responsory5]
 @Tempora/111-0:Responsory5
 
 [Lectio6]
-Istos autem carnales Israëlitas, qui nunc nolunt credere in Christum, postea credituros, id est, filios eorum, (nam utique isti in suum locum moriendo transibunt) idem propheta testatur, dicens: Quoniam diebus multis sedebunt filii Israël sine rege, sine principe, sine sacrificio, sine altari, sine sacerdotio, sine manifestationibus. Quis non videat, nunc sic esse Judaeos?
+Istos autem carnales Israëlitas, qui nunc nolunt credere in Christum, postea credituros, id est, filios eorum, (nam utique isti in suum locum moriendo transibunt) idem propheta testatur, dicens: Quoniam diebus multis sedebunt filii Israël sine rege, sine principe, sine sacrificio, sine altari, sine sacerdotio, sine manifestationibus. Quis non videat, nunc sic esse JudÃ¦os?
 
 [Responsory6]
 @Tempora/111-0:Responsory6

@@ -1,8 +1,8 @@
 [Name]
-Officium parvum Beatae Mariae Virginis
+Officium parvum Beatæ Mariæ Virginis
 
 [Rank]
-Officium parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11
+Officium parvum Beatæ Mariæ Virginis;;Simplex;;1;;ex C11
 
 [Rule]
 ex C11;
@@ -25,7 +25,7 @@ Feria Te Deum
 @Commune/C10:Oratio
 
 [Oratio 2]
-v. Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, eius apud te intercessionibus adjuvemur.
+v. Deus, qui de beatæ Mariæ Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: præsta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, eius apud te intercessionibus adjuvemur.
 $Per eumdem
 
 [Commemoratio]
@@ -70,19 +70,19 @@ $Deus in adjutorium
 
 #Capitulum
 !Sir 24:24
-v. Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.
+v. Ego mater pulchræ dilectionis, et timoris, et agnitionis, et sanctæ spei.
 $Deo gratias
 _
 V. Ora pro nobis sancta Dei Genitrix.
 R. Ut digni efficiamur promissionibus Christi.
 
 #Canticum Nunc dimittis
-Ant. Sub tuum praesidium * confugimus, sancta Dei Genitrix: nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta.
+Ant. Sub tuum præsidium * confugimus, sancta Dei Genitrix: nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta.
 &psalm(233)
-Ant. Sub tuum praesidium * confugimus, sancta Dei Genitrix: nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta.
+Ant. Sub tuum præsidium * confugimus, sancta Dei Genitrix: nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta.
 
 @:Pre oratio
-v. Beatae et gloriosae semper Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat, et ad vitam perducat aeternam.
+v. Beatæ et gloriosæ semper Virginis Mariæ, quæsumus, Domine, intercessio gloriosa nos protegat, et ad vitam perducat æternam.
 $Per Dominum
 
 #Conclusio
@@ -104,12 +104,12 @@ $Credo
 @Commune/C10
 
 [Ant Matutinum]
-@Commune/C11::s/V\. .*/V. Diffusa est gratia in labiis tuis./g s/R\. .*/R. Propterea benedixit te Deus in aeternum./g
+@Commune/C11::s/V\. .*/V. Diffusa est gratia in labiis tuis./g s/R\. .*/R. Propterea benedixit te Deus in æternum./g
 
 [Lectio1]
 !Sir 24:11-13
-11 In omnibus requiem quaesivi, et in hereditate Domini morabor.
-12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
+11 In omnibus requiem quæsivi, et in hereditate Domini morabor.
+12 Tunc præcepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 13 Et dixit mihi: In Jacob inhabita, et in Israël hereditare, et in electis meis mitte radices.
 
 [Lectio2]
@@ -118,37 +118,37 @@ $Credo
 16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 
 [Responsory2]
-R. Beata es, Virgo Maria, quae Dominum portasti, Creatorem mundi:
-* Genuisti qui te fecit, et in aeternum permanes Virgo.
+R. Beata es, Virgo Maria, quæ Dominum portasti, Creatorem mundi:
+* Genuisti qui te fecit, et in æternum permanes Virgo.
 V. Ave Maria, gratia plena, Dominus tecum.
-R. Genuisti qui te fecit, et in aeternum permanes Virgo.
+R. Genuisti qui te fecit, et in æternum permanes Virgo.
 
 [Lectio3]
 !Sir 24:17-20
 17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
-18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
+18 quasi palma exaltata sum in Cades, et quasi plantatio rosæ in Jericho:
 19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
 20 Sicut cinnamomum et balsamum aromatizans odorem dedi; quasi myrrha electa dedi suavitatem odoris:
 &teDeum
 
 [Responsory3]
 R. Felix namque es, sacra Virgo Maria, et omni laude dignissima:
-* Quia ex te ortus est sol justitiae, * Christus Deus noster.
+* Quia ex te ortus est sol justitiæ, * Christus Deus noster.
 V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem.
-R. Quia ex te ortus est sol justitiae.
+R. Quia ex te ortus est sol justitiæ.
 &Gloria
 R. Christus Deus noster.
 
 [Ant Laudes]
-Assumpta est Maria in caelum: * gaudent Angeli, laudantes benedicunt Dominum.
-Maria Virgo assumpta est * ad aethereum thalamum, in quo Rex regum stellato sedet solio.
-In odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis.
-Benedicta * filia tu a Domino: quia per te fructum vitae communicavimus.
+Assumpta est Maria in cælum: * gaudent Angeli, laudantes benedicunt Dominum.
+Maria Virgo assumpta est * ad æthereum thalamum, in quo Rex regum stellato sedet solio.
+In odorem * unguentorum tuorum currimus: adolescentulæ dilexerunt te nimis.
+Benedicta * filia tu a Domino: quia per te fructum vitæ communicavimus.
 Pulchra es, * et decora, filia Jerusalem: terribilis ut castrorum acies ordinata.
 
 [Capitulum Laudes]
 !Cant 6:8
-v. Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.
+v. Viderunt eam filiæ Sion, et beatissimam prædicaverunt et reginæ laudaverunt eam.
 $Deo gratias
 
 [Versum 2]
@@ -165,15 +165,15 @@ Nostri quod olim corporis,
 Sacrata ab alvo Virginis
 Nascendo formam sumpseris.
 _
-Maria Mater gratiae,
-Dulcis Parens clementiae,
+Maria Mater gratiæ,
+Dulcis Parens clementiæ,
 Tu nos ab hoste protege,
 Et mortis hora suscipe.
 _
 Jesu, tibi sit gloria,
 Qui natus es de Virgine,
 Cum Patre, et almo Spiritu,
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 [Minor intro]
@@ -193,18 +193,18 @@ $Deus in adjutorium.
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-$Fidelium animae
+$Fidelium animæ
 _
 $Pater noster
 (sed rubrica 1955 aut rubrica 1960 omittitur)
 
 [Capitulum Prima]
 !Cant 6:9
-v. Quae est ista, quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?
+v. Quæ est ista, quæ progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?
 $Deo gratias
 
 [Oratio Prima]
-v. Deus, qui virginalem aulam beatae Mariae in qua habitares, eligere dignatus es: da, quaesumus; ut sua nos defensione munitos, jucundos facias suae interesse commemorationi.
+v. Deus, qui virginalem aulam beatæ Mariæ in qua habitares, eligere dignatus es: da, quæsumus; ut sua nos defensione munitos, jucundos facias suæ interesse commemorationi.
 $Qui vivis
 
 [Special Prima]
@@ -234,7 +234,7 @@ v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, e
 $Deo gratias
 
 [Oratio Tertia]
-v. Deus, qui salutis aeternae, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum Filium tuum:
+v. Deus, qui salutis æternæ, beatæ Mariæ virginitate fecunda, humano generi præmia præstitisti: tribue, quæsumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitæ suscipere, Dominum nostrum Jesum Christum Filium tuum:
 $Qui tecum
 
 [Special Tertia]
@@ -262,7 +262,7 @@ v. Et radicavi in populo honorificato, et in parte Dei mei hereditas illius et i
 $Deo gratias
 
 [Oratio Sexta]
-v. Concede, misericors Deus, fragilitati nostrae praesidium: ut qui sanctae Dei Genitricis memoriam agimus, intercessionis ejus auxilio, a nostris iniquitatibus resurgamus.
+v. Concede, misericors Deus, fragilitati nostræ præsidium: ut qui sanctæ Dei Genitricis memoriam agimus, intercessionis ejus auxilio, a nostris iniquitatibus resurgamus.
 $Per eumdem
 
 [Special Sexta]
@@ -289,7 +289,7 @@ _
 $Deo gratias
 
 [Oratio Nona]
-v. Famulorum tuorum, quaesumus, Domine, delictis ignosce: ut qui tibi placere de actibus nostris non valemus, Genitricis Filii tui Domini nostri intercessione salvemur:
+v. Famulorum tuorum, quæsumus, Domine, delictis ignosce: ut qui tibi placere de actibus nostris non valemus, Genitricis Filii tui Domini nostri intercessione salvemur:
 $Qui tecum
 
 [Verse Nona]
@@ -319,4 +319,4 @@ _
 @:Versum 1
 
 [Ant 3]
-@:Ant 1
+@Commune/C10:Ant 1

@@ -8,7 +8,7 @@ Psalm5 Vespera=115
 
 [Ant Vespera]
 Sancti tui Domine * florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia;;109
-In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia;;110
+In cælestibus regnis * sanctorum habitatio est, alleluia: et in æternum requies eorum, alleluia;;110
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia;;111
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;112
 
@@ -20,7 +20,7 @@ $Deo gratias
 _
 R.br. Lux perpetua lucebit sanctis tuis Domine, * alleluia, alleluia.
 R. Lux perpetua lucebit sanctis tuis Domine, * alleluia, alleluia.
-V. Et aeternitas temporum
+V. Et æternitas temporum
 R. alleluia, alleluia.
 &Gloria
 R. Lux perpetua lucebit sanctis tuis Domine, * alleluia, alleluia.
@@ -33,10 +33,10 @@ V. Sancti et justi in Domino gaudete, alleluia.
 R. Vos elegit Deus in hereditatem sibi, alleluia.
 
 [Ant 1]
-Lux perpetua * lucebit sanctis tuis Domine, et aeternitas temporum, alleluia.
+Lux perpetua * lucebit sanctis tuis Domine, et æternitas temporum, alleluia.
 
 [Oratio]
-Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriae actionis~
+Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriæ actionis~
 gravat, beati N. Martyris tui atque Pontificis intercessio gloriosa nos~
 protegat.
 $Per Dominum
@@ -63,32 +63,32 @@ Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;14
 ;;64
 ;;95
 V. Lux perpetua lucebit sanctis tuis Domine, alleluia.
-R. Et aeternitas temporum, alleluia.
-Lux perpetua * lucebit sanctis tuis Domine, et aeternitas temporum, alleluia;;256;257;258
-R. Laetitia sempiterna super capita eorum, alleluia.
+R. Et æternitas temporum, alleluia.
+Lux perpetua * lucebit sanctis tuis Domine, et æternitas temporum, alleluia;;256;257;258
+R. Lætitia sempiterna super capita eorum, alleluia.
 V. Gaudium et exsultationem obtinebunt, alleluia.
 
 [Lectio1]
 !Acts 20:17-24
-17 A Mileto autem mittens Ephesum, vocavit majores natu ecclesiae.
+17 A Mileto autem mittens Ephesum, vocavit majores natu ecclesiæ.
 18 Qui cum venissent ad eum, et simul essent, dixit eis: Vos scitis a prima die qua ingressus sum in Asiam, qualiter vobiscum per omne tempus fuerim,
-19 serviens Domino cum omni humilitate, et lacrimis, et tentationibus, quae mihi acciderunt ex insidiis Judaeorum:
+19 serviens Domino cum omni humilitate, et lacrimis, et tentationibus, quæ mihi acciderunt ex insidiis Judæorum:
 20 quomodo nihil subtraxerim utilium, quominus annuntiarem vobis et docerem vos, publice et per domos,
-21 testificans Judaeis atque gentilibus in Deum poenitentiam, et fidem in Dominum nostrum Jesum Christum.
-22 Et nunc ecce alligatus ego spiritu, vado in Jerusalem: quae in ea ventura sint mihi, ignorans:
+21 testificans Judæis atque gentilibus in Deum poenitentiam, et fidem in Dominum nostrum Jesum Christum.
+22 Et nunc ecce alligatus ego spiritu, vado in Jerusalem: quæ in ea ventura sint mihi, ignorans:
 23 nisi quod Spiritus Sanctus per omnes civitates mihi protestatur, dicens quoniam vincula et tribulationes Jerosolymis me manent.
-24 Sed nihil horum vereor: nec facio animam meam pretiosiorem quam me, dummodo consummem cursum meum, et ministerium verbi quod accepi a Domino Jesu, testificari Evangelium gratiae Dei.
+24 Sed nihil horum vereor: nec facio animam meam pretiosiorem quam me, dummodo consummem cursum meum, et ministerium verbi quod accepi a Domino Jesu, testificari Evangelium gratiæ Dei.
 
 
 [Responsory1]
 R.br. Beatus vir qui metuit Dominum, alleluia:
 *In mandatis ejus cupit nimis, alleluia, alleluia, alleluia.
-V. Gloria et divitiae in domo ejus, et justitia ejus manet in saeculum saeculi.
+V. Gloria et divitiæ in domo ejus, et justitia ejus manet in sæculum sæculi.
 R. In mandatis ejus cupit nimis, alleluia, alleluia, alleluia.
 
 [Lectio2]
 !Acts 20:25-31
-25 Et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi praedicans regnum Dei.
+25 Et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi prædicans regnum Dei.
 26 Quapropter contestor vos hodierna die, quia mundus sum a sanguine omnium.
 27 Non enim subterfugi, quominus annuntiarem omne consilium Dei vobis.
 28 Attendite vobis, et universo gregi, in quo vos Spiritus Sanctus posuit episcopos regere ecclesiam Dei, quam acquisivit sanguine suo.
@@ -105,11 +105,11 @@ R. Convertetur in gaudium, alleluia, alleluia.
 
 [Lectio3]
 !Acts 20:32-38
-32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare hereditatem in sanctificatis omnibus.
+32 Et nunc commendo vos Deo, et verbo gratiæ ipsius, qui potens est ædificare, et dare hereditatem in sanctificatis omnibus.
 33 Argentum, et aurum, aut vestem nullius concupivi, sicut
-34 ipsi scitis: quoniam ad ea quae mihi opus erant, et his qui mecum sunt, ministraverunt manus istae.
+34 ipsi scitis: quoniam ad ea quæ mihi opus erant, et his qui mecum sunt, ministraverunt manus istæ.
 35 Omnia ostendi vobis, quoniam sic laborantes, oportet suscipere infirmos ac meminisse verbi Domini Jesu: quoniam ipse dixit: Beatius est magis dare, quam accipere.
-36 Et cum haec dixisset, positis genibus suis oravit cum omnibus illis.
+36 Et cum hæc dixisset, positis genibus suis oravit cum omnibus illis.
 37 Magnus autem fletus factus est omnium: et procumbentes super collum Pauli, osculabantur eum,
 38 dolentes maxime in verbo quod dixerat, quoniam amplius faciem ejus non essent visuri. Et deducebant eum ad navem.
 
@@ -132,30 +132,30 @@ R. Mors sanctorum eius, alleluia
 [Lectio4]
 Sermo sancti Ambrosii Episcopi.
 !Serm. 22.
-Dignum et congruum est, fratres, ut post laetitiam Paschae, quam in Ecclesia~
+Dignum et congruum est, fratres, ut post lætitiam Paschæ, quam in Ecclesia~
 celebravimus, gaudia nostra cum sanctis Martyribus conferamus: et iis~
-annuntiemus Dominicae resurrectionis gloriam, qui consortes sunt Dominicae~
-passionis. Qui enim socii sunt contumeliae, debent et participes esse laetitiae.~
+annuntiemus Dominicæ resurrectionis gloriam, qui consortes sunt Dominicæ~
+passionis. Qui enim socii sunt contumeliæ, debent et participes esse lætitiæ.~
 Ita enim dicit beatus Apostolus: Sicut socii passionum estis, et resurrectionis~
 eritis: si tolerabimus, inquit, et conregnabimus. Qui ergo toleraverunt mala~
 propter Christimi, debent et gloriam habere cum Christo.
 
 [Responsory4]
 R. Lux perpetua lucebit sanctis tuis Domine,
-* Et aeternitas temporum, alleluia, alleluia.
-V. Laetitia sempiterna erit super capita eorum: gaudium et exsultationem~
+* Et æternitas temporum, alleluia, alleluia.
+V. Lætitia sempiterna erit super capita eorum: gaudium et exsultationem~
 obtinebunt.
-R. Et aeternitas temporum, alleluia, alleluia.
+R. Et æternitas temporum, alleluia, alleluia.
 
 [Lectio5]
-Annuntiamus inquam sanctis Martyribus Dominicae Paschae gratiam: ut dum~
-sepulturae illius praedicamus reserata claustra, et horum sepulcra reserentur:~
+Annuntiamus inquam sanctis Martyribus Dominicæ Paschæ gratiam: ut dum~
+sepulturæ illius prædicamus reserata claustra, et horum sepulcra reserentur:~
 dum corpus illius mortuum dicimus tepentibus venis subito viguisse, horum quoque~
 membra jam frigida immortalitatis calore foveantur. Eadem enim ratio Martyres~
-suscitat, quae et Dominum suscitavit. Nam sicut viam passionis ejus experti sunt,~
-ita experientur et vitae. Scriptum est enim in Psalmo: Notas mihi fecisti vias~
-vitae. Hoc utique in resurrectione ex persona dicitur Salvatoris: ut qui, dum~
-post mortem ab inferis redit ad superos, incipiat notam habere viam vitae, quae~
+suscitat, quæ et Dominum suscitavit. Nam sicut viam passionis ejus experti sunt,~
+ita experientur et vitæ. Scriptum est enim in Psalmo: Notas mihi fecisti vias~
+vitæ. Hoc utique in resurrectione ex persona dicitur Salvatoris: ut qui, dum~
+post mortem ab inferis redit ad superos, incipiat notam habere viam vitæ, quæ~
 ante habebetur ignota.
 
 [Responsory5]
@@ -165,24 +165,24 @@ V. Judicabit Dominus populum suum, et in servis suis.
 R. Consolabitur Deus, alleluia.
 
 [Lectio6]
-Ignota enim erat ante Christi adventum via vitae, quae nullius adhuc resurgentis~
+Ignota enim erat ante Christi adventum via vitæ, quæ nullius adhuc resurgentis~
 fuerat temerata vestigio. At ubi Dominus resurrexit, nota facta, solo attrita~
 est plurimorum. De quibus sanctus Evangelista ait: Multorum corpora sanctorum~
 surrexerunt cum eo, et introierunt in sanctam civitatem. Unde cum Dominus in~
-resurrectione sua dixerit, Notas mihi fecisti vias vitae: possumus et nos jam~
-dicere Domino: Notas fecisti nobis vias vitae. Ipse enim nobis notas fecit vias~
-vitae, qui nobis semitam manifestavit ad vitam. Notas enim mihi fecit vias vitae,~
+resurrectione sua dixerit, Notas mihi fecisti vias vitæ: possumus et nos jam~
+dicere Domino: Notas fecisti nobis vias vitæ. Ipse enim nobis notas fecit vias~
+vitæ, qui nobis semitam manifestavit ad vitam. Notas enim mihi fecit vias vitæ,~
 cum me docuit fidem, misericordiam, justitiam, castitatem. His enim pervenitur~
 itineribus ad salutem.
 
 [Responsory6]
-R. Filiae Jerusalem, venite et videte Martyres cum coronis, quibus coronavit eos~
+R. Filiæ Jerusalem, venite et videte Martyres cum coronis, quibus coronavit eos~
 Dominus
-* In die solemnitatis et laetitiae, alleluia.
+* In die solemnitatis et lætitiæ, alleluia.
 V. Quoniam confortavit seras portarum tuarum, benedixit filios tuos in te.
-R. In die solemnitatis et laetitiae, alleluia.
+R. In die solemnitatis et lætitiæ, alleluia.
 &Gloria
-R. In die solemnitatis et laetitiae, alleluia.
+R. In die solemnitatis et lætitiæ, alleluia.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
@@ -193,9 +193,9 @@ _
 !Homilia sancti Augustini Episcopi.
 !Tract. 80. in Joannem.
 Iste locus evangelicus, fratres, ubi se dicit Dominus vitem, et discipulos suos~
-palmites, secundum hoc dicit, quod est caput Ecclesiae, nosque membra ejus.~
-mediator Dei, et hominum homo Christus Jesus. Unius quippe naturae sunt vitis et~
-palmites. Propter quod cum esset Deus, cujus naturae non sumus, factus est homo,~
+palmites, secundum hoc dicit, quod est caput Ecclesiæ, nosque membra ejus.~
+mediator Dei, et hominum homo Christus Jesus. Unius quippe naturæ sunt vitis et~
+palmites. Propter quod cum esset Deus, cujus naturæ non sumus, factus est homo,~
 ut in illo esset vitis humana natura, cujus et nos homines palmites esse~
 possemus.
 
@@ -215,14 +215,14 @@ R. Convertetur in gaudium, alleluia, alleluia.
 Quid ergo est, Ego sum vitis vera? Numquid ut adderet, vera, hoc ad eam vitem~
 retulit, unde ista similitudo translata est? Sic enim dicitur vitis per~
 similitudinem, non per proprietatem: quemadmodum dicitur ovis, agnus, leo, petra,~
-lapis angularis, et cetera hujusmodi, quae magis ipsa sunt vera, ex quibus~
-ducuntur istae similitudines, non proprietates. Sed cum dicit, Ego sum vitis~
+lapis angularis, et cetera hujusmodi, quæ magis ipsa sunt vera, ex quibus~
+ducuntur istæ similitudines, non proprietates. Sed cum dicit, Ego sum vitis~
 vera: ab illa se utique discernit, cui dicitur: Quomodo conversa es in~
-amaritudinem vitis aliena? Nam quo pacto est vitis vera, quae exspectata est ut~
+amaritudinem vitis aliena? Nam quo pacto est vitis vera, quæ exspectata est ut~
 faceret uvam, fecit autem spinas?
 
 [Responsory8]
-R. Candidi facti sunt Nazaraei ejus, alleluia: splendorem Deo dederunt,~
+R. Candidi facti sunt Nazaræi ejus, alleluia: splendorem Deo dederunt,~
 alleluia:
 * Et sicut lac coagulati sunt, alleluia, alleluia.
 V. Candidiores nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro~
@@ -244,7 +244,7 @@ et, si Verbum caro factum est, quod non erat, manet quod erat.
 
 [Ant Laudes]
 Sancti tui Domine * florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia.
-In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia.
+In cælestibus regnis * sanctorum habitatio est, alleluia: et in æternum requies eorum, alleluia.
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia.
 Spiritus et animas * justorum hymnum dicite Deo nostro, alleluia, alleluia.
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia.
@@ -270,7 +270,7 @@ V. Pretiosa in conspectu Domini, alleluia
 R. Mors sanctorum ejus, alleluia
 
 [Ant 2]
-Filiae Jerusalem, * venite et videte Martyres cum coronis, quibus coronavit eos Dominus, in die solemnitatis et l�titi�, alleluia, alleluia
+Filiæ Jerusalem, * venite et videte Martyres cum coronis, quibus coronavit eos Dominus, in die solemnitatis et l�titi�, alleluia, alleluia
 
 [Lectio Prima]
 !Rom 8:28
@@ -296,7 +296,7 @@ $Deo gratias
 
 [Responsory Sexta]
 V. Lux perpetua lucebit sanctis tuis Domine, alleluia.
-R. Et aeternitas temporum, alleluia.
+R. Et æternitas temporum, alleluia.
 
 [Capitulum Nona]
 !Rom 8:28
@@ -305,12 +305,12 @@ propositum vocati sunt sancti.
 $Deo gratias
 
 [Responsory Nona]
-V. Laetitia sempiterna super capita eorum, alleluia.
+V. Lætitia sempiterna super capita eorum, alleluia.
 R. Gaudium et exsultationem obtinebunt, alleluia
 
 [Ant Vespera 3]
 Qui me confessus fuerit * coram hominibus, confitebor et ego eum coram Patre meo;;109
-Qui sequitur me, * non ambulat in tenebris, sed habebit lumen vitae, dicit Dominus;;111
+Qui sequitur me, * non ambulat in tenebris, sed habebit lumen vitæ, dicit Dominus;;111
 Qui mihi ministrat, * me sequatur: et ubi ego sum, illic sit et minister meus;;112
 Volo Pater, *ut ubi ego sum, illic sit et minister meus;;115
 

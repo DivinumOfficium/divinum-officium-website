@@ -1,25 +1,25 @@
 [Rank]
-S. Evaristi Papae et Martyris;;Simplex;;1.2;;vide C2
+S. Evaristi Papæ et Martyris;;Simplex;;1.2;;vide C2
 
 [Rank1960]
-S. Evaristi Papae et Martyris;;Simplex;;1.1;;vide C2
+S. Evaristi Papæ et Martyris;;Simplex;;1.1;;vide C2
 
 [Rule]
 vide C2;
 OPapaM=Evar�stum;
 
 [Oratio]
-Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriae actionis~
+Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriæ actionis~
 gravat, beati Evaristi Martyris tui atque Pontificis intercessio gloriosa nos~
 protegat.
 $Per Dominum
 
 [Lectio93]
-Evaristus Graecus ex Judaeo patre, Trajano imperatore, pontificatum gessit. Qui~
-ecclesiarum titulos urbis Romae presbyteris divisit, et ordinavit, ut septem~
-diaconi episcopum custodirent, dum evangelicae praedicationis officio~
+Evaristus Græcus ex Judæo patre, Trajano imperatore, pontificatum gessit. Qui~
+ecclesiarum titulos urbis Romæ presbyteris divisit, et ordinavit, ut septem~
+diaconi episcopum custodirent, dum evangelicæ prædicationis officio~
 fungeretur. Idem constituit ex traditione apostolica, ut matrimonium publice~
-celebretur, et sacerdotis benedictio adhibeatur. Praefuit Ecclesiae annos novem,~
+celebretur, et sacerdotis benedictio adhibeatur. Præfuit Ecclesiæ annos novem,~
 menses tres, presbyteris decem et septem, diaconis duobus, episcopis quindecim,~
 quater mense Decembri ordinatis. Martyrio coronatus, prope sepulchrum Principis~
 Apostolorum in Vaticano sepultus est, septimo Kalendas Novembris.

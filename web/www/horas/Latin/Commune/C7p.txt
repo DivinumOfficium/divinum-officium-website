@@ -4,7 +4,7 @@
 Commune non Virginum Martyrum Tempore Paschali
 
 [Ant 1]
-Simile est regnum caelorum * homini negotiatori quaerenti bonas margaritas: inventa una pretiosa, dedit omnia sua, et comparavit eam. Alleluia
+Simile est regnum cælorum * homini negotiatori quærenti bonas margaritas: inventa una pretiosa, dedit omnia sua, et comparavit eam. Alleluia
 
 [Responsory1]
 @Commune/C6p
@@ -30,13 +30,13 @@ R. Mulier timens Deum, ipsa laudabitur. Alleluia
 R. Mulier timens Deum, ipsa laudabitur. Alleluia
 
 [Responsory7]
-R. Os suum aperuit sapientiae, et lex clementiae in lingua ejus: consideravit semitas domus suae,
+R. Os suum aperuit sapientiæ, et lex clementiæ in lingua ejus: consideravit semitas domus suæ,
 * Et panem otiosa non comedit. Alleluia
 V. Gustavit et vidit quia bona est negotiatio ejus: non exstinguetur in nocte lucerna ejus.
 R. Et panem otiosa non comedit. Alleluia
 
 [Responsory8]
-R. Regnum mundi, et omnem ornatum saeculi contempsi, propter amorem Domini mei Jesu Christi:
+R. Regnum mundi, et omnem ornatum sæculi contempsi, propter amorem Domini mei Jesu Christi:
 * Quem vidi, quem amavi, in quem credidi, quem dilexi. Alleluia
 V. Eructavit cor meum verbum bonum: dico ego opera mea regi.
 R. Quem vidi, quem amavi, in quem credidi, quem dilexi. Alleluia

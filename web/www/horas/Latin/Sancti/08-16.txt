@@ -16,7 +16,7 @@ R. Generátio rectórum benedicétur.
 Laudémus * virum gloriósum in generatióne sua, quia benedictiónem ómnium géntium dedit illi Dóminus, et testaméntum suum confirmávit super caput ejus.
 
 [Oratio]
-Deus, qui prae omnibus Sanctis tuis beatum Joachim Genitricis Filii tui patrem esse voluisti: concede, quaesumus: ut cujus festa veneramur, ejus quoque perpetuo patrocinia sentiamus.
+Deus, qui prÃ¦ omnibus Sanctis tuis beatum Joachim Genitricis Filii tui patrem esse voluisti: concede, quÃ¦sumus: ut cujus festa veneramur, ejus quoque perpetuo patrocinia sentiamus.
 $Per eumdem
 
 [Lectio4]
@@ -33,12 +33,12 @@ Quóniam futurum erat ut Dei Génitrix et Virgo ex Anna orirétur, natúra gratiæ fœ
 Exsulta, Joachim, quóniam ex fília tua Fílius natus est nobis; et vocátur nomen ejus magni consílii, hoc est, salútis totius mundi Angelus.  Pudore afficiátur Nestorius, ac manum ori imponat.  Puer hic Deus est.  Quonam ígitur modo ea Dei Génitrix non sit, quæ péperit?  Si quis sanctam Dei Genitricem non confitétur, a Deitate remotus est.  Mea non est hæc orátio, quamquam alioqui mea; hanc enim diviníssimam hereditátem a theólogo patre Gregório accepi.  O beátum par Joachim et Anna!  Ac profecto ex ventris vestri fructu immaculáti agnoscímini, quemádmodum Christus quodam loco dixit: Ex fructibus eórum cognoscétis eos.  Ut Deo grátum erat ac dignum ea quæ a vobis orta est, vitæ vestræ ratiónes instituistis.  Caste enim ac sancte munere vestro functi, virginitátis thesáurum produxistis.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum MatthÃ¦um.
 !Matt 1:1-16
 Liber generatiónis Jesu Christi, fílii David, fílii Abraham.  Abraham génuit Isaac, Isaac autem génuit Jacob.  Et réliqua.
 _
 Homilia sancti Joannis Damasceni.
-!Ex lib. 4. de Fide orthodoxa, cap. 15. de Domini genealogia et sanctae Dei Genitricis. 
+!Ex lib. 4. de Fide orthodoxa, cap. 15. de Domini genealogia et sanctÃ¦ Dei Genitricis. 
 Quod Joseph ex Davidica tribu originem duxerit, sanctíssimi Evangelistæ Matthæus et Lucas líquido demonstrarunt.  Verum, hoc inter eos discríminis est, quod Matthæus ex Davíde per Salomónem Josephum dedúcit; Lucas autem per Nathan.  At vero sanctæ Vírginis ortum uterque silentio prætériit.  Quocirca scire operæ prétium est, nec apud Hebræos nec apud Scripturam sacram hoc in more positum fuisse, ut mulíerum genus recenserétur.  Verum, hoc demum lege cautum erat ne tribus ulla uxores ex áltera tribu accérseret.  Ac proinde Joseph, qui ex tribu Davidica ortum trahebat justítiamque colebat (hanc enim laudem ei tríbuit divinum Evangélium), sanctam Vírginem haudquáquam præter legis præscriptum despondísset, nisi ex eodem sceptro genus duxísset.  Ob idque satis hábuit Evangelista demonstrasse unde Joseph ortum traxerit.
 
 [Lectio8]

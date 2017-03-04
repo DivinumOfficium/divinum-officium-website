@@ -1,5 +1,5 @@
 [Rank]
-In Vigilia Ss. Simonis et Judae Apostolorum;;Vigilia;;1.5;;ex C1v
+In Vigilia Ss. Simonis et Judæ Apostolorum;;Vigilia;;1.5;;ex C1v
 
 [Rule]
 ex C1v;
@@ -18,9 +18,9 @@ _
 Homilia sancti Augustini Episcopi.
 !Tract. 80. in Joannem.
 Iste locus evangelicus, fratres, ubi se dicit Dominus vitem, et discipulos suos~
-palmites, secundum hoc dicit, quod est caput Ecclesiae, nosque membra ejus,~
-mediator Dei, et hominum homo Christus Jesus. Unius quippe naturae sunt vitis et~
-palmites. Propter quod cum esset Deus, cujus naturae non sumus, factus est homo,~
+palmites, secundum hoc dicit, quod est caput Ecclesiæ, nosque membra ejus,~
+mediator Dei, et hominum homo Christus Jesus. Unius quippe naturæ sunt vitis et~
+palmites. Propter quod cum esset Deus, cujus naturæ non sumus, factus est homo,~
 ut in illo esset vitis humana natura, cujus et nos homines palmites esse~
 possemus.
 
@@ -28,10 +28,10 @@ possemus.
 Quid ergo est, Ego sum vitis vera? Numquid ut adderet, vera, hoc ad eam vitem~
 retulit, unde ista similitudo translata est? Sic enim dicitur vitis per~
 similitudinem, non per proprietatem: quemadmodum dicitur ovis, agnus, leo, petra,~
-lapis angularis, et cetera hujusmodi, quae magis ipsa sunt vera, ex quibus~
-ducuntur istae similitudines, non proprietates. Sed cum dicit, Ego sum vitis~
+lapis angularis, et cetera hujusmodi, quæ magis ipsa sunt vera, ex quibus~
+ducuntur istæ similitudines, non proprietates. Sed cum dicit, Ego sum vitis~
 vera: ab illa se utique discernit, cui dicitur: Quomodo conversa es in~
-amaritudinem vitis aliena? Nam quo pacto est vitis vera, quae exspectata est ut~
+amaritudinem vitis aliena? Nam quo pacto est vitis vera, quæ exspectata est ut~
 faceret uvam, fecit autem spinas?
 
 [Lectio3]
@@ -45,7 +45,7 @@ utique Deus est Christus, quia Deus erat Verbum: unde ipse, et Pater unum sunt:~
 et, si Verbum caro factum est, quod non erat, manet quod erat.
 
 [Oratio]
-Concede, quaesumus omnipotens Deus: ut, sicut Apostolorum tuorum Simonis et~
-Judae gloriosa natalitia praevenimus; sic ad tua beneficia promerenda majestatem~
-tuam pro nobis ipsi praeveniant.
+Concede, quæsumus omnipotens Deus: ut, sicut Apostolorum tuorum Simonis et~
+Judæ gloriosa natalitia prævenimus; sic ad tua beneficia promerenda majestatem~
+tuam pro nobis ipsi præveniant.
 $Per Dominum

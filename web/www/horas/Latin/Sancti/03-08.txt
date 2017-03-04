@@ -10,32 +10,32 @@ vide C5;
 
 [Oratio]
 Deus, qui beatum Joannem, tuo amore succensum, inter flammas innoxium incedere~
-fecisti et per eum Ecclesiam tuam nova prole foecundasti: praesta, ipsius~
-suffragantibus meritis; ut igne caritatis tuae vitia nostra curentur, et remedia~
-nobis aeterna proveniant.
+fecisti et per eum Ecclesiam tuam nova prole foecundasti: præsta, ipsius~
+suffragantibus meritis; ut igne caritatis tuæ vitia nostra curentur, et remedia~
+nobis æterna proveniant.
 $Per Dominum.
 
 [Lectio4]
 Joannes de Deo ex catholicis piisque parentibus in oppido Montis Majoris,~
-junioris regni Lusitaniae natus, quam sublimiter in sortem Domini fuerit electus,~
-insuetus splendor super ejus domo refulgens, sonitusque aeris campani sua~
-sponte emissus, ab ipso ejus nativitatis tempore, non obscure praenuntiarunt. A~
-laxiori vivendi ratione, divina operante virtute, revocatus, magnae sanctitatis~
-exhibere specimen coepit, et ob auditam praedicationem verbi Dei sic ad meliora~
-se excitatum sensit, ut jam ab ipso sanctioris vitae rudimento consummatum~
+junioris regni Lusitaniæ natus, quam sublimiter in sortem Domini fuerit electus,~
+insuetus splendor super ejus domo refulgens, sonitusque æris campani sua~
+sponte emissus, ab ipso ejus nativitatis tempore, non obscure prænuntiarunt. A~
+laxiori vivendi ratione, divina operante virtute, revocatus, magnæ sanctitatis~
+exhibere specimen coepit, et ob auditam prædicationem verbi Dei sic ad meliora~
+se excitatum sensit, ut jam ab ipso sanctioris vitæ rudimento consummatum~
 aliquid perfectumque visus sit attigisse. Bonis omnibus in pauperes carceribus~
-inclusos erogatis, admirabilis poenitentiae, suique ipsius contemptus cuncto~
+inclusos erogatis, admirabilis poenitentiæ, suique ipsius contemptus cuncto~
 populo spectaculum factus, a plerisque, ceu demens, graviter afflictus, in~
 carcerem amentibus destinatum conjicitur. At Joannes coelesti caritate magis~
 incensus, gemino atque amplo valetudinario ex piorum eleemosynis in civitate~
 Granatensi exstructo, jactoque novi ordinis fundamento, Ecclesiam nova prole~
-foecundavit fratrum Hospitalitatis, infirmis praeclaro animarum corporumque~
+foecundavit fratrum Hospitalitatis, infirmis præclaro animarum corporumque~
 profectu inservientium, et longe lateque per orbem diffusorum.
 
 [Lectio5]
 Pauperibus segretis, quos propriis quandoque humeris domum deferebat, nulla re~
-ad animae corporisque salutem proficua deerat. Effusa quoque extra nosocomium~
-caritate indigentibus mulieribus viduis, et praecipue virginibus periclitantibus~
+ad animæ corporisque salutem proficua deerat. Effusa quoque extra nosocomium~
+caritate indigentibus mulieribus viduis, et præcipue virginibus periclitantibus~
 clam alimenta subministrabat, curamque indefessam adhibebat, ut carnis~
 concupiscentiama proximis hujusmodi vitio inquinatis exterminaret. Cum autem~
 maximum in regio Granatensi valetudinario excitatum fuisset incendium, Joannes~
@@ -50,7 +50,7 @@ accenderat.
 Multiplici asperitatum genere, demississima obedientia, extrema paupertate,~
 orandi studio, rerum divinarum contemplatione, ac in beatam Virginem pietate~
 mirifice excelluit, et lacrimarum dono enituit. Denique gravi morbo correptus,~
-omnibus Ecclesiae sacramentis rite sancteque refectus, viribus licet destitutus ,~
+omnibus Ecclesiæ sacramentis rite sancteque refectus, viribus licet destitutus ,~
 propriis indutus vestibus, e lectulo surgens, ac provolutus in genua, manu et~
 corde Christum Dominum e cruce pendentem perstringens, octavo Idus Martii anno~
 millesimo quingentesimo quinquagesimo obiit in osculo Domini: quem etiam mortuus~
@@ -68,21 +68,21 @@ Io�nnes a Deo, cath�licis pi�sque par�ntibus in �ppido Monti Ma�oris Iuni�ris, r
 &teDeum
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 22:34-46
 In illo tempore: Accesserunt ad Jesum pharis�i: et interrogavit eum unus ex eis~
 legis doctor, tentans eum: Magister, quod est mandatum magnum in lege? Et~
 reliqua.
 _
 Homilia sancti Joannis Chrysostomi.
-!Homilia 72. in Matthaei.
-Sadducaeis confusis, pharis�i rursus aggrediuntur: cumque quiescere oporteret,~
-decertare voluerunt: et legis peritiam profitentem praemittunt, non discere, sed~
+!Homilia 72. in Matthæi.
+Sadducæis confusis, pharis�i rursus aggrediuntur: cumque quiescere oporteret,~
+decertare voluerunt: et legis peritiam profitentem præmittunt, non discere, sed~
 tentare cupientes; ac ita interrogant: Quodnam primum mandatum in lege sit. Nam~
 cum primum illud sit, Diliges Dominum Deum tuum: putantes causas sibi allaturum~
 ad mandatum hoc corrigendum, aliquid addendo, quoniam Deum se faciebat , hoc~
-modo interrogant. Quid igitur Christus? Ut ostendat idcirco ad haec eos devenisse,~
-quia nulla in eis esset caritas, sed invidiae livore tabescerent: Diliges,~
+modo interrogant. Quid igitur Christus? Ut ostendat idcirco ad hæc eos devenisse,~
+quia nulla in eis esset caritas, sed invidiæ livore tabescerent: Diliges,~
 inquit, Dominum Deum tuum: hoc primum et magnum mandatum est. Secundum autem~
 simile huic: Diliges proximum tuum sicut teipsum.
 
@@ -102,5 +102,5 @@ ait in his totam legem et prophetas pendere. Et quemadmodum in superioribus, cum
 de resurrectione interrogaretur, plus docuit quam tentantes petebant: sic in~
 hoc loco de primo interrogatus mandato, secundum etiam non valde quam primum~
 inferius, sponte attulit: secundum enim est primo simile. Ita occulte insinuavit,~
-odio illos ad quaerendum incitari. Caritas enim, inquit, non gemulatur.
+odio illos ad quærendum incitari. Caritas enim, inquit, non gemulatur.
 &teDeum

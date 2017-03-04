@@ -24,7 +24,7 @@ R. Dei Génitrix, intercéde pro nobis.
 v. Orémus. 	
 v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nóstrum Jesum Christum Fílium tuum. Amen.
 
-[Quadragesimae]
+[Quadragesimæ]
 {:S-AveRegina:}v. Ave, Regína cælórum,
 Ave, Dómina Angelórum:
 Salve radix, salve porta,
@@ -41,7 +41,7 @@ v. Orémus.
 v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ Dei Genitrícis memóriam ágimus; intercessiónis eíus auxílio, a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nóstrum. Amen.
 
 [Paschalis]
-{:S-ReginaCaeli:}v. Regína cæli, lætáre, allelúia;
+{:S-ReginaCæli:}v. Regína cæli, lætáre, allelúia;
 Quia quem meruísti portáre, allelúia,
 Resurréxit, sicut dixit, allelúia:
 Ora pro nobis Deum, allelúia.

@@ -69,7 +69,7 @@ R. Et clamor meus ad te véniat.
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-$Fidelium animae
+$Fidelium animæ
 $Pater noster
 V. Dóminus det nobis suam pacem.
 R. Et vitam ætérnam. Amen.

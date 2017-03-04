@@ -13,25 +13,25 @@ Hymnus Tertia
 No commemoration
 
 [Ant Matutinum]
-Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, alleluia.;;47
+Factus est * repente de cælo sonus advenientis spiritus vehementis, alleluia, alleluia.;;47
 Confirma hoc Deus, * quod operatus es in nobis: a templo sancto tuo, quod est in Jerusalem, alleluia, alleluia.;;67
-Emitte Spiritum tuum, * et creabuntur: et renovabis faciem terrae, alleluia, alleluia.;;103
+Emitte Spiritum tuum, * et creabuntur: et renovabis faciem terræ, alleluia, alleluia.;;103
 V. Spiritus Domini replevit orbem terrarum, alleluia.
 R. Et hoc quod continet omnia, scientiam habet vocis, alleluia.
 
 [Lectio1]
 Lectio sancti Evangelii secundum Joannem.
 !Joannes 3:16-21
-In illo tempore: Dixit Jesus Nicodemo: Sic Deus dilexit mundum, ut Filium suum unigenitum daret: ut omnis, qui credit in eum, non pereat, sed habeat vitam aeternam. Et reliqua.
+In illo tempore: Dixit Jesus Nicodemo: Sic Deus dilexit mundum, ut Filium suum unigenitum daret: ut omnis, qui credit in eum, non pereat, sed habeat vitam æternam. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Tract. 12. in Joann. sub hn.
-Quantum in medico est, sanare venit aegrotum. Ipse se interimit, qui praecepta medici observare non vult. Venit Salvator in mundum. Quare Salvator dictus est mundi, nisi, ut salvet mundum, non, ut judicet mundum? Salvari non vis ab ipso: ex te judicaberis. Et quid dicam, Judicaberis? Vide quid ait: Qui credit in eum, non judicatur. Qui autem non credit: quid dicturum sperabas, nisi, Judicatur? Quod addit: Jam, inquit, judicatus est: nondum apparuit judicium, et jam factum est judicium.
+Quantum in medico est, sanare venit ægrotum. Ipse se interimit, qui præcepta medici observare non vult. Venit Salvator in mundum. Quare Salvator dictus est mundi, nisi, ut salvet mundum, non, ut judicet mundum? Salvari non vis ab ipso: ex te judicaberis. Et quid dicam, Judicaberis? Vide quid ait: Qui credit in eum, non judicatur. Qui autem non credit: quid dicturum sperabas, nisi, Judicatur? Quod addit: Jam, inquit, judicatus est: nondum apparuit judicium, et jam factum est judicium.
 
 [Responsory1]
-R. Jam non dicam vos servos, sed amicos meos; quia omnia cognovistis, quae operatus sum in medio vestri, alleluia:
+R. Jam non dicam vos servos, sed amicos meos; quia omnia cognovistis, quæ operatus sum in medio vestri, alleluia:
 * Accipite Spiritum Sanctum in vobis Paraclitum: ille est, quem Pater mittet vobis, alleluia.
-V. Vos amici mei estis, si feceritis quae ego praecipio vobis.
+V. Vos amici mei estis, si feceritis quæ ego præcipio vobis.
 R. Accipite Spiritum Sanctum in vobis Paraclitum: ille est, quem Pater mittet vobis, alleluia.
 
 [Lectio2]
@@ -46,14 +46,14 @@ R. Ut in ore eorum omnium genera nascerentur linguarum, alleluia.
 R. Ut in ore eorum omnium genera nascerentur linguarum, alleluia.
 
 [Lectio3]
-Sed dilexerunt, inquit, tenebras magis quam lucem. Ibi posuit vim. Multi enim dilexerunt peccata sua, multi confessi sunt peccata sua: quia qui confitetur peccata sua, et accusat peccata sua, jam cum Deo facit. Accusat Deus peccata tua: si et tu accusas, conjungeris Deo. Quasi duae res sunt, homo, et peccator. Quod audis, homo, Deus fecit: quod audis, peccator, ipse homo fecit. Dele, quod fecisti, ut Deus salvet, quod fecit. Oportet ut oderis in te opus tuum, et ames in te opus Dei. Cum autem coeperit tibi displicere quod fecisti, inde incipiunt bona opera tua, quia accusas mala opera tua. Initium operum bonorum, confessio est operum malorum.
+Sed dilexerunt, inquit, tenebras magis quam lucem. Ibi posuit vim. Multi enim dilexerunt peccata sua, multi confessi sunt peccata sua: quia qui confitetur peccata sua, et accusat peccata sua, jam cum Deo facit. Accusat Deus peccata tua: si et tu accusas, conjungeris Deo. Quasi duæ res sunt, homo, et peccator. Quod audis, homo, Deus fecit: quod audis, peccator, ipse homo fecit. Dele, quod fecisti, ut Deus salvet, quod fecit. Oportet ut oderis in te opus tuum, et ames in te opus Dei. Cum autem coeperit tibi displicere quod fecisti, inde incipiunt bona opera tua, quia accusas mala opera tua. Initium operum bonorum, confessio est operum malorum.
 &teDeum
 
 [Ant 2]
-Sic Deus * dilexit mundum ut Filium suum unigenitum daret: ut omnis, qui credit in ipsum, non pereat, sed habeat vitam aeternam, alleluia.
+Sic Deus * dilexit mundum ut Filium suum unigenitum daret: ut omnis, qui credit in ipsum, non pereat, sed habeat vitam æternam, alleluia.
 
 [Oratio]
-Deus, qui Apostolis tuis Sanctum dedisti Spiritum: concede plebi tuae piae petitionis effectum; ut quibus dedisti fidem, largiaris et pacem.
+Deus, qui Apostolis tuis Sanctum dedisti Spiritum: concede plebi tuæ piæ petitionis effectum; ut quibus dedisti fidem, largiaris et pacem.
 $Per Dominum eiusdem
 
 [Ant 3]

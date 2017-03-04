@@ -13,7 +13,7 @@ De libro Ecclesiastici.
 
 [Lectio2]
 !Sir 14:6-10
-6 Qui sibi invidet, nihil est illo nequius: et haec redditio est malitiae illius.
+6 Qui sibi invidet, nihil est illo nequius: et hæc redditio est malitiæ illius.
 7 Et si bene fecerit, ignoranter et non volens facit: et in novissimo manifestat malitiam suam.
 8 Nequam est oculus lividi: et avertens faciem suam, et despiciens animam suam.
 9 Insatiabilis oculus cupidi in parte iniquitatis: non satiabitur donec consumat arefaciens animam suam.
@@ -28,7 +28,7 @@ De libro Ecclesiastici.
 11 Fili, si habes benefac tecum et Deo dignas oblationes offer.
 12 Memor esto quoniam mors non tardat, et testamentum inferorum, quia demonstratum est tibi; testamentum enim huius mundi morte morietur.
 13 Ante mortem benefac amico tuo et secundum vires tuas exporrigens da pauperi.
-14 Non defrauderis a die bono, et particula boni doni non te praetereat,
+14 Non defrauderis a die bono, et particula boni doni non te prætereat,
 15 Nonne aliis relinques dolores et labores tuos in divisione sortis?
 16 Da et accipe et iustifica animam tuam :
 17 ante obitum tuum operare iustitiam; quoniam non est apud inferos invenire cibum.

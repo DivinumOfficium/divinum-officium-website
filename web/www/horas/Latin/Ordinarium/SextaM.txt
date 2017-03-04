@@ -32,5 +32,5 @@ v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-$Fidelium animae
+$Fidelium animæ
 $Pater noster

@@ -27,7 +27,7 @@ Serve bone * et fidelis, intra in gaudium Domini tui, alleluia.;;116
 @Commune/C4p
 
 [Ant 1]
-O Doctor optime, * Ecclesiae Sanctae lumen, beate N., divinae legis amator, deprecare pro nobis Filium Dei, alleluia.
+O Doctor optime, * EcclesiÃ¦ SanctÃ¦ lumen, beate N., divinÃ¦ legis amator, deprecare pro nobis Filium Dei, alleluia.
 
 [Invit]
 Regem Confessorum Dominum, * Venite adoremus, alleluia.
@@ -39,20 +39,20 @@ Regem Confessorum Dominum, * Venite adoremus, alleluia.
 @Commune/C4:Hymnus1 Vespera
 
 [Ant Matutinum]
-Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quaecumque faciet, semper prosperabuntur, alleluia.;;1
-Beatus iste sanctus, * qui confisus est in Domino, praedicavit praeceptum Domini, constitutus est in monte sancto ejus.;;2
+Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quÃ¦cumque faciet, semper prosperabuntur, alleluia.;;1
+Beatus iste sanctus, * qui confisus est in Domino, prÃ¦dicavit prÃ¦ceptum Domini, constitutus est in monte sancto ejus.;;2
 Tu es gloria mea, * tu es susceptor meus, Domine: tu exaltans caput meum, et exaudisti me de monte sancto tuo.;;3
 V. Amavit eum Dominus, et ornavit eum, alleluia.
-R. Stolam gloriae induit eum, alleluia.
+R. Stolam gloriÃ¦ induit eum, alleluia.
 Invocantem * exaudivit Dominus sanctum suum, Deis exaudivit eum, et constituit eum in pace, alleluia.;;4
-Laetentur omnes, * qui sperant in te, Domine: quoniam tu benedixisti justo, scuto bonae voluntatis tuae coronasti eum.;;5
+LÃ¦tentur omnes, * qui sperant in te, Domine: quoniam tu benedixisti justo, scuto bonÃ¦ voluntatis tuÃ¦ coronasti eum.;;5
 Domine Dominus noster, * quam admirabile est nomen tuum in universa terra! quia gloria et honore coronasti sanctum tuum, et constituisti eum super opera manuum tuarum.;;8
 V. Elegit eum Dominus sacerdotem sibi, alleluia.
 R. Ad sacrificandum ei hostiam laudis, alleluia.
 Domine, * iste sanctus habitabit in tabernaculo tuo, operatus est justitiam, requiescet in monte sancto tuo, alleluia.;;14
 Vitam petiit * a te, et tribuisti ei, Domine: gloriam et magnum decorem imposuisti super eum: posuisti in capite ejus coronam de lapide pretioso.;;20
-Hic accipiet * benedictionem a Domino, et misericordiam a Deo salutari suo: quia haec est generatio quaerentium Dominum.;;23
-V. Tu es sacerdos in aeternum, alleluia.
+Hic accipiet * benedictionem a Domino, et misericordiam a Deo salutari suo: quia hÃ¦c est generatio quÃ¦rentium Dominum.;;23
+V. Tu es sacerdos in Ã¦ternum, alleluia.
 R. Secundum ordinem Melchisedech, alleluia.
 
 [Lectio1]
@@ -78,11 +78,11 @@ R. Ideo jurejurando fecit illum Dominus crescere in plebem suam, alleluia.
 
 [Responsory3]
 R. Juravit Dominus, et non poenitebit eum:
-* Tu es sacerdos in aeternum secundum ordinem Melchisedech, alleluia.
+* Tu es sacerdos in Ã¦ternum secundum ordinem Melchisedech, alleluia.
 V. Dixit Dominus Domino meo, Sede a dextris meis.
-R. Tu es sacerdos in aeternum secundum ordinem Melchisedech, alleluia.
+R. Tu es sacerdos in Ã¦ternum secundum ordinem Melchisedech, alleluia.
 &Gloria
-R. Tu es sacerdos in aeternum secundum ordinem Melchisedech, alleluia.
+R. Tu es sacerdos in Ã¦ternum secundum ordinem Melchisedech, alleluia.
 
 [Lectio4]
 @Commune/C4
@@ -108,7 +108,7 @@ R. Manus enim mea auxiliabitur ei, alleluia.
 [Responsory6]
 R. Iste est qui ante Deum magnas virtutes operatus est, et omnis terra doctrina ejus repleta est:
 * Ipse intercedat pro peccatis omnium populorum, alleluia.
-V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad cÃ¦lestia regna.
 R. Ipse intercedat pro peccatis omnium populorum, alleluia.
 &Gloria
 R. Ipse intercedat pro peccatis omnium populorum, alleluia.
@@ -117,7 +117,7 @@ R. Ipse intercedat pro peccatis omnium populorum, alleluia.
 @Commune/C4a
 
 [Responsory7]
-R. Amavit eum Dominus, et ornavit eum: stolam gloriae induit eum;
+R. Amavit eum Dominus, et ornavit eum: stolam gloriÃ¦ induit eum;
 * Et ad portas paradisi coronavit eum, alleluia.
 V. Induit eum Dominus loricam fidei, et ornavit eum.
 R. Et ad portas paradisi coronavit eum, alleluia.
@@ -126,12 +126,12 @@ R. Et ad portas paradisi coronavit eum, alleluia.
 @Commune/C4a
 
 [Responsory8]
-R. In medio Ecclesiae aperuit os ejus
-* Et implevit eum Dominus spiritu sapientiae et intellectus, alleluia.
+R. In medio EcclesiÃ¦ aperuit os ejus
+* Et implevit eum Dominus spiritu sapientiÃ¦ et intellectus, alleluia.
 V. Jucunditatem et exsultationem thesaurizavit super eum.
-R. Et implevit eum Dominus spiritu sapientiae et intellectus, alleluia.
+R. Et implevit eum Dominus spiritu sapientiÃ¦ et intellectus, alleluia.
 &Gloria
-R. Et implevit eum Dominus spiritu sapientiae et intellectus, alleluia.
+R. Et implevit eum Dominus spiritu sapientiÃ¦ et intellectus, alleluia.
 
 [Lectio9]
 @Commune/C4a
@@ -145,7 +145,7 @@ Serve bone * et fidelis, intra in gaudium Domini tui, alleluia.
 
 [Capitulum Laudes]
 !Sir 44:16-17
-v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiae factus est reconciliatio.
+v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiÃ¦ factus est reconciliatio.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -176,13 +176,13 @@ $Per Dominum
 
 [Capitulum Tertia]
 !Sir 44:16-19
-v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiae factus est reconciliatio.
+v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiÃ¦ factus est reconciliatio.
 $Deo gratias
 
 [Responsory Tertia]
 R.br. Amavit eum Dominus, et ornavit eum. * Allelúja, allelúja.
 R. Amavit eum Dominus, et ornavit eum. * Allelúja, allelúja.
-V. Stolam gloriae induit eum.
+V. Stolam gloriÃ¦ induit eum.
 R. Allelúja, allelúja.
 &Gloria
 R. Amavit eum Dominus, et ornavit eum. * Allelúja, allelúja.
@@ -201,19 +201,19 @@ R. Allelúja, allelúja.
 &Gloria
 R. Elegit eum Dominus sacerdotem sibi. * Allelúja, allelúja.
 _
-V. Tu es sacerdos in aeternum, allelúja.
+V. Tu es sacerdos in Ã¦ternum, allelúja.
 R. Secundum ordinem Melchisedech, allelúja.
 
 [Capitulum Nona]
 @Commune/C4p
 
 [Responsory Nona]
-R.br. Tu es sacerdos in aeternum. * Allelúja, allelúja.
-R. Tu es sacerdos in aeternum. * Allelúja, allelúja.
+R.br. Tu es sacerdos in Ã¦ternum. * Allelúja, allelúja.
+R. Tu es sacerdos in Ã¦ternum. * Allelúja, allelúja.
 V. Secundum ordinem Melchisedech.
 R. Allelúja, allelúja.
 &Gloria
-R. Tu es sacerdos in aeternum. * Allelúja, allelúja.
+R. Tu es sacerdos in Ã¦ternum. * Allelúja, allelúja.
 _
 V. Justum deduxit Dominus per vias rectas, allelúja.
 R. Et ostendit illi regnum Dei, allelúja.

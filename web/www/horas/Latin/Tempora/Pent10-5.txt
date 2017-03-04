@@ -8,7 +8,7 @@ Oratio Dominica
 De libro quarto Regum.
 !2 Kgs 17:21-23
 21 Separavit Jeroboam Israël a Domino, et peccare eos fecit peccatum magnum.
-22 Et ambulaverunt filii Israël in universis peccatis Jeroboam quae fecerat: et non recesserunt ab eis,
+22 Et ambulaverunt filii Israël in universis peccatis Jeroboam quÃ¦ fecerat: et non recesserunt ab eis,
 23 usquequo Dominus auferret Israël a facie sua, sicut locutus fuerat in manu omnium servorum suorum prophetarum: translatusque est Israël de terra sua in Assyrios, usque in diem hanc.
 
 [Responsory1]
@@ -16,7 +16,7 @@ De libro quarto Regum.
 
 [Lectio2]
 !2 Kgs 17:24-25
-24 Adduxit autem rex Assyriorum de Babylone, et de Cutha, et de Avah, et de Emath, et de Sepharvaim: et collocavit eos in civitatibus Samariae pro filiis Israël: qui possederunt Samariam, et habitaverunt in urbibus ejus.
+24 Adduxit autem rex Assyriorum de Babylone, et de Cutha, et de Avah, et de Emath, et de Sepharvaim: et collocavit eos in civitatibus SamariÃ¦ pro filiis Israël: qui possederunt Samariam, et habitaverunt in urbibus ejus.
 25 Cumque ibi habitare cœpissent, non timebant Dominum: et immisit in eos Dominus leones, qui interficiebant eos.
 
 [Responsory2]
@@ -24,8 +24,8 @@ De libro quarto Regum.
 
 [Lectio3]
 !2 Kgs 17:26-27
-26 Nuntiatumque est regi Assyriorum, et dictum: Gentes quas transtulisti, et habitare fecisti in civitatibus Samariae, ignorant legitima Dei terrae: et immisit in eos Dominus leones, et ecce interficiunt eos, eo quod ignorent ritum Dei terrae.
-27 Praecepit autem rex Assyriorum, dicens: Ducite illuc unum de sacerdotibus quos inde captivos adduxistis, et vadat, et habitet cum eis: et doceat eos legitima Dei terrae.
+26 Nuntiatumque est regi Assyriorum, et dictum: Gentes quas transtulisti, et habitare fecisti in civitatibus SamariÃ¦, ignorant legitima Dei terrÃ¦: et immisit in eos Dominus leones, et ecce interficiunt eos, eo quod ignorent ritum Dei terrÃ¦.
+27 PrÃ¦cepit autem rex Assyriorum, dicens: Ducite illuc unum de sacerdotibus quos inde captivos adduxistis, et vadat, et habitet cum eis: et doceat eos legitima Dei terrÃ¦.
 
 [Responsory3]
 @Tempora/Pent01-2:Responsory3

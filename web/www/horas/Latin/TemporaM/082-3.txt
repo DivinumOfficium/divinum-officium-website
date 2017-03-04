@@ -1,10 +1,10 @@
 [Lectio1]
-De libro Ecclesiastae.
+De libro Ecclesiastæ.
 !Eccl 4:1-4
-1 Verti me ad alia, et vidi calumnias quae sub sole geruntur, et lacrimas innocentium, et neminem consolatorem, nec posse resistere eorum violentiae, cunctorum auxilio destitutos,
+1 Verti me ad alia, et vidi calumnias quæ sub sole geruntur, et lacrimas innocentium, et neminem consolatorem, nec posse resistere eorum violentiæ, cunctorum auxilio destitutos,
 2 et laudavi magis mortuos quam viventes;
-3 et feliciorem utroque judicavi qui necdum natus est, nec vidit mala quae sub sole fiunt.
-4 Rursum contemplatus sum omnes labores hominum, et industrias animadverti patere invidiae proximi; et in hoc ergo vanitas et cura superflua est.
+3 et feliciorem utroque judicavi qui necdum natus est, nec vidit mala quæ sub sole fiunt.
+4 Rursum contemplatus sum omnes labores hominum, et industrias animadverti patere invidiæ proximi; et in hoc ergo vanitas et cura superflua est.
 
 
 [Responsory1]
@@ -23,11 +23,11 @@ De libro Ecclesiastae.
 
 [Lectio3]
 !Eccl 4:9-13
-9 Melius est ergo duos esse simul quam unum; habent enim emolumentum societatis suae.
-10 Si unus ceciderit, ab altero fulcietur. Vae soli, quia cum ceciderit, non habet sublevantem se.
+9 Melius est ergo duos esse simul quam unum; habent enim emolumentum societatis suæ.
+10 Si unus ceciderit, ab altero fulcietur. Væ soli, quia cum ceciderit, non habet sublevantem se.
 11 Et si dormierint duo, fovebuntur mutuo; unus quomodo calefiet?
-12 Et si quispiam praevaluerit contra unum, duo resistunt ei; funiculus triplex difficile rumpitur.
-13 Melior est puer pauper et sapiens, rege sene et stulto, qui nescit praevidere in posterum.
+12 Et si quispiam prævaluerit contra unum, duo resistunt ei; funiculus triplex difficile rumpitur.
+13 Melior est puer pauper et sapiens, rege sene et stulto, qui nescit prævidere in posterum.
 
 
 [Responsory3]

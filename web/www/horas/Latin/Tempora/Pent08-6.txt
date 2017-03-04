@@ -8,14 +8,14 @@ Oratio Dominica
 De libro tertio Regum.
 !1 Kgs 18:21-22
 21 Accedens autem Elias ad omnem populum, ait: Usquequo claudicatis in duas partes? Si Dominus est Deus, sequimini eum: si autem Baal, sequimini illum. Et non respondit ei populus verbum.
-22 Et ait rursus Elias ad populum: Ego remansi propheta Domini solus: prophetae autem Baal quadringenti et quinquaginta viri sunt.
+22 Et ait rursus Elias ad populum: Ego remansi propheta Domini solus: prophetæ autem Baal quadringenti et quinquaginta viri sunt.
 
 [Responsory1]
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
 !1 Kgs 18:23-24
-23 Dentur nobis duo boves, et illi eligant sibi bovem unum, et in frusta caedentes ponant super ligna, ignem autem non supponant: et ego faciam bovem alterum, et imponam super ligna, ignem autem non supponam.
+23 Dentur nobis duo boves, et illi eligant sibi bovem unum, et in frusta cædentes ponant super ligna, ignem autem non supponant: et ego faciam bovem alterum, et imponam super ligna, ignem autem non supponam.
 24 Invocate nomina deorum vestrorum, et ego invocabo nomen Domini mei: et Deus qui exaudierit per ignem, ipse sit Deus. Respondens omnis populus ait: Optima propositio.
 
 [Responsory2]

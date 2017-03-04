@@ -2,19 +2,19 @@
 Super muros tuos * Jerusalem constitui custodes: tota die et nocte non tacebunt laudare nomen Domini.
 
 [Lectio1]
-Incipit Michaeas Propheta
+Incipit Michæas Propheta
 !Mic 1:1-3
-1 Verbum Domini, quod factum est ad Michaeam Morasthiten, in diebus Joathan, Achaz, et Ezechiae, regum Juda, quod vidit super Samariam et Jerusalem.
+1 Verbum Domini, quod factum est ad Michæam Morasthiten, in diebus Joathan, Achaz, et Ezechiæ, regum Juda, quod vidit super Samariam et Jerusalem.
 2 Audite, populi omnes, et attendat terra, et plenitudo ejus: et sit Dominus Deus vobis in testem, Dominus de templo sancto suo.
-3 Quia ecce Dominus egredietur de loco suo, et descendet, et calcabit super excelsa terrae.
+3 Quia ecce Dominus egredietur de loco suo, et descendet, et calcabit super excelsa terræ.
 
 [Responsory1]
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
 !Mic 1:4-6
-4 Et consumentur montes subtus eum, et valles scindentur sicut cera a facie ignis, et sicut aquae quae decurrunt in praeceps.
-5 In scelere Jacob omne istud, et in peccatis domus Isra�l. Quod scelus Jacob? nonne Samaria? Et quae excelsa Judae? nonne Jerusalem?
+4 Et consumentur montes subtus eum, et valles scindentur sicut cera a facie ignis, et sicut aquæ quæ decurrunt in præceps.
+5 In scelere Jacob omne istud, et in peccatis domus Isra�l. Quod scelus Jacob? nonne Samaria? Et quæ excelsa Judæ? nonne Jerusalem?
 6 Et ponam Samariam quasi acervum lapidum in agro, cum plantatur vinea; et detraham in vallem lapides ejus, et fundamenta ejus revelabo.
 
 [Responsory2]
@@ -31,13 +31,13 @@ Incipit Michaeas Propheta
 
 [Lectio4]
 Sermo sancti Basilii Magni in Psalmum trigesimum tertium. 
-Cum te appetitus invaserit peccandi, velim cogites horribile illud et intolerabile Christi tribunal, in quo praesidebit judex in alto et excelso throno: astabit autem omnis creatura, ad gloriosum illius conspectum contremiscens. Adducendi etiam nos sumus singuli, eorum quae in vita gesserimus, rationem reddituri. Mox illis qui multa mala in vita perpetrarint, terribiles quidam et deformes assistent angeli, igneos vultus prae se ferentes, atque ignem spirantes, ea re propositi et voluntatis acerbitatem ostendentes nocti vultu similes, propter. maerorem et odium in humanum genus. 
+Cum te appetitus invaserit peccandi, velim cogites horribile illud et intolerabile Christi tribunal, in quo præsidebit judex in alto et excelso throno: astabit autem omnis creatura, ad gloriosum illius conspectum contremiscens. Adducendi etiam nos sumus singuli, eorum quæ in vita gesserimus, rationem reddituri. Mox illis qui multa mala in vita perpetrarint, terribiles quidam et deformes assistent angeli, igneos vultus præ se ferentes, atque ignem spirantes, ea re propositi et voluntatis acerbitatem ostendentes nocti vultu similes, propter. mærorem et odium in humanum genus. 
 
 [Responsory4]
 @Tempora/111-0:Responsory4
 
 [Lectio5]
-Ad haec cogites profundum barathrum, inextricabiles tenebras, ignem carentem splendore, urendi quidem vim habentem, sed privatum lumine deinde vermium genus venenum immittens, et carnem vorans, inexplebiliter edens, neque umquam saturitatem sentiens, intolerabiles dolores corrosione ipsa infigens, postremo, quod suppliciorum omnium gravissimum est, opprobrium illud et confusionem sempiternam. Haec time, et hoc timore correptus, animam a peccatorum concupiscentia tamquam freno quodam reprime.
+Ad hæc cogites profundum barathrum, inextricabiles tenebras, ignem carentem splendore, urendi quidem vim habentem, sed privatum lumine deinde vermium genus venenum immittens, et carnem vorans, inexplebiliter edens, neque umquam saturitatem sentiens, intolerabiles dolores corrosione ipsa infigens, postremo, quod suppliciorum omnium gravissimum est, opprobrium illud et confusionem sempiternam. Hæc time, et hoc timore correptus, animam a peccatorum concupiscentia tamquam freno quodam reprime.
 
 [Responsory5]
 @Tempora/111-0:Responsory5

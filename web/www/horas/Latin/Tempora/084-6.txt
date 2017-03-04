@@ -13,8 +13,8 @@ De libro Ecclesiastici.
 
 [Lectio2]
 !Sir 4:29-32
-29 In lingua enim sapientia dignoscitur: et sensus, et scientia, et doctrina in verbo sensati, et firmamentum in operibus justitiae.
-30 Non contradicas verbo veritatis ullo modo, et de mendacio ineruditionis tuae confundere.
+29 In lingua enim sapientia dignoscitur: et sensus, et scientia, et doctrina in verbo sensati, et firmamentum in operibus justitiæ.
+30 Non contradicas verbo veritatis ullo modo, et de mendacio ineruditionis tuæ confundere.
 31 Non confundaris confiteri peccata tua, et ne subjicias te omni homini pro peccato.
 32 Noli resistere contra faciem potentis, nec coneris contra ictum fluvii.
 

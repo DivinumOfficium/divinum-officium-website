@@ -1,8 +1,8 @@
 [Rank]
-Beatae Mariae Virginis de Mercede;;Duplex majus;;4;;vide C11
+Beatæ Mariæ Virginis de Mercede;;Duplex majus;;4;;vide C11
 
 [Rank1960]
-Beatae Mariae Virginis de Mercede;;Simplex;;1.1;;vide C11
+Beatæ Mariæ Virginis de Mercede;;Simplex;;1.1;;vide C11
 
 [Rule]
 ex C11;
@@ -12,19 +12,19 @@ BMV
 
 [Oratio]
 Deus, qui per gloriosissimam Filii tui Matrem ad liberandos Christifideles a~
-potestate paganorum nova Ecclesiam tuam prole amplificare dignatus es: praesta~
-quaesumus; ut, quam pie veneramur tanti operis institutricem, ejus pariter~
-meritis et intercessione a peccatis omnibus, et captivitate daemonis liberemur.
+potestate paganorum nova Ecclesiam tuam prole amplificare dignatus es: præsta~
+quæsumus; ut, quam pie veneramur tanti operis institutricem, ejus pariter~
+meritis et intercessione a peccatis omnibus, et captivitate dæmonis liberemur.
 $Per eumdem
 
 [Lectio4]
 Quo tempore major feliciorque Hispaniarum pars diro Saracenorum opprimebatur~
-jugo, innumerique fideles sub immani servitute, maximo cum periculo christianae~
-fidei abjurandae amittendaeque salutis aeternae, infeliciter detinebantur,~
+jugo, innumerique fideles sub immani servitute, maximo cum periculo christianæ~
+fidei abjurandæ amittendæque salutis æternæ, infeliciter detinebantur,~
 beatissima coelorum Regina, tot tantisque benigniter occurrens malis, nimiam~
 caritatem suam in iis redimendis ostendit. Nam sancto Petro Nolasco, pietate et~
 opibus florenti, qui sanctis vacans meditationibus jugiter animo recogitabat qua~
-ratione tot Christianorum aerumnis sub Maurorum captivitate degentium succurri~
+ratione tot Christianorum ærumnis sub Maurorum captivitate degentium succurri~
 posset, ipsamet beatissima Virgo serena fronte se conspiciendam dedit, et~
 acceptissimum sibi ac unigenito suo Filio fore dixit, si suum in honorem~
 institueretur ordo religiosorum, quibus cura incumberet captivos e Turcarum~
@@ -35,14 +35,14 @@ animam suam poneret pro amicis et proximis suis.
 
 [Lectio5]
 Ea ipsa nocte eadem Virgo sanctissima beato Raymundo de Penafort, et Jacobo~
-Aragoniae regi apparuit, idipsum de religiosis instituendis admonens~
+Aragoniæ regi apparuit, idipsum de religiosis instituendis admonens~
 suadensque, ut opem pro constructione tanti operis ferrent. Petrus autem statim~
 ad Raymundi pedes, qui ipsi erat a sacris confessionibus, advolans, ei rem omnem~
-aperuit: quem etiam caelitus instructum reperit, ejusque directioni se humillime~
+aperuit: quem etiam cælitus instructum reperit, ejusque directioni se humillime~
 subjecit At superveniens Jacobus rex, quam et ipse acceperat a beatissima~
 Virgine, revelationem exsequi statuit. Unde collatis inter se consiliis, et~
 consentientibus animis, in honorem eiusdem Virginis Matris ordinem instituere~
-aggressi sunt, sub invocatione sanctae Mariae de Mercede Redemptionis~
+aggressi sunt, sub invocatione sanctæ Mariæ de Mercede Redemptionis~
 captivorum.
 
 [Lectio6]
@@ -51,13 +51,13 @@ idem Jacobus eam institutionem jam pridem ab iisdem sanctis viris conceptam~
 exsequi statuit, sodalibus quarto voto adstrictis, manendi in pignus sub~
 paganorum potestate, si pro Christianorum liberatione opus fuerit. Quibus rex~
 ipse arma sua regia in pectore deferre concessit, et a Gregorio nono illud tam~
-praecellentis erga proximum caritatis institutum et religionem confirmari~
+præcellentis erga proximum caritatis institutum et religionem confirmari~
 curavit. Sed et ipse Deus per Virginem Matrem incrementum dedit, ut talis~
 institutio celerius ac felicius totum per orbem divulgaretur, sanctisque viris~
 floruerit caritate ac pietate insignibus, qui eleemosynas a Christi fidelibus~
 collectas in pretium redemptionis suorum proximorum expenderent, seque ipsos~
 interdum darent in redemptionem multorum. Ut autem tanti beneficii et~
-institutionis debitae Deo et Virgini Matri referantur gratiae, Sedes apostolica~
+institutionis debitæ Deo et Virgini Matri referantur gratiæ, Sedes apostolica~
 hanc peculiarem festivitatem celebrari, et Officium recitari indulsit, cum alia~
 fere innumera eidem ordini privilegia pariter contulisset.
 

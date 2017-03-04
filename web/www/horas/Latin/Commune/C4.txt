@@ -16,7 +16,7 @@ Serve bone * et fidelis, intra in gaudium Domini tui.
 
 [Capitulum Vespera]
 !Sir 44:16-17
-v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiae factus est reconciliatio.
+v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiæ factus est reconciliatio.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -90,20 +90,20 @@ Regem Confessórum Dóminum, * Veníte, adorémus.
 @Commune/C4:Hymnus1 Vespera
 
 [Ant Matutinum]
-Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quaecumque faciet, semper prosperabuntur.;;1
-Beatus iste Sanctus, * qui confisus est in Domino, praedicavit praeceptum Domini, constitutus est in monte sancto ejus.;;2
+Beatus vir, * qui in lege Domini meditatur: voluntas ejus permanet die ac nocte, et omnia quæcumque faciet, semper prosperabuntur.;;1
+Beatus iste Sanctus, * qui confisus est in Domino, prædicavit præceptum Domini, constitutus est in monte sancto ejus.;;2
 Tu es gloria mea, * tu es susceptor meus, Domine: tu exaltans caput meum, et exaudisti me de monte sancto tuo.;;3
 V. Amavit eum Dominus, et ornavit eum.
-R. Stolam gloriae induit eum.
+R. Stolam gloriæ induit eum.
 Invocantem * exaudivit Dominus Sanctum suum, Dominus exaudivit eum, et constituit eum in pace.;;4
-Laetentur omnes, * qui sperant in te, Domine: quoniam tu benedixisti justo, scuto bonae voluntatis tuae coronasti eum.;;5
+Lætentur omnes, * qui sperant in te, Domine: quoniam tu benedixisti justo, scuto bonæ voluntatis tuæ coronasti eum.;;5
 Domine, Dominus noster, * quam admirabile est nomen tuum in universa terra! quia gloria et honore coronasti Sanctum tuum, et constituisti eum super opera manuum tuarum.;;8
 V. Elegit eum Dominus sacerdotem sibi.
 R. Ad sacrificandum ei hostiam laudis.
 Domine, * iste Sanctus habitabit in tabernaculo tuo, operatus est justitiam, requiescet in monte sancto tuo.;;14
 Vitam petiit * a te, et tribuisti ei, Domine: gloriam et magnum decorem imposuisti super eum: posuisti in capite ejus coronam de lapide pretioso.;;20
-Hic accipiet * benedictionem a Domino, et misericordiam a Deo salutari suo: quia haec est generatio quaerentium Dominum.;;23
-V. Tu es sacerdos in aeternum.
+Hic accipiet * benedictionem a Domino, et misericordiam a Deo salutari suo: quia hæc est generatio quærentium Dominum.;;23
+V. Tu es sacerdos in æternum.
 R. Secundum ordinem Melchisedech.
 
 [Lectio1]
@@ -112,8 +112,8 @@ De Epistola prima beati Pauli Apostoli ad Timotheum.
 1 Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat.
 2 Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,
 3 non vinolentum, non percussorem, sed modestum: non litigiosum, non cupidum, sed
-4 suae domui bene praepositum: filios habentem subditos cum omni castitate.
-5 Si quis autem domui suae praeesse nescit, quomodo Ecclesiae Dei diligentiam habebit?
+4 suæ domui bene præpositum: filios habentem subditos cum omni castitate.
+5 Si quis autem domui suæ præesse nescit, quomodo Ecclesiæ Dei diligentiam habebit?
 6 Non neophytum: ne in superbiam elatus, in judicium incidat diaboli.
 7 Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.
 
@@ -130,7 +130,7 @@ De Epistola ad Titum.
 8 sed hospitalem, benignum, sobrium, justum, sanctum, continentem,
 9 amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.
 10 Sunt enim multi etiam inobedientes, vaniloqui, et seductores: maxime qui de circumcisione sunt:
-11 quos oportet redargui: qui universas domos subvertunt, docentes quae non oportet, turpis lucri gratia.
+11 quos oportet redargui: qui universas domos subvertunt, docentes quæ non oportet, turpis lucri gratia.
 
 [Responsory2]
 R. Ecce sacerdos magnus, qui in diebus suis placuit Deo:
@@ -140,27 +140,27 @@ R. Ideo jurejurando fecit illum Dominus crescere in plebem suam.
 
 [Lectio3]
 !Titus 2:1-8
-1 Tu autem loquere quae decent sanam doctrinam:
+1 Tu autem loquere quæ decent sanam doctrinam:
 2 Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 3 Anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
 4 ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
 5 prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.
 6 Juvenes similiter hortare ut sobrii sint.
-7 In omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
+7 In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
 8 verbum sanum, irreprehensibile: ut is qui ex adverso est, vereatur, nihil habens malum dicere de nobis.
 
 [Responsory3]
 R. Juravit Dominus, et non poenitebit eum:
-* Tu es sacerdos in aeternum secundum ordinem Melchisedech.
+* Tu es sacerdos in æternum secundum ordinem Melchisedech.
 V. Dixit Dominus Domino meo, Sede a dextris meis.
-R. Tu es sacerdos in aeternum secundum ordinem Melchisedech.
+R. Tu es sacerdos in æternum secundum ordinem Melchisedech.
 &Gloria
-R. Tu es sacerdos in aeternum secundum ordinem Melchisedech.
+R. Tu es sacerdos in æternum secundum ordinem Melchisedech.
 
 [Lectio4]
 Sermo sancti Maximi Episcopi.
-!Homilia 59, quae est 2. de S. Eusebio Vercellensi
-Ad sancti ac beatissimi Patris nostri N. cujus hodie festa celebramus, laudes addidisse aliquid, decerpsisse est: siquidem virtutum ejus gratia non sermonibus exponenda est, sed operibus comprobanda. Cum enim dicat Scriptura: Gloria patris est filius sapiens: quantae hujus sunt gloriae, qui tantorum filiorum sapientia, et devotione laetatur? In Christo enim Jesu per Evangelium ipse nos genuit.
+!Homilia 59, quæ est 2. de S. Eusebio Vercellensi
+Ad sancti ac beatissimi Patris nostri N. cujus hodie festa celebramus, laudes addidisse aliquid, decerpsisse est: siquidem virtutum ejus gratia non sermonibus exponenda est, sed operibus comprobanda. Cum enim dicat Scriptura: Gloria patris est filius sapiens: quantæ hujus sunt gloriæ, qui tantorum filiorum sapientia, et devotione lætatur? In Christo enim Jesu per Evangelium ipse nos genuit.
 
 [Responsory4]
 R. Inveni David, servum meum, oleo sancto meo unxi eum:
@@ -169,7 +169,7 @@ V. Nihil proficiet inimicus in eo, et filius iniquitatis non nocebit ei.
 R. Manus enim mea auxiliabitur ei.
 
 [Lectio5]
-Quidquid igitur in hac sancta plebe potest esse virtutis et gratiae, de hoc quasi quodam fonte lucidissimo omnium rivulorum puritas emanavit. Etenim quia castitatis pollebat vigore, quia abstinentiae gloriabatur angustiis, quia blandimentis erat praeditus lenitatis, omnium civium in Deum provocavit affectum: quia Pontificis administratione fulgebat, plures e discipulis reliquit sui sacerdotii successores.
+Quidquid igitur in hac sancta plebe potest esse virtutis et gratiæ, de hoc quasi quodam fonte lucidissimo omnium rivulorum puritas emanavit. Etenim quia castitatis pollebat vigore, quia abstinentiæ gloriabatur angustiis, quia blandimentis erat præditus lenitatis, omnium civium in Deum provocavit affectum: quia Pontificis administratione fulgebat, plures e discipulis reliquit sui sacerdotii successores.
 
 [Responsory5]
 R. Posui adjutorium super potentem, et exaltavi electum de plebe mea:
@@ -178,33 +178,33 @@ V. Inveni David servum meum, oleo sancto meo unxi eum.
 R. Manus enim mea auxiliabitur ei.
 
 [Lectio6]
-Bene et congrue in hac die, quam nobis beati Patris nostri N. ad paradisum transitus exsultabilem reddit, praesentis Psalmi versiculum decantavimus In memoria aeterna erit justus. Digne enim in memoriam vertitur hominum, qui ad gaudium transiit Angelorum. Dicit sermo divinus: Ne laudes hominem in vita sua: tamquam si diceret: Lauda post vitam, magnifica post consummationem. Duplici enim ex causa utilius est hominum magis memoriae laudem dare, quam vitae; ut illo potissimum tempore merita sanctitatis extollas, quando nec laudantem adulatio movet, nec laudatum tentat elatio.
+Bene et congrue in hac die, quam nobis beati Patris nostri N. ad paradisum transitus exsultabilem reddit, præsentis Psalmi versiculum decantavimus In memoria æterna erit justus. Digne enim in memoriam vertitur hominum, qui ad gaudium transiit Angelorum. Dicit sermo divinus: Ne laudes hominem in vita sua: tamquam si diceret: Lauda post vitam, magnifica post consummationem. Duplici enim ex causa utilius est hominum magis memoriæ laudem dare, quam vitæ; ut illo potissimum tempore merita sanctitatis extollas, quando nec laudantem adulatio movet, nec laudatum tentat elatio.
 
 [Responsory6]
 R. Iste est qui ante Deum magnas virtutes operatus est, et omnis terra doctrina ejus repleta est:
 * Ipse intercedat pro peccatis omnium populorum.
-V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad cælestia regna.
 R. Ipse intercedat pro peccatis omnium populorum.
 &Gloria
 R. Ipse intercedat pro peccatis omnium populorum.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 25:14-23
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 9. in Evangelia
 Lectio sancti Evangelii, fratres carissimi, sollicite considerare nos admonet, ne nos, qui plus ceteris in hoc mundo accepisse aliquid cernimur, ab Auctore mundi gravius inde judicemur. Cum enim augentur dona, rationes etiam crescunt donorum. Tanto ergo esse humilior, atque ad serviendum Deo promptior quisque debet ex munere, quanto se obligatiorem esse conspicit in reddenda ratione. Ecce homo qui peregre proficiscitur, servos suos vocat, eisque ad negotium talenta partitur. Post multum vero temporis positurus rationem revertitur. Bene operantes pro apportato lucro remunerat, servum vero a bono opere torpentem damnat.
 
 [Responsory7]
-R. Amavit eum Dominus, et ornavit eum: stolam gloriae induit eum
+R. Amavit eum Dominus, et ornavit eum: stolam gloriæ induit eum
 * Et ad portas paradisi coronavit eum.
 V. Induit eum Dominus loricam fidei, et ornavit eum.
 R. Et ad portas paradisi coronavit eum.
 
 [Lectio8]
-Quis itaque iste homo est, qui peregre proficiscitur, nisi Redemptor noster, qui in ea carne quam assumpserat, abiit in caelum? Carnis enim locus proprius terra est; quae quasi ad peregrina ducitur, dum per Redemptorem nostrum in caelo collocatur. Sed homo iste peregre proficiscens, servis suis bona sua tradidit, quia fidelibus suis spiritualia dona concessit. Et uni quidem quinque talenta, alii duo, alii vero commisit unum. Quinque etenim sunt corporis sensus, videlicet: visus, auditus, gustus, odoratus, et tactus. Quinque ergo talentis, donum quinque sensuum, id est, exteriorum scientia exprimitur. Duobus vero, intellectus et operatio designatur. Unius autem talenti nomine, intellectus tantummodo designatur.
+Quis itaque iste homo est, qui peregre proficiscitur, nisi Redemptor noster, qui in ea carne quam assumpserat, abiit in cælum? Carnis enim locus proprius terra est; quæ quasi ad peregrina ducitur, dum per Redemptorem nostrum in cælo collocatur. Sed homo iste peregre proficiscens, servis suis bona sua tradidit, quia fidelibus suis spiritualia dona concessit. Et uni quidem quinque talenta, alii duo, alii vero commisit unum. Quinque etenim sunt corporis sensus, videlicet: visus, auditus, gustus, odoratus, et tactus. Quinque ergo talentis, donum quinque sensuum, id est, exteriorum scientia exprimitur. Duobus vero, intellectus et operatio designatur. Unius autem talenti nomine, intellectus tantummodo designatur.
 
 [Responsory8]
 R. Sint lumbi vestri præcincti, et lucernæ ardentes in mánibus vestris:
@@ -215,7 +215,7 @@ R. Et vos símiles homínibus exspectantibus dóminum suum, quando revertatur a 
 R. Et vos símiles homínibus exspectantibus dóminum suum, quando revertatur a núptiis.
 
 [Lectio9]
-Sed is, qui quinque talenta acceperat, alia quinque lucratus est: quia sunt nonnulli, qui etsi interna ac mystica penetrare nesciunt, pro intentione tamen supernae patriae docent recta quos possunt, de ipsis exterioribus, quae acceperunt, duplum talentum portant: dumque se a carnis petulantia, et a terrenarum rerum ambitu, atque a visibilium voluptate custodiunt, ab his etiam alios admonendo compescunt. Et sunt nonnulli, qui quasi duobus talentis ditati, intellectum atque operationem percipiunt, subtilia de internis intelligunt, mira in exterioribus operantur. Cumque et intelligendo et operando aliis praedicant, quasi duplicatum de negotio lucrum reportant.
+Sed is, qui quinque talenta acceperat, alia quinque lucratus est: quia sunt nonnulli, qui etsi interna ac mystica penetrare nesciunt, pro intentione tamen supernæ patriæ docent recta quos possunt, de ipsis exterioribus, quæ acceperunt, duplum talentum portant: dumque se a carnis petulantia, et a terrenarum rerum ambitu, atque a visibilium voluptate custodiunt, ab his etiam alios admonendo compescunt. Et sunt nonnulli, qui quasi duobus talentis ditati, intellectum atque operationem percipiunt, subtilia de internis intelligunt, mira in exterioribus operantur. Cumque et intelligendo et operando aliis prædicant, quasi duplicatum de negotio lucrum reportant.
 &teDeum
 
 [Ant Laudes]
@@ -263,11 +263,11 @@ R. Et osténdit illi regnum Dei.
 Euge, serve bone * et fidelis, quia in pauca fuisti fidelis, supra multa te constituam, dicit Dominus.
 
 [Oratio]
-Da, quaesumus, omnipotens Deus: ut beati N. Confessoris tui atque Pontificis veneranda solemnitas, et devotionem nobis augeat et salutem.
+Da, quæsumus, omnipotens Deus: ut beati N. Confessoris tui atque Pontificis veneranda solemnitas, et devotionem nobis augeat et salutem.
 $Per Dominum.
 
 [Oratio1]
-Exaudi, quaesumus, Domine, preces nostras, quas in beati N. Confessoris tui atque Pontificis solemnitate deferimus: et qui tibi digne meruit famulari, ejus intercedentibus meritis ab omnibus nos absolve peccatis.
+Exaudi, quæsumus, Domine, preces nostras, quas in beati N. Confessoris tui atque Pontificis solemnitate deferimus: et qui tibi digne meruit famulari, ejus intercedentibus meritis ab omnibus nos absolve peccatis.
 $Per Dominum.
 
 [Oratio2]
@@ -313,7 +313,7 @@ R. Sacerdotem sibi.
 &Gloria
 R. Elegit eum Dominus * Sacerdotem sibi.
 _
-V. Tu es sacerdos in aeternum.
+V. Tu es sacerdos in æternum.
 R. Secundum ordinem Melchisedech.
 
 [Capitulum Nona]
@@ -321,12 +321,12 @@ R. Secundum ordinem Melchisedech.
 $Deo gratias
 
 [Responsory Nona]
-R.br. Tu es sacerdos * In aeternum.
-R. Tu es sacerdos * In aeternum.
+R.br. Tu es sacerdos * In æternum.
+R. Tu es sacerdos * In æternum.
 V. Secundum ordinem Melchisedech.
-R. In aeternum.
+R. In æternum.
 &Gloria
-R. Tu es sacerdos * In aeternum.
+R. Tu es sacerdos * In æternum.
 _
 V. Justum dedúxit Dóminus per vias rectas.
 R. Et osténdit illi regnum Dei.
@@ -335,33 +335,33 @@ R. Et osténdit illi regnum Dei.
 @:Versum 2
 
 [Ant 3]
-Amavit eum Dominus, * et ornavit eum: stolam gloriae induit eum, et ad portas paradisi coronavit eum.
+Amavit eum Dominus, * et ornavit eum: stolam gloriæ induit eum, et ad portas paradisi coronavit eum.
 
 [Ant 3 summi Pontificis]
-Dum esset * summus Pontifex, terrena non metuit, sed ad caelestia regna gloriosus migravit.
+Dum esset * summus Pontifex, terrena non metuit, sed ad cælestia regna gloriosus migravit.
 
 [Lectio11]
 De libro Ecclesiastici
 !Sir 44:1-5
 1 Laudemus viros gloriosos, et parentes nostros in generatione sua.
-2 Multam gloriam fecit Dominus: magnificentia sua a saeculo.
-3 Dominantes in potestatibus suis, homines magni virtute et prudentia sua praediti, nuntiantes in prophetis dignitatem prophetarum:
-4 et imperantes in praesenti populo, et virtute prudentiae populis sanctissima verba.
+2 Multam gloriam fecit Dominus: magnificentia sua a sæculo.
+3 Dominantes in potestatibus suis, homines magni virtute et prudentia sua præditi, nuntiantes in prophetis dignitatem prophetarum:
+4 et imperantes in præsenti populo, et virtute prudentiæ populis sanctissima verba.
 5 In peritia sua requirentes modos musicos, et narrantes carmina scripturarum:
 
 [Lectio21]
 !Sir 44:6-9
 6 Homines divites in virtute, pulchritudinis studium habentes, pacificantes in domibus suis.
-7 Omnes isti in generationibus gentis suae gloriam adepti sunt, et in diebus suis habentur in laudibus.
+7 Omnes isti in generationibus gentis suæ gloriam adepti sunt, et in diebus suis habentur in laudibus.
 8 Qui de illis nati sunt reliquerunt nomen narrandi laudes eorum.
 9 Et sunt quorum non est memoria: perierunt quasi qui non fuerint: et nati sunt quasi non nati, et filii ipsorum cum ipsis.
 
 [Lectio31]
 !Sir 44:10-15
-10 Sed illi viri misericordiae sunt, quorum pietates non defuerunt.
+10 Sed illi viri misericordiæ sunt, quorum pietates non defuerunt.
 11 Cum semine eorum permanent bona:
 12 hereditas sancta nepotes eorum, et in testamentis stetit semen eorum:
-13 et filii eorum propter illos usque in aeternum manent: semen eorum et gloria eorum non derelinquetur.
+13 et filii eorum propter illos usque in æternum manent: semen eorum et gloria eorum non derelinquetur.
 14 Corpora ipsorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem.
 15 Sapientiam ipsorum narrent populi, et laudem eorum nuntiet Ecclesia.
 
@@ -382,11 +382,11 @@ Cum ergo cohortatiónes nostras áuribus vestræ sanctitátis adhibémus, ipsum 
 &teDeum
 
 [Lectio73]
-Lectio sancti Evangelii secundum Matthaeum.
+Lectio sancti Evangelii secundum Matthæum.
 !Matt 19:27-29
-In illo tempore: Dixit Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti sumus te: quid ergo erit nobis? Et reliqua. De Homilia venerabilis Bedae Presbyteri.
+In illo tempore: Dixit Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti sumus te: quid ergo erit nobis? Et reliqua. De Homilia venerabilis Bedæ Presbyteri.
 !In Natali S. Benedicti.
-Duo sunt ordines electorum in judicio futuri: unus judicantium cum Domino, de quibus hoc loco memorat, qui reliquerunt omnia, et secuti sunt illum: alius judicandorum a Domino, qui non quidem omnia sua pariter reliquerunt, sed de his tamen quae habebant, quotidianas dare eleemosynas Christi pauperibus curabant: unde et audituri sunt in judicio: Venite benedicti Patris mei, possidete praeparatum vobis regnum a constitutione mundi. Esurivi enim, et dedistis mihi manducare: sitivi, et dedistis mihi bibere.
+Duo sunt ordines electorum in judicio futuri: unus judicantium cum Domino, de quibus hoc loco memorat, qui reliquerunt omnia, et secuti sunt illum: alius judicandorum a Domino, qui non quidem omnia sua pariter reliquerunt, sed de his tamen quæ habebant, quotidianas dare eleemosynas Christi pauperibus curabant: unde et audituri sunt in judicio: Venite benedicti Patris mei, possidete præparatum vobis regnum a constitutione mundi. Esurivi enim, et dedistis mihi manducare: sitivi, et dedistis mihi bibere.
 
 [Responsory73]
 R. Iste est qui ante Deum magnas virtutes operatus est, et de omni corde suo laudavit Dominum:
@@ -395,11 +395,11 @@ V. Ecce homo sine querela, verus Dei cultor, abstinens se ab omni opere malo, et
 R. Ipse intercedat pro peccatis omnium populorum.
 
 [Lectio83]
-Sed et reproborum duos ibi futuros ordines Domino narrante comperimus: unum eorum, qui fidei christianae mysteriis initiati, opera fidei exercere contemnunt, quibus in judicio testatur: Discedite a me maledicti in ignem aeternum, qui praeparatus est diabolo, et angelis ejus: esurivi enim, et non dedistis mihi manducare. Alterum eorum, qui fidem et mysteria Christi vel numquam suscepere, vel susceptam per apostasiam deseruere: de quibus dicit: Qui autem non credit, jam judicatus est: quia non credit in nomine unigeniti Filii Dei.
+Sed et reproborum duos ibi futuros ordines Domino narrante comperimus: unum eorum, qui fidei christianæ mysteriis initiati, opera fidei exercere contemnunt, quibus in judicio testatur: Discedite a me maledicti in ignem æternum, qui præparatus est diabolo, et angelis ejus: esurivi enim, et non dedistis mihi manducare. Alterum eorum, qui fidem et mysteria Christi vel numquam suscepere, vel susceptam per apostasiam deseruere: de quibus dicit: Qui autem non credit, jam judicatus est: quia non credit in nomine unigeniti Filii Dei.
 
 [Responsory83]
 @:Responsory8
 
 [Lectio93]
-Verum his cum timore et pavore debito paulisper commemoratis, ad laetissima potius Domini et Salvatoris nostri promissa convertamus auditum. Videamus quae tantae gratia pietatis: non aeternae tantummodo vitae praemia suis sequacibus, sed et praesentis munera pollicetur eximia. Et omnis, inquit, qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem, aut uxorem, aut filios, aut agros, propter nomen meum, centuplum accipiet, et vitam aeternam possidebit. Qui enim terrenis affectibus sive possessionibus pro Christi discipulatu renuntiaverit, quo plus in ejus amorem profecerit, eo plures inveniet, qui se interno suscipere affectu, et suis gaudeant sustentare substantiis.
+Verum his cum timore et pavore debito paulisper commemoratis, ad lætissima potius Domini et Salvatoris nostri promissa convertamus auditum. Videamus quæ tantæ gratia pietatis: non æternæ tantummodo vitæ præmia suis sequacibus, sed et præsentis munera pollicetur eximia. Et omnis, inquit, qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem, aut uxorem, aut filios, aut agros, propter nomen meum, centuplum accipiet, et vitam æternam possidebit. Qui enim terrenis affectibus sive possessionibus pro Christi discipulatu renuntiaverit, quo plus in ejus amorem profecerit, eo plures inveniet, qui se interno suscipere affectu, et suis gaudeant sustentare substantiis.
 &teDeum

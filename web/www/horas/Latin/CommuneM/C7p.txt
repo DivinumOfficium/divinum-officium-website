@@ -7,7 +7,7 @@ Antiphonas horas
 
 [Ant Vespera]
 Dum esset Rex * in accubitu suo, nardus mea dedit odorem suavitatis. Alleluia;;109
-In odorem * unguentorum tuorum currimus; adolescentulae dilexerunt te nimis. Alleluia;;112
+In odorem * unguentorum tuorum currimus; adolescentulæ dilexerunt te nimis. Alleluia;;112
 Jam hiems transiit, * imber abiit, et recessit: surge amica mea, et veni. Alleluia;;121
 Ista est speciosa * inter filias Jerusalem. Alleluia;;147
 
@@ -33,11 +33,11 @@ V. Specie tua et pulchritudine tua. Alleluia
 R. Intende, prospere procede, et regna. Alleluia
 
 [Ant 1]
-Simile est regnum caelorum * homini negotiatori quaerenti bonas margaritas:~
+Simile est regnum cælorum * homini negotiatori quærenti bonas margaritas:~
 inventa una pretiosa, dedit omnia sua, et comparavit eam. Alleluia
 
 [Invit]
-Laudemus Deum nostrum, * In confessione beatae N. Alleluia
+Laudemus Deum nostrum, * In confessione beatæ N. Alleluia
 
 [Hymnus Matutinum]
 @Commune/C7:Hymnus Matutinum
@@ -51,7 +51,7 @@ Quam pulchra * est casta generatio cum claritate. Alleluia;;8
 ;;47
 V. Specie tua et pulchritudine tua. Alleluia
 R. Intende, prospere procede, et regna. Alleluia
-Nigra sum, * sed formosa, filiae Jerusalem: ideo dilexit me Rex, et introduxit me in cubiculum suum. Alleluia.;;84
+Nigra sum, * sed formosa, filiæ Jerusalem: ideo dilexit me Rex, et introduxit me in cubiculum suum. Alleluia.;;84
 ;;86
 ;;95
 ;;96
@@ -60,7 +60,7 @@ Nigra sum, * sed formosa, filiae Jerusalem: ideo dilexit me Rex, et introduxit m
 V. Adjuvabit eam Deus vultu suo. Alleluia
 R. Deus in medio ejus, non commovebitur. Alleluia
 Inventa bona margarita * dedit omnia sua, et comparavit eam. Alleluia.;;249;250;251
-V. Elegit eam Deus, et praeelegit eam. Alleluia
+V. Elegit eam Deus, et præelegit eam. Alleluia
 R. In tabernaculo suo habitare facit eam. Alleluia
 
 [Lectio1]
@@ -68,10 +68,10 @@ R. In tabernaculo suo habitare facit eam. Alleluia
 !Prov 31:10-17
 10 Mulierem fortem quis inveniet? procul et de ultimis finibus pretium ejus.
 11 Confidit in ea cor viri sui, et spoliis non indigebit.
-12 Reddet ei bonum, et non malum, omnibus diebus vitae suae.
-13 Quaesivit lanam et linum, et operata est consilia manuum suarum.
+12 Reddet ei bonum, et non malum, omnibus diebus vitæ suæ.
+13 Quæsivit lanam et linum, et operata est consilia manuum suarum.
 14 Facta est quasi navis institoris, de longe portans panem suum.
-15 Et de nocte surrexit, deditque praedam domesticis suis, et cibaria ancillis suis.
+15 Et de nocte surrexit, deditque prædam domesticis suis, et cibaria ancillis suis.
 16 Consideravit agrum, et emit eum; de fructu manuum suarum plantavit vineam.
 17 Accinxit fortitudine lumbos suos, et roboravit brachium suum.
 
@@ -94,17 +94,17 @@ R. Quia concupivit Rex speciem tuam. Alleluia
 
 [Responsory2]
 R. Diffusa est gratia in labiis tuis:
-* Propterea benedixit te Deus in aeternum. Alleluia
+* Propterea benedixit te Deus in æternum. Alleluia
 V. Specie tua et pulchritudine tua intende prospere procede, et regna.
-R. Propterea benedixit te Deus in aeternum. Alleluia
+R. Propterea benedixit te Deus in æternum. Alleluia
 
 [Lectio3]
 !Prov 31:25-31
 25 Fortitudo et decor indumentum ejus, et ridebit in die novissimo.
-26 Os suum aperuit sapientiae, et lex clementiae in lingua ejus.
-27 Consideravit semitas domus suae, et panem otiosa non comedit.
-28 Surrexerunt filii ejus, et beatissimam praedicaverunt; vir ejus, et laudavit eam.
-29 Multae filiae congregaverunt divitias; tu supergressa es universas.
+26 Os suum aperuit sapientiæ, et lex clementiæ in lingua ejus.
+27 Consideravit semitas domus suæ, et panem otiosa non comedit.
+28 Surrexerunt filii ejus, et beatissimam prædicaverunt; vir ejus, et laudavit eam.
+29 Multæ filiæ congregaverunt divitias; tu supergressa es universas.
 30 Fallax gratia, et vana est pulchritudo: mulier timens Dominum, ipsa laudabitur.
 31 Date ei de fructu manuum suarum, et laudent eam in portis opera ejus.
 
@@ -112,28 +112,28 @@ R. Propterea benedixit te Deus in aeternum. Alleluia
 [Responsory3]
 R. Specie tua et pulchritudine tua
 * Intende, prospere procede, et regna. Alleluia
-V. Diffusa est gratia in labiis tuis, propterea benedixit te Deus in aeternum.
+V. Diffusa est gratia in labiis tuis, propterea benedixit te Deus in æternum.
 R. Intende, prospere procede, et regna. Alleluia
 &Gloria
 R. Intende, prospere procede, et regna. Alleluia
 
 [MM Capitulum]
 !Prov 31:20-21
-Manum suam aperuit inopi, et palmas suas extendit ad pauperem. 31:21 Non timebit domui suae a frigoribus nivis. 
+Manum suam aperuit inopi, et palmas suas extendit ad pauperem. 31:21 Non timebit domui suæ a frigoribus nivis. 
 $Deo gratias
 _
 V. Dilexisti justitiam et odisti iniquitatem
-R. Propterea unxit te Deus, Deus tuus oleo laetitiae
+R. Propterea unxit te Deus, Deus tuus oleo lætitiæ
 
 [Lectio4]
 Ex Libro Sancti Ambrosii Episcopi de Viduis
 !prope finem
-Aegrum hunc Ecclesiae fertilem cerno, nunc integritatis flore
+Aegrum hunc Ecclesiæ fertilem cerno, nunc integritatis flore
 vernantem, nunc viduitatis gravitate pollentem, nunc etiam conjugii fructibus~
 redundantem. Nam etsi diversi, unius tamen agri fructus sunt: nec tanta hortorum~
-lilia, quantae aristae segetum, messium spicae: compluriumque spatia camporum~
+lilia, quantæ aristæ segetum, messium spicæ: compluriumque spatia camporum~
 recipiendis aptantur seminibus, quam redditis novales fructibus feriantur. Bona~
-ergo viduitas, quae toties apostolico judicio praedicatur. Haec enim magistra~
+ergo viduitas, quæ toties apostolico judicio prædicatur. Hæc enim magistra~
 fidei, magistra est castitatis.
 
 [Responsory4]
@@ -143,23 +143,23 @@ V. Specie tua et pulchritudine tua intende, prospere procede, et regna.
 R. Et deducet te mirabiliter dextera tua. Alleluia
 
 [Lectio5]
-Unde et illi qui deorum suorum adulteria et probra venerantur, caelibatus et
-viduitatis statuere poenas, ut aemuli criminum mulctarent studia virtutum, specie~
-quidem, qua fecunditatem quaererent, sed studio, quo propositum castitatis~
+Unde et illi qui deorum suorum adulteria et probra venerantur, cælibatus et
+viduitatis statuere poenas, ut æmuli criminum mulctarent studia virtutum, specie~
+quidem, qua fecunditatem quærerent, sed studio, quo propositum castitatis~
 abolerent. Nam confectis et miles stipendiis arma deponit, et relicto officio~
-quod gerebat, ad propria veteranus rura dimittitur, ut et ipse exercitae~
-laboribus vitae requiem consequatur; et alios spes futurae quietis subeundis~
+quod gerebat, ad propria veteranus rura dimittitur, ut et ipse exercitæ~
+laboribus vitæ requiem consequatur; et alios spes futuræ quietis subeundis~
 faciat operibus promptiores. Agricola quoque maturior torquendam aliis stivam~
-committit, et juvenili gravatus opere providentiam curae senilis explorat: vitem~
+committit, et juvenili gravatus opere providentiam curæ senilis explorat: vitem~
 facilius tondere, quam premere, ut juvenescentem luxuriam reprimat, et~
 adulescentem lasciviam falce succidat: parcorum quamdam partuum castitatem~
 docens etiam in vitibus expetendam.
 
 [Responsory5]
 R. Dilexisti justitiam, et odisti iniquitatem:
-* Propterea unxit te Deus, Deus tuus oleo laetitiae. Alleluia
+* Propterea unxit te Deus, Deus tuus oleo lætitiæ. Alleluia
 V. Propter veritatem, et mansuetudinem, et justitiam.
-R. Propterea unxit te Deus, Deus tuus oleo laetitiae. Alleluia
+R. Propterea unxit te Deus, Deus tuus oleo lætitiæ. Alleluia
 
 [Lectio6]
 Similis huic vidua velut emeritis
@@ -169,7 +169,7 @@ provida, ubi cultus utilior, ubi fructus uberior sit, quarum copulam aptiorem,~
 senili gravitate disponit. Itaque si maturioribus quam junioribus committitur~
 ager, cur putes utiliorem nuptam esse quam viduam? Quod si persecutores fidei~
 persecutores fuerunt etiam viduitatis: utique fidem sequentibus viduitas non pro~
-supplicio fugienda est, sed tenenda pro praemio.
+supplicio fugienda est, sed tenenda pro præmio.
 
 [Responsory6]
 R. Fallax gratia, et vana est pulchritudo:
@@ -180,42 +180,42 @@ R. Mulier timens Deum, ipsa laudabitur. Alleluia
 R. Mulier timens Deum, ipsa laudabitur. Alleluia
 
 [Lectio7]
-Lectio Sancti Evangelii secundum Matthaeum
+Lectio Sancti Evangelii secundum Matthæum
 !Matt 13:44-52
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile est regnum~
-caelorum thesauro abscondito in agro. Et reliqua.
+cælorum thesauro abscondito in agro. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homil. 11. in Evang.
-Caelorum regnum, fratres carissimi, idcirco terrenis rebus simile dicitur, ut ex~
-his quae animus novit, surgat ad incognita quae non novit: quatenus exemplo
-visibilium se ad invisibilia rapiat, et per ea, quae usu didicit, quasi~
+Cælorum regnum, fratres carissimi, idcirco terrenis rebus simile dicitur, ut ex~
+his quæ animus novit, surgat ad incognita quæ non novit: quatenus exemplo
+visibilium se ad invisibilia rapiat, et per ea, quæ usu didicit, quasi~
 confricatus incalescat: ut per hoc, quod scit notum diligere, discat et~
-incognita amare. Ecce enim caelorum regnum thesauro abscondito in agro~
-comparatur: quem qui invenit homo, abscondit, et prae gaudio illius vadit, et~
-vendit universa quae habet, et emit agrum illum.
+incognita amare. Ecce enim cælorum regnum thesauro abscondito in agro~
+comparatur: quem qui invenit homo, abscondit, et præ gaudio illius vadit, et~
+vendit universa quæ habet, et emit agrum illum.
 
 [Responsory7]
-R. Os suum aperuit sapientiae, et lex clementiae in lingua ejus: consideravit semitas domus suae,
+R. Os suum aperuit sapientiæ, et lex clementiæ in lingua ejus: consideravit semitas domus suæ,
 * Et panem otiosa non comedit. Alleluia
 V. Gustavit et vidit quia bona est negotiatio ejus: non exstinguetur in nocte lucerna ejus.
 R. Et panem otiosa non comedit. Alleluia
 
 [Lectio8]
 Qua in re hoc quoque notandum est, quod inventus thesaurus absconditur, ut~
-servetur: quia studium caelestis desiderii a malignis spiritibus custodire non~
-sufficit, qui hoc ab humanis laudibus non abscondit. In praesenti etenim vita,~
+servetur: quia studium cælestis desiderii a malignis spiritibus custodire non~
+sufficit, qui hoc ab humanis laudibus non abscondit. In præsenti etenim vita,~
 quasi in via sumus, qua ad patriam pergimus. Maligni autem spiritus iter nostrum~
-quasi quidam latrunculi obsident. Depraedari ergo desiderat, qui thesaurum~
+quasi quidam latrunculi obsident. Deprædari ergo desiderat, qui thesaurum~
 publice portat in via. Hoc autem dico, non ut proximi opera nostra bona non
 videant, cum scriptum sit: Videant opera vestra bona, et glorificent Patrem
-vestrum, qui in caelis est: sed ut per hoc, quod agimus, laudes exterius non~
-quaeramus. Sic autem sit opus in publico quatenus intentio maneat in occulto:~
-ut et de bono opere proximis praebeamus exemplum, et tamen per intentionem, qua~
-Deo soli placere quaerimus, semper optemus secretum.
+vestrum, qui in cælis est: sed ut per hoc, quod agimus, laudes exterius non~
+quæramus. Sic autem sit opus in publico quatenus intentio maneat in occulto:~
+ut et de bono opere proximis præbeamus exemplum, et tamen per intentionem, qua~
+Deo soli placere quærimus, semper optemus secretum.
 
 [Responsory8]
-R. Regnum mundi, et omnem ornatum saeculi contempsi, propter amorem Domini mei Jesu Christi:
+R. Regnum mundi, et omnem ornatum sæculi contempsi, propter amorem Domini mei Jesu Christi:
 * Quem vidi, quem amavi, in quem credidi, quem dilexi. Alleluia
 V. Eructavit cor meum verbum bonum: dico ego opera mea regi.
 R. Quem vidi, quem amavi, in quem credidi, quem dilexi. Alleluia
@@ -223,24 +223,24 @@ R. Quem vidi, quem amavi, in quem credidi, quem dilexi. Alleluia
 R. Quem vidi, quem amavi, in quem credidi, quem dilexi. Alleluia
 
 [Lectio9]
-Thesaurus autem caeleste est desiderium: ager vero, in quo thesaurus absconditur,~
-disciplina studii caelestis. Quem profecto agrum
+Thesaurus autem cæleste est desiderium: ager vero, in quo thesaurus absconditur,~
+disciplina studii cælestis. Quem profecto agrum
 venditis omnibus comparat, qui
-voluptatibus carnis renuntians, cuncta sua terrena desideria per disciplinae~
-caelestis custodiam calcat: ut nihil jam, quod caro blanditur, libeat; nihil~
+voluptatibus carnis renuntians, cuncta sua terrena desideria per disciplinæ~
+cælestis custodiam calcat: ut nihil jam, quod caro blanditur, libeat; nihil~
 quod carnalem vitam trucidat, spiritus perhorrescat.
 
 [Responsory9]
-R. Beata es N. quae propter Deum mundum odisti
-* Propterea datum est tibi regnum caelorum. Alleluia
+R. Beata es N. quæ propter Deum mundum odisti
+* Propterea datum est tibi regnum cælorum. Alleluia
 V. Dilexisti justitiam et odisti iniquitatem
-R. Propterea datum est tibi regnum caelorum. Alleluia
+R. Propterea datum est tibi regnum cælorum. Alleluia
 &Gloria
-R. Propterea datum est tibi regnum caelorum. Alleluia
+R. Propterea datum est tibi regnum cælorum. Alleluia
 
 [Ant Laudes]
 Dum esset Rex * in accubitu suo, nardus mea dedit odorem suavitatis. Alleluia
-In odorem * unguentorum tuorum currimus; adolescentulae dilexerunt te nimis. Alleluia
+In odorem * unguentorum tuorum currimus; adolescentulæ dilexerunt te nimis. Alleluia
 Jam hiems transiit, * imber abiit, et recessit: surge amica mea, et veni. Alleluia
 Veni electa mea, * et ponam in te thronum meum, alleluia
 Ista est speciosa * inter filias Jerusalem. Alleluia
@@ -264,24 +264,24 @@ R. Specie tua et pulchritudine tua. * Alleluia, alleluia.
 
 [Versum 2]
 V. Diffusa est gratia in labiis tuis. Alleluia
-R. Propterea benedixit te Deus in aeternum. Alleluia
+R. Propterea benedixit te Deus in æternum. Alleluia
 
 [Ant 2]
 Date ei * de fructu manuum suarum, et laudent eam in portis opera ejus. Alleluia
 
 [Oratio]
-Exaudi nos Deus salutaris noster: ut sicut de beatae N. festivitate gaudemus;~
+Exaudi nos Deus salutaris noster: ut sicut de beatæ N. festivitate gaudemus;~
 ita pise devotionis erudiamur affectu.
 $Per Dominum
 
 [Oratio1]
-Deus, qui inter cetera potentiae tuae miracula, etiam in sexu fragili victoriam~
-martyrii contulisti: concede propitius; ut qui beatae X. Martyris tuae natalitia~
+Deus, qui inter cetera potentiæ tuæ miracula, etiam in sexu fragili victoriam~
+martyrii contulisti: concede propitius; ut qui beatæ X. Martyris tuæ natalitia~
 colimus, per ejus ad te exempla gradiamur.
 $Per Dominum.
 
 [Oratio2]
-Da nobis, quaesumus Domine Deus noster, sanctarum Martyrum tuarum N. et N.palmas~
+Da nobis, quæsumus Domine Deus noster, sanctarum Martyrum tuarum N. et N.palmas~
 incessabili devotione venerari: ut quas digna mente non possumus celebrare,~
 humilibus saltem frequentemus obsequiis.
 $Per Dominum
@@ -303,13 +303,13 @@ R. Deus in medio ejus, non commovebitur.
 
 [Capitulum Sexta]
 !Sir 51:4-5
-v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus,~
-praeparatis ad escam, de manibus quaerentium animam meam, et de multis~
-tribulationibus quae circumdederunt me.
+v. Liberasti me secundum multitudinem misericordiæ nominis tui a rugientibus,~
+præparatis ad escam, de manibus quærentium animam meam, et de multis~
+tribulationibus quæ circumdederunt me.
 $Deo gratias.
 
 [Responsory Sexta]
-V. Elegit eam Deus, et praeelegit eam.
+V. Elegit eam Deus, et præelegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
@@ -320,22 +320,22 @@ $Deo gratias.
 
 [Responsory Nona]
 V. Diffusa est gratia in labiis tuis.
-R. Propterea benedixit te Deus in aeternum.
+R. Propterea benedixit te Deus in æternum.
 
 [Ant 3]
 Manum suam * aperuit inopi, et palmas suas extendit ad pauperem, et panem otiosa~
 non comedit. Alleluia.
 
 [LectioE]
-v. Sequentia Sancti Evangelii secundum Matthaeum
+v. Sequentia Sancti Evangelii secundum Matthæum
 !Matt 13:44-52
-13:44 Simile est regnum caelorum thesauro abscondito in agro: quem qui invenit homo, abscondit, et prae gaudio illius vadit, et vendit universa quae habet, et emit agrum illum.
-13:45 Iterum simile est regnum caelorum homini negotiatori, quaerenti bonas margaritas.
-13:46 Inventa autem una pretiosa margarita, abiit, et vendidit omnia quae habuit, et emit eam.
-13:47 Iterum simile est regnum caelorum sagenae missae in mare, et ex omni genere piscium congreganti.
+13:44 Simile est regnum cælorum thesauro abscondito in agro: quem qui invenit homo, abscondit, et præ gaudio illius vadit, et vendit universa quæ habet, et emit agrum illum.
+13:45 Iterum simile est regnum cælorum homini negotiatori, quærenti bonas margaritas.
+13:46 Inventa autem una pretiosa margarita, abiit, et vendidit omnia quæ habuit, et emit eam.
+13:47 Iterum simile est regnum cælorum sagenæ missæ in mare, et ex omni genere piscium congreganti.
 13:48 Quam, cum impleta esset, educentes, et secus littus sedentes, elegerunt bonis in vasa, malos autem foras miserunt.
-13:49 Sic erit in consummatione saeculi: exibunt angeli, et separabunt malos de medio justorum,
+13:49 Sic erit in consummatione sæculi: exibunt angeli, et separabunt malos de medio justorum,
 13:50 et mittent eos in caminum ignis: ibi erit fletus, et stridor dentium.
-13:51 Intellexistis haec omnia? Dicunt ei: Etiam.
-13:52 Ait illis: Ideo omnis scriba doctus in regno caelorum, similis est homini patrifamilias, qui profert de thesauro suo nova et vetera.
+13:51 Intellexistis hæc omnia? Dicunt ei: Etiam.
+13:52 Ait illis: Ideo omnis scriba doctus in regno cælorum, similis est homini patrifamilias, qui profert de thesauro suo nova et vetera.
 $Te decet

@@ -4,8 +4,8 @@ De libro Ecclesiastici.
 1 Fili, peccasti, non adjicias iterum: sed et de pristinis deprecare, ut tibi dimittantur,
 2 Quasi a facie colubri fuge peccata: et si accesseris ad illa, suscipient te.
 3 Dentes leonis dentes ejus, interficientes animas hominum.
-4 quasi rhomphaea bis acuta omnis iniquitas: plagae illius non est sanitas.
-5 Objurgatio et injuriae annullabunt substantiam, et domus quae nimis locuples est annullabitur superbia: sic substantia superbi eradicabitur.
+4 quasi rhomphæa bis acuta omnis iniquitas: plagæ illius non est sanitas.
+5 Objurgatio et injuriæ annullabunt substantiam, et domus quæ nimis locuples est annullabitur superbia: sic substantia superbi eradicabitur.
 
 [Responsory1]
 @Tempora/081-0:Responsory4
@@ -15,7 +15,7 @@ De libro Ecclesiastici.
 6 Deprecatio pauperis ex ore usque ad aures ejus perveniet, et judicium festinato adveniet illi.
 7 Qui odit correptionem vestigium est peccatoris, et qui timet Deum convertetur ad cor suum.
 8 Notus a longe potens lingua audaci, et sensatus scit labi se ab ipso.
-9 Qui aedificat domum suam impendiis alienis, quasi qui colligit lapides suos in hieme.
+9 Qui ædificat domum suam impendiis alienis, quasi qui colligit lapides suos in hieme.
 10 Stuppa collecta synagoga peccantium, et consummatio illorum flamma ignis.
 
 [Responsory2]
@@ -23,12 +23,12 @@ De libro Ecclesiastici.
 
 [Lectio3]
 !Sir 21:11-16
-11 Via peccantium complanata lapidibus: et in fine illorum inferi, et tenebrae, et p�nae.
+11 Via peccantium complanata lapidibus: et in fine illorum inferi, et tenebræ, et p�næ.
 12 Qui custodit justitiam, continebit sensum ejus.
 13 Consummatio timoris Dei, sapientia et sensus.
 14 Non erudietur qui non est sapiens in bono,
-15 est autem sapientia quae abundat in malo, et non est sensus ubi est amaritudo.
-16 Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitae permanet.
+15 est autem sapientia quæ abundat in malo, et non est sensus ubi est amaritudo.
+16 Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitæ permanet.
 
 [Responsory3]
 @Tempora/081-0:Responsory6

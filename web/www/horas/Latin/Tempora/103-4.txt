@@ -1,12 +1,12 @@
 [Lectio1]
-De libro primo Machabaeorum
+De libro primo Machabæorum
 !1 Mac 13:1-6
 1 Et audivit Simon quod congregavit Tryphon exercitum copiosum ut veniret in terram Juda, et attereret eam.
 2 Videns quia in tremore populus est, et in timore, ascendit Jerusalem, et congregavit populum:
-3 et adhortans dixit: Vos scitis quanta ego, et fratres mei, et domus patris mei, fecimus pro legibus et pro sanctis, praelia, et angustias quales vidimus:
+3 et adhortans dixit: Vos scitis quanta ego, et fratres mei, et domus patris mei, fecimus pro legibus et pro sanctis, prælia, et angustias quales vidimus:
 4 horum gratia perierunt fratres mei omnes propter Isra�l, et relictus sum ego solus.
-5 Et nunc non mihi contingat parcere animae meae in omni tempore tribulationis: non enim melior sum fratribus meis;
-6 vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores: quia congregatae sunt universae Gentes conterere nos inimicitiae gratia.
+5 Et nunc non mihi contingat parcere animæ meæ in omni tempore tribulationis: non enim melior sum fratribus meis;
+6 vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores: quia congregatæ sunt universæ Gentes conterere nos inimicitiæ gratia.
 
 [Responsory1]
 @Tempora/101-0:Responsory1
@@ -14,8 +14,8 @@ De libro primo Machabaeorum
 [Lectio2]
 !1 Mac 13:7-13
 7 Et accensus est spiritus populi simul ut audivit sermones istos:
-8 et responderunt voce magna, dicentes: Tu es dux noster loco Judae, et Jonathae fratris tui:
-9 pugna praelium nostrum: et omnia, quaecumque dixeris nobis, faciemus.
+8 et responderunt voce magna, dicentes: Tu es dux noster loco Judæ, et Jonathæ fratris tui:
+9 pugna prælium nostrum: et omnia, quæcumque dixeris nobis, faciemus.
 10 Et congregans omnes viros bellatores, acceleravit consummare universos muros Jerusalem, et munivit eam in gyro.
 11 Et misit Jonathan filium Absalomi, et cum eo exercitum novum in Joppen, et ejectis his qui erant in ea, remansit illic ipse.
 12 Et movit Tryphon a Ptolemaida cum exercitu multo, ut veniret in terram Juda, et Jonathas cum eo in custodia.
@@ -26,8 +26,8 @@ De libro primo Machabaeorum
 
 [Lectio3]
 !1 Mac 13:14-19
-14 Et ut cognovit Tryphon quia surrexit Simon loco fratris sui Jonathae, et quia commissurus esset cum eo praelium, misit ad eum legatos,
-15 dicens: Pro argento, quod debebat frater tuus Jonathas in ratione regis propter negotia quae habuit, detinuimus eum.
+14 Et ut cognovit Tryphon quia surrexit Simon loco fratris sui Jonathæ, et quia commissurus esset cum eo prælium, misit ad eum legatos,
+15 dicens: Pro argento, quod debebat frater tuus Jonathas in ratione regis propter negotia quæ habuit, detinuimus eum.
 16 Et nunc mitte argenti talenta centum, et duos filios ejus obsides, ut non dimissus fugiat a nobis, et remittemus eum.
 17 Et cognovit Simon quia cum dolo loqueretur secum: jussit tamen dari argentum et pueros, ne inimicitiam magnam sumeret ad populum Isra�l, dicentem:
 18 Quia non misit ei argentum, et pueros, propterea periit.

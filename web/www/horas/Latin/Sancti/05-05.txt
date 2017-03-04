@@ -1,25 +1,25 @@
 [Rank]
-S. Pii V Papae Confessoris;;Duplex;;3;;vide C4
+S. Pii V Papæ Confessoris;;Duplex;;3;;vide C4
 
 [RankNewcal]
-S. Pii V Papae Confessoris;;Duplex optional;;2;;vide C4
+S. Pii V Papæ Confessoris;;Duplex optional;;2;;vide C4
 
 [Rule]
 vide C4;mtv
 9 lectiones
 
 [Oratio]
-Deus, qui ad conterendos Ecclesiae tuae hostes, et ad divinum cultum reparandum, beatum Pium Pontificem Maximum eligere dignatus es: fac nos ipsius defendi praesidiis, et ita tuis inhaerere obsequiis; ut omnium hostium superatis insidiis, perpetua pace laetemur.
+Deus, qui ad conterendos Ecclesiæ tuæ hostes, et ad divinum cultum reparandum, beatum Pium Pontificem Maximum eligere dignatus es: fac nos ipsius defendi præsidiis, et ita tuis inhærere obsequiis; ut omnium hostium superatis insidiis, perpetua pace lætemur.
 $Per Dominum
 
 [Lectio4]
-Pius in oppido Insubriae, quod Boschum vocant, natus, sed e Bononia oriundus ex nobili Ghisleriorum familia, cum quatuordecim esset annorum, ordinem Praedicatorum ingressus est. Erat in eo admirabilis patientia, profunda humilitas, summa vitae austeritas, continuum orationis studium, et regularis observantiae, ac divini honoris ardentissimus zelus. Philosophiae vero ac theologiae incumbens, adeo in iis excelluit, ut illas docendi munus magna cum laude per multos annos exercuerit. Sacras conciones pluribus in locis cum ingenti auditorum fructu habuit. Inquisitoris officium inviolabili animi fortitudine diu sustinuit: multasque civitates, non sine vitae discrimine, ab haeresi tunc grassante immunes servavit.
+Pius in oppido Insubriæ, quod Boschum vocant, natus, sed e Bononia oriundus ex nobili Ghisleriorum familia, cum quatuordecim esset annorum, ordinem Prædicatorum ingressus est. Erat in eo admirabilis patientia, profunda humilitas, summa vitæ austeritas, continuum orationis studium, et regularis observantiæ, ac divini honoris ardentissimus zelus. Philosophiæ vero ac theologiæ incumbens, adeo in iis excelluit, ut illas docendi munus magna cum laude per multos annos exercuerit. Sacras conciones pluribus in locis cum ingenti auditorum fructu habuit. Inquisitoris officium inviolabili animi fortitudine diu sustinuit: multasque civitates, non sine vitæ discrimine, ab hæresi tunc grassante immunes servavit.
 
 [Lectio5]
-A Paulo quarto, cui ob eximias virtutes carissimus erat, ad Nepesinum et Sutrinum episcopatum promotus, et post biennium inter Romanae Ecclesiae presbyteros Cardinales adscriptus fuit. Tum ad ecclesiam Montis Regalis in Subalpinis a Pio quarto translatus, cum plures in eam abusus irrepsisse cognovisset, totam dioecesim lustravit, rebusque compositis Romam reversus, gravissimis expediendis negotiis applicatus, quod justum erat apostolica libertate et constantia decernebat. Mortuo autem Pio, praeter omnium exspectationem electus Pontifex, nihil in vitae ratione, excepto exteriori habitu, immutavit. Fuit in eo religionis propagandae perpetuum studium, in ecclesiastica disciplina restituenda indefessus labor, in exstirpandis erroribus assidua vigilantia, in sublevandis egentium necessitatibus indeficiens beneficentia, in Sedis Apostolicse juribus vindicandis robur invictum.
+A Paulo quarto, cui ob eximias virtutes carissimus erat, ad Nepesinum et Sutrinum episcopatum promotus, et post biennium inter Romanæ Ecclesiæ presbyteros Cardinales adscriptus fuit. Tum ad ecclesiam Montis Regalis in Subalpinis a Pio quarto translatus, cum plures in eam abusus irrepsisse cognovisset, totam dioecesim lustravit, rebusque compositis Romam reversus, gravissimis expediendis negotiis applicatus, quod justum erat apostolica libertate et constantia decernebat. Mortuo autem Pio, præter omnium exspectationem electus Pontifex, nihil in vitæ ratione, excepto exteriori habitu, immutavit. Fuit in eo religionis propagandæ perpetuum studium, in ecclesiastica disciplina restituenda indefessus labor, in exstirpandis erroribus assidua vigilantia, in sublevandis egentium necessitatibus indeficiens beneficentia, in Sedis Apostolicse juribus vindicandis robur invictum.
 
 [Lectio6]
-Selimum Turcarum tyrannum multis elatum victoriis, ingenti comparata classe, ad Echinadas insulas non tam armis, quam fusis ad Deum precibus devicit. Quam victoriam ea ipsa hora, qua obtenta fuit, Deo revelante, cognovit, suisque familiaribus indicavit.Dum vero novam in ipsos Turcas expeditionem moliretur, in gravem morbum incidit, et acerbissimis doloribus patientissime toleratis, ad extrema deveniens, cum sacramenta de more suscepisset, animam Deo placidissime reddidit, anno millesimo quingentesimo septuagesimo secundo, setatis suae sexagesimo octavo, cum sedisset annos sex, menses tres, dies viginti quatuor. Corpus ejus in basilica sanctae Mariae ad Praesepe summa fidelium veneratione colitur, multis a Deo ejus intercessione patratis miraculis. Quibus rite probatis, a Clemente undecimo Pontifice Maximo sanctorum numero adscriptus est.
+Selimum Turcarum tyrannum multis elatum victoriis, ingenti comparata classe, ad Echinadas insulas non tam armis, quam fusis ad Deum precibus devicit. Quam victoriam ea ipsa hora, qua obtenta fuit, Deo revelante, cognovit, suisque familiaribus indicavit.Dum vero novam in ipsos Turcas expeditionem moliretur, in gravem morbum incidit, et acerbissimis doloribus patientissime toleratis, ad extrema deveniens, cum sacramenta de more suscepisset, animam Deo placidissime reddidit, anno millesimo quingentesimo septuagesimo secundo, setatis suæ sexagesimo octavo, cum sedisset annos sex, menses tres, dies viginti quatuor. Corpus ejus in basilica sanctæ Mariæ ad Præsepe summa fidelium veneratione colitur, multis a Deo ejus intercessione patratis miraculis. Quibus rite probatis, a Clemente undecimo Pontifice Maximo sanctorum numero adscriptus est.
 
 [Lectio7]
 @Sancti/04-11:Lectio7

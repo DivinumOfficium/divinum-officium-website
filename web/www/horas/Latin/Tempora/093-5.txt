@@ -10,32 +10,32 @@ Preces feriales
 [Lectio1]
 Lectio sancti Evangelii secundum Lucam.
 !Luc 7:36-50
-In illo tempore: Rogabat Jesum quidam de pharisaeis, ut manducaret cum illo. Et ingressus domum pharisaei discubuit. Et reliqua. 
+In illo tempore: Rogabat Jesum quidam de pharisæis, ut manducaret cum illo. Et ingressus domum pharisæi discubuit. Et reliqua. 
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homil. 33. in Evang., post init.
-Quem pharisaeus de falsa justitia praesumens, nisi Judaicum populum; quem peccatrix mulier ad vestigia Domini veniens et plorans, nisi conversam Gentilitatem designat? Quae cum alabastro venit, unguentum fudit, retro secus pedes Domini stetit, lacrimis pedes rigavit, capillis tersit, eosdemque quos infundebat et tergebat pedes osculari non desiit. Nos ergo, nos illa mulier expressit, si toto corde ad Dominum post peccata redeamus, si ejus poenitentiae luctus imitemur. Quid namque unguento, nisi bonae odor opinionis exprimitur? Unde et Paulus dicit: Christi bonus odor sumus Deo in omni loco.
+Quem pharisæus de falsa justitia præsumens, nisi Judaicum populum; quem peccatrix mulier ad vestigia Domini veniens et plorans, nisi conversam Gentilitatem designat? Quæ cum alabastro venit, unguentum fudit, retro secus pedes Domini stetit, lacrimis pedes rigavit, capillis tersit, eosdemque quos infundebat et tergebat pedes osculari non desiit. Nos ergo, nos illa mulier expressit, si toto corde ad Dominum post peccata redeamus, si ejus poenitentiæ luctus imitemur. Quid namque unguento, nisi bonæ odor opinionis exprimitur? Unde et Paulus dicit: Christi bonus odor sumus Deo in omni loco.
 
 [Responsory1]
 @Tempora/093-0:Responsory4
 
 [Lectio2]
-Si ergo recta opera agimus, quibus opinionis bonae odore Ecclesiam respergamus, quid in Domini corpore, nisi unguentum fundimus? Sed secus pedes Jesu mulier stetit: contra pedes enim Domini stetimus, cum in peccatis positi ejus itineribus renitebamur. Sed si ad veram poenitentiam post peccata convertimur, jam retro secus pedes stamus: quia ejus vestigia sequimur, quem impugnabamus. Lacrimis mulier pedes ejus rigat: quod nos quoque veraciter agimus, si quibuslibet ultimis membris Domini per compassionis affectum inclinamur, si sanctis ejus in tribulatione compatimur, si eorum tristitiam, nostram putamus.
+Si ergo recta opera agimus, quibus opinionis bonæ odore Ecclesiam respergamus, quid in Domini corpore, nisi unguentum fundimus? Sed secus pedes Jesu mulier stetit: contra pedes enim Domini stetimus, cum in peccatis positi ejus itineribus renitebamur. Sed si ad veram poenitentiam post peccata convertimur, jam retro secus pedes stamus: quia ejus vestigia sequimur, quem impugnabamus. Lacrimis mulier pedes ejus rigat: quod nos quoque veraciter agimus, si quibuslibet ultimis membris Domini per compassionis affectum inclinamur, si sanctis ejus in tribulatione compatimur, si eorum tristitiam, nostram putamus.
 
 [Responsory2]
 @Tempora/093-0:Responsory5
 
 [Lectio3]
-Capillis ergo pedes Domini tergimus, quando sanctis ejus, quibus ex caritate compatimur, etiam ex his quae nobis superfluunt, miseremur: quatenus sic mens per compassionem doleat, ut etiam larga manus affectum doloris ostendat. Rigat namque lacrimis Redemptoris pedes, sed capillis suis non tergit, qui utcumque proximorum dolori compatitur, sed tamen eis ex his, quae sibi superfluunt, non miseretur. Plorat, et non tergit, qui verba quidem doloris tribuit, sed non ministrando quae desunt, vim doloris minime abscindit. Osculatur mulier pedes, quos tergit: quod nos quoque plene agimus, si studiose diligimus, quos ex largitate continemus: ne gravis nobis sit necessitas proximi; ne ipsa nobis ejus indigentia, quae sustentatur, fiat onerosa: et cum manus necessaria tribuit, animus a dilectione torpescat.
+Capillis ergo pedes Domini tergimus, quando sanctis ejus, quibus ex caritate compatimur, etiam ex his quæ nobis superfluunt, miseremur: quatenus sic mens per compassionem doleat, ut etiam larga manus affectum doloris ostendat. Rigat namque lacrimis Redemptoris pedes, sed capillis suis non tergit, qui utcumque proximorum dolori compatitur, sed tamen eis ex his, quæ sibi superfluunt, non miseretur. Plorat, et non tergit, qui verba quidem doloris tribuit, sed non ministrando quæ desunt, vim doloris minime abscindit. Osculatur mulier pedes, quos tergit: quod nos quoque plene agimus, si studiose diligimus, quos ex largitate continemus: ne gravis nobis sit necessitas proximi; ne ipsa nobis ejus indigentia, quæ sustentatur, fiat onerosa: et cum manus necessaria tribuit, animus a dilectione torpescat.
 
 [Responsory3]
 @Tempora/093-0:Responsory6
 
 [Ant 2]
-Mulier * quae erat in civitate peccatrix, stans retro secus pedes Domini, lacrimis coepit rigare pedes ejus, et capillis capitis sui tergebat, et deosculabatur pedes ejus et unguento ungebat.
+Mulier * quæ erat in civitate peccatrix, stans retro secus pedes Domini, lacrimis coepit rigare pedes ejus, et capillis capitis sui tergebat, et deosculabatur pedes ejus et unguento ungebat.
 
 [Oratio]
-Praesta, quaesumus, omnipotens Deus: ut observationes sacras annua devotione recolentes, et corpore tibi placeamus, et mente.
+Præsta, quæsumus, omnipotens Deus: ut observationes sacras annua devotione recolentes, et corpore tibi placeamus, et mente.
 $Per Dominum
 
 [Ant 3]

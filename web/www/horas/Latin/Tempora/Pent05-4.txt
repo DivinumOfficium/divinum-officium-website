@@ -16,7 +16,7 @@ De libro secundo Regum.
 
 [Lectio2]
 !2 Sam 6:4-7
-4 Cumque tulissent eam de domo Abinadab, qui erat in Gabaa, custodiens arcam Dei Ahio praecedebat arcam.
+4 Cumque tulissent eam de domo Abinadab, qui erat in Gabaa, custodiens arcam Dei Ahio præcedebat arcam.
 5 David autem et omnis Isra�l ludebant coram Domino in omnibus lignis fabrefactis, et citharis et lyris et tympanis et sistris et cymbalis.
 6 Postquam autem venerunt ad aream Nachon, extendit Oza manum ad arcam Dei, et tenuit eam: quoniam calcitrabant boves, et declinaverunt eam.
 7 Iratusque est indignatione Dominus contra Ozam, et percussit eum super temeritate: qui mortuus est ibi juxta arcam Dei.
@@ -26,10 +26,10 @@ De libro secundo Regum.
 
 [Lectio3]
 !2 Sam 6:8-12
-8 Contristatus est autem David, eo quod percussisset Dominus Ozam, et vocatum est nomen loci illius: Percussio Ozae, usque in diem hanc.
+8 Contristatus est autem David, eo quod percussisset Dominus Ozam, et vocatum est nomen loci illius: Percussio Ozæ, usque in diem hanc.
 9 Et extimuit David Dominum in die illa, dicens: Quomodo ingredietur ad me arca Domini?
-10 Et noluit divertere ad se arcam Domini in civitatem David: sed divertit eam in domum Obededom Gethaei.
-11 Et habitavit arca Domini in domo Obededom Gethaei tribus mensibus: et benedixit Dominus Obededom, et omnem domum ejus.
+10 Et noluit divertere ad se arcam Domini in civitatem David: sed divertit eam in domum Obededom Gethæi.
+11 Et habitavit arca Domini in domo Obededom Gethæi tribus mensibus: et benedixit Dominus Obededom, et omnem domum ejus.
 12 Nuntiatumque est regi David quod benedixisset Dominus Obededom, et omnia ejus, propter arcam Dei. Abiit ergo David, et adduxit arcam Dei de domo Obededom in civitatem David cum gaudio.
 
 [Responsory3]

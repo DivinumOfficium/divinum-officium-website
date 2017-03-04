@@ -1,5 +1,5 @@
 [Rank]
-S. Leonis Papae et Confessoris;;Semiduplex;;2;;vide C4
+S. Leonis PapÃ¦ et Confessoris;;Semiduplex;;2;;vide C4
 
 [Rule]
 vide C4;
@@ -8,17 +8,17 @@ commemoratio3
 OPapaC=Leónem;
 
 [Oratio]
-Deus, qui beatum Leonem Pontificem sanctorum tuorum meritis coaequasti: concede propitius; ut, qui commemorationis ejus festa percolimus, vitae quoque imitemur exempla.
+Deus, qui beatum Leonem Pontificem sanctorum tuorum meritis coÃ¦quasti: concede propitius; ut, qui commemorationis ejus festa percolimus, vitÃ¦ quoque imitemur exempla.
 $Per Dominum
 
 [Lectio4]
-Leo secundus, Pontifex maximus, Siculus, humanis et divinis litteris Graece et Latine doctus, musicis etiam eruditus fuit: ipse enim sacros Hymnos et Psalmos in Ecclesia ad concentum meliorem reduxit. Probavit acta sextae synodi quae Constantinopoli celebrata est praesidentibus legatis apostolicae Sedis, praesente quoque Constantino imperatore, et duobus patriarchis, Constantinopolitano, et Antiocheno, ac centum septuaginta episcopis: quam et in Latinum transtulit.
+Leo secundus, Pontifex maximus, Siculus, humanis et divinis litteris GrÃ¦ce et Latine doctus, musicis etiam eruditus fuit: ipse enim sacros Hymnos et Psalmos in Ecclesia ad concentum meliorem reduxit. Probavit acta sextÃ¦ synodi quÃ¦ Constantinopoli celebrata est prÃ¦sidentibus legatis apostolicÃ¦ Sedis, prÃ¦sente quoque Constantino imperatore, et duobus patriarchis, Constantinopolitano, et Antiocheno, ac centum septuaginta episcopis: quam et in Latinum transtulit.
 
 [Lectio5]
-In eo concilio Cyrus, Sergius et Pyrrhus condemnati sunt, unam tantummodo voluntatem et operationem in Christo praedicantes. Hic fregit superbiam antistitum Ravennatum, qui exarchorum freti potentia, Sedi apostolicae non obtemperabant. Quam ob rem decrevit, ut electio cleri Ravennatis irrita esset, nisi Romani Pontificis auctoritate comprobaretur.
+In eo concilio Cyrus, Sergius et Pyrrhus condemnati sunt, unam tantummodo voluntatem et operationem in Christo prÃ¦dicantes. Hic fregit superbiam antistitum Ravennatum, qui exarchorum freti potentia, Sedi apostolicÃ¦ non obtemperabant. Quam ob rem decrevit, ut electio cleri Ravennatis irrita esset, nisi Romani Pontificis auctoritate comprobaretur.
 
 [Lectio6]
-Vere pater pauperum fuit: non enim pecunia solum, sed opera, labore et consiliis egentium viduarum et pupillorum inopiam ac solitudinem sublevabat. Qui dum singulos non magis praedicatione quam vita ad pie sancteque vivendum adhortaretur; obdormívit in Dómino mense sui pontificátus undécimo, quinto Nonas Júlii, anno sexcentésimo octogésimo tértio, sepultusque est in basilica sancti Petri. Ordinatione una mense Junio creavit presbyteros novem, diaconos tres, episcopos diversis in locis viginti tres.
+Vere pater pauperum fuit: non enim pecunia solum, sed opera, labore et consiliis egentium viduarum et pupillorum inopiam ac solitudinem sublevabat. Qui dum singulos non magis prÃ¦dicatione quam vita ad pie sancteque vivendum adhortaretur; obdormívit in Dómino mense sui pontificátus undécimo, quinto Nonas Júlii, anno sexcentésimo octogésimo tértio, sepultusque est in basilica sancti Petri. Ordinatione una mense Junio creavit presbyteros novem, diaconos tres, episcopos diversis in locis viginti tres.
 
 [Commemoratio 2]
 @Sancti/06-29:Octava

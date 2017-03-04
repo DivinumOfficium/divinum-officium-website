@@ -14,19 +14,19 @@ Psalm5 vespera=116
 No Commemoratio
 			
 [Ant Vespera]
-Viri Galilaei, * quid aspicitis in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet, alleluia.
-Cumque intuerentur * in caelum euntem illum, dixerunt, alleluia.
-Elevatis manibus * benedixit eis, et ferebatur in caelum, alleluia.
+Viri Galilæi, * quid aspicitis in cælum? Hic Jesus, qui assumptus est a vobis in cælum, sic veniet, alleluia.
+Cumque intuerentur * in cælum euntem illum, dixerunt, alleluia.
+Elevatis manibus * benedixit eis, et ferebatur in cælum, alleluia.
 Exaltate Regem regum, * et hymnum dicite Deo, alleluia.
-Videntibus illis * elevatus est, et nubes suscepit eum in caelo, alleluia.
+Videntibus illis * elevatus est, et nubes suscepit eum in cælo, alleluia.
 
 [Capitulum Vespera]
 !Act. 1:1-2
-v. Primum quidem sermonem feci de omnibus, o Theophile, quae coepit Jesus facere, et docere usque in diem, qua praecipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est.
+v. Primum quidem sermonem feci de omnibus, o Theophile, quæ coepit Jesus facere, et docere usque in diem, qua præcipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est.
 $Deo gratias
 
 [Hymnus Vespera]
-{:H-Salutishumanaesator:}v. Salutis humanae Sator,
+{:H-Salutishumanæsator:}v. Salutis humanæ Sator,
 Jesu, voluptas cordium,
 Orbis redempti Conditor,
 Et casta lux amantium:
@@ -49,36 +49,36 @@ _
 Tu dux ad astra, et semita,
 Sis meta nostris cordibus,
 Sis lacrimarum gaudium,
-Sis dulce vitae praemium.
+Sis dulce vitæ præmium.
 Amen.
 
 [Versum 1]
 V. Ascendit Deus in jubilatione, alleluia.
-R. Et Dominus in voce tubae, alleluia.
+R. Et Dominus in voce tubæ, alleluia.
 
 [Ant 1]
 Pater, * manifestavi nomen tuum hominibus quos dedisti mihi: nunc autem pro eis rogo, non pro mundo, quia ad te venio, alleluia.
 
 [Oratio]
-Concede, quaesumus, omnipotens Deus: ut qui hodierna die Unigenitum tuum Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in caelestibus habitemus.
+Concede, quæsumus, omnipotens Deus: ut qui hodierna die Unigenitum tuum Redemptorem nostrum ad cælos ascendisse credimus, ipsi quoque mente in cælestibus habitemus.
 $Per eumdem
 
 [Invit]
-Alleluia, Christum Dominum ascendentem in caelum, * Venite adoremus, alleluia.
+Alleluia, Christum Dominum ascendentem in cælum, * Venite adoremus, alleluia.
 
 [Hymnus Matutinum]
 {:H-Aeternarex:}v. Aeterne Rex altissime,
 Redemptor et fidelium,
 Cui mors perempta detulit
-Summae triumphum gloriae.
+Summæ triumphum gloriæ.
 _
 Ascendis orbes siderum,
-Quo te vocabat caelitus
+Quo te vocabat cælitus
 Collata, non humanitus,
 Rerum potestas omnium.
 _
 Ut trina rerum machina,
-Caelestium, terrestrium,
+Cælestium, terrestrium,
 Et inferorum condita,
 Flectat genu jam subdita.
 _
@@ -88,11 +88,11 @@ Peccat caro, mundat caro,
 Regnat Deus Dei caro.
 _
 Sis ipse nostrum gaudium,
-Manens olympo praemium,
+Manens olympo præmium,
 Mundi regis qui fabricam,
 Mundana vincens gaudia.
 _
-Hinc te precantes quaesumus,
+Hinc te precantes quæsumus,
 Ignosce culpis omnibus,
 Et corda sursum subleva
 Ad te superna gratia.
@@ -103,76 +103,76 @@ Poenas repellas debitas,
 Reddas coronas perditas.
 _
 * Jesu, tibi sit gloria,
-Qui victor in caelum redis,
+Qui victor in cælum redis,
 Cum Patre, et almo Spiritu,
-In sempiterna saecula.
+In sempiterna sæcula.
 Amen.
 
 [Ant Matutinum]
-Elevata est * magnificentia tua super caelos Deus, alleluia.;;8
-Dominus in templo * sancto suo, Dominus in caelo, alleluia.;;10
-A summo caelo * egressio ejus, et occursus ejus usque ad summum ejus, alleluia.;;18
+Elevata est * magnificentia tua super cælos Deus, alleluia.;;8
+Dominus in templo * sancto suo, Dominus in cælo, alleluia.;;10
+A summo cælo * egressio ejus, et occursus ejus usque ad summum ejus, alleluia.;;18
 V. Ascendit Deus in jubilatione, alleluia.
-R. Et Dominus in voce tubae, alleluia.
+R. Et Dominus in voce tubæ, alleluia.
 Exaltare, Domine, * in virtute tua: cantabimus, et psallemus, alleluia.;;20
 Exaltabo te, * Domine, quoniam suscepisti me, alleluia.;;29
-Ascendit Deus * in jubilatione, et Dominus in voce tubae, alleluia.;;46
+Ascendit Deus * in jubilatione, et Dominus in voce tubæ, alleluia.;;46
 V. Ascendens Christus in altum, alleluia.
 R. Captivam duxit captivitatem, alleluia.
 Nimis exaltatus est, * alleluia: super omnes deos, alleluia.;;96
 Dominus in Sion, * alleluia: magnus et excelsus, alleluia.;;98
-Dominus in caelo, * alleluia: paravit sedem suam, alleluia.;;102
+Dominus in cælo, * alleluia: paravit sedem suam, alleluia.;;102
 V. Ascendo ad Patrem meum, et Patrem vestrum, alleluia.
 R. Deum meum, et Deum vestrum, alleluia.
 
 [Lectio1]
 Incipit liber Actuum Apostolorum.
 !Act. 1:1-5
-1 Primum quidem sermonem feci de omnibus, o Theophile, quae c�pit Jesus facere et docere
-2 usque in diem qua praecipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est:
-3 quibus et praebuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et loquens de regno Dei.
-4 Et convescens, praecepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis (inquit) per os meum:
+1 Primum quidem sermonem feci de omnibus, o Theophile, quæ c�pit Jesus facere et docere
+2 usque in diem qua præcipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est:
+3 quibus et præbuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et loquens de regno Dei.
+4 Et convescens, præcepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis (inquit) per os meum:
 5 quia Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto non post multos hos dies.
 
 [Responsory1]
 R. Post passionem suam per dies quadraginta apparens eis, et loquens de regno Dei, alleluia:
 * Et videntibus illis elevatus est, alleluia: et nubes suscepit eum ab oculis eorum, alleluia.
-V. Et convescens praecepit eis, ab Jerosolymis ne discederent, sed exspectarent promissionem Patris.
+V. Et convescens præcepit eis, ab Jerosolymis ne discederent, sed exspectarent promissionem Patris.
 R. Et videntibus illis elevatus est, alleluia: et nubes suscepit eum ab oculis eorum, alleluia.
 
 [Lectio2]
 !Act. 1:6-9
 6 Igitur qui convenerant, interrogabant eum, dicentes: Domine, si in tempore hoc restitues regnum Isra�l?
-7 Dixit autem eis: Non est vestrum nosse tempora vel momenta quae Pater posuit in sua potestate:
-8 sed accipietis virtutem supervenientis Spiritus Sancti in vos, et eritis mihi testes in Jerusalem, et in omni Judaea, et Samaria, et usque ad ultimum terrae.
-9 Et cum haec dixisset, videntibus illis, elevatus est: et nubes suscepit eum ab oculis eorum.
+7 Dixit autem eis: Non est vestrum nosse tempora vel momenta quæ Pater posuit in sua potestate:
+8 sed accipietis virtutem supervenientis Spiritus Sancti in vos, et eritis mihi testes in Jerusalem, et in omni Judæa, et Samaria, et usque ad ultimum terræ.
+9 Et cum hæc dixisset, videntibus illis, elevatus est: et nubes suscepit eum ab oculis eorum.
 
 [Responsory2]
 R. Omnis pulchritudo Domini exaltata est super sidera:
-* Species ejus in nubibus caeli, et nomen ejus in aeternum permanet, alleluia.
-V. A summo caelo egressio ejus, et occursus ejus usque ad summum ejus.
-R. Species ejus in nubibus caeli, et nomen ejus in aeternum permanet, alleluia.
+* Species ejus in nubibus cæli, et nomen ejus in æternum permanet, alleluia.
+V. A summo cælo egressio ejus, et occursus ejus usque ad summum ejus.
+R. Species ejus in nubibus cæli, et nomen ejus in æternum permanet, alleluia.
 
 [Lectio3]
 !Act. 1:10-14
-10 Cumque intuerentur in caelum euntem illum, ecce duo viri astiterunt juxta illos in vestibus albis,
-11 qui et dixerunt: Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum.
+10 Cumque intuerentur in cælum euntem illum, ecce duo viri astiterunt juxta illos in vestibus albis,
+11 qui et dixerunt: Viri Galilæi, quid statis aspicientes in cælum? Hic Jesus, qui assumptus est a vobis in cælum, sic veniet quemadmodum vidistis eum euntem in cælum.
 12 Tunc reversi sunt Jerosolymam a monte qui vocatur Oliveti, qui est juxta Jerusalem, sabbati habens iter.
-13 Et cum introissent in c�naculum, ascenderunt ubi manebant Petrus, et Joannes, Jacobus, et Andreas, Philippus, et Thomas, Bartholomaeus, et Matthaeus, Jacobus Alphaei, et Simon Zelotes, et Judas Jacobi.
+13 Et cum introissent in c�naculum, ascenderunt ubi manebant Petrus, et Joannes, Jacobus, et Andreas, Philippus, et Thomas, Bartholomæus, et Matthæus, Jacobus Alphæi, et Simon Zelotes, et Judas Jacobi.
 14 Hi omnes erant perseverantes unanimiter in oratione cum mulieribus, et Maria Matre Jesu, et fratribus ejus.
 
 [Responsory3]
 R. Exaltare, Domine, alleluia,
 * In virtute tua, alleluia.
-V. Elevata est magnificentia tua super caelos, Deus.
+V. Elevata est magnificentia tua super cælos, Deus.
 R. In virtute tua, alleluia.
 &Gloria
 R. In virtute tua, alleluia.
 
 [Lectio4]
-Sermo sancti Leonis Papae.
+Sermo sancti Leonis Papæ.
 !Sermone 1. de Ascensione Domini.
-Post beatam et gloriosam resurrectionem Domini nostri Jesu Christi, qua verum Dei templum Judaica impietate resolutum, divina in triduo potentia suscitavit, quadragenarius hodie, dilectissimi, sanctorum dierum expletus est numerus, sacratissima ordinatione dispositus, et ad utilitatem nostrae eruditionis impensus: ut, dum a Domino in hoc spatio mora praesentiae corporalis extenditur, fides resurrectionis documentis necessariis muniretur. Mors enim Christi multum discipulorum corda turbaverat: et de supplicio crucis, de emissione spiritus, de exanimati corporis sepultura gravatis maestitudine mentibus, quidam diffidentiae torpor obrepserat.
+Post beatam et gloriosam resurrectionem Domini nostri Jesu Christi, qua verum Dei templum Judaica impietate resolutum, divina in triduo potentia suscitavit, quadragenarius hodie, dilectissimi, sanctorum dierum expletus est numerus, sacratissima ordinatione dispositus, et ad utilitatem nostræ eruditionis impensus: ut, dum a Domino in hoc spatio mora præsentiæ corporalis extenditur, fides resurrectionis documentis necessariis muniretur. Mors enim Christi multum discipulorum corda turbaverat: et de supplicio crucis, de emissione spiritus, de exanimati corporis sepultura gravatis mæstitudine mentibus, quidam diffidentiæ torpor obrepserat.
 
 [Responsory4]
 R. Tempus est, ut revertar ad eum, qui me misit, dicit Dominus; nolite contristari, nec turbetur cor vestrum:
@@ -181,7 +181,7 @@ V. Nisi ego abiero, Paraclitus non veniet: cum assumptus fuero, mittam vobis eum
 R. Rogo pro vobis Patrem, ut ipse vos custodiat, alleluia, alleluia.
 
 [Lectio5]
-Unde beatissimi Apostoli, omnesque discipuli, qui et de exitu crucis fuerant trepidi, et de fide resurrectionis ambigui, ita sunt veritate perspicua roborati, ut, Domino in caelorum eunte sublimia, non solum nulla afficerentur tristitia, sed etiam magno gaudio replerentur. Et revera magna et ineffabilis erat causa gaudendi, cum in conspectu sanctae multitudinis super omnium creaturarum caelestium dignitatem humani generis natura conscenderet, supergressura Angelicos ordines, et ultra Archangelorum altitudines elevanda: nec ullis sublimitatibus modum suae provectionis habitura, nisi aeterni Patris recepta consessu, illius gloriae sociaretur in throno, cujus naturae copulabatur in Filio.
+Unde beatissimi Apostoli, omnesque discipuli, qui et de exitu crucis fuerant trepidi, et de fide resurrectionis ambigui, ita sunt veritate perspicua roborati, ut, Domino in cælorum eunte sublimia, non solum nulla afficerentur tristitia, sed etiam magno gaudio replerentur. Et revera magna et ineffabilis erat causa gaudendi, cum in conspectu sanctæ multitudinis super omnium creaturarum cælestium dignitatem humani generis natura conscenderet, supergressura Angelicos ordines, et ultra Archangelorum altitudines elevanda: nec ullis sublimitatibus modum suæ provectionis habitura, nisi æterni Patris recepta consessu, illius gloriæ sociaretur in throno, cujus naturæ copulabatur in Filio.
 
 [Responsory5]
 R. Non turbetur cor vestrum: ego vado ad Patrem; et cum assumptus fuero a vobis, mittam vobis, alleluia,
@@ -190,12 +190,12 @@ V. Ego rogabo Patrem, et alium Paraclitum dabit vobis.
 R. Spiritum veritatis, et gaudebit cor vestrum, alleluia.
 
 [Lectio6]
-Quia igitur Christi ascensio, nostra provectio est; et quo praecessit gloria capitis, eo spes vocatur et corporis: dignis, dilectissimi, exsultemus gaudiis, et pia gratiarum actione laetemur. Hodie enim non solum paradisi possessores firmati sumus, sed etiam caelorum in Christo superna penetravimus; ampliora adepti per ineffabilem Christi gratiam, quam per diaboli amiseramus invidiam. Nam quos virulentus inimicus primi habitaculi felicitate dejecit, eos sibi concorporatos Dei Filius ad dexteram Patris collocavit: cum quo vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.
+Quia igitur Christi ascensio, nostra provectio est; et quo præcessit gloria capitis, eo spes vocatur et corporis: dignis, dilectissimi, exsultemus gaudiis, et pia gratiarum actione lætemur. Hodie enim non solum paradisi possessores firmati sumus, sed etiam cælorum in Christo superna penetravimus; ampliora adepti per ineffabilem Christi gratiam, quam per diaboli amiseramus invidiam. Nam quos virulentus inimicus primi habitaculi felicitate dejecit, eos sibi concorporatos Dei Filius ad dexteram Patris collocavit: cum quo vivit et regnat in unitate Spiritus Sancti Deus, per omnia sæcula sæculorum. Amen.
 
 [Responsory6]
 R. Ascendens Christus in altum, captivam duxit captivitatem,
 * Dedit dona hominibus, alleluia, alleluia, alleluia.
-V. Ascendit Deus in jubilatione, et Dominus in voce tubae.
+V. Ascendit Deus in jubilatione, et Dominus in voce tubæ.
 R. Dedit dona hominibus, alleluia, alleluia, alleluia.
 &Gloria
 R. Dedit dona hominibus, alleluia, alleluia, alleluia.
@@ -205,30 +205,30 @@ Lectio sancti Evangelii secundum Marcum
 !Marc 16:14-20
 In illo tempore: Recumbentibus undecim discipulis, apparuit illis Jesus: et exprobravit incredulitatem eorum, et duritiam cordis: quia iis, qui viderant eum resurrexisse, non crediderunt. Et reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Papæ.
 !Homilia 29. in Evangelia.
-Quod resurrectionem Dominicam discipuli tarde crediderunt, non tam illorum infirmitas, quam nostra, ut ita dicam, futura firmitas fuit. Ipsa namque resurrectio illis dubitantibus per multa argumenta monstrata est: quae dum nos legentes agnoscimus, quid aliud quam de illorum dubitatione solidamur? Minus enim mihi Maria Magdalene praestitit, quae citius credidit, quam Thomas, qui diu dubitavit. Ille etenim dubitando, vulnerum cicatrices tetigit, et de nostro pectore dubitationis vulnus amputavit.~
+Quod resurrectionem Dominicam discipuli tarde crediderunt, non tam illorum infirmitas, quam nostra, ut ita dicam, futura firmitas fuit. Ipsa namque resurrectio illis dubitantibus per multa argumenta monstrata est: quæ dum nos legentes agnoscimus, quid aliud quam de illorum dubitatione solidamur? Minus enim mihi Maria Magdalene præstitit, quæ citius credidit, quam Thomas, qui diu dubitavit. Ille etenim dubitando, vulnerum cicatrices tetigit, et de nostro pectore dubitationis vulnus amputavit.~
 (rubrica 1570)
 @:AdInsinuandum
 
 [Responsory7]
 R. Ego rogabo Patrem, et alium Paraclitum dabit vobis,
-* Ut maneat vobiscum in aeternum, Spiritum veritatis, alleluia.
+* Ut maneat vobiscum in æternum, Spiritum veritatis, alleluia.
 V. Si enim non abiero, Paraclitus non veniet ad vos: si autem abiero, mittam eum ad vos.
-R. Ut maneat vobiscum in aeternum, Spiritum veritatis, alleluia.
+R. Ut maneat vobiscum in æternum, Spiritum veritatis, alleluia.
 
 [AdInsinuandum]
-Ad insinuandam quoque veritatem Dominicae resurrectionis, notandum nobis est quid Lucas referat, dicens: Convescens praecepit eis ab Jerosolymis ne discederent. Et post pauca: Videntibus illis elevatus est, et nubes suscepit eum ab oculis eorum.~
+Ad insinuandam quoque veritatem Dominicæ resurrectionis, notandum nobis est quid Lucas referat, dicens: Convescens præcepit eis ab Jerosolymis ne discederent. Et post pauca: Videntibus illis elevatus est, et nubes suscepit eum ab oculis eorum.~
 
 [Lectio8]
 @:AdInsinuandum
 (rubrica 1570 omittitur)
-Notate verba, signate mysteria. Convescens elevatus est. Comedit, et ascendit: ut videlicet per effectum comestionis, veritas patesceret carnis. Marcus vero, priusquam caelum Dominus ascendat, eum de cordis atque infidelitatis duritia increpasse discipulos memorat. Qua in re quid considerandum est, nisi quod idcirco Dominus tunc discipulos increpavit, cum eos corporaliter reliquit, ut verba, quae recedens diceret, in corde audientium arctius impressa remanerent?~
+Notate verba, signate mysteria. Convescens elevatus est. Comedit, et ascendit: ut videlicet per effectum comestionis, veritas patesceret carnis. Marcus vero, priusquam cælum Dominus ascendat, eum de cordis atque infidelitatis duritia increpasse discipulos memorat. Qua in re quid considerandum est, nisi quod idcirco Dominus tunc discipulos increpavit, cum eos corporaliter reliquit, ut verba, quæ recedens diceret, in corde audientium arctius impressa remanerent?~
 (rubrica 1570)
 @:Increpata
 
 [Increpata]
-Increpata igitur eorum duritia, quid admonendo dicat, audiamus: Euntes in mundum universum, praedicate Evangelium omni creaturae. Numquid, fratres mei, sanctum Evangelium vel insensatis rebus, vel brutis animalibus fuerat praedicandum, ut de eo discipulis dicatur: Praedicate omni creaturae? Sed omnis creaturae nomine signatur homo.
+Increpata igitur eorum duritia, quid admonendo dicat, audiamus: Euntes in mundum universum, prædicate Evangelium omni creaturæ. Numquid, fratres mei, sanctum Evangelium vel insensatis rebus, vel brutis animalibus fuerat prædicandum, ut de eo discipulis dicatur: Prædicate omni creaturæ? Sed omnis creaturæ nomine signatur homo.
 
 [Responsory8]
 R. Ponis nubem ascensum tuum, Domine:
@@ -241,10 +241,10 @@ R. Qui ambulas super pennas ventorum, alleluia.
 [Lectio9]
 @:Increpata
 (rubrica 1570 omittitur)
-Omnis autem creaturae aliquid habet homo. Habet namque commune esse cum lapidibus, vivere cum arboribus, sentire cum animalibus, intelligere cum Angelis. Si ergo commune habet aliquid cum omni creatura homo, juxta aliquid omnis creatura est homo. Omni ergo creaturae praedicatur Evangelium, cum soli homini~
-praedicatur.
+Omnis autem creaturæ aliquid habet homo. Habet namque commune esse cum lapidibus, vivere cum arboribus, sentire cum animalibus, intelligere cum Angelis. Si ergo commune habet aliquid cum omni creatura homo, juxta aliquid omnis creatura est homo. Omni ergo creaturæ prædicatur Evangelium, cum soli homini~
+prædicatur.
 (sed rubrica 1570 dicitur)
-praedicatur: quia ille uidelicet docetur propter quem in terra cuncta creata sunt, et a quo omnia per quandam similitudinem aliena non sunt. Potest etiam omnis creatur� nomine omnis natio Gentium designari. Ante etenim dictum fuerat: In viam Gentium ne abieritis: nunc autem dicitur, Pr�dicate omni creatur�. Ut scilicet prius a Iud�a apostolorum repulsa pr�dicatio, tunc nobis in adiutorium fieret, cum hanc illa ad damnationis su� testimonium superba repulisset. Sed cum discipulos ad pr�dicandum ueritas mittit, quid aliud in mundo facit, nisi granum seminis spargit? et pauca grana mittit in semine, ut multarum messium fruges recipiat ex nostra fide? neque etenim in universo mundo tanta fidelium messis exurgeret, si de manu domini superationalem terram illa electa grana pr�dicantium non uenissent.
+prædicatur: quia ille uidelicet docetur propter quem in terra cuncta creata sunt, et a quo omnia per quandam similitudinem aliena non sunt. Potest etiam omnis creatur� nomine omnis natio Gentium designari. Ante etenim dictum fuerat: In viam Gentium ne abieritis: nunc autem dicitur, Pr�dicate omni creatur�. Ut scilicet prius a Iud�a apostolorum repulsa pr�dicatio, tunc nobis in adiutorium fieret, cum hanc illa ad damnationis su� testimonium superba repulisset. Sed cum discipulos ad pr�dicandum ueritas mittit, quid aliud in mundo facit, nisi granum seminis spargit? et pauca grana mittit in semine, ut multarum messium fruges recipiat ex nostra fide? neque etenim in universo mundo tanta fidelium messis exurgeret, si de manu domini superationalem terram illa electa grana pr�dicantium non uenissent.
 &teDeum
 
 [Ant Laudes]
@@ -257,7 +257,7 @@ praedicatur: quia ille uidelicet docetur propter quem in terra cuncta creata sun
 @:Hymnus Vespera
 
 [Versum 2]
-V. Dominus in caelo, alleluia.
+V. Dominus in cælo, alleluia.
 R. Paravit sedem suam, alleluia.
 
 [Ant 2]
@@ -266,16 +266,16 @@ Ascendo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allelui
 [Octava 2]
 Ant. Ascendo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, alleluia.
 _
-V. Dominus in caelo, alleluia.
+V. Dominus in cælo, alleluia.
 R. Paravit sedem suam, alleluia.
 _
 v. Oremus. 
-Concede, quaesumus, omnipotens Deus: ut, qui hodierna die Unigenitum tuum Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in caelestibus habitemus.
+Concede, quæsumus, omnipotens Deus: ut, qui hodierna die Unigenitum tuum Redemptorem nostrum ad cælos ascendisse credimus, ipsi quoque mente in cælestibus habitemus.
 $Per eumdem
 
 [Lectio Prima]
 !Act. 1:11
-v. Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet, quemadmodum vidistis eum euntem in caelum.
+v. Viri Galilæi, quid statis aspicientes in cælum? Hic Jesus, qui assumptus est a vobis in cælum, sic veniet, quemadmodum vidistis eum euntem in cælum.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
@@ -283,7 +283,7 @@ v. Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus es
 [Responsory Tertia]
 R.br. Ascendit Deus in jubilatione, * Alleluia, alleluia.
 R. Ascendit Deus in jubilatione, * Alleluia, alleluia.
-V. Et Dominus in voce tubae.
+V. Et Dominus in voce tubæ.
 R. Alleluia, alleluia.
 &Gloria
 R. Ascendit Deus in jubilatione, * Alleluia, alleluia.
@@ -293,7 +293,7 @@ R. Captivam duxit captivitatem, alleluia.
 
 [Capitulum Sexta]
 !Act. 1:4-5
-v. Et convescens, praecepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis (inquit) per os meum: quia Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto non post multos hos dies.
+v. Et convescens, præcepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis (inquit) per os meum: quia Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto non post multos hos dies.
 $Deo gratias
 
 [Responsory Sexta]
@@ -319,7 +319,7 @@ R. Alleluia, alleluia.
 &Gloria
 R. Ascendo ad Patrem meum, et Patrem vestrum, * Alleluia, alleluia.
 _
-V. Dominus in caelo, alleluia.
+V. Dominus in cælo, alleluia.
 R. Paravit sedem suam, alleluia.
 
 [Versum 3]
@@ -328,17 +328,17 @@ R. Paravit sedem suam, alleluia.
 @:Versum 2
 
 [Ant 3]
-O Rex gloriae, * Domine virtutum, qui triumphator hodie super omnes caelos ascendisti, ne derelinquas nos orphanos: sed mitte promissum Patris in nos, Spiritum veritatis, alleluia.
+O Rex gloriæ, * Domine virtutum, qui triumphator hodie super omnes cælos ascendisti, ne derelinquas nos orphanos: sed mitte promissum Patris in nos, Spiritum veritatis, alleluia.
 
 [Octava 3]
-Ant. O Rex gloriae, * Domine virtutum, qui triumphator hodie super omnes caelos ascendisti, ne derelinquas nos orphanos: sed mitte promissum Patris in nos, Spiritum veritatis, alleluia.
+Ant. O Rex gloriæ, * Domine virtutum, qui triumphator hodie super omnes cælos ascendisti, ne derelinquas nos orphanos: sed mitte promissum Patris in nos, Spiritum veritatis, alleluia.
 _
 V. Ascendit Deus in jubilatione, alleluja.
 R. Et Dominus in voce tub�, alleluja. 
-(sed rubrica Tridentina loco haec versus dicitur)
-V. Dominus in caelo, alleluja.
+(sed rubrica Tridentina loco hæc versus dicitur)
+V. Dominus in cælo, alleluja.
 R. Paravit sedem suam, alleluja.
 _
 v. Oremus.
-Concede, quaesumus, omnipotens Deus: ut qui hodierna die Unigenitum tuum Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in caelestibus habitemus.
+Concede, quæsumus, omnipotens Deus: ut qui hodierna die Unigenitum tuum Redemptorem nostrum ad cælos ascendisse credimus, ipsi quoque mente in cælestibus habitemus.
 $Per eumdem
