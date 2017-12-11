@@ -2,7 +2,7 @@
 Dominica = Alleluia, * cantate le lodi del Signore, perché eterna è la sua misericordia, alleluia, alleluia. 
 117,118(2-16),118(17-32)
 Feria II =   Chi ha pure le mani * e mondo il cuore salirà al monte del Signore.  
-23,18(1-7),18(8-15),[46]
+23,18(2-7),18(8-15),[46]
 Feria III =  Dio mio, * in te confido, non abbia io da arrossire.
 24(1-7),24(8-14),24(15-22),[95]
 Feria IV = La tua misericordia, * o Signore, sta dinanzi ai miei occhi: e mi sono compiaciuto della tua verità.
@@ -10,7 +10,7 @@ Feria IV = La tua misericordia, * o Signore, sta dinanzi ai miei occhi: e mi son
 Feria V = In un luogo di verdi pascoli * ivi mi ha posto il Signore.
 22,71(1-8),71(9-20),[97]
 Feria VI = Non allontanarti da me, * o Signore: poiché la tribolazione è vicina: poiché non vi è chi mi aiuti.  
-21(1-12),21(13-23),21(24-32),[98]
+21(2-12),21(13-23),21(24-32),[98]
 Sabbato = Levati su, o Signore, * che giudichi la terra: rendi ai superbi ciò che si meritano.  
 93(1-11),93(12-23),107,[149]
 
