@@ -34,7 +34,7 @@ Sabato = Let my cry reach unto thee, O Lord: * turn not away thy face from me.
 Dominica = Alleluia, * I am thine, save thou me, O Lord, alleluia, alleluia.
 118(81-96), 118(97-112), 118(113-128)
 Feria II = Deliver me * in thy justice, O Lord.
-30(1-9), 30(10-19), 30(20-25)
+30(2-9), 30(10-19), 30(20-25)
 Feria III = But thou hast upheld me, O Lord, * and hast established me in thy sight for ever.
 40, 41(1-6), 41(7-12
 Feria IV = In God I have put my trust * I will not fear what flesh can do against me.
@@ -70,7 +70,7 @@ Feria II = Deliver my soul, * O Lord, save me for thy mercy's sake.
 Feria III = Thou, O Lord, * wilt preserve us: and keep us for ever.
 11,12,15
 Feria IV = The angel of the Lord * shall encamp round about them that fear him: and shall deliver them.
-33(1-11),33(12-23),60
+33(2-11),33(12-23),60
 Feria V = Thou art my helper * and my deliverer, O Lord.
 69,70(1-12),70(13-24)
 Feria VI = I have cried * to the Lord with my voice, do not forget to show mercy, O God.
@@ -185,7 +185,7 @@ Sexta Dominica=Alleluia * alleluia, alleluia.;;118(81-96), 118(97-112), 118(113-
 Sexta Feria=Help me * and I shall be saved, O Lord.;;118(81-96), 118(97-112), 118(113-128)
 Nona Dominica=Alleluia * alleluia, alleluia.;;118(129-144), 118(145-160), 118(161-176)
 Nona Feria=Look upon me * and have mercy on me, O Lord.;;118(129-144), 118(145-160), 118(161-176)
-Completorium=Have mercy on me * O Lord, and hearken to my prayer.;; 4,30(1-6),90,133
+Completorium=Have mercy on me * O Lord, and hearken to my prayer.;; 4,30(2-6),90,133
 
 [Monastic]
 Prima Dominica=Alleluia * alleluia, alleluia (alleluia);;118(2-9),118(10-16),118(17-24),118(25-32)

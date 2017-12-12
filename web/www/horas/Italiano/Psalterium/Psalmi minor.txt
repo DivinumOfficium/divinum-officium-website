@@ -34,7 +34,7 @@ Sabato = Il mio grido, * o Signore,  giunga sino a te: non rivolgere da me la tu
 Dominica = Alleluia, * io sono tuo, salvami, o Signore alleluia, alleluia. 
 118(81-96), 118(97-112), 118(113-128)
 Feria II = Per la tua giustizia * salvami, o Signore.  
-30(1-9), 30(10-19), 30(20-25)
+30(2-9), 30(10-19), 30(20-25)
 Feria III = Tu mi hai difeso, o Signore: * e mi hai posto al sicuro al tuo cospetto.  
 40, 41(1-6), 41(7-12)
 Feria IV =  Ho sperato in Dio, non temerò ciò che possa farmi l'uomo.
@@ -70,7 +70,7 @@ Feria II = Salvami, * Signore, per la tua misericordia.
 Feria III = Tu, o Signore, * ci custodirai e ci difenderai in eterno.
 11,12,15
 Feria IV = L'Angelo del Signore scenderà * attorno a quelli, che lo temono: e li salverà.
-33(1-11),33(12-23),60
+33(2-11),33(12-23),60
 Feria V = Il mio aiuto * e il mio liberatore sii tu, o Signore.  
 69,70(1-12),70(13-24)
 Feria VI = Con la mia voce * ho gridato al Signore: e Dio non si dimenticherà di aver pietà.
@@ -187,7 +187,7 @@ Sexta Dominica=Alleluia * alleluia, alleluia.;;118(81-96), 118(97-112), 118(113-
 Sexta Feria=Aiutami, * e sarò salvo, o Signore.;;118(81-96), 118(97-112), 118(113-128)
 Nona Dominica=Alleluia * alleluia, alleluia.;;118(129-144), 118(145-160), 118(161-176)
 Nona Feria=Volgiti * a me, ed abbi pietà di me, o Signore.;;118(129-144), 118(145-160), 118(161-176)
-Completorium=Abbi pietà * di me, o Signore, ed ascolta la mia preghiera.;; 4,30(1-6),90,133
+Completorium=Abbi pietà * di me, o Signore, ed ascolta la mia preghiera.;; 4,30(2-6),90,133
 
 [Monastic]
 Prima Dominica=Alleluia * alleluia, alleluia (alleluia);;118(2-9),118(10-16),118(17-24),118(25-32)
