@@ -20,7 +20,7 @@ Dominica = Alleluja, * prowadź mię Panie, ścieżką mandatów twoich, alleluj
 Feria II = Oświeceniem mojem, * i zbawieniem mojem, Pan.
 26(1-6), 26(7-14), 27
 Feria III = Wejrzał na mnie * i wysłuchał prośby mojej Pan.
-39(1-9), 39(10-14), 39(15-18)
+39(2-9), 39(10-14), 39(15-18)
 Feria IV = Bóg mię podpomaga: * a Pan jest obrońcą dusze mojéj.
 53, 54(1-16), 54(17-24)
 Feria V = Jako dobry * Bóg Izraelczyków, tym, którzy są prostego serca.
@@ -36,7 +36,7 @@ Dominica = Alleluja, * Twójcim ja, zbawże mię, Panie, alleluja, alleluja.
 Feria II = W sprawiedliwości twojéj * wybaw mię, Panie.
 30(2-9), 30(10-19), 30(20-25)
 Feria III = Przyjąłeś mię, Panie: * utwierdziłeś mię przed oblicznością twoją.
-40, 41(1-6), 41(7-12)
+40, 41(2-6), 41(7-12)
 Feria IV = W Bogum nadzieję miał: * nie będę się bał, co mi uczyni człowiek.
 55, 56, 57
 Feria V = Wspomnij * na zgromadzenie twoje, Panie, któreś posiadł od początku.
@@ -52,7 +52,7 @@ Dominica = Alleluja, * Oblicze twe Panie, rozświeć nad sługą twoim, alleluja
 Feria II = Weselcie się w Panu i radujcie się sprawiedliwi, * a chlubcie się wszyscy prawego serca.
 31, 32(1-11), 32(12-22)
 Feria III = Wybawiłeś nas, * Panie, a w imię twe wyznawać będziem na wieki.
-43(1-9), 43(10-20), 43(21-26)
+43(2-9), 43(10-20), 43(21-26)
 Feria IV = Bóg mój, * miłosierdzie jego uprzedzi mię.
 58(1-11), 58(12-21), 59
 Feria V = Wzywać * imienia twego, Panie: i opowiadać będziemy dziwne sprawy twoje.

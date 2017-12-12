@@ -20,7 +20,7 @@ Dominica = Allelúia, * deduc me, Dómine, in sémitam mandatórum tuórum, alle
 Feria II = Illuminátio mea * et salus mea Dóminus.
 26(1-6), 26(7-14), 27
 Feria III = Respéxit me * et exaudívit deprecatiónem meam Dóminus.
-39(1-9), 39(10-14), 39(15-18)
+39(2-9), 39(10-14), 39(15-18)
 Feria IV =  Deus ádjuvat me: * et Dóminus suscéptor est ánimæ meæ.
 53, 54(1-16), 54(17-24)
 Feria V = Quam bonus * Israël Deus, his, qui recto sunt corde.
@@ -36,7 +36,7 @@ Dominica = Allelúia, * tuus sum ego, salvum me fac, Dómine, allelúia, allelú
 Feria II = In tua justítia * líbera me, Dómine.
 30(2-9), 30(10-19), 30(20-25)
 Feria III = Suscepísti me, Dómine: * et confirmásti me in conspéctu tuo.
-40, 41(1-6), 41(7-12)
+40, 41(2-6), 41(7-12)
 Feria IV = In Deo sperávi * non timébo quid fáciat mihi homo.
 55, 56, 57
 Feria V = Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio.
@@ -52,7 +52,7 @@ Dominica = Allelúia, * fáciem tuam, Dómine, illúmina super servum tuum, alle
 Feria II = Exsultáte, justi, * et gloriámini, omnes recti corde.
 31, 32(1-11), 32(12-22)
 Feria III = Salvásti nos, * Dómine, et in nómine tuo confitébimur in sǽcula.
-43(1-9), 43(10-20), 43(21-26)
+43(2-9), 43(10-20), 43(21-26)
 Feria IV =  Deus meus * misericórdia tua prævéniet me.
 58(1-11), 58(12-21), 59
 Feria V =  Invocábimus * nomen tuum, Dómine: narrábimus mirabília tua.
