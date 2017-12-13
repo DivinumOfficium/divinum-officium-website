@@ -8,7 +8,7 @@ Feria III = Boże mój, * w tobie ufam, niech się nie zawstydzę.
 Feria IV = Miłosierdzie twoje, * Panie, przed oczyma memi: i ukochałem się w prawdzie twojej.
 25,51,52,[96]
 Feria V = Na miejscu paszy, * tam Pan mię posadził.
-22,71(1-8),71(9-20),[97]
+22,71(2-8),71(9-19),[97]
 Feria VI = Nie odstępuj odemnie, * Panie: albowiem utrapienie bliskie jest: bo niemasz, ktoby ratował.
 21(2-12),21(13-23),21(24-32),[98]
 Sabbato = Wywyższ się, Panie, * który sądzisz ziemię, oddaj zapłatę pysznym.
@@ -56,7 +56,7 @@ Feria III = Wybawiłeś nas, * Panie, a w imię twe wyznawać będziem na wieki.
 Feria IV = Bóg mój, * miłosierdzie jego uprzedzi mię.
 58(2-11), 58(12-18), 59
 Feria V = Wzywać * imienia twego, Panie: i opowiadać będziemy dziwne sprawy twoje.
-74, 75(1-7), 75(8-13)
+74, 75(2-7), 75(8-13)
 Feria VI = Miłosierdzie i prawda * uprzedzą oblicze twoje, Panie.
 88(1-19), 88(20-38), 88(39-53)
 Sabbato = Nie zamilczaj Boże, * bo ogarnęli mię mowami nienawistnemi.
@@ -74,7 +74,7 @@ Feria IV = Wpuści Aniół Pański * wokoło bojących się go: i wyrwie je.
 Feria V = Bądź pomocnikiem moim * i wybawicielem moim, Panie.
 69,70(1-12),70(13-24)
 Feria VI = Głosem moim * wołałem do Pana: nie zapomni Bóg zmiłować się.
-76(1-13),76(14-21),85
+76(2-13),76(14-21),85
 Sabbato = Niechaj modlitwa moja przyjdzie * przed obliczność twoję, Panie.
 87,102(1-12),102(13-22)
 
