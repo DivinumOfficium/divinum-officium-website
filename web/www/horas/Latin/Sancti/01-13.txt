@@ -10,6 +10,7 @@ Lectio1 tempora
 Doxology=Epi
 9 lectiones
 Comkey=20
+no commemoratio (rubrica 1960)
 
 [Oratio]
 Deus, cuius Unigénitus in substántia nostræ carnis appáruit: præsta, quǽsumus; ut per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur:
