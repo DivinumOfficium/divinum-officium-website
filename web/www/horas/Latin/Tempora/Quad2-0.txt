@@ -5,10 +5,10 @@ Dominica II in Quadragesima;;I classis Semiduplex;;6
 9 lectiones
 
 [Ant 1]
-Visiónem quam vidistis, * némini dixeritis, donec a mórtuis resúrgat Fílius hóminis.
+Visiónem quam vidístis, * némini dixéritis, donec a mórtuis resúrgat Fílius hóminis.
 
 [Oratio]
-Deus, qui conspicis omni nos virtúte destítui: intérius exteriúsque custódi; ut ab ómnibus adversitátibus muniámur in córpore, et a právis cogitatiónibus mundémur in mente.
+Deus, qui cónspicis omni nos virtúte destítui: intérius exteriúsque custódi; ut ab ómnibus adversitátibus muniámur in córpore, et a právis cogitatiónibus mundémur in mente.
 $Per Dominum
 
 [Lectio1]
@@ -130,11 +130,11 @@ Hic est Fílius meus, per quem ómnia facta sunt, et sine quo factum est nihil: 
 
 [Responsory9]
 R. Cum audísset Jacob quod Esau veníret contra eum, divísit fílios suos et uxóres, dicens: Si percusserit Esau unam turmam, salvábitur áltera. 
-* Líbera me, Dómine, qui dixísti mihi: * Multiplicábo semen tuum sicut stellas cæli, et sicut arénam maris, quæ præ multitúdine numerari non potest.
+* Líbera me, Dómine, qui dixísti mihi: * Multiplicábo semen tuum sicut stellas cæli, et sicut arénam maris, quæ præ multitúdine numerári non potest.
 V. Dómine, qui dixísti mihi, Revertere in terram nativitátis tuæ: Dómine, qui pascis me a juventúte mea.
 R. Líbera me, Dómine, qui dixísti mihi.
 &Gloria
-R. Multiplicábo semen tuum sicut stellas cæli, et sicut arénam maris, quæ præ multitúdine numerari non potest.
+R. Multiplicábo semen tuum sicut stellas cæli, et sicut arénam maris, quæ præ multitúdine numerári non potest.
 
 [Ant Laudes]
 Dómine, * lábia mea apéries, et os meum annuntiábit laudem tuam.
@@ -145,7 +145,7 @@ Státuit ea * in ætérnum, et in sǽculum sǽculi: præcéptum pósuit, et non 
 
 [Capitulum Laudes]
 !1 Thess 4:1
-v. Fratres: Rogámus vos, et obsecrámus in Dómino Jesu: ut, quemádmodum accepístis a nobis, quómodo vos opórteat ambuláre, et placere Deo, sic et ambuletis, ut abundetis magis.
+v. Fratres: Rogámus vos, et obsecrámus in Dómino Jesu: ut, quemádmodum accepístis a nobis, quómodo vos opórteat ambuláre, et placére Deo, sic et ambulétis, ut abundétis magis.
 $Deo gratias
 
 [Ant 2]
@@ -165,7 +165,7 @@ Faciámus hic * tria tabernácula; tibi unum, Móysi unum, et Eliæ unum.
 
 [Capitulum Sexta]
 !1 Thess 4:3-4
-v. Hæc est enim volúntas Dei, sanctificátio vestra: ut abstineátis vos a fornicatióne, ut sciat unusquísque vestrum vas suum póssidere in sanctificatióne et honore.
+v. Hæc est enim volúntas Dei, sanctificátio vestra: ut abstineátis vos a fornicatióne, ut sciat unusquísque vestrum vas suum póssidere in sanctificatióne et honóre.
 $Deo gratias
 
 [Ant Nona]
