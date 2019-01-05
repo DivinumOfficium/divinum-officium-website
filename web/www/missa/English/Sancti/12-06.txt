@@ -43,7 +43,7 @@ The just man shall flourish like the palm tree, like a cedar of Lebanon shall he
 grow. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
+Continuation +++ of the Holy Gospel according to Matthew
 !Matt. 25:14-23
 At that time, Jesus spoke this parable to His disciples: A man going abroad,~
 called his servants and handed over his goods to them. And to one he gave five~

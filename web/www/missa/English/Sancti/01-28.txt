@@ -45,7 +45,7 @@ alleluia.
 Happy the man who fear the Lord, who greatly delights in His commands. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
+Continuation +++ of the Holy Gospel according to Luke
 !Luke 12:32-34
 At that time, Jesus said to His disciples, Do not be afraid, little flock, for~
 it has pleased your Father to give you the kingdom. Sell what you have and give~

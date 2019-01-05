@@ -46,7 +46,7 @@ fire of Your love.
 @Tempora/Pasc7-0:Sequentia
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
+Continuation +++ of the Holy Gospel according to Luke
 !Luke 9:1-6.
 At that time, having summoned the twelve apostles, Jesus gave them power and~
 authority over all the devils, and to cure diseases. And He sent them forth to~

@@ -36,7 +36,7 @@ V. Blessed is the man who endures temptation; for when he has been tried, he~
 will receive the crown of life. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
+Continuation +++ of the Holy Gospel according to Matthew
 !Matt 18:1-5
 At that time, the disciples came to Jesus, saying, Who then is greatest in the~
 kingdom of heaven? And Jesus called a little child to Him, set him in their~

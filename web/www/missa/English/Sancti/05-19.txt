@@ -53,7 +53,7 @@ You shall make them princes through all the land; they shall remember Your name~
 through all generations. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
+Continuation +++ of the Holy Gospel according to Matthew
 !Matt. 16:13-19
 At that time, Jesus, having come into the district of Caesarea Philippi, began~
 to ask His disciples, saying, Who do men say the Son of Man is? But they said,~

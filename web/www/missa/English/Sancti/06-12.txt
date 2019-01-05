@@ -47,7 +47,7 @@ Blessed is the man who endures temptation; for when he has been tried, he will~
 receive the crown of life. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
+Continuation +++ of the Holy Gospel according to Luke
 !Luke 12:35-40
 At that time, Jesus said to His disciples, Let your loins be girt about and your~
 lamps burning, and you yourselves like men waiting for their masters return~

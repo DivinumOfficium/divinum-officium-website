@@ -39,7 +39,7 @@ blessed. Alleluia, alleluia.
 V. The glorious choir of Apostles praises You, O Lord. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
+Continuation +++ of the Holy Gospel according to Matthew
 !Matt 9:9-13
 At that time, Jesus saw a man named Matthew sitting in the tax-collector’s place,~
 and said to him, Follow Me. And he arose and followed Him. And it came to pass~

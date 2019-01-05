@@ -37,7 +37,7 @@ alleluia.
 V. This is the priest who the Lord has crowned. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
+Continuation +++ of the Holy Gospel according to John
 !John 10:11-16
  At that time, Jesus said to the Pharisees: I am the Good Shepherd. The good~
 shepherd lays down his life for his sheep. But the hireling, who is not a~

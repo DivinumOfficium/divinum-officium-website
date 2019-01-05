@@ -41,7 +41,7 @@ Your faithful; and kindle in them the fire of Your love.
 @Tempora/Pasc7-0:Sequentia
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
+Continuation +++ of the Holy Gospel according to John
 !John 10:1-10.
 At that time, Jesus said to the Pharisees, Amen, amen, I say to you, he who~
 enters not by the door into the sheepfold, but climbs up another way, is a thief~
