@@ -47,7 +47,7 @@ Blessed are You, O Lord, the God of our fathers, and praiseworthy forever.~
 Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
+Continuation +++ of the Holy Gospel according to Matthew
 !Matt 28:18-20
 At that time, Jesus said to His disciples: All power in heaven and on earth has~
 been given to Me. Go, therefore, and make disciples of all nations, baptizing~

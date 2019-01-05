@@ -127,7 +127,7 @@ is His kindness toward us, and the fidelity of the Lord endures forever.
 @Tempora/Pasc7-0:Sequentia
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
+Continuation +++ of the Holy Gospel according to Luke
 !Luke 4:38-44.
 At that time, Jesus rose from the synagogue and entered Simon’s house. Now~
 Simon’s mother-in-law was suffering from a great fever, and they besought Him~

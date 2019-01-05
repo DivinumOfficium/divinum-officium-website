@@ -12,7 +12,7 @@ her ground.
 $Per Dominum
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
+Continuation +++ of the Holy Gospel according to John
 !John 12:24-26
 At that time, Jesus said to His disciples, Amen, amen, I say to you, unless the~
 grain of wheat falls into the ground and dies, it remains alone. But if it dies,~

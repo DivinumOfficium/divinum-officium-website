@@ -38,7 +38,7 @@ Come to Me, all you who labor and are burdened, and I will give you rest.~
 Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
+Continuation +++ of the Holy Gospel according to Matthew
 !Matt 5:1-12
  At that time, Jesus seeing the crowds, went up the mountain. And when He was~
 seated, His disciples came to Him. And opening His mouth He taught them, saying,~
