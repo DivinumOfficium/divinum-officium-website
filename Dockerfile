@@ -21,6 +21,8 @@ COPY ./docker /
 EXPOSE 8080
 WORKDIR /var/www
 
+HEALTHCHECK CMD wget -S -q --spider -O/dev/null http://localhost:8080 2>&1 | grep -q 'HTTP/1.1 200'
+
 CMD ["httpd", "-DFOREGROUND"]
 
 FROM dev AS prod
