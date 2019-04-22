@@ -35,13 +35,13 @@ examples.
 
 ## Docker
 
-[![](https://images.microbadger.com/badges/version/divinumofficiumweb/divinumofficium.svg)](https://cloud.docker.com/u/divinumofficiumweb/repository/docker/divinumofficiumweb/divinumofficium "DockerHub Container")
+[![](https://images.microbadger.com/badges/version/divinumofficiumweb/divinumofficium.svg)](https://hub.docker.com/r/divinumofficiumweb/divinumofficium "DockerHub Container")
 
-[![](https://images.microbadger.com/badges/image/divinumofficiumweb/divinumofficium.svg)](https://cloud.docker.com/u/divinumofficiumweb/repository/docker/divinumofficiumweb/divinumofficium "DockerHub Container")
+[![](https://images.microbadger.com/badges/image/divinumofficiumweb/divinumofficium.svg)](https://hub.docker.com/r/divinumofficiumweb/divinumofficium "DockerHub Container")
 
 ### Production
 
-To pull a pre-built container, pull see docker image `divinumofficiumweb/divinumofficiumweb:latest`.
+To pull a pre-built container, pull see docker image `divinumofficiumweb/divinumofficium:latest`.
 
 This is still early alpha, but this notice will be removed when it's
 stable and ready to use.
