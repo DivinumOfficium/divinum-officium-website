@@ -1139,7 +1139,8 @@ $Per Dominum
 
 [Litania]
 &Dominus_vobiscum
-&Benedicamus_Domino 
+&Benedicamus_Domino
+
 !Litanie des Saints
 Seigneur ayez pitié. Seigneur ayez pitié.
 Christ ayez pitié. Christ ayez pitié.
@@ -1166,164 +1167,162 @@ Saint Pierre, priez pour nous.
 Saint Paul, priez pour nous.
 Saint André, priez pour nous.
 Saint Jacques, priez pour nous.
-Saint Jean, priez pour nous.
-Sancte Thoma, ora pro nobis.
-Sancte Jacobe, ora pro nobis.
-Sancte Philippe, ora pro nobis.
-Sancte Bartolomæe, ora pro nobis.
-Sancte Matthæe, ora pro nobis.
-Sancte Simon, ora pro nobis.
-Sancte Thaddæe, ora pro nobis.
-Sancte Matthia, ora pro nobis.
-Sancte Barnaba, ora pro nobis.
-Sancte Luca, ora pro nobis.
-Sancte Marce, ora pro nobis.
-Omnes sancti Apóstoli et Evangelístæ, orate pro nobis.
-Omnes sancti discipuli Dómini, orate pro nobis.
+Saint Philippe, priez pour nous.
+Saint Barthélémy, priez pour nous.
+Saint Mathieu, priez pour nous.
+Saint Simon, priez pour nous.
+Saint Thaddée, priez pour nous.
+Saint Matthias, priez pour nous.
+Saint Barnabé, priez pour nous.
+Saint Luc, priez pour nous.
+Saint Marc, priez pour nous.
+Tous les saints Apôtres et Évangélistes, priez pour nous.
+Tous les saints Disciples du Seigneur, priez pour nous.
 _
-Omnes sancti Innocéntes, orate pro nobis.
-Sancte Stephane, ora pro nobis.
-Sancte Laurenti, ora pro nobis.
-Sancte Vincenti, ora pro nobis.
-Sancti Fabiane et Sebastiane, orate pro nobis.
-Sancti Ioannes et Paule, orate pro nobis.
-Sancti Cosma et Damiane, orate pro nobis.
-Sancti Gervasi et Protasi, orate pro nobis.
-Omnes sancti mártyres, orate pro nobis.
-Sancte Sylvester, ora pro nobis.
-Sancte Gregori, ora pro nobis.
-Sancte Ambrosi, ora pro nobis.
-Sancte Augustine, ora pro nobis.
-Sancte Hieronyme, ora pro nobis.
-Sancte Martine, ora pro nobis.
-Sancte Nicolae, ora pro nobis.
-Omnes sancti Pontífices et Confessores,	orate pro nobis.
-Omnes sancti Doctóres, orate pro nobis.
-Sancte Antoni, ora pro nobis.
-Sancte Benedicte, ora pro nobis.
-Sancte Bernarde, ora pro nobis.
-Sancte Dominice, ora pro nobis.
-Sancte Francisce, ora pro nobis.
-Omnes sancti Sacerdótes et Levitæ, orate pro nobis.
-Omnes sancti Monachi et Eremitæ, orate pro nobis.
+Tous les saints Innocents, priez pour nous.
+Saint Etienne, priez pour nous.
+Saint Laurent, priez pour nous.
+Saint Vincent, priez pour nous.
+Saint Fabien et saint Sébastien, priez pour nous.
+Saint Jean et saint Paul, priez pour nous.
+Saint Côme et saint Damien, priez pour nous.
+Saint Gervais et saint Protais, priez pour nous.
+Tous les saints Martyrs, priez pour nous.
+Saint Sylvestre, priez pour nous.
+Saint Grégoire, priez pour nous.
+Saint Ambroise, priez pour nous.
+Saint Augustin, priez pour nous.
+Saint Jérôme, priez pour nous.
+Saint Martin, priez pour nous.
+Saint Nicolas, priez pour nous.
+Tous les saints Pontifes et Confesseurs, priez pour nous.
+Tous les saints Docteurs, priez pour nous.
+Saint Antoine, priez pour nous.
+Saint Benoît, priez pour nous.
+Saint Bernard, priez pour nous.
+Saint Dominique, priez pour nous.
+Saint François, priez pour nous.
+Tous les saints Prêtres et Lévites, priez pour nous.
+Tous les saints Moines et Ermites, priez pour nous.
 _
-Sancta María Magdaléna, ora pro nobis.
-Sancta Agatha, ora pro nobis.
-Sancta Lúcia, ora pro nobis.
-Sancta Agnes, ora pro nobis.
-Sancta Cæcília, ora pro nobis.
-Sancta Catharína, ora pro nobis.
-Sancta Anastasia, ora pro nobis.
-Omnes sanctæ Vírgines et Víduæ,	orate pro nobis.
-Omnes Sancti et Sanctæ Dei, intercedite pro nobis.
+Sainte Marie-Madeleine, priez pour nous.
+Sainte Agathe, priez pour nous.
+Sainte Lucie, priez pour nous.
+Sainte Agnès, priez pour nous.
+Sainte Cécile, priez pour nous.
+Sainte Catherine, priez pour nous.
+Sainte Anastasie, priez pour nous.
+Toutes les saintes Vierges et Veuves, priez pour nous.
+Tous les Saints et Saintes de Dieu, intercédez pour nous.
 _
-Propítius esto, parce nobis, Dómine.
-Propítius esto, exáudi nos, Dómine.
-Ab omni malo, líbera nos, Dómine.
-Ab omni peccáto, líbera nos, Dómine.
-Ab ira tua, líbera nos, Dómine.
-A subitánea et improvísa morte, líbera nos, Dómine.
-Ab insídiis diáboli, líbera nos, Dómine.
-Ab ira et ódio et omni mala voluntáte, líbera nos, Dómine.
-A spíritu fornicatiónis, líbera nos, Dómine.
-A fulgure et tempestáte, líbera nos, Dómine.
-A flagello terræmotus, líbera nos, Dómine.
-A peste, fame et bello, líbera nos, Dómine.
-A morte perpétua, líbera nos, Dómine.
-Per mystérium sanctæ Incarnationis tuæ, líbera nos, Dómine.
-Per advéntum tuum, líbera nos, Dómine.
-Per nativitatem tuam, líbera nos, Dómine.
-Per baptísmum et sanctum ieiunium tuum, líbera nos, Dómine.
-Per crucem et passiónem tuam, líbera nos, Dómine.
-Per mortem et sepulturam tuam, líbera nos, Dómine.
-Per sanctam resurrectiónem tuam, líbera nos, Dómine.
-Per admirábilem ascensiónem tuam, líbera nos, Dómine.
-Per advéntum Spíritus Sancti Paracliti, líbera nos, Dómine.
-In die judícii, líbera nos, Dómine.
+Soyez-nous propice, pardonnez-nous, Seigneur.
+Soyez-nous propice, exaucez-nous, Seigneur.
+De tout mal, délivrez-nous, Seigneur.
+De tout péché, délivrez-nous, Seigneur.
+De votre colère, délivrez-nous, Seigneur.
+D’une mort subite et imprévue, délivrez-nous, Seigneur.
+Des embûches du démon, délivrez-nous, Seigneur.
+De la colère, de la haine, et de toute mauvaise volonté, délivrez-nous, Seigneur.
+De l’esprit de fornication, délivrez-nous, Seigneur.
+De la foudre et de la tempête, délivrez-nous, Seigneur.
+Du fléau des tremblements de terre, délivrez-nous, Seigneur.
+De la peste, de la famine et de la guerre, délivrez-nous, Seigneur.
+De la mort éternelle, délivrez-nous, Seigneur.
+Par le mystère de votre sainte incarnation, délivrez-nous, Seigneur.
+Par votre avènement, délivrez-nous, Seigneur.
+Par votre nativité, délivrez-nous, Seigneur.
+Par votre baptême et votre saint jeûne, délivrez-nous, Seigneur.
+Par votre croix et votre passion, délivrez-nous, Seigneur.
+Par votre mort et votre sépulture, délivrez-nous, Seigneur.
+Par votre sainte résurrection, délivrez-nous, Seigneur.
+Par votre admirable ascension, délivrez-nous, Seigneur.
+Par la venue du Saint-Esprit Consolateur, délivrez-nous, Seigneur.
+Au jour du jugement, délivrez-nous, Seigneur.
 _
-Peccatóres, te rogamus, audi nos.
-Ut nobis parcas, te rogamus, audi nos.
-Ut nobis indúlgeas, te rogamus, audi nos.
-Ut ad veram pænitentiam nos perducere digneris, te rogamus, audi nos.
-Ut Ecclésiam tuam sanctam regere et conservare digneris, te rogamus, audi nos.
-Ut domnum Apostolicum et omnes ecclesiásticos ordines in sancta religióne conservare digneris, te rogamus, audi nos.
-Ut inimícos sanctæ Ecclésiæ humiliare digneris, te rogamus, audi nos.
-Ut régibus et princípibus christiánis pacem et veram concórdiam donáre digneris, te rogamus, audi nos.
-Ut cuncto pópulo christiáno pacem et unitátem largíri digneris, te rogamus, audi nos.
-Ut omnes errantes ad unitátem Ecclésiæ revocare, et infidéles univérsos ad Evangélii lumen perducere digneris, te rogamus, audi nos.
-Ut nosmetipsos in tuo sancto servítio confortare et conservare digneris, te rogamus, audi nos.
-Ut mentes nostras ad cæléstia desidéria erigas, te rogamus, audi nos.
-Ut ómnibus benefactoribus nostris sempitérna bona retríbuas, te rogamus, audi nos.
-Ut ánimas nostras, fratrum, propinquorum et benefactórum nostrórum ab ætérna damnatióne eripias, te rogamus, audi nos.
-Ut fructus terræ dare et conservare digneris, te rogamus, audi nos.
-Ut ómnibus fidélibus defunctis réquiem ætérnam donare digneris, te rogamus, audi nos.
-Ut nos exaudire digneris, te rogamus, audi nos.
-Fili Dei, te rogamus, audi nos.
+Pécheurs que nous sommes, nous vous en supplions, écoutez-nous.
+Daignez nous pardonner, nous vous en supplions, écoutez-nous.
+Daignez nous faire grâce, nous vous en supplions, écoutez-nous.
+Daignez nous conduire à une véritable pénitence, nous vous en supplions, écoutez-nous.
+Daignez gouverner et conserver votre Église sainte, nous vous en supplions, écoutez-nous.
+Daignez maintenir dans votre sainte religion le Souverain Pontife et tous les ordres de la hiérarchie ecclésiastique, nous vous en supplions, écoutez-nous.
+Daignez abaisser les ennemis de la sainte Église, nous vous en supplions, écoutez-nous.
+Daignez établir une paix et une concorde véritables entre les rois et les princes chrétiens, nous vous en supplions, écoutez-nous.
+Daignez accorder à tout le peuple chrétien la paix et l’unité, nous vous en supplions, écoutez-nous.
+Daignez rappeler à l’unité de l’Église tous ceux qui sont dans l’erreur et conduire à la lumière de l’Évangile tous les infidèles, nous vous en supplions, écoutez-nous.
+Daignez nous conserver et nous fortifier dans votre saint service, nous vous en supplions, écoutez-nous.
+Daignez élever notre esprit et les désirs de notre cœur vers les biens célestes, nous vous en supplions, écoutez-nous.
+Daignez récompenser tous nos bienfaiteurs en leur donnant le bonheur éternel, nous vous en supplions, écoutez-nous.
+Daignez délivrer de la damnation éternelle, nos âmes, et celles de nos frères, de nos parents et de nos bienfaiteurs, nous vous en supplions, écoutez-nous.
+Daignez nous donner les fruits de la terre et les conserver, nous vous en supplions, écoutez-nous.
+Daignez accorder à tous les fidèles défunts le repos éternel, nous vous en supplions, écoutez-nous.
+Daignez exaucer nos vœux, nous vous en supplions, écoutez-nous.
+Fils de Dieu, nous vous en supplions, écoutez-nous.
 _
-Agnus Dei, qui tollis peccáta mundi, parce nobis, Dómine.
-Agnus Dei, qui tollis peccáta mundi, exáudi nos, Dómine.
-Agnus Dei, qui tollis peccáta mundi, miserére nobis.
+Agneau de Dieu, qui ôtez les péchés du monde, pardonnez-nous, Seigneur.
+Agneau de Dieu, qui ôtez les péchés du monde, exaucez-nous, Seigneur.
+Agneau de Dieu, qui ôtez les péchés du monde, ayez pitié de nous.
 _
-Christe, audi nos.
-Christe, exáudi nos.
-v. Kyrie, eléison. Kyrie, eléison.
-Christe, eléison. Christe, eléison.
-v. Kyrie, eléison. Kyrie, eléison.
+Christ, écoutez-nous.
+Christ, exaucez-nous.
+
+
+v. Seigneur ayez pitié. Seigneur ayez pitié.
+Christ ayez pitié. Christ ayez pitié.
+v. Seigneur ayez pitié. Seigneur ayez pitié.
 _
 &pater_noster
 _
 !Psalm 69
 !(in finem David in rememoratione eo quod salvum me fecit Dominus)
-Deus, in adjutórium meum inténde: * Dómine, ad adjuvándum me festína.
-Confundántur et revereántur, * qui quærunt ánimam meam.
-Avertántur retrórsum, et erubéscant, * qui volunt mihi mala.
-Avertántur statim erubescéntes, * qui dicunt mihi: Euge, euge.
-Exsúltent et læténtur in te omnes qui quærunt te, * et dicant semper: Magnificétur Dóminus: qui díligunt salutáre tuum.
-Ego vero egénus, et pauper sum: * Deus, ádjuva me.
-Adjútor meus, et liberátor meus es tu: * Dómine, ne moréris.
-&Gloria
-_
-V. Salvos fac servos tuos.
-R. Deus meus, sperántes in te.
-V. Esto nobis, Dómine, turris fortitúdinis.
-R. A facie inimíci.
-V. Nihil proficiat inimícus in nobis.
-R. Et fílius iniquitátis non appónat nocére nobis.
-V. Dómine, non secúndum peccáta nostra fácias nobis.
-R. Neque secúndum iniquitátes nostras retríbuas nobis.
-V. Orémus pro Pontífice nostro~
-r. N.
-R. Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum ejus.
-V. Orémus pro benefactoribus nostris.
-R. Retribuere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.
-V. Orémus pro fidélibus defunctis.
-R. Réquiem ætérnam dona eis, Dómine, et lux perpétua lúceat eis.
-V. Requiéscant in pace.
-R. Amen.
-V. Pro frátribus nostris absentibus.
-R. Salvos fac servos tuos, Deus meus, sperántes in te.
-V. Mitte eis, Dómine, auxílium de sancto.
-R. Et de Sion tuére eos.
-V. Dómine, exáudi oratiónem meam.
-R. Et clamor meus ad te véniat.
+O Dieu, venez à mon aide ; Seigneur, hâtez-vous de me secourir.
+Qu’ils soient confondus, et couverts de honte, ceux qui cherchent mon âme.
+Qu’ils soient rejetés en arrière et qu’ils rougissent, ceux qui me veulent des maux.
+Qu’ils soient aussitôt repousses en rougissant, ceux qui me disent : Ah ! Ah !
+Mais qu’ils soient dans l’allégresse et se réjouissent en vous tous ceux qui vous cherchent, et qu’ils disent sans cesse : Que le Seigneur soit glorifié, ceux qui aiment votre salut.
+Pour moi je suis indigent et pauvre ; Dieu, aidez-moi.
+Vous êtes mon aide et mon libérateur ; Seigneur, ne tardez pas.
+
+
+
+v. Sauvez vos serviteurs.
+r. Qui espèrent en vous, mon Dieu.
+v. Seigneur, soyez pour nous une tour forte.
+r. A la face de l’ennemi.
+v. Que l’ennemi ne prévale en rien contre nous.
+r. Et que le fils d’iniquité ne puisse nous nuire.
+v. Seigneur, ne nous traitez pas selon nos péchés.
+r. Et ne nous rétribuez pas selon nos iniquités.
+v. Prions pour notre Pontife N.
+r. Que le Seigneur le garde, lui donne une longue vie, le rende heureux sur la terre et ne l’abandonne point à la puissance de ses ennemis.
+v. Prions pour nos bienfaiteurs.
+r. Daignez, Seigneur, pour la gloire de votre nom, accorder la vie éternelle à ceux qui nous font du bien. Ainsi soit-il.
+v. Prions pour les fidèles défunts.
+r. Seigneur, donnez-leur le repos éternel, et que la lumière sans fin luise sur eux.
+v. Qu’ils reposent en paix.
+r. Ainsi soit-il.
+v. Prions pour nos frères absents.
+r. Mon Dieu, sauvez vos serviteurs qui espèrent en vous.
+v. Seigneur, envoyez-leur du secours du lieu saint.
+r. Et de Sion, protégez-les.
+v. Seigneur, exaucez ma prière.
+r. Et que mes cris s’élèvent jusqu’à vous.
 &Dominus_vobiscum1
 _
 !Oratio
 v. Orémus
-v. Deus, cui próprium est miseréri semper et parcere: súscipe deprecatiónem nostram, ut nos, et omnes fámulos tuos, quos delictórum caténa constringit, miserátio tuæ pietátis cleménter absolvat.
-v. Exáudi, quæsumus, Dómine, súpplicum preces, et confitentium tibi parce peccátis: ut páriter nobis indulgéntiam tribuas benígnus et pacem.
-v. Ineffábilem nobis, Dómine, misericórdiam tuam cleménter osténde: ut simul nos et a peccátis ómnibus exuas, et a pœnis, quas pro his meremur, eripias.
-v. Deus, qui culpa offenderis, pœniténtia placaris: preces pópuli tui supplicántis propítius réspice; et flagélla tuæ iracundiæ, quæ pro peccátis nostris meremur, avérte.
-v. Omnípotens sempitérne Deus, miserére famulo tuo Pontífici nostro~
-r. N., et dírige eum secúndum tuam clementiam in viam salútis æternæ: ut, te donante, tibi placita cupiat, et tota virtúte perficiat.
-v. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium sublata formidine, témpora sint, tua protectióne, tranquilla.
-v. Ure igne Sancti Spíritus renes nostros et cor nóstrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeamus.
-v. Fidélium, Deus, ómnium Conditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optaverunt, piis supplicatiónibus consequantur.
-v. Actiónes nostras, quæsumus, Dómine, aspirando prævéni et adjuvando proséquere: ut cuncta nostra orátio et operatio a te semper incipiat, et per te cœpta finiatur. 
-v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque misereris quos tuos fide et ópere futuros esse prænoscis: te súpplices exoramus; ut, pro quibus effúndere preces decrevimus, quosque vel præsens sæculum adhuc in carne retinet vel futúrum jam exutos córpore, suscépit, intercedentibus ómnibus Sanctis tuis, pietátis tuæ clementia, ómnium delictórum suórum véniam consequantur.
+v. O Dieu, dont le propre est d’avoir toujours pitié et de pardonner, accueillez notre prière ; et que, par un effet de votre clémence et de votre bonté miséricordieuse, nous soyons délivrés des liens de nos péchés, nous et tous vos serviteurs.
+v. Nous vous demandons, Seigneur, d’exaucer nos suppliantes prières et de nous remettre nos péchés, dont nous vous faisons l’aveu ; en sorte que votre bonté nous accorde en même temps l’indulgence et la paix.
+v. Seigneur, faites paraître sur nous, en toute clémence, votre ineffable miséricorde ; et, nous délivrant de tous nos péchés, délivrez-nous aussi des peines qu’ils nous ont méritées.
+v. O Dieu, que les péchés offensent, et que la pénitence apaise : recevez en pitié les humbles prières de votre peuple suppliant, et détournez de nous les fléaux de votre colère, que nous méritons à cause de nos péchés.
+v. Dieu tout-puissant et éternel, ayez pitié de votre serviteur, notre Pontife N., et conduisez-le par votre bonté dans la voie du salut éternel, en lui faisant vouloir, par un don de votre grâce, tout ce qui vous est agréable, et le lui faisant accomplir de toutes ses forces.
+v. O Dieu, qui êtes la source des saints désirs, des bons desseins, et des actions justes, accordez à vos serviteurs cette paix que le monde ne peut donner, afin que nos cœurs s’attachent à vos commandements, et que, délivrés de la crainte des ennemis, nous ayons des jours tranquilles sous votre protection.
+v. Seigneur, brûlez nos reins et nos cœurs du feu de l’Esprit-Saint, pour que nous vous servions dans un corps chaste et que nous vous soyons agréables par la pureté de nos âmes.
+v. Seigneur, qui êtes le Créateur et le Rédempteur de tous les fidèles, accordez aux âmes de vos serviteurs et servantes la rémission de tous leurs péchés ; afin qu’elles obtiennent, par nos pieuses supplications, le pardon qu’elles ont toujours désiré.
+v. Nous vous prions, Seigneur, de prévenir toutes nos actions par votre inspiration, et de les conduire par votre grâce ; afin toutes nos prières et toutes nos œuvres aient en vous leur commencement et leur fin.
+v. Dieu tout-puissant et éternel, souverain Seigneur des vivants et des morts, qui faites miséricorde à tous ceux que vous connaissez devoir être du nombre de vos élus par leur foi et leurs bonnes œuvres, nous vous demandons en toute humilité que ceux pour qui nous vous adressons des prières, qu’ils soient encore retenus en ce monde par les liens de la chair, ou, que, déjà dépouillés de leurs corps, ils soient passés dans l’autre monde, obtiennent de votre clémence et de votre bonté, par l’intercession de tous vos Saints, la rémission de tous leurs péchés.
 $Per Dominum
 &Dominus_vobiscum
-V. Exáudiat nos omnípotens et miséricors Dóminus.
+V. Que le Seigneur tout-puissant et miséricordieux nous exauce.
 R. Amen.
 $Fidelium animae
 
